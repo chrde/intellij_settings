@@ -8,11 +8,11 @@
         <mark key="]" line="20" column="42" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/ProfileServiceTest.java" timestamp="1494325668218">
-        <mark key="[" line="347" column="45" />
-        <mark key="]" line="347" column="45" />
-        <mark key="." line="347" column="45" />
-        <mark key="^" line="345" column="46" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/ProfileServiceTest.java" timestamp="1494333767440">
+        <mark key="[" line="395" column="54" />
+        <mark key="]" line="395" column="54" />
+        <mark key="^" line="375" column="41" />
+        <mark key="." line="395" column="71" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/ProfileFacade.java" timestamp="1494325316985">
         <mark key="[" line="96" column="37" />
@@ -106,7 +106,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494332660783">
+      <file name="/Dummy.txt" timestamp="1494333034997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -145,11 +145,8 @@
         <mark key="^" line="164" column="81" />
         <mark key="." line="165" column="122" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/ProfileService.java" timestamp="1494325302304">
-        <mark key="[" line="195" column="32" />
-        <mark key="]" line="195" column="41" />
-        <mark key="." line="195" column="41" />
-        <mark key="^" line="195" column="41" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/ProfileService.java" timestamp="1494333574117">
+        <mark key="^" line="198" column="51" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/operations/RemoteActionsForNewDevicesListenerTest.java" timestamp="1492691523536">
         <mark key="[" line="62" column="0" />
@@ -327,8 +324,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxNaWNyb0Nvc21vc1JlbW90ZUFjdGlvbkJ1Y2tldE5hbWVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBjb21wYW55SW5oZXJpdHNEZWZhdWx0U2VydmVyUHJvZmlsZUZyb21Sb290KCkgewogICAgaW50IHJvb3RMb2NhbFByb2ZpbGVJZCA9IHN0b3JlUm9vdFByb2ZpbGUodGVzdFByb2ZpbGVEdG8oKS5idWlsZCgpLCBST09UX0FDQ09VTlRfSUQpOwogICAgaW50IGNvbXBhbnlMb2NhbFByb2ZpbGVJZCA9IHJlcG9zaXRvcnkuc3RvcmVQcm9maWxlKHJvb3RMb2NhbFByb2ZpbGVJZCwgdGVzdFByb2ZpbGVEdG8oKS5idWlsZCgpLCBDT01QQU5ZX0FDQ09VTlRfSUQpOwogICAgcmVwb3NpdG9yeS5zZXREZWZhdWx0U2VydmVyUHJvZmlsZShyb290TG9jYWxQcm9maWxlSWQsIFJPT1RfQUNDT1VOVF9JRCk7CiAgICByZXBvc2l0b3J5LnNldERlZmF1bHRXb3Jrc3RhdGlvblByb2ZpbGUoY29tcGFueUxvY2FsUHJvZmlsZUlkLCBDT01QQU5ZX0FDQ09VTlRfSUQpOyAvLyBub2lzZQoKICAgIE9wdGlvbmFsPEludGVnZXI+IGxvY2FsUHJvZmlsZUlkID0gcmVwb3NpdG9yeS5nZXREZWZhdWx0U2VydmVyTG9jYWxQcm9maWxlSWQoQ09NUEFOWV9BQ0NPVU5UX1BBVEgpOwoKICAgIGFzc2VydFRoYXQobG9jYWxQcm9maWxlSWQuZ2V0KCkpLmlzRXF1YWxUbyhyb290TG9jYWxQcm9maWxlSWQpOwog</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBnZXREZWZhdWx0U2VydmVyUHJvZmlsZSgpIHsKICAgIFN0cmluZyBub2RlUGF0aCA9ICIxLzIvMy8iOwogICAgbG9uZyBhY2NvdW50SWQgPSAzOwogICAgd2hlbih0cmVlUmVwb3NpdG9yeS5nZXROb2RlUGF0aChhY2NvdW50SWQpKS50aGVuUmV0dXJuKG5vZGVQYXRoKTsKICAgIHdoZW4obG9jYWxQcm9maWxlUmVwb3NpdG9yeS5nZXREZWZhdWx0U2VydmVyTG9jYWxQcm9maWxlSWQobm9kZVBhdGgpKS50aGVuUmV0dXJuKG9mKDEyMykpOwogICAgd2hlbihsb2NhbFByb2ZpbGVSZXBvc2l0b3J5LmZpbmRQcm9maWxlSWQoMTIzKSkudGhlblJldHVybihPcHRpb25hbC5vZigzMjFMKSk7CgogICAgT3B0aW9uYWw8TG9uZz4gcHJvZmlsZSA9IHByb2ZpbGVTZXJ2aWNlLmdldERlZmF1bHRTZXJ2ZXJQcm9maWxlKGFjY291bnRJZCk7CgogICAgYXNzZXJ0VGhhdChwcm9maWxlKS5jb250YWlucygzMjFMKTsKICB9CgogIEBUZXN0CiAgcHVibGljIHZvaWQgZG9lc05vdEdldERlZmF1bHRTZXJ2ZXJQcm9maWxlSWZMb2NhbFByb2ZpbGVEb2VzTm90SGF2ZUNvcnJlc3BvbmRpbmdJZEluUG9saWN5U2VydmljZSgpIHsKICAgIFN0cmluZyBub2RlUGF0aCA9ICIxLzIvMy8iOwogICAgbG9uZyBhY2NvdW50SWQgPSAzOwogICAgd2hlbih0cmVlUmVwb3NpdG9yeS5nZXROb2RlUGF0aChhY2NvdW50SWQpKS50aGVuUmV0dXJuKG5vZGVQYXRoKTsKICAgIHdoZW4obG9jYWxQcm9maWxlUmVwb3NpdG9yeS5nZXREZWZhdWx0U2VydmVyTG9jYWxQcm9maWxlSWQobm9kZVBhdGgpKS50aGVuUmV0dXJuKG9mKDY1NikpOwogICAgd2hlbihsb2NhbFByb2ZpbGVSZXBvc2l0b3J5LmZpbmRQcm9maWxlSWQoNjU2KSkudGhlblJldHVybihPcHRpb25hbC5lbXB0eSgpKTsKCiAgICBPcHRpb25hbDxMb25nPiBwcm9maWxlID0gcHJvZmlsZVNlcnZpY2UuZ2V0RGVmYXVsdFNlcnZlclByb2ZpbGUoYWNjb3VudElkKTsKCiAgICBhc3NlcnRUaGF0KHByb2ZpbGUpLmlzRW1wdHkoKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
