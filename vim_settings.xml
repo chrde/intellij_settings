@@ -94,8 +94,8 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="70" column="48" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1494332202820">
-        <mark key="'" line="2245" column="14" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1494332902526">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="5009" column="0" />
         <mark key="]" line="5010" column="19" />
         <mark key="^" line="5010" column="19" />
@@ -177,8 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="35" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/admin/api/SubscriptionChangeServiceTest.java" />
-      <jump line="78" column="9" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/admin/api/SubscriptionChangeServiceTest.java" />
       <jump line="81" column="40" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/admin/api/SubscriptionChangeServiceTest.java" />
       <jump line="183" column="11" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/admin/api/SubscriptionChangeServiceTest.java" />
       <jump line="190" column="11" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/admin/api/SubscriptionChangeServiceTest.java" />
@@ -277,6 +275,8 @@
       <jump line="82" column="6" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/su/SoftwareUpdateServiceImplTest.java" />
       <jump line="2245" column="14" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="167" column="28" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/profile/ProfilesController.java" />
+      <jump line="4745" column="19" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -372,7 +372,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>marks</text>
+        <text>set relativenumber</text>
       </register>
     </registers>
     <search>
@@ -405,8 +405,6 @@
         <entry encoding="base64">XDxNaWNyb0Nvc21vc1JlbW90ZUFjdGlvbkJ1Y2tldE5hbWVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>22</entry>
-        <entry>83</entry>
         <entry>95</entry>
         <entry>41</entry>
         <entry>110</entry>
@@ -425,6 +423,8 @@
         <entry>set nonumber</entry>
         <entry>set relative</entry>
         <entry>marks</entry>
+        <entry>set number</entry>
+        <entry>set relativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
