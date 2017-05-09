@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="template" type="AWSCloudFormation" />
+      <mapping pattern="Dockerfile-v" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="cf" type="PLAIN_TEXT" />
+      <mapping ext="t" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
