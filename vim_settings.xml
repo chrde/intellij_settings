@@ -8,10 +8,16 @@
         <mark key="]" line="20" column="42" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/ProfileFacade.java" timestamp="1494320461336">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/ProfileServiceTest.java" timestamp="1494325668218">
+        <mark key="[" line="347" column="45" />
+        <mark key="]" line="347" column="45" />
+        <mark key="." line="347" column="45" />
+        <mark key="^" line="345" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/ProfileFacade.java" timestamp="1494325316985">
+        <mark key="[" line="96" column="37" />
+        <mark key="]" line="96" column="37" />
+        <mark key="." line="96" column="46" />
         <mark key="^" line="83" column="39" />
       </file>
       <file name="/a.dummy" timestamp="1493898824422">
@@ -124,8 +130,11 @@
         <mark key="^" line="164" column="81" />
         <mark key="." line="165" column="122" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/ProfileService.java" timestamp="1494323491947">
-        <mark key="[" line="190" column="5" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/ProfileService.java" timestamp="1494325302304">
+        <mark key="[" line="195" column="32" />
+        <mark key="]" line="195" column="41" />
+        <mark key="." line="195" column="41" />
+        <mark key="^" line="195" column="41" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/operations/RemoteActionsForNewDevicesListenerTest.java" timestamp="1492691523536">
         <mark key="[" line="62" column="0" />
@@ -278,8 +287,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Server</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -298,13 +307,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5 || 7;</text>
+        <text>Server</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNaWNyb0Nvc21vc1JlbW90ZUFjdGlvbkJ1Y2tldE5hbWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCBsb2NhbFByb2ZpbGVJZCA9IGxvY2FsUHJvZmlsZVJlcG9zaXRvcnkuZ2V0TG9jYWxQcm9maWxlSWQocHJvZmlsZUlkKTsKICAgIGxvY2FsUHJvZmlsZVJlcG9zaXRvcnkuc2V0RGVmYXVsdFdvcmtzdGF0aW9uUHJvZmlsZShsb2NhbFByb2ZpbGVJZCwgYWNjb3VudElkKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHNldERlZmF1bHRTZXJ2ZXJQcm9maWxlKCkgewogICAgbG9uZyBwcm9maWxlSWQgPSAxMjU7CiAgICBpbnQgbG9jYWxQcm9maWxlSWQgPSAxMjQ7CiAgICBsb25nIGFjY291bnRJZCA9IDEyMzsKICAgIHdoZW4obG9jYWxQcm9maWxlUmVwb3NpdG9yeS5nZXRMb2NhbFByb2ZpbGVJZChwcm9maWxlSWQpKS50aGVuUmV0dXJuKGxvY2FsUHJvZmlsZUlkKTsKCiAgICBwcm9maWxlU2VydmljZS5zZXREZWZhdWx0U2VydmVyUHJvZmlsZShwcm9maWxlSWQsIGFjY291bnRJZCk7CgogICAgdmVyaWZ5KGxvY2FsUHJvZmlsZVJlcG9zaXRvcnkpLnNldERlZmF1bHRTZXJ2ZXJQcm9maWxlKGxvY2FsUHJvZmlsZUlkLCBhY2NvdW50SWQpOwogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
