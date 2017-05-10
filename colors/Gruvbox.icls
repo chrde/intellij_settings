@@ -1,7 +1,7 @@
 <scheme name="Gruvbox" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-05-10T09:16:41</property>
+    <property name="modified">2017-05-10T09:32:22</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="13" />
@@ -648,7 +648,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="b12dcb" />
+        <option name="FOREGROUND" value="a267c4" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
