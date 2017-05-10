@@ -1,7 +1,7 @@
 <scheme name="Gruvbox" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-05-10T09:32:22</property>
+    <property name="modified">2017-05-10T11:12:45</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="13" />
@@ -10,11 +10,12 @@
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="79740e" />
+    <option name="ADDED_LINES_COLOR" value="4a7935" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
+    <option name="DELETED_LINES_COLOR" value="9f4d3c" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -43,6 +44,7 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="665c54" />
     <option name="WHITESPACES" value="505050" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="988973" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
