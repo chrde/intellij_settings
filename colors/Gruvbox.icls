@@ -1,14 +1,14 @@
 <scheme name="Gruvbox" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-05-09T19:57:34</property>
+    <property name="modified">2017-05-10T08:21:57</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_NAME" value="Hack" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
@@ -644,6 +644,12 @@
         <option name="FOREGROUND" value="fabd2f" />
         <option name="EFFECT_COLOR" value="fabd2f" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b12dcb" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="KOTLIN_ANNOTATION">
