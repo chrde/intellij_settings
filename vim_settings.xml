@@ -8,16 +8,17 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/ProfileFacade.java" timestamp="1494414637524">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/ProfileFacade.java" timestamp="1494419676845">
         <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
+        <mark key="]" line="95" column="3" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" timestamp="1494419448497">
-        <mark key="[" line="90" column="45" />
-        <mark key="]" line="83" column="45" />
-        <mark key="^" line="83" column="45" />
-        <mark key="." line="90" column="45" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" timestamp="1494420501845">
+        <mark key="'" line="114" column="103" />
+        <mark key="[" line="115" column="11" />
+        <mark key="]" line="115" column="10" />
+        <mark key="^" line="115" column="10" />
+        <mark key="." line="115" column="10" />
       </file>
       <file name="/a.dummy" timestamp="1493898824422">
         <mark key="[" line="0" column="0" />
@@ -173,12 +174,19 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="70" column="48" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1494332902526">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5009" column="0" />
+        <mark key="]" line="5010" column="19" />
+        <mark key="^" line="5010" column="19" />
+        <mark key="." line="5010" column="19" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-http/src/main/java/com/fsecure/common/http/ProxyUtils.java" timestamp="1491805910621">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494418916766">
+      <file name="/Dummy.txt" timestamp="1494419795092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/profile_service.js" timestamp="1494400441894">
@@ -237,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="6" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/admin/api/order/SubscriptionOrderDto.java" />
       <jump line="30" column="70" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/subscription/admin/api/SubscriptionOrderResource.java" />
       <jump line="216" column="29" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/admin/api/SubscriptionChangeServiceTest.java" />
       <jump line="73" column="4" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/admin/api/change/SubscriptionChangeService.java" />
@@ -337,6 +344,7 @@
       <jump line="57" column="19" filename="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/mobile_profiles_tab/mobile_profiles_tab_content_controller.js" />
       <jump line="500" column="41" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/profile/ProfilesControllerTest.java" />
       <jump line="402" column="43" filename="$USER_HOME$/dev-sources/system-psb/stacks/storage.json" />
+      <jump line="113" column="103" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -363,7 +371,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>CosmosProfileResource</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -382,16 +390,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>CosmosProfileResource</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JQcm94eVB1YmxpY0lwXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>, value = &quot;/computer-profiles&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBAVHJhbnNhY3Rpb25hbChyZWFkT25seSA9IHRydWUpCiAgcHVibGljIE9wdGlvbmFsPExvbmc+IGdldERlZmF1bHRTZXJ2ZXJQcm9maWxlKGxvbmcgYWNjb3VudElkKSB7CiAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjE5My4xMTAuMTA4LjE5OSIsCg==</text>
+        <text encoding="base64">ICAgIFByb2ZpbGVEYXRhIHByb2ZpbGUgPSBwcm9maWxlRmFjYWRlLmdldFByb2ZpbGUoYWNjb3VudElkLCBjb3Ntb3NQcm9maWxlSWQpOwogICAgTG9jYWxlIGN1cnJlbnRMb2NhbGUgPSBMb2NhbGVIZWxwZXIuY3JlYXRlTG9jYWxlKFVzZXJDb250ZXh0LmdldENvbnRleHQoKS5nZXRVc2VyKCkuZ2V0QWRtaW5pc3RyYXRvclByb2ZpbGUoKS5nZXRQcmVmZXJyZWRMYW5ndWFnZSgpKTsKCiAgICBQcm9maWxlRGVzY3JpcHRpb24gcHJvZmlsZURlc2NyaXB0aW9uID0gcHJvZmlsZQogICAgICAgIC5nZXRQcm9maWxlRGVzY3JpcHRpb25XaXRoTG9jYWxlKGN1cnJlbnRMb2NhbGUpCiAgICAgICAgLm9yRWxzZShwcm9maWxlLmdldFByb2ZpbGVEZXNjcmlwdGlvbldpdGhMb2NhbGUoTG9jYWxlLkVOR0xJU0gpLm9yRWxzZShwcm9maWxlLmdldFByb2ZpbGVEZXNjcmlwdGlvbnNJbnRlcm5hbCgpLmdldCgwKSkpOwoKICAgIHJldHVybiBuZXcgQ29zbW9zUHJvZmlsZVJlc291cmNlKHByb2ZpbGVEZXNjcmlwdGlvbi5nZXROYW1lKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9maWxlLmdldENvc21vc0lkKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9maWxlLmdldEZpcmV3YWxsRW5naW5lRW5hYmxlZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvZmlsZS5nZXRGaXJld2FsbEFsbFRyYWZmaWNBbGxvd2VkKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9maWxlLmdldEFwcGxpY2F0aW9uQ29udHJvbEVuYWJsZWQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpbGUuZ2V0UmVhbFRpbWVTY2FubmluZ0VuYWJsZWQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpbGUuZ2V0U29mdHdhcmVVcGRhdGVzRW5naW5lRW5hYmxlZCgpKTsKICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -411,25 +419,25 @@
         <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjE5My4xMTAuMTA4LjE5OSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjQ2LjIyOC4xMzUuMjU0IiwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjE2Mi4yNDYuMTY0LjI0NCIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjQ2LjIyOC4xMzUuMjU0IiwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjEyMi4yMjAuMTYwLjI1NCIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjQ2LjIyOC4xMzUuMjU0IiwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjE5My4xMTAuMTA4LjE5OSIsCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjQ2LjIyOC4xMzUuMjU0IiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjE2Mi4yNDYuMTY0LjI0NCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjQ2LjIyOC4xMzUuMjU0IiwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjEyMi4yMjAuMTYwLjI1NCIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjQ2LjIyOC4xMzUuMjU0IiwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICJTaWQiOiAiSVBBbGxvdyIsCiAgICAgICAgICAgICAgIkVmZmVjdCI6ICJEZW55IiwKICAgICAgICAgICAgICAiUHJpbmNpcGFsIjogewogICAgICAgICAgICAgICAgIkFXUyI6ICIqIgogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgIkFjdGlvbiI6ICJzMzpQdXRPYmplY3QiLAogICAgICAgICAgICAgICJSZXNvdXJjZSI6IHsKICAgICAgICAgICAgICAgICJGbjo6Sm9pbiI6IFsKICAgICAgICAgICAgICAgICAgIiIsCiAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAiYXJuOmF3czpzMzo6OiIsCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgIkZuOjpKb2luIjogWwogICAgICAgICAgICAgICAgICAgICAgICAiLSIsCiAgICAgICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiRm46OkZpbmRJbk1hcCI6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlJlZ2lvbk1hcCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUmVmIjogIkFXUzo6UmVnaW9uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYnVja2V0TmFtZVByZWZpeCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJSZWYiOiAiTWljcm9Db3Ntb3NSZW1vdGVBY3Rpb25CdWNrZXROYW1lIgogICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgIkNvbmRpdGlvbiI6IHsKICAgICAgICAgICAgICAgICJOb3RJcEFkZHJlc3MiOiB7CiAgICAgICAgICAgICAgICAgICJhd3M6U291cmNlSXAiOiB7IlJlZiI6ICJQU0JQcm94eVB1YmxpY0lwIn0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjE5My4xMTAuMTA4LjE5OSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
