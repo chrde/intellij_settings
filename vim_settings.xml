@@ -13,6 +13,15 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" timestamp="1494419448497">
+        <mark key="[" line="90" column="45" />
+        <mark key="]" line="83" column="45" />
+        <mark key="^" line="83" column="45" />
+        <mark key="." line="90" column="45" />
+      </file>
+      <file name="/a.dummy" timestamp="1493898824422">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1494409972110">
         <mark key="[" line="32" column="17" />
         <mark key="]" line="32" column="20" />
@@ -94,6 +103,9 @@
         <mark key="]" line="23" column="64" />
         <mark key="." line="23" column="64" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/pom.xml" timestamp="1490568019654">
+        <mark key="[" line="1738" column="19" />
+      </file>
       <file name="$USER_HOME$/dev-sources/system-psb/configs/production/global-psb-prd.json" timestamp="1494417056193">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -103,6 +115,9 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-backend/lib/services/orsp_service.js" timestamp="1491378842701">
+        <mark key="[" line="37" column="5" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/ProfileServiceTest.java" timestamp="1494414876166">
         <mark key="[" line="37" column="0" />
@@ -139,7 +154,7 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="25" column="50" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-backend/lib/common/endpoints.js" timestamp="1494415911342" />
+      <file name="$USER_HOME$/dev-sources/management-platform-backend/lib/common/endpoints.js" timestamp="1494418209876" />
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/LocalProfileRepositoryTest.java" timestamp="1494332206370">
         <mark key="[" line="163" column="70" />
         <mark key="]" line="163" column="70" />
@@ -162,6 +177,9 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1494418916766">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/profile_service.js" timestamp="1494400441894">
         <mark key="[" line="85" column="64" />
@@ -345,7 +363,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>s</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -364,13 +382,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JQcm94eVB1YmxpY0lwXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBATW9jawogIHByaXZhdGUgUHJvZmlsZUZhY2FkZSBwcm9maWxlRmFjYWRlOwo=</text>
+      <register name="0" type="4">
+        <text>, value = &quot;/computer-profiles&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJQU0JQcm94eVB1YmxpY0lwIjogIjE5My4xMTAuMTA4LjE5OSIsCg==</text>
