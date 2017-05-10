@@ -20,9 +20,6 @@
         <mark key="^" line="110" column="51" />
         <mark key="." line="111" column="53" />
       </file>
-      <file name="/a.dummy" timestamp="1493898824422">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/profile/ProfilesController.java" timestamp="1494337525126">
         <mark key="a" line="178" column="34" />
         <mark key="'" line="167" column="28" />
@@ -82,7 +79,7 @@
         <mark key="]" line="2305" column="47" />
         <mark key="." line="2305" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_profiles_tab/tree.html" timestamp="1494397484046" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_profiles_tab/tree.html" timestamp="1494398678439" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/profile/ProfilesControllerTest.java" timestamp="1494320190494">
         <mark key="[" line="500" column="26" />
         <mark key="]" line="500" column="26" />
@@ -118,7 +115,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494397379874">
+      <file name="/Dummy.txt" timestamp="1494398853952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -128,6 +125,18 @@
         <mark key="]" line="235" column="53" />
         <mark key="." line="235" column="53" />
         <mark key="^" line="61" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/profile_service.js" timestamp="1494400441894">
+        <mark key="[" line="85" column="64" />
+        <mark key="]" line="85" column="64" />
+        <mark key="." line="85" column="64" />
+        <mark key="^" line="84" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1494400243791">
+        <mark key="[" line="42" column="6" />
+        <mark key="]" line="43" column="3" />
+        <mark key="^" line="43" column="3" />
+        <mark key="." line="43" column="3" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/su/SoftwareUpdateServiceImplDbTest.java" timestamp="1493977158136">
         <mark key="'" line="935" column="0" />
@@ -142,9 +151,6 @@
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/su/SoftwareUpdateServiceImplTest.java" timestamp="1493996000170">
         <mark key="'" line="82" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/psb/pom.xml" timestamp="1490568019654">
-        <mark key="[" line="1738" column="19" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb3/environment-reporting-service.json" timestamp="1493133704963">
         <mark key="[" line="85" column="35" />
@@ -165,13 +171,14 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-backend/lib/services/orsp_service.js" timestamp="1491378842701">
-        <mark key="[" line="37" column="5" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/rah/microcosmos/RemoteActionsPayloadSender.java" timestamp="1491306124337">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="47" column="29" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_profiles_tab/computer_profiles_tab_content_controller.js" timestamp="1494400230518">
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="198" column="6" />
       </file>
       <file name="/fragment.java" timestamp="1494323018502">
         <mark key="[" line="0" column="0" />
@@ -312,7 +319,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>createNewProfile</text>
+        <text>mobile</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -331,13 +338,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>createNewProfile</text>
+        <text>mobile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNaWNyb0Nvc21vc1JlbW90ZUFjdGlvbkJ1Y2tldE5hbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgInNldERlZmF1bHQiOiAiU2V0IGFzIGRlZmF1bHQgcHJvZmlsZSIsCg==</text>
+        <text encoding="base64">CiAgICBzZXREZWZhdWx0Rm9yTW9iaWxlczogZnVuY3Rpb24gKGFjdGl2ZUVudGl0eSwgcHJvZmlsZUlkKSB7CiAgICAgIHJldHVybiBhY3RpdmVFbnRpdHkuY3VzdG9tUFVUKHsnaWQnOiBwcm9maWxlSWR9LCAnZGVmYXVsdC1tb2JpbGUtcHJvZmlsZScpOwogICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBkb2VzTm90R2V0RGVmYXVsdENvbXB1dGVyUHJvdGVjdGlvblByb2ZpbGVJZkxvY2FsUHJvZmlsZURvZXNOb3RIYXZlQ29ycmVzcG9uZGluZ0lkSW5Qb2xpY3lTZXJ2aWNlKCkgewogICAgU3RyaW5nIG5vZGVQYXRoID0gIjEvMi8zLyI7CiAgICBsb25nIGFjY291bnRJZCA9IDM7CiAgICB3aGVuKHRyZWVSZXBvc2l0b3J5LmdldE5vZGVQYXRoKGFjY291bnRJZCkpLnRoZW5SZXR1cm4obm9kZVBhdGgpOwogICAgd2hlbihsb2NhbFByb2ZpbGVSZXBvc2l0b3J5LmdldERlZmF1bHRDb21wdXRlclByb3RlY3Rpb25Mb2NhbFByb2ZpbGVJZChub2RlUGF0aCkpLnRoZW5SZXR1cm4ob2YoNjU2KSk7CiAgICB3aGVuKGxvY2FsUHJvZmlsZVJlcG9zaXRvcnkuZmluZFByb2ZpbGVJZCg2NTYpKS50aGVuUmV0dXJuKE9wdGlvbmFsLmVtcHR5KCkpOwoKICAgIE9wdGlvbmFsPExvbmc+IHByb2ZpbGUgPSBwcm9maWxlU2VydmljZS5nZXREZWZhdWx0Q29tcHV0ZXJQcm90ZWN0aW9uUHJvZmlsZShhY2NvdW50SWQpOwoKICAgIGFzc2VydFRoYXQocHJvZmlsZSkuaXNFbXB0eSgpOwogIH0K</text>
