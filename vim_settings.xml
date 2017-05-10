@@ -51,11 +51,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" timestamp="1494403765653">
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="68" />
-        <mark key="." line="33" column="68" />
-        <mark key="^" line="33" column="68" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" timestamp="1494405111211">
+        <mark key="'" line="45" column="14" />
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="41" column="52" />
+        <mark key="." line="41" column="59" />
+        <mark key="^" line="20" column="39" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/LocalProfileRepositoryTest.java" timestamp="1494332206370">
         <mark key="[" line="163" column="70" />
@@ -74,6 +75,10 @@
         <mark key="]" line="12" column="3" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/mobile_profiles_tab/mobile_profiles_tab_content_controller.js" timestamp="1494405175115">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/dev-sources/system-psb/configs/staging/global-psb-stg.json" timestamp="1493364157898">
         <mark key="[" line="24" column="1" />
@@ -138,12 +143,12 @@
         <mark key="." line="85" column="64" />
         <mark key="^" line="84" column="34" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1494403485942">
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1494405210442">
         <mark key="'" line="4" column="66" />
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="34" />
-        <mark key="^" line="31" column="41" />
-        <mark key="." line="32" column="51" />
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="15" column="56" />
+        <mark key="^" line="15" column="56" />
+        <mark key="." line="15" column="56" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/dis/DisService.java" timestamp="1491570510149">
         <mark key="[" line="158" column="0" />
@@ -196,10 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="11" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/admin/api/SubscriptionChangeServiceTest.java" />
-      <jump line="190" column="11" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/admin/api/SubscriptionChangeServiceTest.java" />
-      <jump line="197" column="11" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/admin/api/SubscriptionChangeServiceTest.java" />
-      <jump line="0" column="15" filename="/Dummy.txt" />
       <jump line="110" column="22" filename="/SubscriptionOrderService.java" />
       <jump line="78" column="20" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/subscription/admin/api/SubscriptionChangeResource.java" />
       <jump line="5" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/admin/api/order/SubscriptionOrderDto.java" />
@@ -296,6 +297,10 @@
       <jump line="4745" column="19" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="4" column="66" filename="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" />
+      <jump line="20" column="32" filename="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" />
+      <jump line="30" column="13" filename="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" />
+      <jump line="41" column="52" filename="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" />
+      <jump line="45" column="14" filename="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -322,7 +327,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>readOnly</text>
+        <text>getMobileProfiles</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -341,13 +346,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>readOnly</text>
+        <text>getMobileProfiles</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1dGlsc1w+</text>
+        <text encoding="base64">XDxpdGVtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIG5nLWlmPSIhcHJvZmlsZS5yZWFkT25seSIK</text>
+        <text encoding="base64">ICAkc2NvcGUucHJvZmlsZXNEYXRhc291cmNlID0gZnVuY3Rpb24gKHBhZ2luYXRpb24pIHsKICAgIHJldHVybiBwcm9maWxlU2VydmljZS5nZXRNb2JpbGVQcm9maWxlcyhhY3RpdmVFbnRpdHksIHBhZ2luYXRpb24pCiAgICAgIC50aGVuKGZ1bmN0aW9uIChwcm9maWxlcykgewogICAgICAgICRzY29wZS5wcm9maWxlcyA9ICRzY29wZS5wcm9maWxlcy5jb25jYXQocHJvZmlsZXMpOwogICAgICAgIHJldHVybiBwcm9maWxlczsKICAgICAgfSkKICAgICAgLmNhdGNoKGZ1bmN0aW9uICgpIHsKICAgICAgICAkc2NvcGUuZXJyb3JNZXNzYWdlID0gdHJ1ZTsKICAgICAgfSk7CiAgfTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHVwZGF0ZVByb2ZpbGVFZGl0b3JTdGF0ZU9uNDA0KHJlc3BvbnNlKTsK</text>
@@ -395,9 +400,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1dGlsc1w+</last-search>
+      <last-search encoding="base64">XDxpdGVtc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1dGlsc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxpdGVtc1w+</last-pattern>
       <last-replace>Something</last-replace>
       <last-substitute>system_tab</last-substitute>
       <last-dir>1</last-dir>
@@ -423,6 +428,7 @@
         <entry>system_tab</entry>
         <entry encoding="base64">XDxNaWNyb0Nvc21vc1JlbW90ZUFjdGlvbkJ1Y2tldE5hbWVcPg==</entry>
         <entry encoding="base64">XDx1dGlsc1w+</entry>
+        <entry encoding="base64">XDxpdGVtc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
