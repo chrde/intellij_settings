@@ -62,6 +62,7 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="25" column="50" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-backend/lib/common/endpoints.js" timestamp="1494415911342" />
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/mobile_profiles_tab/mobile_profiles_tab_content_controller_test.js" timestamp="1494409599879">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="91" />
@@ -100,6 +101,7 @@
         <mark key="." line="2302" column="45" />
         <mark key="^" line="2302" column="45" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_profiles_tab/tree.html" timestamp="1494398678439" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/profile/ProfilesControllerTest.java" timestamp="1494415081576">
         <mark key="'" line="503" column="41" />
         <mark key="[" line="505" column="11" />
@@ -135,7 +137,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494415149588">
+      <file name="/Dummy.txt" timestamp="1494415769352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/profile/mobile/SetDefaultMobileProfileControllerTest.java" timestamp="1494411605357">
