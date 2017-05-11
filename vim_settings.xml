@@ -26,6 +26,10 @@
         <mark key="." line="105" column="94" />
         <mark key="^" line="104" column="88" />
       </file>
+      <file name="/MicrocosmosOperationsConfig.java" timestamp="1494498510410">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="21" column="2" />
+      </file>
       <file name="/a.dummy" timestamp="1494490811684">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,6 +145,11 @@
         <mark key="]" line="37" column="36" />
         <mark key="." line="361" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/MicrocosmosOperationsConfig.java" timestamp="1494498875278">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="13" />
+        <mark key="." line="47" column="13" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/MicrocosmosS3UploadUrlGetter.java" timestamp="1491893871459">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -151,10 +160,10 @@
         <mark key="]" line="137" column="26" />
         <mark key="." line="137" column="26" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/MicrocosmosClient.java" timestamp="1492688344657">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/MicrocosmosClient.java" timestamp="1494498639139">
+        <mark key="[" line="27" column="86" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/profile/DefaultProfileResource.java" timestamp="1494487395694">
         <mark key="[" line="23" column="39" />
@@ -195,10 +204,15 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494498281748">
+      <file name="/Dummy.txt" timestamp="1494498912542">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/RemoteActionsPayloadSender.java" timestamp="1494498770428">
+        <mark key="[" line="32" column="97" />
+        <mark key="]" line="32" column="97" />
+        <mark key="." line="32" column="97" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/profile_service.js" timestamp="1494400441894">
         <mark key="[" line="85" column="64" />
@@ -382,8 +396,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAUmVhZAo=</text>
+      <register name="&quot;" type="4">
+        <text>new RestTemplate();</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -402,13 +416,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ForLocale</text>
+        <text>new RestTemplate();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JQcm94eVB1YmxpY0lwXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFByb2ZpbGVEZXNjcmlwdGlvbiBkZXNjcmlwdGlvbiA9IHByb2ZpbGUKICAgICAgICAuZ2V0UHJvZmlsZURlc2NyaXB0aW9uV2l0aExvY2FsZShjdXJyZW50TG9jYWxlKQogICAgICAgIC5vckVsc2UocHJvZmlsZS5nZXRQcm9maWxlRGVzY3JpcHRpb25XaXRoTG9jYWxlKExvY2FsZS5FTkdMSVNIKS5vckVsc2UocHJvZmlsZS5nZXRQcm9maWxlRGVzY3JpcHRpb25zSW50ZXJuYWwoKS5nZXQoMCkpKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IEBCZWFuCiAgQFNjb3BlKFNDT1BFX1BST1RPVFlQRSkKICBwdWJsaWMgUmVzdE9wZXJhdGlvbnMgcmVzdE9wZXJhdGlvbnMoKSB7CiAgICByZXR1cm4gbmV3IFJlc3RUZW1wbGF0ZSgpOwogIH0=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBAUmVhZAo=</text>
