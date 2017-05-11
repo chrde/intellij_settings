@@ -204,7 +204,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494498912542">
+      <file name="/Dummy.txt" timestamp="1494499117287">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -214,10 +214,10 @@
         <mark key="]" line="32" column="97" />
         <mark key="." line="32" column="97" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/profile_service.js" timestamp="1494400441894">
-        <mark key="[" line="85" column="64" />
-        <mark key="]" line="85" column="64" />
-        <mark key="." line="85" column="64" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/profile_service.js" timestamp="1494499156055">
+        <mark key="[" line="85" column="65" />
+        <mark key="]" line="85" column="73" />
+        <mark key="." line="85" column="65" />
         <mark key="^" line="84" column="34" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb3/environment-reporting-service.json" timestamp="1493133704963">
@@ -397,7 +397,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>new RestTemplate();</text>
+        <text>default-</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -416,7 +416,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new RestTemplate();</text>
+        <text>default-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JQcm94eVB1YmxpY0lwXD4=</text>
