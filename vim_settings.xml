@@ -46,13 +46,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/endpoints/profiles_spec.js" timestamp="1494512187274">
-        <mark key="'" line="19" column="6" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="44" column="36" />
-        <mark key="." line="114" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/endpoints/profiles_spec.js" timestamp="1494513049387" />
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/mobile_profiles_tab/mobile_profiles_tab_content_controller_test.js" timestamp="1494409599879">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="91" />
@@ -74,11 +68,11 @@
         <mark key="^" line="94" column="70" />
         <mark key="." line="92" column="60" />
       </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/endpoints/profiles_endpoint.js" timestamp="1494512192376">
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
-        <mark key="^" line="168" column="19" />
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/endpoints/profiles_endpoint.js" timestamp="1494512990640">
+        <mark key="[" line="180" column="13" />
+        <mark key="]" line="180" column="13" />
+        <mark key="." line="180" column="13" />
+        <mark key="^" line="180" column="13" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1494407692123">
         <mark key="[" line="2302" column="39" />
@@ -147,6 +141,10 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
+      </file>
+      <file name="/profiles_endpoint.js" timestamp="1494512720717">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="42" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/operations/RemoteActionsForNewDevicesListenerTest.java" timestamp="1492691523536">
         <mark key="[" line="62" column="0" />
@@ -236,7 +234,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494512432042">
+      <file name="/Dummy.txt" timestamp="1494513058361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -439,8 +437,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvZmlsZUxpc3RSZXNwb25zZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -465,37 +463,37 @@
         <text encoding="base64">XDxwcm9maWxlTGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocHJvZmlsZUxpc3QuaXRlbXNbMF0uZGVmYXVsdCkudG9CZVRydXRoeSgpOwo=</text>
+        <text encoding="base64">ICAgIC50aGVuKChbZGVmYXVsdFByb2ZpbGUsIHNldHRpbmdzXSkgPT4gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvZmlsZUxpc3RSZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShwcm9maWxlTGlzdCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>j0w2f)x$hp0wdf.$hpx2F)p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ0hSREUgJyArIHAuZGVmYXVsdCk7Cg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gY29zbW9zQ2xpZW50Lmxpc3RTZXR0aW5ncyhyZXF1ZXN0LmF1dGhPYmoub3JnUGF0aCwgdHhIZWFkZXJzLCBwYWdpbmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQkVGT1JFICcgKyBKU09OLnN0cmluZ2lmeShwcm9maWxlTGlzdC5pdGVtcykpOwo=</text>
+        <text encoding="base64">ICAgIC50aGVuKGNvc21vc1Jlc3BvbnNlID0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvZmlsZUxpc3RSZXNwb25zZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ0hSREUgJyArIHAuZGVmYXVsdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnb3duZXJfaWQnOiAxMjM0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQkVGT1JFICcgKyBKU09OLnN0cmluZ2lmeShwcm9maWxlTGlzdC5pdGVtcykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0YTogewo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnb3duZXJfaWQnOiAxMjM0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
