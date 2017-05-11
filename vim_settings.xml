@@ -171,11 +171,11 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/clients/psb_client_spec.js" timestamp="1494502279507">
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/clients/psb_client_spec.js" timestamp="1494502381452">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="134" column="16" />
-        <mark key="]" line="134" column="24" />
-        <mark key="." line="134" column="24" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
         <mark key="^" line="134" column="24" />
       </file>
       <file name="$USER_HOME$/dev-sources/reporting-service/package.json" timestamp="1494501610978" />
@@ -195,7 +195,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494499302168">
+      <file name="/Dummy.txt" timestamp="1494502389772">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -391,7 +391,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1234</text>
+        <text>f</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -410,7 +410,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1234</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JQcm94eVB1YmxpY0lwXD4=</text>
