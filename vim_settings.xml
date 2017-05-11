@@ -153,6 +153,9 @@
         <mark key="]" line="37" column="36" />
         <mark key="." line="361" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/system-psb/stacks/network.json" timestamp="1494514828773">
+        <mark key="'" line="228" column="31" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/MicrocosmosS3UploadUrlGetter.java" timestamp="1491893871459">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -185,13 +188,6 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/clients/psb_client_spec.js" timestamp="1494502381452">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="134" column="24" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/ProfileModificationDto.java" timestamp="1494502750585">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="59" column="3" />
@@ -222,7 +218,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494513058361">
+      <file name="/Dummy.txt" timestamp="1494515266058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -300,12 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="32" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/admin/api/change/SubscriptionChangeService.java" />
-      <jump line="119" column="125" filename="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/subscriptionChangingPUTSpec.js" />
-      <jump line="13" column="14" filename="$USER_HOME$/dev-sources/management-platform-test-automation/demo.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev-sources/management-platform-test-automation/demo.js" />
-      <jump line="26" column="20" filename="$USER_HOME$/dev-sources/management-platform-test-automation/demo.js" />
-      <jump line="16" column="44" filename="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/subscriptionChangePUTSpec.js" />
       <jump line="92" column="6" filename="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/subscriptionChangePUTSpec.js" />
       <jump line="17" column="13" filename="$USER_HOME$/github/rust101/src/part00.rs" />
       <jump line="15" column="0" filename="$USER_HOME$/github/rust101/src/part00.rs" />
@@ -400,6 +390,12 @@
       <jump line="446" column="11" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/profile/ProfileData.java" />
       <jump line="106" column="18" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/profile/ProfileData.java" />
       <jump line="19" column="6" filename="$USER_HOME$/dev-sources/micro-cosmos/spec/endpoints/profiles_spec.js" />
+      <jump line="314" column="63" filename="$USER_HOME$/dev-sources/system-psb/stacks/network.json" />
+      <jump line="327" column="41" filename="$USER_HOME$/dev-sources/system-psb/stacks/network.json" />
+      <jump line="240" column="32" filename="$USER_HOME$/dev-sources/system-psb/stacks/network.json" />
+      <jump line="223" column="5" filename="$USER_HOME$/dev-sources/system-psb/stacks/network.json" />
+      <jump line="328" column="41" filename="$USER_HOME$/dev-sources/system-psb/stacks/network.json" />
+      <jump line="228" column="31" filename="$USER_HOME$/dev-sources/system-psb/stacks/network.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -448,7 +444,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9maWxlTGlzdFw+</text>
+        <text encoding="base64">XDxQU0JQdWJsaWMxQ0lEUlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC50aGVuKChbZGVmYXVsdFByb2ZpbGUsIHNldHRpbmdzXSkgPT4gewo=</text>
@@ -488,9 +484,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9maWxlTGlzdFw+</last-search>
+      <last-search encoding="base64">XDxQU0JQdWJsaWMxQ0lEUlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9maWxlTGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxQU0JQdWJsaWMxQ0lEUlw+</last-pattern>
       <last-replace>Something</last-replace>
       <last-substitute>system_tab</last-substitute>
       <last-dir>1</last-dir>
@@ -498,8 +494,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subscriptionDao</entry>
-        <entry encoding="base64">XDxzdWJzY3JpcHRpb25WYWxpZGl0eVBlcmlvZFRvVmFsaWRpdHlQZXJpb2RcPg==</entry>
         <entry>ChangeDto</entry>
         <entry>SubscriptionProductType</entry>
         <entry>ChangeResource</entry>
@@ -518,6 +512,8 @@
         <entry encoding="base64">XDxQU0JQcm94eVB1YmxpY0lwXD4=</entry>
         <entry encoding="base64">XDxmaXJld2FsbEVuZ2luZUVuYWJsZWRcPg==</entry>
         <entry encoding="base64">XDxwcm9maWxlTGlzdFw+</entry>
+        <entry encoding="base64">XDxQdWJsaWNTdWJuZXQxXD4=</entry>
+        <entry encoding="base64">XDxQU0JQdWJsaWMxQ0lEUlw+</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
