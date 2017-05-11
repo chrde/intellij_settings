@@ -13,11 +13,12 @@
         <mark key="]" line="95" column="3" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" timestamp="1494488779610">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" timestamp="1494489100269">
         <mark key="'" line="114" column="103" />
-        <mark key="[" line="112" column="52" />
-        <mark key="]" line="112" column="52" />
-        <mark key="." line="112" column="52" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="107" column="81" />
+        <mark key="." line="95" column="18" />
+        <mark key="^" line="95" column="18" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1494409972110">
         <mark key="[" line="32" column="17" />
@@ -29,6 +30,10 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/mobile_profiles_tab/mobile_profiles_tab_content_controller_test.js" timestamp="1494409599879">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="91" />
       </file>
       <file name="$USER_HOME$/dev-sources/system-psb/stacks/storage.json" timestamp="1494416987857">
         <mark key="[" line="361" column="0" />
@@ -65,11 +70,11 @@
         <mark key="]" line="42" column="35" />
         <mark key="." line="42" column="35" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileFacade.java" timestamp="1494488921363">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="^" line="23" column="13" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileFacade.java" timestamp="1494489214833">
+        <mark key="[" line="69" column="22" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
+        <mark key="^" line="69" column="24" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/internal/CosmosProfilesControllerTest.java" timestamp="1494488342002">
         <mark key="[" line="284" column="0" />
@@ -150,11 +155,21 @@
         <mark key="^" line="25" column="50" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-backend/lib/common/endpoints.js" timestamp="1494418209876" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileDto.java" timestamp="1494490018496">
+        <mark key="[" line="77" column="67" />
+        <mark key="]" line="77" column="169" />
+        <mark key="^" line="77" column="169" />
+        <mark key="." line="77" column="169" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/LocalProfileRepositoryTest.java" timestamp="1494332206370">
         <mark key="[" line="163" column="70" />
         <mark key="]" line="163" column="70" />
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/ProfileModificationDto.java" timestamp="1494490032201">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="59" column="3" />
       </file>
       <file name="$USER_HOME$/dev-sources/system-psb/configs/staging/global-psb-stg.json" timestamp="1494417702046">
         <mark key="[" line="24" column="0" />
@@ -173,7 +188,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494488355834">
+      <file name="/Dummy.txt" timestamp="1494489398035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -221,7 +236,7 @@
         <mark key="^" line="3" column="141" />
         <mark key="." line="3" column="141" />
       </file>
-      <file name="/fragment.java" timestamp="1494323018502">
+      <file name="/fragment.java" timestamp="1494489222693">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -359,8 +374,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QAo=</text>
+      <register name="&quot;" type="4">
+        <text>accountId</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -379,54 +394,79 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isOk</text>
+        <text>accountId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JQcm94eVB1YmxpY0lwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHNob3VsZEdldENvbXB1dGVyRGVmYXVsdFByb2ZpbGUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIGxvbmcgcHJvZmlsZUlkID0gMTIzOwogICAgd2hlbihwcm9maWxlRmFjYWRlLmdldERlZmF1bHRDb21wdXRlclByb3RlY3Rpb25Qcm9maWxlKGVxKDFMKSkpLnRoZW5SZXR1cm4ob2YocHJvZmlsZUlkKSk7CiAgICBtb2NrTXZjLnBlcmZvcm0oZ2V0KERFRkFVTFRfUFJPRklMRSkpCiAgICAgICAgLmFuZEV4cGVjdChzdGF0dXMoKS5pc09rKCkpCiAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiJC5pZCIsIGlzKDEyMykpKTsKCiAgICB2ZXJpZnkocHJvZmlsZUZhY2FkZSkuZ2V0RGVmYXVsdENvbXB1dGVyUHJvdGVjdGlvblByb2ZpbGUoMSk7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICBPYmplY3RzLmVxdWFscyhmaXJld2FsbEFsbFRyYWZmaWNBbGxvd2VkLCB0aGF0LmZpcmV3YWxsQWxsVHJhZmZpY0FsbG93ZWQpICYmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgICAgICAgICBPYmplY3RzLmVxdWFscyhhcHBsaWNhdGlvbkNvbnRyb2xFbmFibGVkLCB0aGF0LmFwcGxpY2F0aW9uQ29udHJvbEVuYWJsZWQpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="123" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="125" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="66" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBzaG91bGRGYWlsV2hlbk5vQ29tcHV0ZXJQcm9maWxlRm91bmQoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIGxvbmcgcHJvZmlsZUlkID0gMTIzOwogICAgd2hlbihwcm9maWxlRmFjYWRlLmdldERlZmF1bHRDb21wdXRlclByb3RlY3Rpb25Qcm9maWxlKGVxKDFMKSkpLnRoZW5SZXR1cm4oZW1wdHkoKSk7CiAgICBtb2NrTXZjLnBlcmZvcm0oZ2V0KERFRkFVTFRfUFJPRklMRSkpCiAgICAgICAgLmFuZEV4cGVjdChzdGF0dXMoKS5pc05vKCkpCiAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiJC5pZCIsIGlzKDEyMykpKTsKCiAgICB2ZXJpZnkocHJvZmlsZUZhY2FkZSkuZ2V0RGVmYXVsdENvbXB1dGVyUHJvdGVjdGlvblByb2ZpbGUoMSk7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICBPYmplY3RzLmVxdWFscyhmaXJld2FsbEVuZ2luZUVuYWJsZWQsIHRoYXQuZmlyZXdhbGxFbmdpbmVFbmFibGVkKSAmJgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvbmcgY29tcGFueUlkID0gNDQ0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmNvbnRlbnQoIntcImlkXCIgOiAxMjN9IikpCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLnV0aWwuT2JqZWN0cy4qOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmNvbnRlbnRUeXBlKEFQUExJQ0FUSU9OX0pTT04pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLnV0aWwuT2JqZWN0cy4qOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuYWNjb3VudElkKGNvbXBhbnlJZCkK</text>
+        <text encoding="base64">ICBwdWJsaWMgSW50ZWdlciBnZXRDb3Ntb3NJZCgpIHsKICAgIHJldHVybiBjb3Ntb3NJZDsKICB9CgogIHB1YmxpYyBCb29sZWFuIGdldEZpcmV3YWxsRW5naW5lRW5hYmxlZCgpIHsKICAgIHJldHVybiBmaXJld2FsbEVuZ2luZUVuYWJsZWQ7CiAgfQoKICBwdWJsaWMgQm9vbGVhbiBnZXRGaXJld2FsbEFsbFRyYWZmaWNBbGxvd2VkKCkgewogICAgcmV0dXJuIGZpcmV3YWxsQWxsVHJhZmZpY0FsbG93ZWQ7CiAgfQoKICBwdWJsaWMgQm9vbGVhbiBnZXRBcHBsaWNhdGlvbkNvbnRyb2xFbmFibGVkKCkgewogICAgcmV0dXJuIGFwcGxpY2F0aW9uQ29udHJvbEVuYWJsZWQ7CiAgfQoKICBwdWJsaWMgQm9vbGVhbiBnZXRSZWFsVGltZVNjYW5uaW5nRW5hYmxlZCgpIHsKICAgIHJldHVybiByZWFsVGltZVNjYW5uaW5nRW5hYmxlZDsKICB9CgogIHB1YmxpYyBCb29sZWFuIGdldFNvZnR3YXJlVXBkYXRlc0VuZ2luZUVuYWJsZWQoKSB7CiAgICByZXR1cm4gc29mdHdhcmVVcGRhdGVzRW5naW5lRW5hYmxlZDsKICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAucHJvZmlsZUlkKHByb2ZpbGVJZCkK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZXh0LWRlbGFjaCBvbiAxMS8wNS8yMDE3LgogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByb2ZpbGVNb2RpZmljYXRpb25EdG8gcHJvZmlsZU1vZGlmaWNhdGlvbkR0byA9IHByb2ZpbGVNb2RpZmljYXRpb25EdG8oKQo=</text>
+        <text encoding="base64">ICAgIExvY2FsZSBjdXJyZW50TG9jYWxlID0gTG9jYWxlSGVscGVyLmNyZWF0ZUxvY2FsZShVc2VyQ29udGV4dC5nZXRDb250ZXh0KCkuZ2V0VXNlcigpLmdldEFkbWluaXN0cmF0b3JQcm9maWxlKCkuZ2V0UHJlZmVycmVkTGFuZ3VhZ2UoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
