@@ -13,12 +13,15 @@
         <mark key="]" line="95" column="3" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" timestamp="1494489100269">
-        <mark key="'" line="114" column="103" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="107" column="81" />
-        <mark key="." line="95" column="18" />
-        <mark key="^" line="95" column="18" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" timestamp="1494491172838">
+        <mark key="'" line="101" column="103" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="91" column="88" />
+      </file>
+      <file name="/a.dummy" timestamp="1494490811684">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1494409972110">
         <mark key="[" line="32" column="17" />
@@ -46,6 +49,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfileResource.java" timestamp="1494490670444">
+        <mark key="[" line="92" column="60" />
+        <mark key="]" line="92" column="60" />
+        <mark key="^" line="94" column="70" />
+        <mark key="." line="92" column="60" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1494407692123">
         <mark key="[" line="2302" column="39" />
         <mark key="]" line="2302" column="45" />
@@ -70,17 +79,17 @@
         <mark key="]" line="42" column="35" />
         <mark key="." line="42" column="35" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileFacade.java" timestamp="1494489214833">
-        <mark key="[" line="69" column="22" />
-        <mark key="]" line="69" column="24" />
-        <mark key="." line="69" column="24" />
-        <mark key="^" line="69" column="24" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileFacade.java" timestamp="1494491387551">
+        <mark key="[" line="78" column="54" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="78" column="10" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/internal/CosmosProfilesControllerTest.java" timestamp="1494488342002">
-        <mark key="[" line="284" column="0" />
-        <mark key="]" line="284" column="0" />
-        <mark key="^" line="285" column="6" />
-        <mark key="." line="284" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/internal/CosmosProfilesControllerTest.java" timestamp="1494491440735">
+        <mark key="[" line="237" column="56" />
+        <mark key="]" line="237" column="55" />
+        <mark key="^" line="237" column="55" />
+        <mark key="." line="237" column="55" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1494414385287">
         <mark key="[" line="61" column="38" />
@@ -111,6 +120,9 @@
         <mark key="]" line="23" column="64" />
         <mark key="." line="23" column="64" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/pom.xml" timestamp="1490568019654">
+        <mark key="[" line="1738" column="19" />
+      </file>
       <file name="$USER_HOME$/dev-sources/system-psb/configs/production/global-psb-prd.json" timestamp="1494417056193">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -120,6 +132,9 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-backend/lib/services/orsp_service.js" timestamp="1491378842701">
+        <mark key="[" line="37" column="5" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/ProfileServiceTest.java" timestamp="1494414876166">
         <mark key="[" line="37" column="0" />
@@ -155,11 +170,11 @@
         <mark key="^" line="25" column="50" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-backend/lib/common/endpoints.js" timestamp="1494418209876" />
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileDto.java" timestamp="1494490018496">
-        <mark key="[" line="77" column="67" />
-        <mark key="]" line="77" column="169" />
-        <mark key="^" line="77" column="169" />
-        <mark key="." line="77" column="169" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileDto.java" timestamp="1494491375877">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="136" column="49" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/LocalProfileRepositoryTest.java" timestamp="1494332206370">
         <mark key="[" line="163" column="70" />
@@ -374,8 +389,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>accountId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAubmFtZShwcm9maWxlRGVzY3JpcHRpb24uZ2V0TmFtZSgpKQogICAgICAgIC5jb3Ntb3NJZChwcm9maWxlLmdldENvc21vc0lkKCkpCiAgICAgICAgLmZpcmV3YWxsQWxsVHJhZmZpY0FsbG93ZWQocHJvZmlsZS5nZXRGaXJld2FsbEFsbFRyYWZmaWNBbGxvd2VkKCkpCiAgICAgICAgLmZpcmV3YWxsRW5naW5lRW5hYmxlZChwcm9maWxlLmdldEZpcmV3YWxsRW5naW5lRW5hYmxlZCgpKQogICAgICAgIC5hcHBsaWNhdGlvbkNvbnRyb2xFbmFibGVkKHByb2ZpbGUuZ2V0QXBwbGljYXRpb25Db250cm9sRW5hYmxlZCgpKQogICAgICAgIC5yZWFsVGltZVNjYW5uaW5nRW5hYmxlZChwcm9maWxlLmdldFJlYWxUaW1lU2Nhbm5pbmdFbmFibGVkKCkpCiAgICAgICAgLnNvZnR3YXJlVXBkYXRlc0VuZ2luZUVuYWJsZWQocHJvZmlsZS5nZXRTb2Z0d2FyZVVwZGF0ZXNFbmdpbmVFbmFibGVkKCkpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -394,16 +409,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>accountId</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JQcm94eVB1YmxpY0lwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICBPYmplY3RzLmVxdWFscyhmaXJld2FsbEFsbFRyYWZmaWNBbGxvd2VkLCB0aGF0LmZpcmV3YWxsQWxsVHJhZmZpY0FsbG93ZWQpICYmCg==</text>
+        <text encoding="base64">ICAgICAgICAubmFtZShwcm9maWxlRGVzY3JpcHRpb24uZ2V0TmFtZSgpKQogICAgICAgIC5jb3Ntb3NJZChwcm9maWxlLmdldENvc21vc0lkKCkpCiAgICAgICAgLmZpcmV3YWxsQWxsVHJhZmZpY0FsbG93ZWQocHJvZmlsZS5nZXRGaXJld2FsbEFsbFRyYWZmaWNBbGxvd2VkKCkpCiAgICAgICAgLmZpcmV3YWxsRW5naW5lRW5hYmxlZChwcm9maWxlLmdldEZpcmV3YWxsRW5naW5lRW5hYmxlZCgpKQogICAgICAgIC5hcHBsaWNhdGlvbkNvbnRyb2xFbmFibGVkKHByb2ZpbGUuZ2V0QXBwbGljYXRpb25Db250cm9sRW5hYmxlZCgpKQogICAgICAgIC5yZWFsVGltZVNjYW5uaW5nRW5hYmxlZChwcm9maWxlLmdldFJlYWxUaW1lU2Nhbm5pbmdFbmFibGVkKCkpCiAgICAgICAgLnNvZnR3YXJlVXBkYXRlc0VuZ2luZUVuYWJsZWQocHJvZmlsZS5nZXRTb2Z0d2FyZVVwZGF0ZXNFbmdpbmVFbmFibGVkKCkpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBPYmplY3RzLmVxdWFscyhhcHBsaWNhdGlvbkNvbnRyb2xFbmFibGVkLCB0aGF0LmFwcGxpY2F0aW9uQ29udHJvbEVuYWJsZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAubmFtZShwcm9maWxlRGVzY3JpcHRpb24uZ2V0TmFtZSgpKQogICAgICAgIC5jb3Ntb3NJZChwcm9maWxlLmdldENvc21vc0lkKCkpCiAgICAgICAgLmZpcmV3YWxsQWxsVHJhZmZpY0FsbG93ZWQocHJvZmlsZS5nZXRGaXJld2FsbEFsbFRyYWZmaWNBbGxvd2VkKCkpCiAgICAgICAgLmZpcmV3YWxsRW5naW5lRW5hYmxlZChwcm9maWxlLmdldEZpcmV3YWxsRW5naW5lRW5hYmxlZCgpKQogICAgICAgIC5hcHBsaWNhdGlvbkNvbnRyb2xFbmFibGVkKHByb2ZpbGUuZ2V0QXBwbGljYXRpb25Db250cm9sRW5hYmxlZCgpKQogICAgICAgIC5yZWFsVGltZVNjYW5uaW5nRW5hYmxlZChwcm9maWxlLmdldFJlYWxUaW1lU2Nhbm5pbmdFbmFibGVkKCkpCiAgICAgICAgLnNvZnR3YXJlVXBkYXRlc0VuZ2luZUVuYWJsZWQocHJvZmlsZS5nZXRTb2Z0d2FyZVVwZGF0ZXNFbmdpbmVFbmFibGVkKCkpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -445,28 +460,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBPYmplY3RzLmVxdWFscyhmaXJld2FsbEVuZ2luZUVuYWJsZWQsIHRoYXQuZmlyZXdhbGxFbmdpbmVFbmFibGVkKSAmJgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQnVpbGRlciBjb3Ntb3NQcm9maWxlRHRvKCkgeyByZXR1cm4gbmV3IEJ1aWxkZXIoKTsgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLnV0aWwuT2JqZWN0cy4qOwo=</text>
+        <text encoding="base64">ICBAUmVzcG9uc2VTdGF0dXMoSHR0cFN0YXR1cy5PSykK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>(&quot;profileId&quot;)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLnV0aWwuT2JqZWN0cy4qOwo=</text>
+      <register name="6" type="4">
+        <text>(&quot;accountId&quot;)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgSW50ZWdlciBnZXRDb3Ntb3NJZCgpIHsKICAgIHJldHVybiBjb3Ntb3NJZDsKICB9CgogIHB1YmxpYyBCb29sZWFuIGdldEZpcmV3YWxsRW5naW5lRW5hYmxlZCgpIHsKICAgIHJldHVybiBmaXJld2FsbEVuZ2luZUVuYWJsZWQ7CiAgfQoKICBwdWJsaWMgQm9vbGVhbiBnZXRGaXJld2FsbEFsbFRyYWZmaWNBbGxvd2VkKCkgewogICAgcmV0dXJuIGZpcmV3YWxsQWxsVHJhZmZpY0FsbG93ZWQ7CiAgfQoKICBwdWJsaWMgQm9vbGVhbiBnZXRBcHBsaWNhdGlvbkNvbnRyb2xFbmFibGVkKCkgewogICAgcmV0dXJuIGFwcGxpY2F0aW9uQ29udHJvbEVuYWJsZWQ7CiAgfQoKICBwdWJsaWMgQm9vbGVhbiBnZXRSZWFsVGltZVNjYW5uaW5nRW5hYmxlZCgpIHsKICAgIHJldHVybiByZWFsVGltZVNjYW5uaW5nRW5hYmxlZDsKICB9CgogIHB1YmxpYyBCb29sZWFuIGdldFNvZnR3YXJlVXBkYXRlc0VuZ2luZUVuYWJsZWQoKSB7CiAgICByZXR1cm4gc29mdHdhcmVVcGRhdGVzRW5naW5lRW5hYmxlZDsKICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZXh0LWRlbGFjaCBvbiAxMS8wNS8yMDE3LgogKi8K</text>
+        <text encoding="base64">Ly8gICAgUHJvZmlsZURlc2NyaXB0aW9uIHByb2ZpbGVEZXNjcmlwdGlvbiA9IHByb2ZpbGUKLy8gICAgICAgIC5nZXRQcm9maWxlRGVzY3JpcHRpb25XaXRoTG9jYWxlKGN1cnJlbnRMb2NhbGUpCi8vICAgICAgICAub3JFbHNlKHByb2ZpbGUuZ2V0UHJvZmlsZURlc2NyaXB0aW9uV2l0aExvY2FsZShMb2NhbGUuRU5HTElTSCkub3JFbHNlKHByb2ZpbGUuZ2V0UHJvZmlsZURlc2NyaXB0aW9uc0ludGVybmFsKCkuZ2V0KDApKSk7Ci8vCi8vICAgIHJldHVybiBuZXcgQ29zbW9zUHJvZmlsZVJlc291cmNlKHByb2ZpbGVEZXNjcmlwdGlvbi5nZXROYW1lKCksCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpbGUuZ2V0Q29zbW9zSWQoKSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvZmlsZS5nZXRGaXJld2FsbEVuZ2luZUVuYWJsZWQoKSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvZmlsZS5nZXRGaXJld2FsbEFsbFRyYWZmaWNBbGxvd2VkKCksCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpbGUuZ2V0QXBwbGljYXRpb25Db250cm9sRW5hYmxlZCgpLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9maWxlLmdldFJlYWxUaW1lU2Nhbm5pbmdFbmFibGVkKCksCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpbGUuZ2V0U29mdHdhcmVVcGRhdGVzRW5naW5lRW5hYmxlZCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExvY2FsZSBjdXJyZW50TG9jYWxlID0gTG9jYWxlSGVscGVyLmNyZWF0ZUxvY2FsZShVc2VyQ29udGV4dC5nZXRDb250ZXh0KCkuZ2V0VXNlcigpLmdldEFkbWluaXN0cmF0b3JQcm9maWxlKCkuZ2V0UHJlZmVycmVkTGFuZ3VhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAucHJvZmlsZURlc2NyaXB0aW9uLmdldE5hbWUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpbGUuZ2V0Q29zbW9zSWQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpbGUuZ2V0RmlyZXdhbGxFbmdpbmVFbmFibGVkKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9maWxlLmdldEZpcmV3YWxsQWxsVHJhZmZpY0FsbG93ZWQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpbGUuZ2V0QXBwbGljYXRpb25Db250cm9sRW5hYmxlZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvZmlsZS5nZXRSZWFsVGltZVNjYW5uaW5nRW5hYmxlZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvZmlsZS5nZXRTb2Z0d2FyZVVwZGF0ZXNFbmdpbmVFbmFibGVkKCkpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
