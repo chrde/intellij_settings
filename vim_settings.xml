@@ -46,6 +46,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/endpoints/profiles_spec.js" timestamp="1494512187274">
+        <mark key="'" line="19" column="6" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="44" column="36" />
+        <mark key="." line="114" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/mobile_profiles_tab/mobile_profiles_tab_content_controller_test.js" timestamp="1494409599879">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="91" />
@@ -67,11 +74,11 @@
         <mark key="^" line="94" column="70" />
         <mark key="." line="92" column="60" />
       </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/endpoints/profiles_endpoint.js" timestamp="1494509783929">
-        <mark key="[" line="159" column="72" />
-        <mark key="]" line="159" column="72" />
-        <mark key="." line="159" column="79" />
-        <mark key="^" line="158" column="35" />
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/endpoints/profiles_endpoint.js" timestamp="1494512192376">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
+        <mark key="^" line="168" column="19" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1494407692123">
         <mark key="[" line="2302" column="39" />
@@ -210,7 +217,7 @@
         <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/dev-sources/reporting-service/package.json" timestamp="1494501610978" />
-      <file name="/JavaScript Console" timestamp="1494509790311">
+      <file name="/JavaScript Console" timestamp="1494511589343">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/system-psb/configs/staging/global-psb-stg.json" timestamp="1494417702046">
@@ -229,7 +236,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494510674767">
+      <file name="/Dummy.txt" timestamp="1494512255374">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -307,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="22" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/admin/api/change/SubscriptionChangeService.java" />
       <jump line="38" column="32" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/admin/api/change/SubscriptionChangeService.java" />
       <jump line="119" column="125" filename="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/subscriptionChangingPUTSpec.js" />
       <jump line="13" column="14" filename="$USER_HOME$/dev-sources/management-platform-test-automation/demo.js" />
@@ -407,6 +413,7 @@
       <jump line="58" column="0" filename="$USER_HOME$/dev-sources/micro-cosmos/spec/clients/psb_client_spec.js" />
       <jump line="446" column="11" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/profile/ProfileData.java" />
       <jump line="106" column="18" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/profile/ProfileData.java" />
+      <jump line="19" column="6" filename="$USER_HOME$/dev-sources/micro-cosmos/spec/endpoints/profiles_spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -432,8 +439,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvZmlsZUxpc3RSZXNwb25zZSk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -452,52 +459,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaXJld2FsbEVuZ2luZUVuYWJsZWRcPg==</text>
+        <text encoding="base64">XDxwcm9maWxlTGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJtaWNyb0Nvc21vc0FwaUJhc2VVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDozMDAwL2FwaS92MSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocHJvZmlsZUxpc3QuaXRlbXNbMF0uZGVmYXVsdCkudG9CZVRydXRoeSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvZmlsZUxpc3RSZXNwb25zZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j0w2f)x$hp0wdf.$hpx2F)p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNvdXJjZTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ0hSREUgJyArIHAuZGVmYXVsdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlLmlkID0gaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQkVGT1JFICcgKyBKU09OLnN0cmluZ2lmeShwcm9maWxlTGlzdC5pdGVtcykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERlZmF1bHRQcm9maWxlUmVzb3VyY2UgcmVzb3VyY2UgPSBuZXcgRGVmYXVsdFByb2ZpbGVSZXNvdXJjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIERlZmF1bHRQcm9maWxlUmVzb3VyY2UgZnJvbShsb25nIGlkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnb3duZXJfaWQnOiAxMjM0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0YTogewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogewo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaXJld2FsbEVuZ2luZUVuYWJsZWRcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9maWxlTGlzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaXJld2FsbEVuZ2luZUVuYWJsZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9maWxlTGlzdFw+</last-pattern>
       <last-replace>Something</last-replace>
       <last-substitute>system_tab</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Order</entry>
         <entry>subscriptionDao</entry>
         <entry encoding="base64">XDxzdWJzY3JpcHRpb25WYWxpZGl0eVBlcmlvZFRvVmFsaWRpdHlQZXJpb2RcPg==</entry>
         <entry>ChangeDto</entry>
@@ -525,6 +531,7 @@
         <entry encoding="base64">XDxyZW1vdmVEaXNhYmxlZFw+</entry>
         <entry encoding="base64">XDxQU0JQcm94eVB1YmxpY0lwXD4=</entry>
         <entry encoding="base64">XDxmaXJld2FsbEVuZ2luZUVuYWJsZWRcPg==</entry>
+        <entry encoding="base64">XDxwcm9maWxlTGlzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
