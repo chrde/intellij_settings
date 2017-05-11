@@ -68,12 +68,6 @@
         <mark key="^" line="94" column="70" />
         <mark key="." line="92" column="60" />
       </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/endpoints/profiles_endpoint.js" timestamp="1494512990640">
-        <mark key="[" line="180" column="13" />
-        <mark key="]" line="180" column="13" />
-        <mark key="." line="180" column="13" />
-        <mark key="^" line="180" column="13" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1494407692123">
         <mark key="[" line="2302" column="39" />
         <mark key="]" line="2302" column="45" />
@@ -197,12 +191,6 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
         <mark key="^" line="134" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/services/profiles_service.js" timestamp="1494509058484">
-        <mark key="[" line="136" column="19" />
-        <mark key="]" line="136" column="18" />
-        <mark key="^" line="136" column="18" />
-        <mark key="." line="136" column="18" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/ProfileModificationDto.java" timestamp="1494502750585">
         <mark key="[" line="36" column="0" />
