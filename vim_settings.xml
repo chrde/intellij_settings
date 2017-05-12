@@ -90,10 +90,10 @@
         <mark key="]" line="42" column="35" />
         <mark key="." line="42" column="35" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileFacade.java" timestamp="1494517090131">
-        <mark key="[" line="70" column="10" />
-        <mark key="]" line="70" column="10" />
-        <mark key="." line="70" column="10" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileFacade.java" timestamp="1494566733231">
+        <mark key="[" line="71" column="34" />
+        <mark key="]" line="71" column="32" />
+        <mark key="." line="71" column="32" />
         <mark key="^" line="70" column="10" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/internal/CosmosProfilesControllerTest.java" timestamp="1494510617306">
@@ -431,7 +431,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>L</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -450,7 +450,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JQdWJsaWMxQ0lEUlw+</text>
