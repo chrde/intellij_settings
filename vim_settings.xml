@@ -250,7 +250,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494588782516">
+      <file name="/Dummy.txt" timestamp="1494589499013">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -266,7 +266,7 @@
         <mark key="]" line="32" column="97" />
         <mark key="." line="32" column="97" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/profile_service.js" timestamp="1494499156055">
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/profile_service.js" timestamp="1494589167233">
         <mark key="[" line="85" column="65" />
         <mark key="]" line="85" column="73" />
         <mark key="." line="85" column="65" />
@@ -293,6 +293,12 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="46" />
         <mark key="." line="186" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/services/profile_service_test.js" timestamp="1494589468150">
+        <mark key="[" line="62" column="2" />
+        <mark key="]" line="62" column="2" />
+        <mark key="." line="62" column="2" />
+        <mark key="^" line="63" column="75" />
       </file>
       <file name="$USER_HOME$/dev-sources/spi/config/dev-skyblue.config.json" timestamp="1494588296773">
         <mark key="[" line="23" column="0" />
@@ -460,8 +466,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjcxOTMxNCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -480,13 +486,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>defaultProfileId</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wdXRlcklkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBjb21wdXRlcklkID0gMTIzOwo=</text>
+        <text encoding="base64">CiAgaXQoJ1dIRU4gY2FsbGluZyBkZWxldGVDb21wdXRlclByb3RlY3Rpb25Qcm9maWxlIGZvciBnaXZlbiBwYXJ0bmVyIFRIRU4gY29ycmVjdCBkZWxldGUgcmVxdWVzdCBpcyBjYWxsZWQnLCBmdW5jdGlvbiAoKXsKICAgICRodHRwQmFja2VuZC5leHBlY3RERUxFVEUoJy9wYXJ0bmVycy8xMjMvY29tcHV0ZXItcHJvZmlsZXMnKS5yZXNwb25kKCk7CiAgICBwcm9maWxlU2VydmljZS5kZWxldGVDb21wdXRlclByb3RlY3Rpb25Qcm9maWxlKGFjY291bnQpOwogICAgJGh0dHBCYWNrZW5kLmZsdXNoKCk7CiAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjcxOTMxNCIsCg==</text>
