@@ -42,6 +42,11 @@
         <mark key="." line="49" column="80" />
         <mark key="^" line="49" column="80" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-config/ci/latest/spi-config.json" timestamp="1494588432577">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/profile/ProfileHostMapper.java" timestamp="1494581452142">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="59" column="123" />
@@ -267,6 +272,11 @@
         <mark key="." line="85" column="65" />
         <mark key="^" line="84" column="34" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-config/ci/stable/spi-config.json" timestamp="1494588441191">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/AssignProfileAdapter.java" timestamp="1494581554981" />
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb3/environment-reporting-service.json" timestamp="1493133704963">
         <mark key="[" line="85" column="35" />
@@ -485,28 +495,28 @@
         <text>j0w2f)x$hp0wdf.$hpx2F)p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjIwNDQwIiwK</text>
+        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjcxOTMxNCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IGNvbmZpZyA9IHJlcXVpcmUoJy4uLy4uL3NlcnZpY2UvY29uZmlnL2NvbmZpZ3VyYXRpb25fZmFjdG9yeS5qcycpLmdldENvbmZpZygpOwo=</text>
+        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjcxOTMxNCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gcGFyZW50SWQ6IG9wdGlvbnMucHJvZmlsZUlkLAo=</text>
+        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjIwNDQwIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gX3BhcmVudElkOiBjb25maWcuZ2V0KCdzZXJ2aWNlcy5jb3Ntb3MuZGVmYXVsdFBhcmVudE5vZGUnKSwK</text>
+        <text encoding="base64">bGV0IGNvbmZpZyA9IHJlcXVpcmUoJy4uLy4uL3NlcnZpY2UvY29uZmlnL2NvbmZpZ3VyYXRpb25fZmFjdG9yeS5qcycpLmdldENvbmZpZygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcGFyZW50SWQ6IG9wdGlvbnMucHJvZmlsZUlkLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBiZWZvcmVFYWNoKGZ1bmN0aW9uIG1vY2tDb25maWcoKSB7CiAgLy8gICBjb25zdCBnZXREZWZhdWx0UHJvZmlsZSA9IGphc21pbmUuY3JlYXRlU3B5KCkuYW5kLmNhbGxGYWtlKHBhdGggPT4gewogIC8vICAgICByZXR1cm4gcGF0aCA9PT0gJ3NlcnZpY2VzLmNvc21vcy5kZWZhdWx0UGFyZW50Tm9kZScgPyBkZWZhdWx0UHJvZmlsZUlkIDogdW5kZWZpbmVkOwogIC8vICAgfSk7CiAgLy8gICB0b2tlblNpZ25VcEVuZHBvaW50Ll9fc2V0X18oJ2NvbmZpZycsIHtnZXQ6IGdldERlZmF1bHRQcm9maWxlfSk7CiAgLy8gfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gX3BhcmVudElkOiBjb25maWcuZ2V0KCdzZXJ2aWNlcy5jb3Ntb3MuZGVmYXVsdFBhcmVudE5vZGUnKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBkZWZhdWx0UHJvZmlsZUlkID0gMTIzNDU2Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlSWQsCg==</text>
+        <text encoding="base64">ICAvLyBiZWZvcmVFYWNoKGZ1bmN0aW9uIG1vY2tDb25maWcoKSB7CiAgLy8gICBjb25zdCBnZXREZWZhdWx0UHJvZmlsZSA9IGphc21pbmUuY3JlYXRlU3B5KCkuYW5kLmNhbGxGYWtlKHBhdGggPT4gewogIC8vICAgICByZXR1cm4gcGF0aCA9PT0gJ3NlcnZpY2VzLmNvc21vcy5kZWZhdWx0UGFyZW50Tm9kZScgPyBkZWZhdWx0UHJvZmlsZUlkIDogdW5kZWZpbmVkOwogIC8vICAgfSk7CiAgLy8gICB0b2tlblNpZ25VcEVuZHBvaW50Ll9fc2V0X18oJ2NvbmZpZycsIHtnZXQ6IGdldERlZmF1bHRQcm9maWxlfSk7CiAgLy8gfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
