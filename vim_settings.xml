@@ -68,7 +68,6 @@
         <mark key="^" line="94" column="70" />
         <mark key="." line="92" column="60" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/configuration/AccountConfigurationController.java" timestamp="1494577399490" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputersController.java" timestamp="1494582847613">
         <mark key="[" line="6" column="56" />
         <mark key="]" line="6" column="56" />
@@ -80,7 +79,6 @@
         <mark key="." line="2302" column="45" />
         <mark key="^" line="2302" column="45" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/profile/ProfileHostMapperInterface.java" timestamp="1494580794536" />
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/LocalProfileRepository.java" timestamp="1494413467209">
         <mark key="[" line="91" column="82" />
         <mark key="]" line="91" column="82" />
@@ -168,7 +166,6 @@
         <mark key="]" line="37" column="36" />
         <mark key="." line="361" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/MicrocosmosOperationsConfig.java" timestamp="1494571668665" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/spi/ComputersControllerTest.java" timestamp="1494583027821">
         <mark key="[" line="131" column="94" />
         <mark key="]" line="131" column="94" />
@@ -207,7 +204,6 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1494575687599" />
       <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/clients/psb_client_spec.js" timestamp="1494579678814">
         <mark key="'" line="62" column="6" />
         <mark key="[" line="159" column="2" />
@@ -248,7 +244,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494589499013">
+      <file name="/Dummy.txt" timestamp="1495615286881">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -275,7 +271,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/AssignProfileAdapter.java" timestamp="1494581554981" />
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb3/environment-reporting-service.json" timestamp="1493133704963">
         <mark key="[" line="85" column="35" />
         <mark key="]" line="85" column="35" />
