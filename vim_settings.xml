@@ -211,11 +211,10 @@
         <mark key="." line="159" column="2" />
         <mark key="^" line="163" column="31" />
       </file>
-      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1494588268282">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="98" column="13" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1495618360208">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="55" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1494508686241">
         <mark key="[" line="13" column="26" />
@@ -244,10 +243,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495615286881">
+      <file name="/Dummy.txt" timestamp="1495618413955">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputerRegistrationResource.java" timestamp="1494572762883">
         <mark key="[" line="25" column="30" />
@@ -459,8 +458,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgcGFyZW50SWQgPSBfLmdldChyZXN1bHQsICdib2R5LnByb2ZpbGVJZCcpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -488,34 +487,34 @@
         <text encoding="base64">CiAgaXQoJ1dIRU4gY2FsbGluZyBkZWxldGVDb21wdXRlclByb3RlY3Rpb25Qcm9maWxlIGZvciBnaXZlbiBwYXJ0bmVyIFRIRU4gY29ycmVjdCBkZWxldGUgcmVxdWVzdCBpcyBjYWxsZWQnLCBmdW5jdGlvbiAoKXsKICAgICRodHRwQmFja2VuZC5leHBlY3RERUxFVEUoJy9wYXJ0bmVycy8xMjMvY29tcHV0ZXItcHJvZmlsZXMnKS5yZXNwb25kKCk7CiAgICBwcm9maWxlU2VydmljZS5kZWxldGVDb21wdXRlclByb3RlY3Rpb25Qcm9maWxlKGFjY291bnQpOwogICAgJGh0dHBCYWNrZW5kLmZsdXNoKCk7CiAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjcxOTMxNCIsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcGFyZW50SWQgPSBfLmdldChyZXN1bHQsICdib2R5LnByb2ZpbGVJZCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>j0w2f)x$hp0wdf.$hpx2F)p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjcxOTMxNCIsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcGFyZW50SWQgPSBfLmdldChyZXN1bHQsICdib2R5LnByb2ZpbGVJZCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjcxOTMxNCIsCg==</text>
+        <text encoding="base64">ICBsZXQgcGFyZW50SWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjIwNDQwIiwK</text>
+        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjcxOTMxNCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IGNvbmZpZyA9IHJlcXVpcmUoJy4uLy4uL3NlcnZpY2UvY29uZmlnL2NvbmZpZ3VyYXRpb25fZmFjdG9yeS5qcycpLmdldENvbmZpZygpOwo=</text>
+        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjcxOTMxNCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gcGFyZW50SWQ6IG9wdGlvbnMucHJvZmlsZUlkLAo=</text>
+        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjcxOTMxNCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gX3BhcmVudElkOiBjb25maWcuZ2V0KCdzZXJ2aWNlcy5jb3Ntb3MuZGVmYXVsdFBhcmVudE5vZGUnKSwK</text>
+        <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjIwNDQwIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGNvbmZpZyA9IHJlcXVpcmUoJy4uLy4uL3NlcnZpY2UvY29uZmlnL2NvbmZpZ3VyYXRpb25fZmFjdG9yeS5qcycpLmdldENvbmZpZygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBiZWZvcmVFYWNoKGZ1bmN0aW9uIG1vY2tDb25maWcoKSB7CiAgLy8gICBjb25zdCBnZXREZWZhdWx0UHJvZmlsZSA9IGphc21pbmUuY3JlYXRlU3B5KCkuYW5kLmNhbGxGYWtlKHBhdGggPT4gewogIC8vICAgICByZXR1cm4gcGF0aCA9PT0gJ3NlcnZpY2VzLmNvc21vcy5kZWZhdWx0UGFyZW50Tm9kZScgPyBkZWZhdWx0UHJvZmlsZUlkIDogdW5kZWZpbmVkOwogIC8vICAgfSk7CiAgLy8gICB0b2tlblNpZ25VcEVuZHBvaW50Ll9fc2V0X18oJ2NvbmZpZycsIHtnZXQ6IGdldERlZmF1bHRQcm9maWxlfSk7CiAgLy8gfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcGFyZW50SWQ6IG9wdGlvbnMucHJvZmlsZUlkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
