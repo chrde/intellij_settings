@@ -158,6 +158,13 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" timestamp="1495780649544">
+        <mark key="'" line="241" column="0" />
+        <mark key="[" line="230" column="14" />
+        <mark key="]" line="230" column="30" />
+        <mark key="^" line="230" column="30" />
+        <mark key="." line="230" column="30" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/ProfileServiceTest.java" timestamp="1494414876166">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="36" />
@@ -331,10 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="28" filename="$USER_HOME$/github/rust101/src/part00.rs" />
-      <jump line="54" column="0" filename="$USER_HOME$/github/rust101/src/part00.rs" />
-      <jump line="31" column="31" filename="$USER_HOME$/github/rust101/src/part00.rs" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/rust101/src/part00.rs" />
       <jump line="33" column="12" filename="$USER_HOME$/github/rust101/src/part00.rs" />
       <jump line="65" column="0" filename="$USER_HOME$/github/rust101/src/part00.rs" />
       <jump line="20" column="17" filename="$USER_HOME$/github/rust101/src/part00.rs" />
@@ -431,6 +434,10 @@
       <jump line="62" column="6" filename="$USER_HOME$/dev-sources/micro-cosmos/spec/clients/psb_client_spec.js" />
       <jump line="10" column="8" filename="$USER_HOME$/dev-sources/spi/spec/business/token_sign_up/token_sign_up_endpoint_spec.js" />
       <jump line="49" column="110" filename="$USER_HOME$/dev-sources/spi/spec/business/token_sign_up/token_sign_up_endpoint_spec.js" />
+      <jump line="702" column="30" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" />
+      <jump line="229" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" />
+      <jump line="239" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" />
+      <jump line="241" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -456,8 +463,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEFjY291bnREYW9JbnRlcmZhY2UgYWNjb3VudERhbzsK</text>
+      <register name="&quot;" type="4">
+        <text>updateHostCurrentProfile</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -476,13 +483,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>updateHostCurrentProfile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wdXRlcklkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEFjY291bnREYW9JbnRlcmZhY2UgYWNjb3VudERhbzsK</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCB1cGRhdGVIb3N0Q3VycmVudFByb2ZpbGUoQndpbnN0YWxsZWQgYndpbnN0YWxsZWQpIHsKICAgIGdldEhpYmVybmF0ZVRlbXBsYXRlKCkuZXhlY3V0ZShzZXNzaW9uIC0+IHsKICAgICAgU3RyaW5nIGhxbCA9ICJVUERBVEUgQndpbnN0YWxsZWQgc2V0IGN1cnJlbnRQcm9maWxlPTpjdXJyZW50UHJvZmlsZSBXSEVSRSBpZD06aWQiOwogICAgICBRdWVyeSBxdWVyeSA9IHNlc3Npb24uY3JlYXRlUXVlcnkoaHFsKTsKICAgICAgaWYgKGJ3aW5zdGFsbGVkLmdldEN1cnJlbnRQcm9maWxlKCkgIT0gbnVsbCkgewogICAgICAgIHF1ZXJ5LnNldEVudGl0eSgiY3VycmVudFByb2ZpbGUiLCBid2luc3RhbGxlZC5nZXRDdXJyZW50UHJvZmlsZSgpKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBxdWVyeS5zZXRQYXJhbWV0ZXIoImN1cnJlbnRQcm9maWxlIiwgbnVsbCk7CiAgICAgIH0KCiAgICAgIHF1ZXJ5LnNldEludGVnZXIoImlkIiwgYndpbnN0YWxsZWQuZ2V0SWQoKSk7CgogICAgICBxdWVyeS5leGVjdXRlVXBkYXRlKCk7CiAgICAgIHJldHVybiBudWxsOwogICAgfSk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIExvY2FsZSBjdXJyZW50TG9jYWxlID0gTG9jYWxlSGVscGVyLmNyZWF0ZUxvY2FsZShVc2VyQ29udGV4dC5nZXRDb250ZXh0KCkuZ2V0VXNlcigpLmdldEFkbWluaXN0cmF0b3JQcm9maWxlKCkuZ2V0UHJlZmVycmVkTGFuZ3VhZ2UoKSk7Cg==</text>
@@ -515,7 +522,7 @@
         <text encoding="base64">ICAgICAgImRlZmF1bHRQYXJlbnROb2RlIjogIjcxOTMxNCIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set relativenumber</text>
+        <text>713</text>
       </register>
     </registers>
     <search>
@@ -551,8 +558,6 @@
         <entry encoding="base64">XDxjb21wdXRlcklkXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>95</entry>
-        <entry>41</entry>
         <entry>110</entry>
         <entry>534</entry>
         <entry>265</entry>
@@ -571,6 +576,8 @@
         <entry>marks</entry>
         <entry>set number</entry>
         <entry>set relativenumber</entry>
+        <entry>173</entry>
+        <entry>713</entry>
       </history-cmd>
       <history-expr />
       <history-input />
