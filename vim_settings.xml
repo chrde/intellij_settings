@@ -251,10 +251,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495785196435">
+      <file name="/Dummy.txt" timestamp="1495786000613">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputerRegistrationResource.java" timestamp="1494572762883">
         <mark key="[" line="25" column="30" />
