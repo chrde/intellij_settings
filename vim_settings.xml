@@ -108,6 +108,12 @@
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/profile/mobile/SetDefaultMobileProfileController.java" timestamp="1496041508367">
+        <mark key="[" line="36" column="3" />
+        <mark key="]" line="36" column="1" />
+        <mark key="^" line="36" column="1" />
+        <mark key="." line="36" column="1" />
+      </file>
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/cosmos/create_child_node.js" timestamp="1495619296346">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="67" />
@@ -256,7 +262,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495802593939">
+      <file name="/Dummy.txt" timestamp="1496041512843">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
