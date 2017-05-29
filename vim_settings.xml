@@ -197,10 +197,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-backend/lib/common/endpoints.js" timestamp="1495802592375">
-        <mark key="[" line="409" column="27" />
-        <mark key="]" line="409" column="35" />
-        <mark key="." line="409" column="35" />
+      <file name="$USER_HOME$/dev-sources/management-platform-backend/lib/common/endpoints.js" timestamp="1496041050739">
+        <mark key="[" line="409" column="61" />
+        <mark key="]" line="409" column="61" />
+        <mark key="." line="409" column="61" />
         <mark key="^" line="409" column="35" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileDto.java" timestamp="1494502774962">
@@ -323,7 +323,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/CosmosProfileService.java" timestamp="1495699425045">
+      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/CosmosProfileService.java" timestamp="1496041135524">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="47" />
         <mark key="^" line="86" column="100" />
@@ -493,7 +493,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>comqpanyid</text>
+        <text>/</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -512,7 +512,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>comqpanyid</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
