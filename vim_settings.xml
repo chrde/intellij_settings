@@ -41,6 +41,7 @@
         <mark key="^" line="36" column="1" />
         <mark key="." line="36" column="1" />
       </file>
+      <file name="$USER_HOME$/dev-sources/spi/lib/service/psb/connector.js" timestamp="1496156730335" />
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/CosmosProfileServiceTest.java" timestamp="1496135990707">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -78,7 +79,7 @@
         <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/profile/ProfileDao.java" timestamp="1496145371193" />
-      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1496155192052">
+      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1496156621638">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
@@ -89,7 +90,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1496151514979">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1496156277184">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="71" />
         <mark key="." line="67" column="73" />
@@ -200,7 +201,7 @@
         <mark key="^" line="94" column="70" />
         <mark key="." line="92" column="60" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputersController.java" timestamp="1496147168214">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputersController.java" timestamp="1496156267942">
         <mark key="[" line="45" column="57" />
         <mark key="]" line="45" column="57" />
         <mark key="^" line="53" column="59" />
@@ -331,6 +332,7 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1496156331002" />
       <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1494508686241">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
@@ -346,6 +348,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/psb/computer_registration.js" timestamp="1496156638971" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/RemoteActionsForNewDevicesListener.java" timestamp="1493708714892">
         <mark key="[" line="64" column="41" />
         <mark key="]" line="66" column="0" />
