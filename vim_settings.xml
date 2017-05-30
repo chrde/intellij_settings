@@ -41,10 +41,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/profile/ProfileHostMapper.java" timestamp="1495781765108">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="123" />
-      </file>
       <file name="$USER_HOME$/dev-sources/system-psb/stacks/storage.json" timestamp="1494416987857">
         <mark key="[" line="361" column="0" />
         <mark key="]" line="361" column="0" />
@@ -73,7 +69,7 @@
         <mark key="." line="2302" column="45" />
         <mark key="^" line="2302" column="45" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/LocalProfileRepository.java" timestamp="1494413467209">
+      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/LocalProfileRepository.java" timestamp="1496131101644">
         <mark key="[" line="91" column="82" />
         <mark key="]" line="91" column="82" />
         <mark key="." line="91" column="82" />
@@ -138,10 +134,6 @@
         <mark key="[" line="23" column="64" />
         <mark key="]" line="23" column="64" />
         <mark key="." line="23" column="64" />
-      </file>
-      <file name="/CosmosProfileFacade.java" timestamp="1495783871714">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="54" column="2" />
       </file>
       <file name="$USER_HOME$/dev-sources/system-psb/configs/production/global-psb-prd.json" timestamp="1494417056193">
         <mark key="[" line="27" column="0" />
@@ -267,7 +259,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496129722989">
+      <file name="/Dummy.txt" timestamp="1496130554301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -334,7 +326,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/CosmosProfileService.java" timestamp="1496050876450">
+      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/CosmosProfileService.java" timestamp="1496130438759">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="^" line="86" column="100" />
