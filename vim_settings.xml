@@ -240,12 +240,6 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-backend/lib/common/endpoints.js" timestamp="1496041050739">
-        <mark key="[" line="409" column="61" />
-        <mark key="]" line="409" column="61" />
-        <mark key="." line="409" column="61" />
-        <mark key="^" line="409" column="35" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496151139180">
         <mark key="[" line="74" column="36" />
         <mark key="]" line="74" column="51" />
@@ -266,10 +260,10 @@
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1496157516108" />
       <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1494508686241">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="13" column="26" />
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="26" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-backend/server.js" timestamp="1495794457026" />
       <file name="/JavaScript Console" timestamp="1496155477253">
