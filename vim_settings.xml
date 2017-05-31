@@ -97,17 +97,12 @@
         <mark key="^" line="67" column="73" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1496158041860" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/RemoteOperationsPayloadContextWithListStorage.java" timestamp="1496227579347" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputerRegistrationResource.java" timestamp="1496147118731">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="24" column="66" />
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/profile_service.js" timestamp="1494589167233">
-        <mark key="[" line="85" column="65" />
-        <mark key="]" line="85" column="73" />
-        <mark key="." line="85" column="65" />
-        <mark key="^" line="84" column="34" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/generate_root_profile.js" timestamp="1496132969840">
         <mark key="[" line="0" column="0" />
@@ -282,11 +277,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496224204637">
+      <file name="/Dummy.txt" timestamp="1496227561594">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/NewDeviceOperationFilter.java" timestamp="1496227548559" />
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/ProfileService.java" timestamp="1496046978582">
         <mark key="[" line="173" column="0" />
         <mark key="]" line="173" column="120" />
