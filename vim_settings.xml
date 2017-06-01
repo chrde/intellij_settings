@@ -225,7 +225,6 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/InstallSoftwareUpdatesAdapter.java" timestamp="1496311244075" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputerRegistrationResource.java" timestamp="1496147118731">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="24" column="66" />
@@ -277,7 +276,7 @@
         <mark key="." line="23" column="64" />
         <mark key="^" line="23" column="64" />
       </file>
-      <file name="/fragment.java" timestamp="1496307448483">
+      <file name="/fragment.java" timestamp="1496325589617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
