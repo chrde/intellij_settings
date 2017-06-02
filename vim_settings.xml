@@ -76,11 +76,11 @@
         <mark key="." line="104" column="49" />
         <mark key="^" line="104" column="49" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/psb_client.js" timestamp="1496391683440">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="5" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="10" column="5" />
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/psb_client.js" timestamp="1496392035952">
+        <mark key="[" line="6" column="63" />
+        <mark key="]" line="6" column="66" />
+        <mark key="^" line="6" column="66" />
+        <mark key="." line="6" column="66" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1494414385287">
         <mark key="[" line="61" column="38" />
@@ -404,7 +404,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>function</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -423,7 +423,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
