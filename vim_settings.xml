@@ -161,6 +161,7 @@
         <mark key="^" line="62" column="109" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/authenticationLoginPOSTSpec.js" timestamp="1496397246073" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/MicrocosmosClient.java" timestamp="1496044814688">
         <mark key="[" line="27" column="86" />
         <mark key="]" line="47" column="0" />
@@ -202,7 +203,7 @@
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="/JavaScript Console" timestamp="1496155477253">
+      <file name="/JavaScript Console" timestamp="1496397385761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1496158066465">
@@ -229,7 +230,7 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496392134362">
+      <file name="/Dummy.txt" timestamp="1496397095926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
