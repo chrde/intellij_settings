@@ -28,6 +28,12 @@
         <mark key="^" line="49" column="80" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/su/SoftwareUpdateRepository.java" timestamp="1496311176536" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/internal/AccountsControllerTest.java" timestamp="1496658563862">
+        <mark key="[" line="47" column="84" />
+        <mark key="]" line="47" column="83" />
+        <mark key="^" line="47" column="83" />
+        <mark key="." line="47" column="83" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/profile_navigator.js" timestamp="1494401221705">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="12" column="3" />
@@ -45,6 +51,12 @@
         <mark key="]" line="45" column="57" />
         <mark key="^" line="53" column="59" />
         <mark key="." line="45" column="57" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountDto.java" timestamp="1496658508781">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="51" />
+        <mark key="." line="18" column="51" />
+        <mark key="^" line="18" column="51" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1494407692123">
         <mark key="[" line="2302" column="39" />
@@ -168,11 +180,11 @@
         <mark key="^" line="142" column="65" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496151139180">
-        <mark key="[" line="74" column="36" />
-        <mark key="]" line="74" column="51" />
-        <mark key="." line="74" column="51" />
-        <mark key="^" line="74" column="51" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496658415159">
+        <mark key="[" line="63" column="49" />
+        <mark key="]" line="63" column="49" />
+        <mark key="." line="63" column="49" />
+        <mark key="^" line="63" column="33" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/config/latest.config.json" timestamp="1496155437534">
         <mark key="[" line="6" column="12" />
@@ -219,16 +231,29 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/account/AccountServiceImplTest.java" timestamp="1496658473794" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1496658279496">
+        <mark key="[" line="69" column="47" />
+        <mark key="]" line="69" column="47" />
+        <mark key="^" line="69" column="47" />
+        <mark key="." line="69" column="47" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputerRegistrationResource.java" timestamp="1496147118731">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="24" column="66" />
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496647808509">
+      <file name="/Dummy.txt" timestamp="1496658596877">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1496658514071">
+        <mark key="[" line="146" column="65" />
+        <mark key="]" line="146" column="65" />
+        <mark key="." line="146" column="65" />
+        <mark key="^" line="143" column="32" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/NewDeviceOperationFilter.java" timestamp="1496311283559" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496652269664">
@@ -424,7 +449,11 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>OneId creds secret</text>
+        <text>CSBP-8394 
+
+Cleanup
+-Rename DefaultCosmosProfileIdService
+-Rename and move RegistrationData</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -443,43 +472,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OneId creds secret</text>
+        <text>.getId()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Lm9wdGlvbignLS1jbGllbnRTZWNyZXQgW2NsaWVudFNlY3JldF0nLCAnT25lSWQgY3JlZHMgc2VjcmV0JykK</text>
+        <text encoding="base64">ICAgIFByb2ZpbGVEYXRhIHByb2ZpbGVEYXRhID0gcHJvZmlsZURhby5maW5kQnlJZCgoaW50KSBwcm9maWxlSWQuZ2V0SWQoKSk7CiAgICByZXR1cm4gY29zbW9zUHJvZmlsZUlkKHByb2ZpbGVEYXRhLmdldENvc21vc0lkKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcHJvZmlsZURlc2NyaXB0aW9ucyA9IGNvbmZpZy5nZXQoJ3Byb2ZpbGVEZXNjcmlwdGlvbnMnKTsK</text>
+      <register name="1" type="4">
+        <text>CSBP-8394 
+
+Cleanup
+-Rename DefaultCosmosProfileIdService
+-Rename and move RegistrationData</text>
       </register>
       <register name="q" type="4">
         <text>j0w2f)x$hp0wdf.$hpx2F)p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcHJvZmlsZU5hbWVzID0gY29uZmlnLmdldCgncHJvZmlsZU5hbWVzJyk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb3Ntb3NQcm9maWxlSWQocHJvZmlsZURhdGEuZ2V0Q29zbW9zSWQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5hbGwoWwogICAgbnVpYmVDbGllbnQuY3JlYXRlUHJvZmlsZShwcm9maWxlTmFtZXMub2ZmaWNlT3BlbiwgcHJvZmlsZURlc2NyaXB0aW9ucy5vZmZpY2VPcGVuLCBhY2Nlc3NUb2tlbiwgdHJhbnNhY3Rpb25JZCwgYXBpS2V5KSwKICAgIG51aWJlQ2xpZW50LmNyZWF0ZVByb2ZpbGUocHJvZmlsZU5hbWVzLm9mZmljZUxvY2tlZCwgcHJvZmlsZURlc2NyaXB0aW9ucy5vZmZpY2VMb2NrZWQsIGFjY2Vzc1Rva2VuLCB0cmFuc2FjdGlvbklkLCBhcGlLZXkpLAogICAgbnVpYmVDbGllbnQuY3JlYXRlUHJvZmlsZShwcm9maWxlTmFtZXMubGFwdG9wT3BlbiwgcHJvZmlsZURlc2NyaXB0aW9ucy5sYXB0b3BPcGVuLCBhY2Nlc3NUb2tlbiwgdHJhbnNhY3Rpb25JZCwgYXBpS2V5KSwKICAgIG51aWJlQ2xpZW50LmNyZWF0ZVByb2ZpbGUocHJvZmlsZU5hbWVzLmxhcHRvcExvY2tlZCwgcHJvZmlsZURlc2NyaXB0aW9ucy5sYXB0b3BMb2NrZWQsIGFjY2Vzc1Rva2VuLCB0cmFuc2FjdGlvbklkLCBhcGlLZXkpCiAgXSkudGhlbihmdW5jdGlvbihyZXN1bHQpIHsKICAgIGxvZ2dlci5pbmZvKGBQcm9maWxlIGNyZWF0ZWQgLSBJZCA6ICAke3Jlc3VsdFswXS5pZH0sIE5hbWUgOiAgJHtyZXN1bHRbMF0ubmFtZX0sIERlc2NyaXB0aW9uIDogICR7cmVzdWx0WzBdLmRlc2NyaXB0aW9ufSwgT3duZXJJZCA6ICAke3Jlc3VsdFswXS5vd25lcklkfWApOwogICAgbG9nZ2VyLmluZm8oYFByb2ZpbGUgY3JlYXRlZCAtIElkIDogICR7cmVzdWx0WzFdLmlkfSwgTmFtZSA6ICAke3Jlc3VsdFsxXS5uYW1lfSwgRGVzY3JpcHRpb24gOiAgJHtyZXN1bHRbMV0uZGVzY3JpcHRpb259LCBPd25lcklkIDogICR7cmVzdWx0WzFdLm93bmVySWR9YCk7CiAgICBsb2dnZXIuaW5mbyhgUHJvZmlsZSBjcmVhdGVkIC0gSWQgOiAgJHtyZXN1bHRbMl0uaWR9LCBOYW1lIDogICR7cmVzdWx0WzJdLm5hbWV9LCBEZXNjcmlwdGlvbiA6ICAke3Jlc3VsdFsyXS5kZXNjcmlwdGlvbn0sIE93bmVySWQgOiAgJHtyZXN1bHRbMl0ub3duZXJJZH1gKTsKICAgIGxvZ2dlci5pbmZvKGBQcm9maWxlIGNyZWF0ZWQgLSBJZCA6ICAke3Jlc3VsdFszXS5pZH0sIE5hbWUgOiAgJHtyZXN1bHRbM10ubmFtZX0sIERlc2NyaXB0aW9uIDogICR7cmVzdWx0WzNdLmRlc2NyaXB0aW9ufSwgT3duZXJJZCA6ICAke3Jlc3VsdFszXS5vd25lcklkfWApOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgIFByb2ZpbGVEYXRhIHByb2ZpbGVEYXRhID0gcHJvZmlsZURhby5maW5kQnlJZCgoaW50KSBwcm9maWxlSWQuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ3gtdHJhbnNhY3Rpb24taWQnOiB0cmFuc2FjdGlvbklkCg==</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ2F1dGhvcml6YXRpb24nOiAnQmVhcmVyICcgKyBhY2Nlc3NUb2tlbiwK</text>
+        <text encoding="base64">ICAgICAgICAub3JFbHNlVGhyb3coKCkgLT4gbmV3IE5vdEZvdW5kRXhjZXB0aW9uKGZvcm1hdCgiRGVmYXVsdCBjb21wdXRlciBwcm9maWxlIGZvciAlZCBub3QgZm91bmQiLCBhY2NvdW50SWQuZ2V0KCkpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCByb290QWNjb3VudElkID0gY29uZmlnLmdldCgncm9vdEFjY291bnRJZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwKExvY2FsUHJvZmlsZUlkOjpsb2NhbFByb2ZpbGVJZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBwc2JCYXNlID0gY29uZmlnLmdldCgncHNiQmFzZVVybCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwKExvbmc6OnZhbHVlT2YpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcHJvZmlsZURlc2NyaXB0aW9ucyA9IGNvbmZpZy5nZXQoJ3Byb2ZpbGVEZXNjcmlwdGlvbnMnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>713</text>
