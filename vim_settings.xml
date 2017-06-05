@@ -231,11 +231,11 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/NewDeviceOperationFilter.java" timestamp="1496311283559" />
-      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496648066178">
-        <mark key="[" line="44" column="24" />
-        <mark key="]" line="44" column="24" />
-        <mark key="^" line="44" column="58" />
-        <mark key="." line="44" column="24" />
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496652269664">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+        <mark key="." line="40" column="19" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/ci/latest/config.json" timestamp="1496644959202" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/create_profiles.js" timestamp="1496645803604">
@@ -261,10 +261,10 @@
         <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/CosmosProfileService.java" timestamp="1496398995849" />
-      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/index.js" timestamp="1496645740710">
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/index.js" timestamp="1496652404949">
         <mark key="[" line="51" column="99" />
-        <mark key="]" line="51" column="99" />
-        <mark key="." line="51" column="99" />
+        <mark key="]" line="51" column="114" />
+        <mark key="." line="51" column="114" />
         <mark key="^" line="51" column="114" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_profiles_tab/computer_profiles_tab_content_controller.js" timestamp="1494401744676">
@@ -419,7 +419,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>post</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -438,7 +438,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
