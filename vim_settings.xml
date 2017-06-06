@@ -90,11 +90,11 @@
         <mark key="." line="55" column="54" />
         <mark key="^" line="55" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-build/psb-predefined-cosmos-profiles-publish-aws/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496132562511">
-        <mark key="[" line="103" column="21" />
-        <mark key="]" line="103" column="46" />
-        <mark key="." line="104" column="49" />
-        <mark key="^" line="104" column="49" />
+      <file name="$USER_HOME$/dev-sources/management-platform-build/psb-predefined-cosmos-profiles-publish-aws/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496740224513">
+        <mark key="[" line="104" column="107" />
+        <mark key="]" line="104" column="107" />
+        <mark key="." line="104" column="107" />
+        <mark key="^" line="104" column="104" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1494414385287">
         <mark key="[" line="61" column="38" />
@@ -434,7 +434,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>New default profile</text>
+        <text>COSMOS_SECRET_ACCESS_KEY</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -453,7 +453,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>New default profile</text>
+        <text>COSMOS_SECRET_ACCESS_KEY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
