@@ -263,7 +263,8 @@
         <mark key="^" line="142" column="63" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/NewDeviceOperationFilter.java" timestamp="1496311283559" />
-      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496668034858">
+      <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-local-psb.config.json" timestamp="1496734482326" />
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496734202368">
         <mark key="[" line="40" column="17" />
         <mark key="]" line="40" column="19" />
         <mark key="^" line="40" column="19" />
