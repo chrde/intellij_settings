@@ -90,11 +90,11 @@
         <mark key="." line="55" column="54" />
         <mark key="^" line="55" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-build/psb-predefined-cosmos-profiles-publish-aws/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496740224513">
-        <mark key="[" line="104" column="107" />
-        <mark key="]" line="104" column="107" />
-        <mark key="." line="104" column="107" />
-        <mark key="^" line="104" column="104" />
+      <file name="$USER_HOME$/dev-sources/management-platform-build/psb-predefined-cosmos-profiles-publish-aws/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496740334567">
+        <mark key="[" line="105" column="86" />
+        <mark key="]" line="105" column="108" />
+        <mark key="." line="105" column="86" />
+        <mark key="^" line="31" column="40" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1494414385287">
         <mark key="[" line="61" column="38" />
@@ -434,7 +434,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>COSMOS_SECRET_ACCESS_KEY</text>
+        <text>PROFILE_ID</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -453,13 +453,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>COSMOS_SECRET_ACCESS_KEY</text>
+        <text>PROFILE_ID</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIExvY2FsUHJvZmlsZUlkIGxvY2FsUHJvZmlsZUlkOwo=</text>
+      <register name="0" type="4">
+        <text>NEW_DEFAULT_PROFILE_ID</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBsb2dnZXIuaW5mbyhgJHt0cmFuc2FjdGlvbklkfSAtIENoYW5nZSBkZWZhdWx0IGNvc21vcyBwcm9maWxlOiAke2lkfSBmb3Igcm9vdCB0byBOVUlCRSBBUEk6ICR7bnVpYmVBcGlCYXNlVXJsfX1gKTsK</text>
