@@ -15,11 +15,11 @@
       <file name="/a.dummy" timestamp="1496210573477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1496745967450">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1496746094710">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="119" column="17" />
-        <mark key="." line="124" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/endpoints/profiles_spec.js" timestamp="1494578410119">
         <mark key="[" line="56" column="11" />
@@ -447,8 +447,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleHBlY3QocHJvZmlsZXNSZXNwb25zZVswXS5kZWZhdWx0KS50b0JlVHJ1dGh5KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -467,7 +467,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>defaultProfile</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
