@@ -27,6 +27,12 @@
         <mark key="." line="49" column="80" />
         <mark key="^" line="49" column="80" />
       </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/config/dev-local.config.json" timestamp="1496731635621">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/su/SoftwareUpdateRepository.java" timestamp="1496311176536" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/internal/AccountsControllerTest.java" timestamp="1496658563862">
         <mark key="[" line="47" column="84" />
@@ -46,6 +52,7 @@
         <mark key="^" line="94" column="70" />
         <mark key="." line="92" column="60" />
       </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/endpoints/profiles_endpoint.js" timestamp="1496731876002" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputersController.java" timestamp="1496157315821">
         <mark key="[" line="45" column="57" />
         <mark key="]" line="45" column="57" />
@@ -210,7 +217,7 @@
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="/JavaScript Console" timestamp="1496668037554">
+      <file name="/JavaScript Console" timestamp="1496731649572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1496158066465">
@@ -267,11 +274,6 @@
         <mark key="]" line="2" column="42" />
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/create_profiles.js" timestamp="1496645803604">
-        <mark key="'" line="5" column="9" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/su/SoftwareUpdateServiceImpl.java" timestamp="1496311202963">
         <mark key="[" line="165" column="106" />
@@ -448,8 +450,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>skyblue-psb.fsxt.net</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -468,7 +470,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>expectedProfile</text>
+        <text>skyblue-psb.fsxt.net</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
