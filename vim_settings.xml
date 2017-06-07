@@ -30,17 +30,17 @@
         <mark key="." line="18" column="51" />
         <mark key="^" line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/README.md" timestamp="1496817919577">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/README.md" timestamp="1496824165463">
+        <mark key="[" line="85" column="49" />
+        <mark key="]" line="85" column="49" />
         <mark key="^" line="85" column="74" />
-        <mark key="." line="86" column="0" />
+        <mark key="." line="85" column="49" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-build/psb-predefined-cosmos-profiles-publish-aws/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496740334567">
-        <mark key="[" line="105" column="86" />
-        <mark key="]" line="105" column="108" />
-        <mark key="." line="105" column="86" />
-        <mark key="^" line="31" column="40" />
+      <file name="$USER_HOME$/dev-sources/management-platform-build/psb-predefined-cosmos-profiles-publish-aws/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496824154479">
+        <mark key="[" line="104" column="72" />
+        <mark key="]" line="104" column="72" />
+        <mark key="." line="104" column="72" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/psb_client.js" timestamp="1496647641855">
         <mark key="[" line="18" column="2" />
@@ -347,8 +347,8 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496823702971">
-        <mark key="[" line="4" column="0" />
+      <file name="/Dummy.txt" timestamp="1496823808330">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -519,7 +519,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>http://localhost:8000/mp/v1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -538,7 +538,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:8000/mp/v1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
@@ -546,39 +546,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAiZGVmYXVsdFByb2ZpbGVJZCI6ICIxMzY4NiIsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>set-default-profile-on-psb-after-creating-new-profiles
-Default profile stored in config</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgc3RyaW5nUGFyYW0oJ05FV19ERUZBVUxUX1BST0ZJTEVfSUQnKQo=</text>
       </register>
       <register name="q" type="4">
         <text>j0w2f)x$hp0wdf.$hpx2F)p</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+      <register name="2" type="4">
+        <text>set-default-profile-on-psb-after-creating-new-profiles
+Default profile stored in config</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gc2V0RGVmYXVsdFByb2ZpbGUuX19zZXRfXygnY29uZmlnJywgZ2V0Q29uZmlnKCkpOwo=</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gc2V0RGVmYXVsdFByb2ZpbGUuX19zZXRfXygnY29uZmlnJywgZ2V0Q29uZmlnKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIF8uZ2V0KHRlc3RDb25maWcsIHgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NocmRlIGdldHRpbmcgJyArIHgpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIF8uZ2V0KHRlc3RDb25maWcsIHgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>713</text>
+        <text>29</text>
       </register>
     </registers>
     <search>
@@ -614,7 +614,6 @@ Default profile stored in config</text>
         <entry encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>110</entry>
         <entry>534</entry>
         <entry>265</entry>
         <entry>252</entry>
@@ -634,6 +633,7 @@ Default profile stored in config</text>
         <entry>set relativenumber</entry>
         <entry>173</entry>
         <entry>713</entry>
+        <entry>29</entry>
       </history-cmd>
       <history-expr />
       <history-input />
