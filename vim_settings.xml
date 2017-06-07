@@ -9,8 +9,10 @@
         <mark key="." line="96" column="14" />
         <mark key="^" line="96" column="14" />
       </file>
-      <file name="/fragment.js" timestamp="1496738816776">
+      <file name="/fragment.js" timestamp="1496819297362">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1496210573477">
         <mark key="[" line="0" column="0" />
@@ -234,7 +236,7 @@
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="/JavaScript Console" timestamp="1496738740298">
+      <file name="/JavaScript Console" timestamp="1496819285721">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/config.schema.json" timestamp="1496818382217">
@@ -274,7 +276,7 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496746096995">
+      <file name="/Dummy.txt" timestamp="1496818455709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1496661694109">
@@ -337,11 +339,11 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/set_default_profile_in_psb.js" timestamp="1496818322247">
-        <mark key="[" line="12" column="65" />
-        <mark key="]" line="12" column="83" />
-        <mark key="^" line="12" column="83" />
-        <mark key="." line="12" column="83" />
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/set_default_profile_in_psb.js" timestamp="1496819321748">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="41" />
+        <mark key="^" line="23" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -471,7 +473,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>transactionId</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -490,7 +492,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>transactionId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
@@ -499,34 +501,34 @@
         <text encoding="base64">ICAgICAgImRvYyI6ICJQcm9maWxlIGlkIG9mIE9mZmljZSBPcGVuIHByZS1kZWZpbmVkIHByb2ZpbGUiLAogICAgICAiZm9ybWF0IjogImludCIsCiAgICAgICJkZWZhdWx0IjogIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lm9wdGlvbignLS1wcm9maWxlSWQgW3Byb2ZpbGVJZF0nLCAnQ29zbW9zIHByb2ZpbGUgSUQgdG8gYmUgc2V0IGFzIGRlZmF1bHQgaW4gUFNCJykK</text>
+        <text encoding="base64">ICBjb24K</text>
       </register>
       <register name="q" type="4">
         <text>j0w2f)x$hp0wdf.$hpx2F)p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICBjb25zdCBsZW5ndGggPSB0cmFuc2FjdGlvbklkLmxlbmd0aDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lm9wdGlvbignLS1wcm9maWxlSWQgW3Byb2ZpbGVJZF0nLCAnQ29zbW9zIHByb2ZpbGUgSUQgdG8gYmUgc2V0IGFzIGRlZmF1bHQgaW4gUFNCJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bm9kZSBpbmRleC5qcyAtLW9wZXJhdGlvbj1zZXREZWZhdWx0UHJvZmlsZUluUHNiICAtLWFwaUtleT05YWM0YjQzZi03ZjhhLTQwMGItOWFhNS04Y2E0NmJjOGM0NDkgLS1wcm9maWxlSWQ9OTAxNTY2Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VXBkYXRlcyB0aGUgbmFtZSBhbmQgZGVzY3JpcHRpb24gb2YgdGhlIHByZS1kZWZpbmVkIEYtU2VjdXJlIHByb2ZpbGVzIGJ5IGNhbGxpbmcgdGhlIE5VSUJFIGVuZHBvaW50IHdpdGggUm9vdCBhY2NvdW50IHVzZXIgdG9rZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleHBlY3QocHJvZmlsZXNSZXNwb25zZVswXS5kZWZhdWx0KS50b0JlVHJ1dGh5KCk7Cg==</text>
+        <text encoding="base64">bm9kZSBpbmRleC5qcyAtLW9wZXJhdGlvbj1zZXREZWZhdWx0UHJvZmlsZUluUHNiICAtLWFwaUtleT05YWM0YjQzZi03ZjhhLTQwMGItOWFhNS04Y2E0NmJjOGM0NDkgLS1wcm9maWxlSWQ9OTAxNTY2Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleHBlY3QoZGVmYXVsdFByb2ZpbGUuZGVmYXVsdCkudG9CZUZhbHN5KCk7Cg==</text>
+        <text encoding="base64">VXBkYXRlcyB0aGUgbmFtZSBhbmQgZGVzY3JpcHRpb24gb2YgdGhlIHByZS1kZWZpbmVkIEYtU2VjdXJlIHByb2ZpbGVzIGJ5IGNhbGxpbmcgdGhlIE5VSUJFIGVuZHBvaW50IHdpdGggUm9vdCBhY2NvdW50IHVzZXIgdG9rZW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzY29wZS4kZGlnZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBleHBlY3QocHJvZmlsZXNSZXNwb25zZVswXS5kZWZhdWx0KS50b0JlVHJ1dGh5KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzY29wZS5zZXREZWZhdWx0UHJvZmlsZShwcm9maWxlc1Jlc3BvbnNlWzBdLCBwcm9maWxlc1Jlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBleHBlY3QoZGVmYXVsdFByb2ZpbGUuZGVmYXVsdCkudG9CZUZhbHN5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>713</text>
