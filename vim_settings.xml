@@ -46,6 +46,11 @@
         <mark key="]" line="18" column="2" />
         <mark key="." line="18" column="2" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1496992760039">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/profile/mobile/SetDefaultMobileProfileController.java" timestamp="1496041508367">
         <mark key="[" line="36" column="3" />
         <mark key="]" line="36" column="1" />
@@ -91,11 +96,11 @@
         <mark key="^" line="62" column="109" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" timestamp="1496745007938">
-        <mark key="[" line="44" column="52" />
-        <mark key="]" line="44" column="52" />
-        <mark key="^" line="35" column="60" />
-        <mark key="." line="44" column="56" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" timestamp="1496992748705">
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="45" column="42" />
+        <mark key="^" line="45" column="42" />
+        <mark key="." line="45" column="42" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileDto.java" timestamp="1494502774962">
         <mark key="[" line="144" column="0" />
@@ -513,8 +518,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYmICFwcm9maWxlLmRlZmF1bHQ=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -533,7 +538,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICYmICFwcm9maWxlLmRlZmF1bHQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
