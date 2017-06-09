@@ -9,7 +9,6 @@
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1496746094710">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
-        <mark key="^" line="119" column="17" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/profile_navigator.js" timestamp="1494401221705">
@@ -46,12 +45,6 @@
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="2" />
         <mark key="." line="18" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1496744812737">
-        <mark key="[" line="50" column="16" />
-        <mark key="]" line="50" column="23" />
-        <mark key="^" line="50" column="23" />
-        <mark key="." line="50" column="23" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/profile/mobile/SetDefaultMobileProfileController.java" timestamp="1496041508367">
         <mark key="[" line="36" column="3" />
