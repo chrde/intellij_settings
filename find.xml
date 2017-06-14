@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.as</mask>
@@ -19,9 +18,7 @@
       <mask>*.*</mask>
       <mask>*.ava</mask>
       <mask>*.av</mask>
-      <mask>*.a</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*$.java</mask>
       <mask>*[a].java</mask>
       <mask>*[a.java</mask>
@@ -31,7 +28,10 @@
       <mask>*a$*.java</mask>
       <mask>*a*.java</mask>
       <mask>a*.java</mask>
+      <mask>*.a</mask>
+      <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>

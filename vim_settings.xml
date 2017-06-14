@@ -126,7 +126,13 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1497429224517" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/fs_device_filter/device_filter_controller.js" timestamp="1497433177698" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1497433428659">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesAction.java" timestamp="1497427376029">
         <mark key="[" line="36" column="101" />
         <mark key="]" line="62" column="4" />
@@ -353,7 +359,7 @@
         <mark key="^" line="23" column="66" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497430293634">
+      <file name="/Dummy.txt" timestamp="1497433436050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -382,6 +388,7 @@
         <mark key="." line="1" column="58" />
         <mark key="^" line="1" column="58" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/reports/infections_tab/infections_controller.js" timestamp="1497433352267" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/su/SoftwareUpdateServiceImpl.java" timestamp="1496311202963">
         <mark key="[" line="165" column="106" />
         <mark key="]" line="165" column="106" />
