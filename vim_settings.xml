@@ -14,11 +14,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1497429315052">
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1497430004625">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+        <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/endpoints/profiles_spec.js" timestamp="1494578410119">
         <mark key="[" line="56" column="11" />
@@ -120,12 +120,7 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1497429224517">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="25" />
-      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1497429224517" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesAction.java" timestamp="1497427376029">
         <mark key="[" line="36" column="101" />
         <mark key="]" line="62" column="4" />
@@ -555,8 +550,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIF8ucmVtb3ZlKHByb2ZpbGVMaXN0LCBwcm9maWxlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -575,45 +570,45 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CosmosProfileId</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>SET_DEFAULT_PROFILE_IN_PSB</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2V0TWVzc2FnZTogamFzbWluZS5jcmVhdGVTcHkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIF8ucmVtb3ZlKHByb2ZpbGVMaXN0LCBwcm9maWxlKTsK</text>
+        <text encoding="base64">ICAgICAgcmVsb2FkOgo=</text>
       </register>
       <register name="q" type="4">
         <text>j0w2f)x$hp0wdf.$hpx2F)p</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIF8ucmVtb3ZlKHByb2ZpbGVMaXN0LCBwcm9maWxlKTsK</text>
+      </register>
+      <register name="3" type="4">
         <text>CSBP-9900
 
 PSB should not return localProfileId, only cosmosId</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLnByb2ZpbGUuY29tbW9uLkNvc21vc1Byb2ZpbGVJZDsK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLmNvbXB1dGVyLkNvbXB1dGVySWQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLnByb2ZpbGUuY29tbW9uLkNvc21vc1Byb2ZpbGVJZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLnByb2ZpbGUuY29tbW9uLkNvc21vc1Byb2ZpbGVJZDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLmNvbXB1dGVyLkNvbXB1dGVySWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRDb3Ntb3NQcm9maWxlSWRTZXJ2aWNlLmFzc2lnbkRlZmF1bHRDb21wdXRlclByb2ZpbGUoQ09NUFVURVJfSUQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLnByb2ZpbGUuY29tbW9uLkNvc21vc1Byb2ZpbGVJZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHRDb3Ntb3NQcm9maWxlSWRTZXJ2aWNlLmFzc2lnbkRlZmF1bHRDb21wdXRlclByb2ZpbGUoQ09NUFVURVJfSUQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vY2tQcm9maWxlRm9yQ29tcHV0ZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vY2tQcm9maWxlRm9yQWNjb3VudCgpOwo=</text>
+        <text encoding="base64">ICAgIG1vY2tQcm9maWxlRm9yQ29tcHV0ZXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>29</text>
