@@ -318,8 +318,11 @@
         <mark key="^" line="152" column="53" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SubscriptionForComputerRetriever.java" timestamp="1497874086226" />
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1497873916521">
-        <mark key="^" line="61" column="71" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1497875675368">
+        <mark key="[" line="60" column="61" />
+        <mark key="]" line="60" column="96" />
+        <mark key="." line="60" column="96" />
+        <mark key="^" line="60" column="96" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1494508686241">
         <mark key="[" line="12" column="26" />
@@ -464,7 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="89" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/subscription/RootSubscriptionsControllerTest.java" />
       <jump line="25" column="23" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="4" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="29" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
@@ -564,6 +566,7 @@
       <jump line="338" column="34" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/account/AccountDao.java" />
       <jump line="141" column="15" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" />
       <jump line="5" column="9" filename="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/create_profiles.js" />
+      <jump line="106" column="26" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -590,7 +593,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN1YnNjcmlwdGlvbkR0byBnZXRBc3NpZ25hYmxlU3Vic2NyaXB0aW9uKFN0cmluZyBzdWJzY3JpcHRpb25LZXkpIHsKICAgIFN1YnNjcmlwdGlvbkR0byBzdWJzY3JpcHRpb24gPSBzdWJzY3JpcHRpb25Gb3JDb21wdXRlclJldHJpZXZlci5nZXRBc3NpZ25hYmxlKHN1YnNjcmlwdGlvbktleSwgUkVRVUlSRURfU1VCU0NSSVBUSU9OX1NFQVRTX0NPVU5UKTsKICAgIGlmICghc3Vic2NyaXB0aW9uLmdldFByb2R1Y3RUeXBlKCkubWFwKFBTQl9XT1JLU1RBVElPTl9TRUNVUklUWTo6ZXF1YWxzKS5vckVsc2UoZmFsc2UpKSB7CiAgICAgIHRocm93IG5ldyBJbnZhbGlkU3Vic2NyaXB0aW9uVHlwZUV4Y2VwdGlvbihzdWJzY3JpcHRpb25Qcm9wZXJ0aWVzKCkuc3Vic2NyaXB0aW9uS2V5KHN1YnNjcmlwdGlvbi5nZXRLZXkoKSkuYnVpbGQoKSk7CiAgICB9CiAgICByZXR1cm4gc3Vic2NyaXB0aW9uOwogIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -609,43 +612,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ACDE124</text>
+        <text>getCurrentSubscription</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN1YnNjcmlwdGlvbkR0byBnZXRBc3NpZ25hYmxlU3Vic2NyaXB0aW9uKFN0cmluZyBzdWJzY3JpcHRpb25LZXkpIHsKICAgIFN1YnNjcmlwdGlvbkR0byBzdWJzY3JpcHRpb24gPSBzdWJzY3JpcHRpb25Gb3JDb21wdXRlclJldHJpZXZlci5nZXRBc3NpZ25hYmxlKHN1YnNjcmlwdGlvbktleSwgUkVRVUlSRURfU1VCU0NSSVBUSU9OX1NFQVRTX0NPVU5UKTsKICAgIGlmICghc3Vic2NyaXB0aW9uLmdldFByb2R1Y3RUeXBlKCkubWFwKFBTQl9XT1JLU1RBVElPTl9TRUNVUklUWTo6ZXF1YWxzKS5vckVsc2UoZmFsc2UpKSB7CiAgICAgIHRocm93IG5ldyBJbnZhbGlkU3Vic2NyaXB0aW9uVHlwZUV4Y2VwdGlvbihzdWJzY3JpcHRpb25Qcm9wZXJ0aWVzKCkuc3Vic2NyaXB0aW9uS2V5KHN1YnNjcmlwdGlvbi5nZXRLZXkoKSkuYnVpbGQoKSk7CiAgICB9CiAgICByZXR1cm4gc3Vic2NyaXB0aW9uOwogIH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUkVRVUlSRURfU1VCU0NSSVBUSU9OX1NFQVRTX0NPVU5UID0gMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIHJlZ2lzdGVyTmV3Q29tcHV0ZXIoY29tcHV0ZXJSZWdpc3Rlcik7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j0w2f)x$hp0wdf.$hpx2F)p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBDb21wdXRlcklkIGJsYShDb21wdXRlclJlZ2lzdHJhdGlvbkR0byBjb21wdXRlclJlZ2lzdGVyKXsKICAgIHJldHVybiBmaW5kRXhpc3RpbmdDb21wdXRlcihjb21wdXRlclJlZ2lzdGVyKQogICAgICAgIC5tYXAoYncgLT4gbWlncmF0ZUNvbXB1dGVyKGJ3LCBjb21wdXRlclJlZ2lzdGVyKSkKICAgICAgICAub3JFbHNlR2V0KCgpIC0+IHJlZ2lzdGVyTmV3Q29tcHV0ZXIoY29tcHV0ZXJSZWdpc3RlcikpOwogIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdWJzY3JpcHRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN1YnNjcmlwdGlvbkR0byB2YWxpZGF0ZUV4aXN0aW5nU3Vic2NyaXB0aW9uKEJ3aW5zdGFsbGVkIGJ3LCBTdHJpbmcgc3Vic2NyaXB0aW9uS2V5KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBjb21wdXRlcklkKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpkYmNPcGVyYXRpb25zLnVwZGF0ZSgiVVBEQVRFIGhvc3RfaW5mbyBTRVQgbGFzdF9jb25uZWN0aW9uX3RpbWUgPSA/LCBzdGF0dXNfdXBkYXRlZCA9ID8gV0hFUkUgYndpbnN0YWxsZWRfZl9pZCA9ID8iLCBub3csIG5vdywK</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlRXhpc3RpbmdTdWJzY3JpcHRpb24oYncsIHJlZ2lzdHJhdGlvbkR0by5nZXRTdWJzY3JpcHRpb25LZXkoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE9sZEJ3SWQoKSB7CiAgICByZXR1cm4gb2xkQndJZDsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0T2xkQ2xpZW50VWlkKCkgewogICAgcmV0dXJuIG9sZENsaWVudFVpZDsKICB9Cgo=</text>
+        <text encoding="base64">ICAgIFN1YnNjcmlwdGlvbkR0byBzdWJzY3JpcHRpb24gPSBnZXRBc3NpZ25hYmxlU3Vic2NyaXB0aW9uKHN1YnNjcmlwdGlvbktleSwgTk9fU0VBVFNfUkVRVVJFRCk7CiAgICBpZighYncuZ2V0U3Vic2NyaXB0aW9uKCkuZ2V0UmVnSWQoKS5lcXVhbHNJZ25vcmVDYXNlKHN1YnNjcmlwdGlvbi5nZXRLZXkoKSkpewogICAgICAvL1RPRE8gdGhyb3cgZXhjZXB0aW9uIC0gY3VycmVudCBzdWJzY3JpcHRpb24gYW5kIHN1YnNjcmlwdGlvbiB1c2VkIHRvIHVwZ3JhZGUgbXVzdCBtYXRjaAogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRoaXMgaXMgYmFkIik7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN1YnNjcmlwdGlvbjsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9sZEJ3SWQoU3RyaW5nIG9sZEJ3SWQpIHsK</text>
+        <text encoding="base64">ICAgIGlmIChtYXAoUFNCX1dPUktTVEFUSU9OX1NFQ1VSSVRZOjplcXVhbHMpLm9yRWxzZShmYWxzZSkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>29</text>
