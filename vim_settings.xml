@@ -17,11 +17,11 @@
       <file name="/a.dummy" timestamp="1497597017821">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputerRegistrationRequestResource.java" timestamp="1497431174503">
-        <mark key="[" line="30" column="26" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputerRegistrationRequestResource.java" timestamp="1497862630027">
+        <mark key="[" line="31" column="0" />
         <mark key="]" line="32" column="29" />
-        <mark key="^" line="32" column="29" />
-        <mark key="." line="32" column="29" />
+        <mark key="^" line="42" column="23" />
+        <mark key="." line="42" column="23" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1497430004625">
         <mark key="[" line="4" column="0" />
@@ -34,6 +34,12 @@
         <mark key="]" line="49" column="80" />
         <mark key="." line="49" column="80" />
         <mark key="^" line="49" column="80" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationDto.java" timestamp="1497862717483">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/config/dev-local.config.json" timestamp="1496731635621">
         <mark key="[" line="8" column="29" />
@@ -129,7 +135,6 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/fs_device_filter/device_filter_controller.js" timestamp="1497433177698" />
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1497433428659">
         <mark key="[" line="30" column="61" />
         <mark key="]" line="31" column="21" />
@@ -306,13 +311,17 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1497862476127">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1494508686241">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/dev-sources/spi/config/dev-local.config.json" timestamp="1497424181701" />
       <file name="/JavaScript Console" timestamp="1496819285721">
         <mark key="[" line="0" column="0" />
       </file>
@@ -397,7 +406,6 @@
         <mark key="." line="1" column="58" />
         <mark key="^" line="1" column="58" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/reports/infections_tab/infections_controller.js" timestamp="1497433352267" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/su/SoftwareUpdateServiceImpl.java" timestamp="1496311202963">
         <mark key="[" line="165" column="106" />
         <mark key="]" line="165" column="106" />
@@ -415,7 +423,6 @@
         <mark key="]" line="173" column="120" />
         <mark key="." line="186" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/spi/config/dev-skyblue.config.json" timestamp="1497424872770" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/index.js" timestamp="1496818428368">
         <mark key="[" line="51" column="74" />
         <mark key="]" line="51" column="74" />
@@ -572,8 +579,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE9sZEJ3SWQoKSB7CiAgICByZXR1cm4gb2xkQndJZDsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0T2xkQ2xpZW50VWlkKCkgewogICAgcmV0dXJuIG9sZENsaWVudFVpZDsKICB9Cgo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -592,45 +599,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>oldBwId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2V0TWVzc2FnZTogamFzbWluZS5jcmVhdGVTcHkoKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMub2xkQndJZCA9IGJ1aWxkZXIub2xkQndJZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVsb2FkOgo=</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE9sZEJ3SWQoKSB7CiAgICByZXR1cm4gb2xkQndJZDsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0T2xkQ2xpZW50VWlkKCkgewogICAgcmV0dXJuIG9sZENsaWVudFVpZDsKICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <text>j0w2f)x$hp0wdf.$hpx2F)p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIF8ucmVtb3ZlKHByb2ZpbGVMaXN0LCBwcm9maWxlKTsK</text>
-      </register>
-      <register name="3" type="4">
-        <text>CSBP-9900
-
-PSB should not return localProfileId, only cosmosId</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLnByb2ZpbGUuY29tbW9uLkNvc21vc1Byb2ZpbGVJZDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLmNvbXB1dGVyLkNvbXB1dGVySWQ7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLnByb2ZpbGUuY29tbW9uLkNvc21vc1Byb2ZpbGVJZDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRDb3Ntb3NQcm9maWxlSWRTZXJ2aWNlLmFzc2lnbkRlZmF1bHRDb21wdXRlclByb2ZpbGUoQ09NUFVURVJfSUQpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9sZEJ3SWQoU3RyaW5nIG9sZEJ3SWQpIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZpbmRFeGlzdGluZ0J3KCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFN1YnNjcmlwdGlvbkR0byBzdWJzY3JpcHRpb24gPSBnZXRBc3NpZ25hYmxlU3Vic2NyaXB0aW9uKGNvbXB1dGVyUmVnaXN0ZXIuZ2V0U3Vic2NyaXB0aW9uS2V5KCkpOwogICAgTmV3Q29tcHV0ZXJEYXRhIG5ld0NvbXB1dGVyRGF0YSA9IG5ldyBOZXdDb21wdXRlckRhdGEoc3Vic2NyaXB0aW9uLmdldElkKCksIGNvbXB1dGVyTmFtZShjb21wdXRlclJlZ2lzdGVyKSwgdHJ1ZSk7CiAgICBpbnQgY29tcHV0ZXJJZCA9IGNvbXB1dGVyUmVwb3NpdG9yeS5hZGQoY29tcHV0ZXJSZWdpc3Rlci5nZXRCd0lkKCksIG5ld0NvbXB1dGVyRGF0YSk7CiAgICBjb21wdXRlclJlcG9zaXRvcnkubWFya0FzQ29ubmVjdGVkKGNvbXB1dGVySWQpOwogICAgcmV0dXJuIGNvbXB1dGVySWQoY29tcHV0ZXJJZCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAubWFwKGJ3aW5zdGFsbGVkIC0+IGJ3aW5zdGFsbGVkLnNldEJ3SWQoKSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vY2tQcm9maWxlRm9yQ29tcHV0ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAuaWZQcmVzZW50KGNsaWVudCAtPiBid2luc3RhbGxlZERhby4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>29</text>
