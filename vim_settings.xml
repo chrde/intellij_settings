@@ -98,11 +98,11 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/NewComputerData.java" timestamp="1497956189661">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="22" column="8" />
-        <mark key="^" line="22" column="8" />
-        <mark key="." line="22" column="8" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/NewComputerData.java" timestamp="1497958345354">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/common/RegistrationData.java" timestamp="1496210472460">
         <mark key="[" line="12" column="19" />
@@ -458,10 +458,10 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497955037031">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1497956950924">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -637,7 +637,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>Data</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -656,7 +656,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>Data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
@@ -665,7 +665,7 @@
         <text encoding="base64">ICAgIHJldHVybiBuZXcgTmV3Q29tcHV0ZXJEYXRhKHN1YnNjcmlwdGlvbklkLCBjb21wdXRlck5hbWUsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -696,22 +696,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpc05ld0NsaWVudDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc05ld0NsaWVudCgpIHsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMuaXNOZXdDbGllbnQgPSBpc05ld0NsaWVudDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY29tcHV0ZXJOYW1lID0gY29tcHV0ZXJOYW1lOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMoc3Vic2NyaXB0aW9uSWQsIGNvbXB1dGVyTmFtZSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc3Vic2NyaXB0aW9uSWQgPSBzdWJzY3JpcHRpb25JZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTmV3Q29tcHV0ZXJEYXRhKGxvbmcgc3Vic2NyaXB0aW9uSWQsIFN0cmluZyBjb21wdXRlck5hbWUpIHsK</text>
+        <text encoding="base64">ICBwcml2YXRlIE5ld0NvbXB1dGVyRGF0YShsb25nIHN1YnNjcmlwdGlvbklkLCBTdHJpbmcgY29tcHV0ZXJOYW1lLCBib29sZWFuIGlzTmV3Q2xpZW50KSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -736,10 +736,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpc05ld0NsaWVudDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNOZXdDbGllbnQgPSBpc05ld0NsaWVudDsK</text>
+        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc05ld0NsaWVudCgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
