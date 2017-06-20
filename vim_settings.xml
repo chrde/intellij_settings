@@ -9,6 +9,9 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="/a.dummy" timestamp="1497597017821">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1497430004625">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -92,6 +95,9 @@
         <mark key="^" line="57" column="15" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/ComputerRegistrationData.java" timestamp="1496211008101">
+        <mark key="[" line="53" column="41" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/production/psb-smi-eu/config.json" timestamp="1496823672350">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="27" />
@@ -133,6 +139,12 @@
         <mark key="]" line="144" column="0" />
         <mark key="^" line="142" column="65" />
         <mark key="." line="144" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1497965988694">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="19" />
+        <mark key="^" line="36" column="19" />
+        <mark key="." line="36" column="19" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/PsbProfileServiceTest.java" timestamp="1497428131972">
         <mark key="[" line="69" column="59" />
@@ -417,7 +429,7 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1497956255804">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1497965711407">
         <mark key="[" line="104" column="119" />
         <mark key="]" line="104" column="119" />
         <mark key="^" line="104" column="66" />
@@ -428,6 +440,9 @@
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1497966118366">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/reassignment/ComputerReassignmentAction.java" timestamp="1497427426055">
         <mark key="[" line="34" column="65" />
@@ -497,7 +512,7 @@
         <mark key="]" line="173" column="120" />
         <mark key="." line="186" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1497954163434">
+      <file name="/fragment.java" timestamp="1497965702312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -637,7 +652,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Data</text>
+        <text>requestBody.clientUid</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -656,7 +671,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Data</text>
+        <text>requestBody.clientUid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
