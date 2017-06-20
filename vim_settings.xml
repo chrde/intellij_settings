@@ -140,11 +140,11 @@
         <mark key="^" line="142" column="65" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1497965988694">
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="19" />
-        <mark key="^" line="36" column="19" />
-        <mark key="." line="36" column="19" />
+      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1497966801995">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="26" />
+        <mark key="^" line="42" column="36" />
+        <mark key="." line="43" column="26" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/PsbProfileServiceTest.java" timestamp="1497428131972">
         <mark key="[" line="69" column="59" />
@@ -652,7 +652,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>requestBody.clientUid</text>
+        <text>clientCredentials.agentId</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -671,13 +671,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>requestBody.clientUid</text>
+        <text>clientCredentials.agentId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgTmV3Q29tcHV0ZXJEYXRhKHN1YnNjcmlwdGlvbklkLCBjb21wdXRlck5hbWUsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgKyBgIGJ3SWQ9IiR7Y2xpZW50Q3JlZGVudGlhbHMuYWdlbnRJZH0iYAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
