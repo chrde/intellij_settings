@@ -328,6 +328,7 @@
         <mark key="^" line="43" column="85" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1497944017720" />
       <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1494508686241">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="26" />
