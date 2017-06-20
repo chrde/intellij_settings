@@ -83,6 +83,7 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="16" column="201" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputersController.java" timestamp="1497944704828" />
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1494407692123">
         <mark key="[" line="2302" column="39" />
         <mark key="]" line="2302" column="45" />
@@ -328,11 +329,11 @@
         <mark key="^" line="152" column="53" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SubscriptionForComputerRetriever.java" timestamp="1497874086226" />
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1497940889392">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1497945015247">
         <mark key="[" line="66" column="92" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="85" />
-        <mark key="." line="43" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1497944017720" />
       <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1494508686241">
@@ -341,7 +342,7 @@
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="/JavaScript Console" timestamp="1497944172255">
+      <file name="/JavaScript Console" timestamp="1497944653184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/reassignment/ComputerReassignmentAction.java" timestamp="1497427426055">
@@ -396,7 +397,7 @@
         <mark key="^" line="23" column="66" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497940965941">
+      <file name="/Dummy.txt" timestamp="1497944253718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -465,7 +466,7 @@
         <mark key="." line="23" column="64" />
         <mark key="^" line="23" column="64" />
       </file>
-      <file name="/fragment.java" timestamp="1497865543873">
+      <file name="/fragment.java" timestamp="1497945018658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -663,7 +664,7 @@
         <text encoding="base64">ICAgIFN1YnNjcmlwdGlvbkR0byBzdWJzY3JpcHRpb24gPSBnZXRBc3NpZ25hYmxlU3Vic2NyaXB0aW9uKHN1YnNjcmlwdGlvbktleSwgTk9fU0VBVFNfUkVRVVJFRCk7CiAgICBpZighYncuZ2V0U3Vic2NyaXB0aW9uKCkuZ2V0UmVnSWQoKS5lcXVhbHNJZ25vcmVDYXNlKHN1YnNjcmlwdGlvbi5nZXRLZXkoKSkpewogICAgICAvL1RPRE8gdGhyb3cgZXhjZXB0aW9uIC0gY3VycmVudCBzdWJzY3JpcHRpb24gYW5kIHN1YnNjcmlwdGlvbiB1c2VkIHRvIHVwZ3JhZGUgbXVzdCBtYXRjaAogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRoaXMgaXMgYmFkIik7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>29</text>
+        <text>set relativenumber</text>
       </register>
     </registers>
     <search>
@@ -699,8 +700,6 @@
         <entry encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>534</entry>
-        <entry>265</entry>
         <entry>252</entry>
         <entry>272</entry>
         <entry>43</entry>
@@ -715,10 +714,12 @@
         <entry>set relative</entry>
         <entry>marks</entry>
         <entry>set number</entry>
-        <entry>set relativenumber</entry>
         <entry>173</entry>
         <entry>713</entry>
         <entry>29</entry>
+        <entry>show nu</entry>
+        <entry>set rnu</entry>
+        <entry>set relativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
