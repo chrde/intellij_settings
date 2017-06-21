@@ -479,7 +479,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498025563371">
+      <file name="/Dummy.txt" timestamp="1498025569005">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -658,7 +658,9 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>934 Assigning default COSMOS profile on installation
+
+PR fix</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -685,8 +687,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aW5zTmFtZTogdG9rZW5TaWduVXBSZXF1ZXN0LmJvZHkud2luc25hbWUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>934 Assigning default COSMOS profile on installation
+
+PR fix</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -717,22 +721,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNOZXdDbGllbnQgPSBpc05ld0NsaWVudDsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29tcHV0ZXJOYW1lID0gY29tcHV0ZXJOYW1lOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNOZXdDbGllbnQgPSBpc05ld0NsaWVudDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3Vic2NyaXB0aW9uSWQgPSBzdWJzY3JpcHRpb25JZDsK</text>
+        <text encoding="base64">ICAgIHRoaXMuY29tcHV0ZXJOYW1lID0gY29tcHV0ZXJOYW1lOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE5ld0NvbXB1dGVyRGF0YShsb25nIHN1YnNjcmlwdGlvbklkLCBTdHJpbmcgY29tcHV0ZXJOYW1lLCBib29sZWFuIGlzTmV3Q2xpZW50KSB7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc3Vic2NyaXB0aW9uSWQgPSBzdWJzY3JpcHRpb25JZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIE5ld0NvbXB1dGVyRGF0YShsb25nIHN1YnNjcmlwdGlvbklkLCBTdHJpbmcgY29tcHV0ZXJOYW1lLCBib29sZWFuIGlzTmV3Q2xpZW50KSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -757,10 +761,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpc05ld0NsaWVudDsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc05ld0NsaWVudCgpIHsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBpc05ld0NsaWVudDsK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
