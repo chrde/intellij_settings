@@ -479,10 +479,10 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497958431900">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1498025563371">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -658,7 +658,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>winsname</text>
+        <text />
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -677,7 +677,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>winsname</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
