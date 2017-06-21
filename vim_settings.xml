@@ -467,12 +467,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/RemoteActionsForNewDevicesListener.java" timestamp="1493708714892">
-        <mark key="[" line="64" column="41" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="70" column="48" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/utils/operation_constants.js" timestamp="1496132837277">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="50" />
@@ -767,7 +761,7 @@ PR fix</text>
         <text encoding="base64">ICAgIHJldHVybiBpc05ld0NsaWVudDsK</text>
       </register>
       <register name=":" type="4">
-        <text>set relativenumber</text>
+        <text>35</text>
       </register>
     </registers>
     <search>
@@ -803,8 +797,6 @@ PR fix</text>
         <entry encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>252</entry>
-        <entry>272</entry>
         <entry>43</entry>
         <entry>111</entry>
         <entry>nu</entry>
@@ -823,6 +815,8 @@ PR fix</text>
         <entry>show nu</entry>
         <entry>set rnu</entry>
         <entry>set relativenumber</entry>
+        <entry>59</entry>
+        <entry>35</entry>
       </history-cmd>
       <history-expr />
       <history-input />
