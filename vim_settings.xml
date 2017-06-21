@@ -140,11 +140,11 @@
         <mark key="^" line="142" column="65" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1497966801995">
+      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1498025184976">
         <mark key="[" line="43" column="26" />
-        <mark key="]" line="43" column="26" />
-        <mark key="^" line="42" column="36" />
-        <mark key="." line="43" column="26" />
+        <mark key="]" line="38" column="39" />
+        <mark key="^" line="38" column="39" />
+        <mark key="." line="38" column="39" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/PsbProfileServiceTest.java" timestamp="1497428131972">
         <mark key="[" line="69" column="59" />
@@ -285,6 +285,12 @@
         <mark key="]" line="55" column="54" />
         <mark key="." line="55" column="54" />
         <mark key="^" line="55" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/spi/spec/business/token_sign_up/token_sign_up_endpoint_spec.js" timestamp="1498025468373">
+        <mark key="[" line="100" column="50" />
+        <mark key="]" line="100" column="50" />
+        <mark key="." line="100" column="50" />
+        <mark key="^" line="100" column="50" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1494414385287">
         <mark key="[" line="61" column="38" />
@@ -652,7 +658,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>clientCredentials.agentId</text>
+        <text>winsname</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -671,13 +677,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>clientCredentials.agentId</text>
+        <text>winsname</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgKyBgIGJ3SWQ9IiR7Y2xpZW50Q3JlZGVudGlhbHMuYWdlbnRJZH0iYAo=</text>
+        <text encoding="base64">ICAgICAgICB3aW5zTmFtZTogdG9rZW5TaWduVXBSZXF1ZXN0LmJvZHkud2luc25hbWUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
