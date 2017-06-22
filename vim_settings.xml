@@ -761,7 +761,7 @@ PR fix</text>
         <text encoding="base64">ICAgIHJldHVybiBpc05ld0NsaWVudDsK</text>
       </register>
       <register name=":" type="4">
-        <text>35</text>
+        <text>176</text>
       </register>
     </registers>
     <search>
@@ -797,7 +797,6 @@ PR fix</text>
         <entry encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>43</entry>
         <entry>111</entry>
         <entry>nu</entry>
         <entry>nonumber</entry>
@@ -817,6 +816,7 @@ PR fix</text>
         <entry>set relativenumber</entry>
         <entry>59</entry>
         <entry>35</entry>
+        <entry>176</entry>
       </history-cmd>
       <history-expr />
       <history-input />
