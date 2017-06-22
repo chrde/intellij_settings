@@ -364,10 +364,9 @@
         <mark key="^" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/fs_firewall_autoselection_rules/fs_autoselection_rules_table.js" timestamp="1498129034015">
-        <mark key="[" line="56" column="22" />
-        <mark key="]" line="56" column="22" />
-        <mark key="." line="56" column="22" />
-        <mark key="^" line="38" column="13" />
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/production/psb1/config.json" timestamp="1496823654951">
         <mark key="[" line="14" column="0" />
