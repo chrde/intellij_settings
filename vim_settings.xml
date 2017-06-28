@@ -335,9 +335,9 @@
         <mark key="^" line="54" column="2" />
         <mark key="." line="54" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1498638802939">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1498641289356">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="23" />
         <mark key="^" line="2" column="23" />
         <mark key="." line="4" column="0" />
       </file>
@@ -663,7 +663,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WlpVNC1ZMzUxLUI0RFQtTTdFUC1US0JECg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -688,7 +688,7 @@
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjb3BlLnByb2ZpbGUuZmlyZXdhbGwuZ2VuZXJhbFNldHRpbmdzLmF1dG9TZWxlY3Rpb25SdWxlcyA9IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgIHByaW9yaXR5OiB7dmFsdWU6IDF9LAogICAgICAgICAgICAgIGZpcmV3YWxsUHJvZmlsZToge3ZhbHVlOiB7a2V5OiAnVEVTVF9QUk9GSUxFX05BTUUnfX0sCiAgICAgICAgICAgICAgbWV0aG9kMToge3ZhbHVlOiB7a2V5OiAnYWx3YXlzJ319LAogICAgICAgICAgICAgIG1ldGhvZDI6IHt2YWx1ZToge2tleTogJ2Fsd2F5cyd9fSwKICAgICAgICAgICAgICBhcmd1bWVudDE6IHt2YWx1ZTogJ1RFU1RfQVJHVU1FTlRfMSd9LAogICAgICAgICAgICAgIGFyZ3VtZW50Mjoge3ZhbHVlOiAnVEVTVF9BUkdVTUVOVF8yJ30KICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIHByaW9yaXR5OiB7dmFsdWU6IDJ9LAogICAgICAgICAgICAgIGZpcmV3YWxsUHJvZmlsZToge3ZhbHVlOiB7a2V5OiAnVEVTVF9QUk9GSUxFX05BTUVfMjInfX0sCiAgICAgICAgICAgICAgbWV0aG9kMToge3ZhbHVlOiB7a2V5OiAnYWx3YXlzXzIyJ319LAogICAgICAgICAgICAgIG1ldGhvZDI6IHt2YWx1ZToge2tleTogJ2Fsd2F5c18yMid9fSwKICAgICAgICAgICAgICBhcmd1bWVudDE6IHt2YWx1ZTogJ1RFU1RfQVJHVU1FTlRfMV8yMid9LAogICAgICAgICAgICAgIGFyZ3VtZW50Mjoge3ZhbHVlOiAnVEVTVF9BUkdVTUVOVF8yXzIyJ30KICAgICAgICAgICAgfQogICAgICAgICAgXTsK</text>
+        <text encoding="base64">WlpVNC1ZMzUxLUI0RFQtTTdFUC1US0JECg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
