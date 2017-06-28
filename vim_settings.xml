@@ -335,8 +335,11 @@
         <mark key="^" line="54" column="2" />
         <mark key="." line="54" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1498637901982">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1498638802939">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/spi/ComputersControllerTest.java" timestamp="1496211033740">
         <mark key="[" line="76" column="0" />
@@ -659,8 +662,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -688,7 +691,7 @@
         <text encoding="base64">ICAgICAgICAgIHNjb3BlLnByb2ZpbGUuZmlyZXdhbGwuZ2VuZXJhbFNldHRpbmdzLmF1dG9TZWxlY3Rpb25SdWxlcyA9IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgIHByaW9yaXR5OiB7dmFsdWU6IDF9LAogICAgICAgICAgICAgIGZpcmV3YWxsUHJvZmlsZToge3ZhbHVlOiB7a2V5OiAnVEVTVF9QUk9GSUxFX05BTUUnfX0sCiAgICAgICAgICAgICAgbWV0aG9kMToge3ZhbHVlOiB7a2V5OiAnYWx3YXlzJ319LAogICAgICAgICAgICAgIG1ldGhvZDI6IHt2YWx1ZToge2tleTogJ2Fsd2F5cyd9fSwKICAgICAgICAgICAgICBhcmd1bWVudDE6IHt2YWx1ZTogJ1RFU1RfQVJHVU1FTlRfMSd9LAogICAgICAgICAgICAgIGFyZ3VtZW50Mjoge3ZhbHVlOiAnVEVTVF9BUkdVTUVOVF8yJ30KICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIHByaW9yaXR5OiB7dmFsdWU6IDJ9LAogICAgICAgICAgICAgIGZpcmV3YWxsUHJvZmlsZToge3ZhbHVlOiB7a2V5OiAnVEVTVF9QUk9GSUxFX05BTUVfMjInfX0sCiAgICAgICAgICAgICAgbWV0aG9kMToge3ZhbHVlOiB7a2V5OiAnYWx3YXlzXzIyJ319LAogICAgICAgICAgICAgIG1ldGhvZDI6IHt2YWx1ZToge2tleTogJ2Fsd2F5c18yMid9fSwKICAgICAgICAgICAgICBhcmd1bWVudDE6IHt2YWx1ZTogJ1RFU1RfQVJHVU1FTlRfMV8yMid9LAogICAgICAgICAgICAgIGFyZ3VtZW50Mjoge3ZhbHVlOiAnVEVTVF9BUkdVTUVOVF8yXzIyJ30KICAgICAgICAgICAgfQogICAgICAgICAgXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBjdHJsID0gdGhpczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -719,24 +722,24 @@
         </keys>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CjE1IHNlYXRz</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciBjdHJsID0gdGhpczsK</text>
+      </register>
+      <register name="4" type="4">
         <text>934 Assigning default COSMOS profile on installation
 
 PR fix</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNOZXdDbGllbnQgPSBpc05ld0NsaWVudDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29tcHV0ZXJOYW1lID0gY29tcHV0ZXJOYW1lOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3Vic2NyaXB0aW9uSWQgPSBzdWJzY3JpcHRpb25JZDsK</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNOZXdDbGllbnQgPSBpc05ld0NsaWVudDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -761,10 +764,10 @@ PR fix</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE5ld0NvbXB1dGVyRGF0YShsb25nIHN1YnNjcmlwdGlvbklkLCBTdHJpbmcgY29tcHV0ZXJOYW1lLCBib29sZWFuIGlzTmV3Q2xpZW50KSB7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY29tcHV0ZXJOYW1lID0gY29tcHV0ZXJOYW1lOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc3Vic2NyaXB0aW9uSWQgPSBzdWJzY3JpcHRpb25JZDsK</text>
       </register>
       <register name=":" type="4">
         <text>176</text>
