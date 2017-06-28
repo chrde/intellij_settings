@@ -335,11 +335,11 @@
         <mark key="^" line="54" column="2" />
         <mark key="." line="54" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1498641289356">
-        <mark key="[" line="1" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1498643268153">
+        <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/spi/ComputersControllerTest.java" timestamp="1496211033740">
         <mark key="[" line="76" column="0" />
