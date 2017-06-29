@@ -165,17 +165,21 @@
         <mark key="." line="132" column="91" />
         <mark key="^" line="132" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1497433428659">
-        <mark key="[" line="30" column="61" />
-        <mark key="]" line="31" column="21" />
-        <mark key="^" line="31" column="21" />
-        <mark key="." line="31" column="21" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1498732054630">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="23" column="42" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesAction.java" timestamp="1497427376029">
         <mark key="[" line="36" column="101" />
         <mark key="]" line="62" column="4" />
         <mark key="." line="62" column="4" />
         <mark key="^" line="62" column="4" />
+      </file>
+      <file name="/computer_protection_profiles_tab_content_controller.js" timestamp="1498732049564">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="9" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/spec/lib/operations/set_default_profile_in_psb_spec.js" timestamp="1496823539731">
         <mark key="[" line="14" column="0" />
@@ -664,7 +668,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">WlpVNC1ZMzUxLUI0RFQtTTdFUC1US0JECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZVNlcnZpY2UuZGVsZXRlQ29tcHV0ZXJQcm90ZWN0aW9uUHJvZmlsZShhY3RpdmVFbnRpdHksIHByb2ZpbGUuaWQpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -683,16 +687,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">WlpVNC1ZMzUxLUI0RFQtTTdFUC1US0JECg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihmdW5jdGlvbiAoKSB7CiAgICAgICAgICByZXR1cm4gcHJvZmlsZVNlcnZpY2UuZGVsZXRlQ29tcHV0ZXJQcm90ZWN0aW9uUHJvZmlsZShhY3RpdmVFbnRpdHksIHByb2ZpbGUuaWQpOwogICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZVNlcnZpY2UuZGVsZXRlQ29tcHV0ZXJQcm90ZWN0aW9uUHJvZmlsZShhY3RpdmVFbnRpdHksIHByb2ZpbGUuaWQpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -722,25 +726,23 @@
           <key char="41" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CjE1IHNlYXRz</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHN0YXRlLnJlbG9hZCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBjdHJsID0gdGhpczsK</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>934 Assigning default COSMOS profile on installation
-
-PR fix</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAudGhlbihmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2VTZXJ2aWNlLnNldE1lc3NhZ2UoJ3Byb2ZpbGVzLmNvbXB1dGVyUHJvdGVjdGlvbi5saXN0LmRlbGV0ZS5zdWNjZXNzJywge30sICdvaycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICRzdGF0ZS5yZWxvYWQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNOZXdDbGllbnQgPSBpc05ld0NsaWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -765,10 +767,10 @@ PR fix</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29tcHV0ZXJOYW1lID0gY29tcHV0ZXJOYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBwcm9maWxlU2VydmljZS5kZWxldGVDb21wdXRlclByb3RlY3Rpb25Qcm9maWxlKGFjdGl2ZUVudGl0eSwgcHJvZmlsZS5pZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3Vic2NyaXB0aW9uSWQgPSBzdWJzY3JpcHRpb25JZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>176</text>
