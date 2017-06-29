@@ -153,7 +153,7 @@
         <mark key="." line="100" column="50" />
         <mark key="^" line="100" column="50" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1498720117170">
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1498721168870">
         <mark key="[" line="61" column="38" />
         <mark key="]" line="40" column="29" />
         <mark key="." line="40" column="29" />
@@ -388,7 +388,7 @@
         <mark key="^" line="104" column="66" />
         <mark key="." line="104" column="119" />
       </file>
-      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1498025184976">
+      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1498722098335">
         <mark key="[" line="43" column="26" />
         <mark key="]" line="38" column="39" />
         <mark key="^" line="38" column="39" />
@@ -419,7 +419,7 @@
         <mark key="^" line="57" column="3" />
         <mark key="." line="57" column="3" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1497865420513">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1498721658614">
         <mark key="[" line="61" column="9" />
         <mark key="]" line="61" column="8" />
         <mark key="." line="61" column="8" />
@@ -477,6 +477,7 @@
         <mark key="]" line="204" column="0" />
         <mark key="." line="204" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/reassignment/SubscriptionChangeValidator.java" timestamp="1498721334487" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
