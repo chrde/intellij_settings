@@ -303,11 +303,11 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" timestamp="1497956418528">
-        <mark key="[" line="132" column="91" />
-        <mark key="]" line="132" column="91" />
-        <mark key="." line="132" column="91" />
-        <mark key="^" line="132" column="54" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" timestamp="1498817712110">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="133" column="79" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesAction.java" timestamp="1497427376029">
         <mark key="[" line="36" column="101" />
@@ -676,8 +676,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>bw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -696,16 +696,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bw</text>
+        <text>EX</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN1YnNjcmlwdGlvbkR0byBzdWJzY3JpcHRpb25SZXF1ZXN0ZWQgPSBnZXRBc3NpZ25hYmxlU3Vic2NyaXB0aW9uKHJlZ2lzdHJhdGlvbkR0by5nZXRTdWJzY3JpcHRpb25LZXkoKSwgTk9fU0VBVFNfUkVRVVJFRCk7Cg==</text>
+        <text encoding="base64">CiAgICBhc3NlcnRUaGF0KGV4cGVjdGVkKS5pc0VxdWFsVG8oY29tcHV0ZXJJZChleGlzdGluZ0J3LmdldElkKCkpKTsKICAgIGFzc2VydFRoYXQoZXhpc3RpbmdCdy5nZXRCd0lkKCkpLmlzRXF1YWxUbyhCV19JRCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ3LnNldFN1YnNjcmlwdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -736,22 +736,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEludmFsaWRTdWJzY3JpcHRpb25SdW50aW1lRXhjZXB0aW9uKCJNaWdyYXRpb24gdG8gYSBkaWZmZXJlbnQgc3Vic2NyaXB0aW9uIGlzIG5vdCBzdXBwb3J0ZWQiKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGJ3LmdldFN1YnNjcmlwdGlvbigpLmdldFJlZ0lkKCksIHN1YnNjcmlwdGlvblJlcXVlc3RlZC5nZXRLZXkoKSk7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCByZWdpc3Rlcl9leGlzdGluZ0NvbXB1dGVyXygpIHRocm93cyBFeGNlcHRpb24gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKCJDYW50IG1pZ3JhdGUgW2NvbXB1dGVySWQ9e30gc3Vic2NyaXB0aW9uPXt9XSB0byBvbmUgY2xpZW50IHVzaW5nIFtzdWJzY3JpcHRpb249e31dIiwgYncuZ2V0SWQoKSwK</text>
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhpc3RpbmdCdy5nZXRCd0lkKCkpLmlzRXF1YWxUbyhCV19JRCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEludmFsaWRTdWJzY3JpcHRpb25SdW50aW1lRXhjZXB0aW9uKCJNaWdyYXRpb24gdG8gYSBkaWZmZXJlbnQgc3Vic2NyaXB0aW9uIGlzIG5vdCBzdXBwb3J0ZWQiKTsK</text>
+        <text encoding="base64">ICBAVGVzdChleHBlY3RlZCA9IEludmFsaWRTdWJzY3JpcHRpb25SdW50aW1lRXhjZXB0aW9uLmNsYXNzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGJ3LmdldFN1YnNjcmlwdGlvbigpLmdldFJlZ0lkKCksIHN1YnNjcmlwdGlvblJlcXVlc3RlZC5nZXRLZXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZhaWwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -776,10 +776,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKCJDYW50IG1pZ3JhdGUgW2NvbXB1dGVySWQ9e30gc3Vic2NyaXB0aW9uPXt9XSB0byBvbmUgY2xpZW50IHVzaW5nIFtzdWJzY3JpcHRpb249e31dIiwgYncuZ2V0SWQoKSwK</text>
+        <text encoding="base64">ICAgIGJ3LnNldFN1YnNjcmlwdGlvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICghYncuZ2V0U3Vic2NyaXB0aW9uKCkuZ2V0UmVnSWQoKS5lcXVhbHNJZ25vcmVDYXNlKHN1YnNjcmlwdGlvblJlcXVlc3RlZC5nZXRLZXkoKSkpIHsK</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEludmFsaWRTdWJzY3JpcHRpb25SdW50aW1lRXhjZXB0aW9uKCJNaWdyYXRpb24gdG8gYSBkaWZmZXJlbnQgc3Vic2NyaXB0aW9uIGlzIG5vdCBzdXBwb3J0ZWQiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>176</text>
