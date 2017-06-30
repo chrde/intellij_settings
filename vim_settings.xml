@@ -455,11 +455,11 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1498809570675">
-        <mark key="[" line="87" column="42" />
-        <mark key="]" line="101" column="118" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1498814923474">
+        <mark key="[" line="88" column="7" />
+        <mark key="]" line="88" column="7" />
         <mark key="^" line="101" column="118" />
-        <mark key="." line="101" column="118" />
+        <mark key="." line="88" column="7" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1494508686241">
         <mark key="[" line="12" column="26" />
@@ -677,7 +677,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>NO_SEATS_REQURED</text>
+        <text>getSubscription().</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -696,7 +696,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NO_SEATS_REQURED</text>
+        <text>getSubscription().</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
