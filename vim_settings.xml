@@ -304,11 +304,11 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" timestamp="1498817712110">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="133" column="79" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" timestamp="1499076958546">
+        <mark key="[" line="133" column="41" />
+        <mark key="]" line="133" column="41" />
+        <mark key="^" line="240" column="59" />
+        <mark key="." line="133" column="41" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesAction.java" timestamp="1497427376029">
         <mark key="[" line="36" column="101" />
@@ -456,7 +456,7 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1498815667936">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1499076806697">
         <mark key="[" line="89" column="40" />
         <mark key="]" line="84" column="2" />
         <mark key="." line="84" column="2" />
@@ -494,7 +494,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498815762766">
+      <file name="/Dummy.txt" timestamp="1499076272413">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -538,7 +538,7 @@
         <mark key="[" line="8" column="3" />
         <mark key="]" line="59" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1497965702312">
+      <file name="/fragment.java" timestamp="1499076813860">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -677,8 +677,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>EXISTING_COMPUTER_CLIENTUID_DTO</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -697,13 +697,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EX</text>
+        <text>EXISTING_COMPUTER_CLIENTUID_DTO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICBhc3NlcnRUaGF0KGV4cGVjdGVkKS5pc0VxdWFsVG8oY29tcHV0ZXJJZChleGlzdGluZ0J3LmdldElkKCkpKTsKICAgIGFzc2VydFRoYXQoZXhpc3RpbmdCdy5nZXRCd0lkKCkpLmlzRXF1YWxUbyhCV19JRCk7Cg==</text>
+      <register name="0" type="4">
+        <text>ensureOldBwIdIsNotUsed</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -737,22 +737,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCByZWdpc3Rlcl9leGlzdGluZ0NvbXB1dGVyXygpIHRocm93cyBFeGNlcHRpb24gewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhpc3RpbmdCdy5nZXRCd0lkKCkpLmlzRXF1YWxUbyhCV19JRCk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhwZWN0ZWQpLmlzRXF1YWxUbyhjb21wdXRlcklkKGV4aXN0aW5nQncuZ2V0SWQoKSkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlIEJ3aW5zdGFsbGVkIG1vY2tFeGlzdGluZ0J3KFN0cmluZyBvbGRDbGllbnRJZCwgU3RyaW5nIG9sZEJ3SWQsIENvbXB1dGVyUmVnaXN0cmF0aW9uRHRvIHJlZ2lzdHJhdGlvbkR0bywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludCBzZWF0c1JlcXVpcmVkKSB7CiAgICBCd2luc3RhbGxlZCBidyA9IG1vY2tFeGlzdGluZ0J3KG9sZENsaWVudElkLCByZWdpc3RyYXRpb25EdG8sIHNlYXRzUmVxdWlyZWQpOwogICAgZW5zdXJlT2xkQndJZF9pc05vdFVzZWRfd2hlbkNsaWVudFVpZEV4aXN0cyhvbGRCd0lkKTsKICAgIHJldHVybiBidzsKCiAgfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAVGVzdChleHBlY3RlZCA9IEludmFsaWRTdWJzY3JpcHRpb25SdW50aW1lRXhjZXB0aW9uLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZhaWwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -777,10 +777,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJ3LnNldFN1YnNjcmlwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIHdoZW4oYndpbnN0YWxsZWREYW8uZmluZEJ5QndJZChvbGRCd0lkKSkudGhlblRocm93KG5ldyBSdW50aW1lRXhjZXB0aW9uKCJpZiBPbGRDbGllbnQgZXhpc3RzLCBid0lkIHNob3VsZCBiZSBpZ25vcmVkISEiKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEludmFsaWRTdWJzY3JpcHRpb25SdW50aW1lRXhjZXB0aW9uKCJNaWdyYXRpb24gdG8gYSBkaWZmZXJlbnQgc3Vic2NyaXB0aW9uIGlzIG5vdCBzdXBwb3J0ZWQiKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIEJ3aW5zdGFsbGVkIG1vY2tFeGlzdGluZ0J3KFN0cmluZyBvbGRDbGllbnRJZCwgU3RyaW5nIG9sZEJ3SWQsIENvbXB1dGVyUmVnaXN0cmF0aW9uRHRvIGV4aXN0aW5nQ29tcHV0ZXJDbGllbnR1aWRPbGRid2lkRHRvLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgbm9TZWF0c1JlcXVyZWQpIHsKICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>176</text>
