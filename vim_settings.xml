@@ -456,10 +456,10 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1499080037112">
-        <mark key="[" line="95" column="46" />
-        <mark key="]" line="84" column="2" />
-        <mark key="." line="84" column="2" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1499152729725">
+        <mark key="[" line="94" column="26" />
+        <mark key="]" line="94" column="26" />
+        <mark key="." line="94" column="26" />
         <mark key="^" line="84" column="2" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1494508686241">
@@ -494,7 +494,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499080164043">
+      <file name="/Dummy.txt" timestamp="1499152766832">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -677,8 +677,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLmNvbW1vbi5JbnZhbGlkU3Vic2NyaXB0aW9uUnVudGltZUV4Y2VwdGlvbjsK</text>
+      <register name="&quot;" type="4">
+        <text>validateSubscriptionOnMigrationFromOldClient</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -697,7 +697,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EXISTING_COMPUTER_CLIENTUID_DTO</text>
+        <text>validateSubscriptionOnMigrationFromOldClient</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
