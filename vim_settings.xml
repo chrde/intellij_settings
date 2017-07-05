@@ -204,11 +204,11 @@
         <mark key="." line="23" column="64" />
         <mark key="^" line="23" column="64" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/premium" timestamp="1499243693481">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="7" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/premium" timestamp="1499245363032">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" timestamp="1494510549188">
         <mark key="[" line="96" column="11" />
