@@ -204,6 +204,12 @@
         <mark key="." line="23" column="64" />
         <mark key="^" line="23" column="64" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/premium" timestamp="1499243693481">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+        <mark key="^" line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" timestamp="1494510549188">
         <mark key="[" line="96" column="11" />
         <mark key="]" line="96" column="14" />
@@ -676,7 +682,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -695,7 +701,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
@@ -704,7 +710,7 @@
         <text>ensureOldBwIdIsNotUsed</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLmNvbW1vbi5JbnZhbGlkU3Vic2NyaXB0aW9uUnVudGltZUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">UTogaWYgZGlmZmVyZW50IGNvbnRlbnQgLSBhcmUgd2UgcmVzcG9uc2libGUgZm9yIGl0Pwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -734,25 +740,25 @@
           <key char="41" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLmNvbW1vbi5JbnZhbGlkU3Vic2NyaXB0aW9uUnVudGltZUV4Y2VwdGlvbjsK</text>
+      </register>
+      <register name="3" type="4">
         <text>CSBP-8884 Migration to OneClient does not use extra subscription seat
 
 NewComputerData has static factories rather than a boolean in constructor</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhpc3RpbmdCdy5nZXRCd0lkKCkpLmlzRXF1YWxUbyhCV19JRCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhwZWN0ZWQpLmlzRXF1YWxUbyhjb21wdXRlcklkKGV4aXN0aW5nQncuZ2V0SWQoKSkpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhpc3RpbmdCdy5nZXRCd0lkKCkpLmlzRXF1YWxUbyhCV19JRCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhwZWN0ZWQpLmlzRXF1YWxUbyhjb21wdXRlcklkKGV4aXN0aW5nQncuZ2V0SWQoKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEJ3aW5zdGFsbGVkIG1vY2tFeGlzdGluZ0J3KFN0cmluZyBvbGRDbGllbnRJZCwgU3RyaW5nIG9sZEJ3SWQsIENvbXB1dGVyUmVnaXN0cmF0aW9uRHRvIHJlZ2lzdHJhdGlvbkR0bywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludCBzZWF0c1JlcXVpcmVkKSB7CiAgICBCd2luc3RhbGxlZCBidyA9IG1vY2tFeGlzdGluZ0J3KG9sZENsaWVudElkLCByZWdpc3RyYXRpb25EdG8sIHNlYXRzUmVxdWlyZWQpOwogICAgZW5zdXJlT2xkQndJZF9pc05vdFVzZWRfd2hlbkNsaWVudFVpZEV4aXN0cyhvbGRCd0lkKTsKICAgIHJldHVybiBidzsKCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -777,10 +783,10 @@ NewComputerData has static factories rather than a boolean in constructor</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBwcml2YXRlIEJ3aW5zdGFsbGVkIG1vY2tFeGlzdGluZ0J3KFN0cmluZyBvbGRDbGllbnRJZCwgU3RyaW5nIG9sZEJ3SWQsIENvbXB1dGVyUmVnaXN0cmF0aW9uRHRvIHJlZ2lzdHJhdGlvbkR0bywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludCBzZWF0c1JlcXVpcmVkKSB7CiAgICBCd2luc3RhbGxlZCBidyA9IG1vY2tFeGlzdGluZ0J3KG9sZENsaWVudElkLCByZWdpc3RyYXRpb25EdG8sIHNlYXRzUmVxdWlyZWQpOwogICAgZW5zdXJlT2xkQndJZF9pc05vdFVzZWRfd2hlbkNsaWVudFVpZEV4aXN0cyhvbGRCd0lkKTsKICAgIHJldHVybiBidzsKCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>176</text>
