@@ -221,6 +221,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/subscriptionChangeSpec.js" timestamp="1499240246753">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="93" column="6" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputerRegistrationRequestResource.java" timestamp="1497954096557">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -494,7 +500,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499152766832">
+      <file name="/Dummy.txt" timestamp="1499240162403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -678,7 +684,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>validateSubscriptionOnMigrationFromOldClient</text>
+        <text>f</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -697,7 +703,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>validateSubscriptionOnMigrationFromOldClient</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
