@@ -164,11 +164,12 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" timestamp="1499080129372">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="239" column="59" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" timestamp="1499852233281">
+        <mark key="'" line="49" column="2" />
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="48" column="32" />
+        <mark key="^" line="48" column="32" />
+        <mark key="." line="48" column="32" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1498732054630">
         <mark key="[" line="21" column="0" />
@@ -348,11 +349,11 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1499843647698">
-        <mark key="[" line="93" column="5" />
-        <mark key="]" line="90" column="19" />
-        <mark key="." line="90" column="19" />
-        <mark key="^" line="90" column="19" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1499852293731">
+        <mark key="[" line="83" column="78" />
+        <mark key="]" line="84" column="31" />
+        <mark key="." line="84" column="31" />
+        <mark key="^" line="84" column="31" />
       </file>
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1498722098335">
         <mark key="[" line="43" column="26" />
@@ -491,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="23" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="4" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="29" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="18" column="53" filename="$USER_HOME$/github/rust101/src/part05.rs" />
@@ -591,6 +591,7 @@
       <jump line="141" column="15" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" />
       <jump line="5" column="9" filename="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/create_profiles.js" />
       <jump line="106" column="26" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" />
+      <jump line="49" column="2" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -617,7 +618,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>UUID</text>
+        <text>OLD_SHORT_BW_ID_DECODED</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -636,16 +637,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UUID</text>
+        <text>OLD_SHORT_BW_ID_DECODED</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</text>
+        <text>1</text>
       </register>
-      <register name="0" type="4">
-        <text>ensureOldBwIdIsNotUsed</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgT0xEX1NIT1JUX0JXX0lEX0RFQ09ERUQgPSAiQj08OCNFLH4lXjAiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgQldJRF9VVUlEX0xFTkdUSCA9IDM2Owo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgT0xEX0JXX0lEID0gIlFXRVJUWSI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -676,22 +677,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsCgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQldfSUQgPSAiMTExMTExMTEtMTExMS0xMTExLTExMTEtMTExMTExMTExMTExIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gZ2V0TG9nZ2VyKHRoaXNDbGFzcygpKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgQldJRF9VVUlEX0xFTkdUSCA9IDM2Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJbnN0YW50Lm4K</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gZ2V0TG9nZ2VyKHRoaXNDbGFzcygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">T3B0aW9uIDE6IFBTQiBrbm93cyB3aG8gaXMgcHJlbWl1ZG0K</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50Lm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UTogaWYgZGlmZmVyZW50IGNvbnRlbnQgLSBhcmUgd2UgcmVzcG9uc2libGUgZm9yIGl0Pwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -716,29 +717,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5zZXJ2aWNlLmNvbW1vbi5JbnZhbGlkU3Vic2NyaXB0aW9uUnVudGltZUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">T3B0aW9uIDE6IFBTQiBrbm93cyB3aG8gaXMgcHJlbWl1ZG0K</text>
       </register>
-      <register name="9" type="4">
-        <text>CSBP-8884 Migration to OneClient does not use extra subscription seat
-
-NewComputerData has static factories rather than a boolean in constructor</text>
+      <register name="9" type="2">
+        <text encoding="base64">UTogaWYgZGlmZmVyZW50IGNvbnRlbnQgLSBhcmUgd2UgcmVzcG9uc2libGUgZm9yIGl0Pwo=</text>
       </register>
       <register name=":" type="4">
-        <text>176</text>
+        <text>s/1/2/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</last-pattern>
-      <last-replace>Something</last-replace>
-      <last-substitute>system_tab</last-substitute>
+      <last-pattern>1</last-pattern>
+      <last-replace>2</last-replace>
+      <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvZkVwb2NoTWlsbGlcPg==</entry>
         <entry encoding="base64">XDxzdWJzY3JpcHRpb25DaGFuZ2VcPg==</entry>
         <entry>i32</entry>
         <entry>Number</entry>
@@ -758,10 +756,9 @@ NewComputerData has static factories rather than a boolean in constructor</text>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxjb21wdXRlcklkXD4=</entry>
         <entry encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
-        <entry>111</entry>
-        <entry>nu</entry>
         <entry>nonumber</entry>
         <entry>nonumbers</entry>
         <entry>hidenu</entry>
@@ -780,6 +777,8 @@ NewComputerData has static factories rather than a boolean in constructor</text>
         <entry>59</entry>
         <entry>35</entry>
         <entry>176</entry>
+        <entry>s/1/2</entry>
+        <entry>s/1/2/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
