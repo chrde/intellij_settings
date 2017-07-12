@@ -164,12 +164,12 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" timestamp="1499852553870">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" timestamp="1499860447896">
         <mark key="'" line="49" column="2" />
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="48" column="32" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
         <mark key="^" line="48" column="32" />
-        <mark key="." line="48" column="32" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1498732054630">
         <mark key="[" line="21" column="0" />
@@ -618,8 +618,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>sd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihPTERfQldfSUQubGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -646,8 +646,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgT0xEX1NIT1JUX0JXX0lEX0RFQ09ERUQgPSAiQj08OCNFLH4lXjAiOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dGhlIGNsaWVudCBzZW5kcyBvbGQgYndJZCAob3IgY2xpZW50VWlkKSBiYXNlNjQgZW5jb2RlZCBpZiB0aGUgYndJZCBpcyBub3QgaW4gVVVJRCBmb3JtYXQKIGUuZzogaWYgdGhlIGJ3SWQgaXMgJ0I9PDgjRSx+JV4wJywgdGhlIGNsaWVudCBzZW5kcyAnUWowOE9DTkZMSDRsWGpBPScKQnV0IHRoZSBid0lkIGlzIGFsd2F5cyBzdG9yZWQgaW4gcHNiIGRlY29kZWQgKCdCPTw4I0UsfiVeMCcp</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihPTERfQldfSUQubGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -677,26 +677,26 @@
           <key char="41" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uc3luZGljYXRpb24uaW8uaW1wbC5CYXNlNjQ7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">dGhlIGNsaWVudCBzZW5kcyBvbGQgYndJZCAob3IgY2xpZW50VWlkKSBiYXNlNjQgZW5jb2RlZCBpZiB0aGUgYndJZCBpcyBub3QgaW4gVVVJRCBmb3JtYXQKIGUuZzogaWYgdGhlIGJ3SWQgaXMgJ0I9PDgjRSx+JV4wJywgdGhlIGNsaWVudCBzZW5kcyAnUWowOE9DTkZMSDRsWGpBPScKQnV0IHRoZSBid0lkIGlzIGFsd2F5cyBzdG9yZWQgaW4gcHNiIGRlY29kZWQgKCdCPTw4I0UsfiVeMCcp</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5zdW4uc3luZGljYXRpb24uaW8uaW1wbC5CYXNlNjQ7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uc3luZGljYXRpb24uaW8uaW1wbC5CYXNlNjQ7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>CSBP-10916 Bugfix: Can't upgrade to OneClient
 
 Upgrade using a different subscription should be possible
 PSB should first use ClientUid to identify existing computer, not OldBwId</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgT0xEX0JXX0lEID0gIlFXRVJUWSI7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQldfSUQgPSAiMTExMTExMTEtMTExMS0xMTExLTExMTEtMTExMTExMTExMTExIjsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgQldJRF9VVUlEX0xFTkdUSCA9IDM2Owo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQldfSUQgPSAiMTExMTExMTEtMTExMS0xMTExLTExMTEtMTExMTExMTExMTExIjsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -721,10 +721,10 @@ PSB should first use ClientUid to identify existing computer, not OldBwId</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsCgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgQldJRF9VVUlEX0xFTkdUSCA9IDM2Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gZ2V0TG9nZ2VyKHRoaXNDbGFzcygpKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsCgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
