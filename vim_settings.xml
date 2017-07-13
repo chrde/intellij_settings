@@ -26,7 +26,6 @@
         <mark key="^" line="93" column="6" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/subscriptions.txt" timestamp="1499764168575" />
       <file name="$USER_HOME$/dev-sources/reporting-service/.ebextensions/autoscaling.config" timestamp="1499777168806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="32" />
@@ -109,7 +108,6 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="16" column="201" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputersController.java" timestamp="1499673921672" />
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1494407692123">
         <mark key="[" line="2302" column="39" />
         <mark key="]" line="2302" column="45" />
@@ -349,7 +347,6 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-config/ci/latest/micro-cosmos-config.json" timestamp="1499859797068" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1499853383172">
         <mark key="[" line="92" column="55" />
         <mark key="]" line="92" column="55" />
@@ -491,6 +488,12 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
       </file>
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/dto/alert/Action.java" timestamp="1499935166026">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
@@ -618,8 +621,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Base64 from java8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFJFUE9SVEVEKCJyZXBvcnRlZCIpLAo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -644,7 +647,7 @@
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgT0xEX1NIT1JUX0JXX0lEX0RFQ09ERUQgPSAiQj08OCNFLH4lXjAiOwo=</text>
+        <text encoding="base64">ICAgIFJFUE9SVEVEKCJyZXBvcnRlZCIpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihPTERfQldfSUQubGVuZ3RoKCkpOwo=</text>
