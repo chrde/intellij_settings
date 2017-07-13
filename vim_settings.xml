@@ -215,6 +215,12 @@
         <mark key="." line="27" column="17" />
         <mark key="^" line="16" column="23" />
       </file>
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/redshift/RedshiftSaver.java" timestamp="1499938082037">
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="69" column="6" />
+        <mark key="." line="69" column="6" />
+        <mark key="^" line="69" column="6" />
+      </file>
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/cosmos/create_child_node.js" timestamp="1497424616047">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="67" />
@@ -621,8 +627,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJFUE9SVEVEKCJyZXBvcnRlZCIpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>UnsupportedEncodingException</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -641,7 +647,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Base64 from java8</text>
+        <text>UnsupportedEncodingException</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
