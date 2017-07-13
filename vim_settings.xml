@@ -177,6 +177,12 @@
         <mark key="." line="62" column="4" />
         <mark key="^" line="62" column="4" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/model/alert/InfectionAlert.java" timestamp="1499953366828">
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="36" column="4" />
+        <mark key="^" line="36" column="4" />
+        <mark key="." line="36" column="4" />
+      </file>
       <file name="/computer_protection_profiles_tab_content_controller.js" timestamp="1498732049564">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="9" />
@@ -332,6 +338,7 @@
         <mark key="^" line="142" column="65" />
         <mark key="." line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/BackendManager.java" timestamp="1499952943964" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496661904827">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
