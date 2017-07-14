@@ -299,12 +299,12 @@
         <mark key="." line="88" column="30" />
         <mark key="^" line="88" column="30" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" timestamp="1500030055062">
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" timestamp="1500032205451">
         <mark key="'" line="140" column="27" />
-        <mark key="[" line="139" column="43" />
-        <mark key="]" line="141" column="8" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="147" column="64" />
         <mark key="^" line="142" column="27" />
-        <mark key="." line="141" column="9" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/common/RegistrationData.java" timestamp="1496210472460">
         <mark key="[" line="12" column="19" />
@@ -637,8 +637,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Alert</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW1xQnJva2VyVXJsKGNvbmZpZy5nZXRQcm9wZXJ0eShBQ1RJVkVNUV9CUk9LRVJfVVJMKSkKICAgICAgICAgICAgICAgICAgICAudXNlck5hbWUoY29uZmlnLmdldFByb3BlcnR5KEFDVElWRU1RX1VTRVJfTkFNRSkpCiAgICAgICAgICAgICAgICAgICAgLnBhc3N3b3JkKGNvbmZpZy5nZXRQcm9wZXJ0eShBQ1RJVkVNUV9QQVNTV09SRCkpCg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -663,7 +663,7 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWN0aXZlTVFGb3J3YXJkZXIKICAgICAgICAgICAgICAgICAgICAuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgLmFtcUJyb2tlclVybChjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfQlJPS0VSX1VSTCkpCiAgICAgICAgICAgICAgICAgICAgLnVzZXJOYW1lKGNvbmZpZy5nZXRQcm9wZXJ0eShBQ1RJVkVNUV9VU0VSX05BTUUpKQogICAgICAgICAgICAgICAgICAgIC5wYXNzd29yZChjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfUEFTU1dPUkQpKQogICAgICAgICAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgICAgICAgICAgICAgLnNlbmQodXBzdHJlYW1QYXlsb2Fkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW1xQnJva2VyVXJsKGNvbmZpZy5nZXRQcm9wZXJ0eShBQ1RJVkVNUV9CUk9LRVJfVVJMKSkKICAgICAgICAgICAgICAgICAgICAudXNlck5hbWUoY29uZmlnLmdldFByb3BlcnR5KEFDVElWRU1RX1VTRVJfTkFNRSkpCiAgICAgICAgICAgICAgICAgICAgLnBhc3N3b3JkKGNvbmZpZy5nZXRQcm9wZXJ0eShBQ1RJVkVNUV9QQVNTV09SRCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXNzd29yZChjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfUEFTU1dPUkQpKQo=</text>
