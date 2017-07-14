@@ -184,10 +184,6 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="/computer_protection_profiles_tab_content_controller.js" timestamp="1498732049564">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="9" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/spec/lib/operations/set_default_profile_in_psb_spec.js" timestamp="1496823539731">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -303,6 +299,13 @@
         <mark key="." line="88" column="30" />
         <mark key="^" line="88" column="30" />
       </file>
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" timestamp="1500027543819">
+        <mark key="'" line="140" column="27" />
+        <mark key="[" line="140" column="365" />
+        <mark key="]" line="140" column="365" />
+        <mark key="^" line="140" column="30" />
+        <mark key="." line="140" column="365" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/common/RegistrationData.java" timestamp="1496210472460">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="31" column="0" />
@@ -340,6 +343,10 @@
         <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/BackendManager.java" timestamp="1499952943964" />
+      <file name="$USER_HOME$/dev-sources/management-platform-config/ci/stable/upstream-forwarder.conf" timestamp="1500027356727">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="55" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496661904827">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -364,6 +371,7 @@
         <mark key="^" line="92" column="65" />
         <mark key="." line="92" column="55" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/DataloaderConsumer.java" timestamp="1500026903963" />
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1498722098335">
         <mark key="[" line="43" column="26" />
         <mark key="]" line="38" column="39" />
@@ -472,10 +480,6 @@
         <mark key="." line="62" column="2" />
         <mark key="^" line="63" column="75" />
       </file>
-      <file name="/karma.conf.js" timestamp="1498732707527">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="59" column="5" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_profiles_tab/computer_profiles_tab_content_controller.js" timestamp="1494401744676">
         <mark key="[" line="414" column="0" />
         <mark key="]" line="416" column="5" />
@@ -508,7 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="29" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="18" column="53" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="5" column="30" filename="$USER_HOME$/github/rust101/src/part05.rs" />
@@ -608,6 +611,7 @@
       <jump line="5" column="9" filename="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/create_profiles.js" />
       <jump line="106" column="26" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" />
       <jump line="49" column="2" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" />
+      <jump line="140" column="27" filename="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -634,7 +638,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>UnsupportedEncodingException</text>
+        <text>\</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -653,13 +657,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UnsupportedEncodingException</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFJFUE9SVEVEKCJyZXBvcnRlZCIpLAo=</text>
+      <register name="0" type="4">
+        <text>46.228.132.16:</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihPTERfQldfSUQubGVuZ3RoKCkpOwo=</text>
@@ -742,21 +746,20 @@ PSB should first use ClientUid to identify existing computer, not OldBwId</text>
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/1/2/g</text>
+        <text>s/&quot;/\\&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
-      <last-replace>2</last-replace>
-      <last-substitute>1</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>\\&quot;</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWJzY3JpcHRpb25DaGFuZ2VcPg==</entry>
         <entry>i32</entry>
         <entry>Number</entry>
         <entry>sNULL</entry>
@@ -776,9 +779,9 @@ PSB should first use ClientUid to identify existing computer, not OldBwId</text>
         <entry encoding="base64">XDxjb21wdXRlcklkXD4=</entry>
         <entry encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</entry>
         <entry>1</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>nonumber</entry>
         <entry>nonumbers</entry>
         <entry>hidenu</entry>
         <entry>nonu</entry>
@@ -798,6 +801,7 @@ PSB should first use ClientUid to identify existing computer, not OldBwId</text>
         <entry>176</entry>
         <entry>s/1/2</entry>
         <entry>s/1/2/g</entry>
+        <entry>s/&quot;/\\&quot;/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
