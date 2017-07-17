@@ -407,12 +407,12 @@
         <mark key="." line="88" column="30" />
         <mark key="^" line="88" column="30" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" timestamp="1500278414019">
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" timestamp="1500283132868">
         <mark key="'" line="140" column="235" />
-        <mark key="[" line="140" column="366" />
-        <mark key="]" line="140" column="23" />
-        <mark key="^" line="140" column="23" />
-        <mark key="." line="140" column="23" />
+        <mark key="[" line="151" column="31" />
+        <mark key="]" line="185" column="15" />
+        <mark key="^" line="185" column="15" />
+        <mark key="." line="185" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1498653004245">
         <mark key="[" line="1" column="24" />
