@@ -194,6 +194,12 @@
         <mark key="." line="137" column="79" />
         <mark key="^" line="137" column="79" />
       </file>
+      <file name="$USER_HOME$/dev-sources/reporting-service/lib/utils/transform.js" timestamp="1500370589393">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/su/SoftwareUpdateServiceImpl.java" timestamp="1496311202963">
         <mark key="[" line="165" column="106" />
         <mark key="]" line="165" column="106" />
@@ -525,7 +531,7 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/dto/alert/Action.java" timestamp="1500274719001">
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/dto/alert/Action.java" timestamp="1500370515169">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="39" />
         <mark key="." line="19" column="35" />
@@ -659,7 +665,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJqYXNtaW5lIjogImphc21pbmUgSkFTTUlORV9DT05GSUdfUEFUSD1zcGVjL3N1cHBvcnQvamFzbWluZS5qc29uIiwK</text>
+        <text encoding="base64">ICAncmVwb3J0ZWQnIDogJ1JlcG9ydGVkJywK</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -678,13 +684,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>REPORTED</text>
+        <text>quarantined</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJqYXNtaW5lIjogImphc21pbmUgSkFTTUlORV9DT05GSUdfUEFUSD1zcGVjL3N1cHBvcnQvamFzbWluZS5qc29uIiwK</text>
+        <text encoding="base64">ICAncmVwb3J0ZWQnIDogJ1JlcG9ydGVkJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBzLgo=</text>
