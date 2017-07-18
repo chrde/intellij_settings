@@ -446,6 +446,12 @@
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/dev-sources/reporting-service/package.json" timestamp="1500370082561">
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-utils/src/main/java/com/fsecure/common/util/IniFile.java" timestamp="1500276250250" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/config.schema.json" timestamp="1496818382217">
         <mark key="[" line="57" column="3" />
@@ -652,7 +658,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBzLgo=</text>
+        <text encoding="base64">ICAgICJqYXNtaW5lIjogImphc21pbmUgSkFTTUlORV9DT05GSUdfUEFUSD1zcGVjL3N1cHBvcnQvamFzbWluZS5qc29uIiwK</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -677,7 +683,7 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0KEFjdGlvbi5ERUxFVEVELnRvU3RyaW5nKCksICAgICAyOTEpOwo=</text>
+        <text encoding="base64">ICAgICJqYXNtaW5lIjogImphc21pbmUgSkFTTUlORV9DT05GSUdfUEFUSD1zcGVjL3N1cHBvcnQvamFzbWluZS5qc29uIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBzLgo=</text>
