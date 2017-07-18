@@ -91,10 +91,10 @@
         <mark key="." line="27" column="17" />
         <mark key="^" line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/redshift/RedshiftSaver.java" timestamp="1500368511981">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/redshift/RedshiftSaver.java" timestamp="1500369840428">
+        <mark key="[" line="87" column="73" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/CosmosProfileServiceTest.java" timestamp="1496135990707">
         <mark key="[" line="32" column="0" />
@@ -319,9 +319,6 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" timestamp="1499860447896">
-        <mark key="^" line="48" column="32" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesAction.java" timestamp="1497427376029">
         <mark key="[" line="36" column="101" />
         <mark key="]" line="62" column="4" />
@@ -468,7 +465,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500276154458">
+      <file name="/Dummy.txt" timestamp="1500369955497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
