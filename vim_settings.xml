@@ -91,11 +91,10 @@
         <mark key="." line="27" column="17" />
         <mark key="^" line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/redshift/RedshiftSaver.java" timestamp="1499938082037">
-        <mark key="[" line="65" column="28" />
-        <mark key="]" line="69" column="6" />
-        <mark key="." line="69" column="6" />
-        <mark key="^" line="69" column="6" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/redshift/RedshiftSaver.java" timestamp="1500368511981">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/CosmosProfileServiceTest.java" timestamp="1496135990707">
         <mark key="[" line="32" column="0" />
@@ -165,7 +164,7 @@
         <mark key="^" line="38" column="39" />
         <mark key="." line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/config/karma.conf.js" timestamp="1498732710737">
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/config/karma.conf.js" timestamp="1500368084045">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="56" column="6" />
         <mark key="^" line="5" column="3" />
@@ -505,6 +504,10 @@
         <mark key="." line="1" column="58" />
         <mark key="^" line="1" column="58" />
       </file>
+      <file name="/karma.conf.js" timestamp="1500368098333">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="59" column="5" />
+      </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/test/resources/upstream-forwarder-test.conf" timestamp="1500034256147" />
       <file name="/fragment.java" timestamp="1500275203241">
         <mark key="[" line="0" column="0" />
@@ -651,8 +654,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>REPORTED</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBzLgo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -680,7 +683,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHV0KEFjdGlvbi5ERUxFVEVELnRvU3RyaW5nKCksICAgICAyOTEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vQUREIEFUIFRIRSBCT1RUT00gU0lOQ0UgV0UgS0VFUCBUSEUgT1JESU5BTCBWQUxVRSBJTiBEQgo=</text>
+        <text encoding="base64">ICAgIHBzLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -711,22 +714,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXNzd29yZChjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfUEFTU1dPUkQpKQo=</text>
+        <text encoding="base64">ICAgIC8vQUREIEFUIFRIRSBCT1RUT00gU0lOQ0UgV0UgS0VFUCBUSEUgT1JESU5BTCBWQUxVRSBJTiBEQgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC51c2VyTmFtZShjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfVVNFUl9OQU1FKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXNzd29yZChjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfUEFTU1dPUkQpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbXFCcm9rZXJVcmwoY29uZmlnLmdldFByb3BlcnR5KEFDVElWRU1RX0JST0tFUl9VUkwpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC51c2VyTmFtZShjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfVVNFUl9OQU1FKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzVXBzdHJlYW1QYXlsb2Fkcyh1cHN0cmVhbVBheWxvYWRzLCBjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbXFCcm9rZXJVcmwoY29uZmlnLmdldFByb3BlcnR5KEFDVElWRU1RX0JST0tFUl9VUkwpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihPTERfQldfSUQubGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzVXBzdHJlYW1QYXlsb2Fkcyh1cHN0cmVhbVBheWxvYWRzLCBjb250ZXh0KTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dGhlIGNsaWVudCBzZW5kcyBvbGQgYndJZCAob3IgY2xpZW50VWlkKSBiYXNlNjQgZW5jb2RlZCBpZiB0aGUgYndJZCBpcyBub3QgaW4gVVVJRCBmb3JtYXQKIGUuZzogaWYgdGhlIGJ3SWQgaXMgJ0I9PDgjRSx+JV4wJywgdGhlIGNsaWVudCBzZW5kcyAnUWowOE9DTkZMSDRsWGpBPScKQnV0IHRoZSBid0lkIGlzIGFsd2F5cyBzdG9yZWQgaW4gcHNiIGRlY29kZWQgKCdCPTw4I0UsfiVeMCcp</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihPTERfQldfSUQubGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -750,8 +753,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uc3luZGljYXRpb24uaW8uaW1wbC5CYXNlNjQ7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">dGhlIGNsaWVudCBzZW5kcyBvbGQgYndJZCAob3IgY2xpZW50VWlkKSBiYXNlNjQgZW5jb2RlZCBpZiB0aGUgYndJZCBpcyBub3QgaW4gVVVJRCBmb3JtYXQKIGUuZzogaWYgdGhlIGJ3SWQgaXMgJ0I9PDgjRSx+JV4wJywgdGhlIGNsaWVudCBzZW5kcyAnUWowOE9DTkZMSDRsWGpBPScKQnV0IHRoZSBid0lkIGlzIGFsd2F5cyBzdG9yZWQgaW4gcHNiIGRlY29kZWQgKCdCPTw4I0UsfiVeMCcp</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5zdW4uc3luZGljYXRpb24uaW8uaW1wbC5CYXNlNjQ7Cg==</text>
