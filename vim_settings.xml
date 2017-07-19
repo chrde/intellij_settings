@@ -96,6 +96,10 @@
         <mark key="]" line="384" column="197" />
         <mark key="." line="384" column="197" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/micro-service/templates/f-secure.psb.spi.vpc.template" timestamp="1500459242839">
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="44" column="29" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/staging/tp/config.json" timestamp="1496818172832">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="30" />
@@ -305,6 +309,12 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/micro-service/templates/f-secure.psb.reporting-service.vpc.template" timestamp="1500459076466">
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="49" column="30" />
+        <mark key="." line="49" column="22" />
+        <mark key="^" line="445" column="25" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesActionTest.java" timestamp="1497427621958">
         <mark key="[" line="88" column="32" />
         <mark key="]" line="88" column="30" />
@@ -453,10 +463,10 @@
         <mark key="^" line="23" column="66" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500458597949">
+      <file name="/Dummy.txt" timestamp="1500459303677">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -686,7 +696,9 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>9077-scheduling-of-report-via-portal
+
+SFN now handles scheduling and ondemand</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -705,16 +717,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>1ef6dd78</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW5mZWN0aW9uYWxlcnQuYWN0aW9uLjk9UXVhcmFudGluZWQK</text>
+      <register name="0" type="4">
+        <text>eff21f96</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAncmVwb3J0ZWRUb1VzZXInIDogJ1JlcG9ydGVkIHRvIHVzZXInLAo=</text>
+      <register name="1" type="4">
+        <text>9077-scheduling-of-report-via-portal
+
+SFN now handles scheduling and ondemand</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -745,22 +759,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBzLgo=</text>
+        <text encoding="base64">ICAgICAgICAiU29sdXRpb25TdGFja05hbWUiOiAiNjRiaXQgQW1hem9uIExpbnV4IDIwMTYuMDkgdjQuMC4wIHJ1bm5pbmcgTm9kZS5qcyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vQUREIEFUIFRIRSBCT1RUT00gU0lOQ0UgV0UgS0VFUCBUSEUgT1JESU5BTCBWQUxVRSBJTiBEQgo=</text>
+        <text encoding="base64">ICAncmVwb3J0ZWRUb1VzZXInIDogJ1JlcG9ydGVkIHRvIHVzZXInLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXNzd29yZChjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfUEFTU1dPUkQpKQo=</text>
+        <text encoding="base64">ICAgIHBzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC51c2VyTmFtZShjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfVVNFUl9OQU1FKSkK</text>
+        <text encoding="base64">ICAgIC8vQUREIEFUIFRIRSBCT1RUT00gU0lOQ0UgV0UgS0VFUCBUSEUgT1JESU5BTCBWQUxVRSBJTiBEQgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbXFCcm9rZXJVcmwoY29uZmlnLmdldFByb3BlcnR5KEFDVElWRU1RX0JST0tFUl9VUkwpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXNzd29yZChjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfUEFTU1dPUkQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzVXBzdHJlYW1QYXlsb2Fkcyh1cHN0cmVhbVBheWxvYWRzLCBjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC51c2VyTmFtZShjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfVVNFUl9OQU1FKSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -785,10 +799,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihPTERfQldfSUQubGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbXFCcm9rZXJVcmwoY29uZmlnLmdldFByb3BlcnR5KEFDVElWRU1RX0JST0tFUl9VUkwpKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dGhlIGNsaWVudCBzZW5kcyBvbGQgYndJZCAob3IgY2xpZW50VWlkKSBiYXNlNjQgZW5jb2RlZCBpZiB0aGUgYndJZCBpcyBub3QgaW4gVVVJRCBmb3JtYXQKIGUuZzogaWYgdGhlIGJ3SWQgaXMgJ0I9PDgjRSx+JV4wJywgdGhlIGNsaWVudCBzZW5kcyAnUWowOE9DTkZMSDRsWGpBPScKQnV0IHRoZSBid0lkIGlzIGFsd2F5cyBzdG9yZWQgaW4gcHNiIGRlY29kZWQgKCdCPTw4I0UsfiVeMCcp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzVXBzdHJlYW1QYXlsb2Fkcyh1cHN0cmVhbVBheWxvYWRzLCBjb250ZXh0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/\\&quot;/g</text>
