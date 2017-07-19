@@ -347,6 +347,12 @@
         <mark key="^" line="45" column="42" />
         <mark key="." line="45" column="42" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/infections/AlertingConfigurationControllerTest.java" timestamp="1500452436691">
+        <mark key="[" line="135" column="57" />
+        <mark key="]" line="135" column="58" />
+        <mark key="." line="135" column="58" />
+        <mark key="^" line="135" column="58" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileDto.java" timestamp="1494502774962">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -447,10 +453,10 @@
         <mark key="^" line="23" column="66" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500451646454">
+      <file name="/Dummy.txt" timestamp="1500452501240">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -680,7 +686,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>9</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -699,7 +705,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
