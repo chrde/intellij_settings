@@ -290,11 +290,11 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="16" column="201" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1494407692123">
-        <mark key="[" line="2302" column="39" />
-        <mark key="]" line="2302" column="45" />
-        <mark key="." line="2302" column="45" />
-        <mark key="^" line="2302" column="45" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1500446978553">
+        <mark key="[" line="1504" column="56" />
+        <mark key="]" line="1504" column="52" />
+        <mark key="." line="1504" column="0" />
+        <mark key="^" line="2303" column="45" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/LocalProfileRepository.java" timestamp="1496145255255">
         <mark key="[" line="91" column="82" />
@@ -471,7 +471,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500384902174">
+      <file name="/Dummy.txt" timestamp="1500447284788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -661,8 +661,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAicmVwb3J0cy5pbmZlY3Rpb25zLmFjdGlvbnMucmVwb3J0ZWQiOiAiUmVwb3J0ZWQiLAo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -687,7 +687,7 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAncmVwb3J0ZWQnIDogJ1JlcG9ydGVkJywK</text>
+        <text encoding="base64">ICAicmVwb3J0cy5pbmZlY3Rpb25zLmFjdGlvbnMucmVwb3J0ZWQiOiAiUmVwb3J0ZWQiLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBzLgo=</text>
