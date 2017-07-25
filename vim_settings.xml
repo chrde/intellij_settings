@@ -93,6 +93,11 @@
         <mark key="^" line="48" column="20" />
         <mark key="." line="48" column="20" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/definitions/report-generation.js" timestamp="1500972230220">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/profile/mobile/SetDefaultMobileProfileController.java" timestamp="1496041508367">
         <mark key="[" line="36" column="3" />
         <mark key="]" line="36" column="1" />
@@ -397,6 +402,13 @@
         <mark key="." line="51" column="54" />
         <mark key="^" line="51" column="54" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1500972576265">
+        <mark key="'" line="62" column="14" />
+        <mark key="[" line="82" column="53" />
+        <mark key="]" line="82" column="54" />
+        <mark key="^" line="82" column="54" />
+        <mark key="." line="82" column="54" />
+      </file>
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/cosmos/create_child_node.js" timestamp="1497424616047">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="67" />
@@ -462,6 +474,10 @@
         <mark key="]" line="88" column="30" />
         <mark key="." line="88" column="30" />
         <mark key="^" line="88" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/micro-service/templates/f-secure.psb.micro-cosmos.vpc.template" timestamp="1500971333477">
+        <mark key="[" line="556" column="0" />
+        <mark key="]" line="556" column="44" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496661904827">
         <mark key="[" line="62" column="0" />
@@ -580,8 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
-      <jump line="18" column="53" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="5" column="30" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="111" column="9" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="936" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" />
@@ -680,6 +694,8 @@
       <jump line="106" column="26" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" />
       <jump line="49" column="2" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRegistrationServiceTest.java" />
       <jump line="140" column="235" filename="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" />
+      <jump line="83" column="15" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
+      <jump line="62" column="14" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -705,8 +721,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiUGFyYW1ldGVyVmFsdWUiOiAiYW1pLWVmZjIxZjk2Igo=</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -725,64 +741,80 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f211b6e4</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiUGFyYW1ldGVyVmFsdWUiOiAiYW1pLWRmNTY2NWM5Igo=</text>
+        <text encoding="base64">ICAgICAgICAiTmFtZSI6IHsKICAgICAgICAgICJSZWYiOiAiU2NoZWR1bGVkQWN0aXZpdHlOYW1lIgogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiUGFyYW1ldGVyVmFsdWUiOiAiYW1pLWVmZjIxZjk2Igo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="100" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="78" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="67" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="127" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="50" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
           <key char="44" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiUGFyYW1ldGVyVmFsdWUiOiAiYW1pLWVmZjIxZjk2Igo=</text>
+        <text encoding="base64">ICAiTWV0YWRhdGEiOiAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiUGFyYW1ldGVyVmFsdWUiOiAiYW1pLWZhMjA3MTlkIgo=</text>
+      <register name="3" type="4">
+        <text>{
+    &quot;AWS::CloudFormation::Designer&quot;: {
+      &quot;86b391c4-b0af-4bb2-be18-b125434a18ca&quot;: {
+        &quot;size&quot;: {
+          &quot;width&quot;: 60,
+          &quot;height&quot;: 60
+        },
+        &quot;position&quot;: {
+          &quot;x&quot;: 90,
+          &quot;y&quot;: 140
+        },
+        &quot;z&quot;: 1,
+        &quot;embeds&quot;: [],
+        &quot;isrelatedto&quot;: [
+          &quot;86b391c4-b0af-4bb2-be18-b125434a18ca&quot;
+        ]
+      },
+      &quot;c6796d7c-0db4-480b-891b-26a4f57ceb35&quot;: {
+        &quot;size&quot;: {
+          &quot;width&quot;: 60,
+          &quot;height&quot;: 60
+        },
+        &quot;position&quot;: {
+          &quot;x&quot;: 240,
+          &quot;y&quot;: 140
+        },
+        &quot;z&quot;: 1,
+        &quot;embeds&quot;: []
+      }
+    }
+  }</text>
       </register>
-      <register name="4" type="4">
-        <text>9077-scheduling-of-report-via-portal
-
-SFN now handles scheduling and ondemand</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAiTWV0YWRhdGEiOiB7CiAgICAiQVdTOjpDbG91ZEZvcm1hdGlvbjo6RGVzaWduZXIiOiB7CiAgICAgICI4NmIzOTFjNC1iMGFmLTRiYjItYmUxOC1iMTI1NDM0YTE4Y2EiOiB7CiAgICAgICAgInNpemUiOiB7CiAgICAgICAgICAid2lkdGgiOiA2MCwKICAgICAgICAgICJoZWlnaHQiOiA2MAogICAgICAgIH0sCiAgICAgICAgInBvc2l0aW9uIjogewogICAgICAgICAgIngiOiA5MCwKICAgICAgICAgICJ5IjogMTQwCiAgICAgICAgfSwKICAgICAgICAieiI6IDEsCiAgICAgICAgImVtYmVkcyI6IFtdLAogICAgICAgICJpc3JlbGF0ZWR0byI6IFsKICAgICAgICAgICI4NmIzOTFjNC1iMGFmLTRiYjItYmUxOC1iMTI1NDM0YTE4Y2EiCiAgICAgICAgXQogICAgICB9LAogICAgICAiYzY3OTZkN2MtMGRiNC00ODBiLTg5MWItMjZhNGY1N2NlYjM1IjogewogICAgICAgICJzaXplIjogewogICAgICAgICAgIndpZHRoIjogNjAsCiAgICAgICAgICAiaGVpZ2h0IjogNjAKICAgICAgICB9LAogICAgICAgICJwb3NpdGlvbiI6IHsKICAgICAgICAgICJ4IjogMjQwLAogICAgICAgICAgInkiOiAxNDAKICAgICAgICB9LAogICAgICAgICJ6IjogMSwKICAgICAgICAiZW1iZWRzIjogW10KICAgICAgfQogICAgfQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiU29sdXRpb25TdGFja05hbWUiOiAiNjRiaXQgQW1hem9uIExpbnV4IDIwMTYuMDkgdjQuMC4wIHJ1bm5pbmcgTm9kZS5qcyIK</text>
+        <text encoding="base64">ICAgICAgIk1ldGFkYXRhIjogewogICAgICAgICJBV1M6OkNsb3VkRm9ybWF0aW9uOjpEZXNpZ25lciI6IHsKICAgICAgICAgICJpZCI6ICI4NmIzOTFjNC1iMGFmLTRiYjItYmUxOC1iMTI1NDM0YTE4Y2EiCiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAncmVwb3J0ZWRUb1VzZXInIDogJ1JlcG9ydGVkIHRvIHVzZXInLAo=</text>
+        <text encoding="base64">ICAgICAgIk1ldGFkYXRhIjogewogICAgICAgICJBV1M6OkNsb3VkRm9ybWF0aW9uOjpEZXNpZ25lciI6IHsKICAgICAgICAgICJpZCI6ICJjNjc5NmQ3Yy0wZGI0LTQ4MGItODkxYi0yNmE0ZjU3Y2ViMzUiCiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBzLgo=</text>
+        <text encoding="base64">ICAgICAgICAiTmFtZSI6ICJteUFjdGl2aXR5Igo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -807,13 +839,13 @@ SFN now handles scheduling and ondemand</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vQUREIEFUIFRIRSBCT1RUT00gU0lOQ0UgV0UgS0VFUCBUSEUgT1JESU5BTCBWQUxVRSBJTiBEQgo=</text>
+        <text encoding="base64">ICAiUGFyYW1ldGVycyI6IHsKICAgICJTY2hlZHVsZWRBY3Rpdml0eSI6IHsKICAgICAgIlR5cGUiOiAiU3RyaW5nIiwKICAgICAgIkRlZmF1bHQiOiAiIiwKICAgICAgIkRlc2NyaXB0aW9uIjogIk5hbWUgb2YgdGhlIGFjdGl2aXR5IHJlc3BvbnNpYmxlIG9mIHNjaGVkdWxlZCByZXBvcnRzIgogICAgfSwKICAgICJPbkRlbWFuZEFjdGl2aXR5IjogewogICAgICAiVHlwZSI6ICJTdHJpbmciLAogICAgICAiRGVmYXVsdCI6ICIiLAogICAgICAiRGVzY3JpcHRpb24iOiAiTmFtZSBvZiB0aGUgYWN0aXZpdHkgcmVzcG9uc2libGUgb2Ygb24tZGVtYW5kIHJlcG9ydHMiCiAgICB9LAogICAgIlN0YXRlTWFjaGluZU5hbWUiOiB7CiAgICAgICJUeXBlIjogIlN0cmluZyIsCiAgICAgICJEZWZhdWx0IjogIiIsCiAgICAgICJEZXNjcmlwdGlvbiI6ICJOYW1lIG9mIHRoZSBzdGF0ZSBtYWNoaW5lIgogICAgfSwKICAgICJSb2xlVG9Bc3N1bWVCeVNGTiI6IHsKICAgICAgIlR5cGUiOiAiU3RyaW5nIiwKICAgICAgIkRlZmF1bHQiOiAiIiwKICAgICAgIkRlc2NyaXB0aW9uIjogIlJvbGUgYXNzdW1lZCBieSBBV1MgU0ZOIHRvIGRvIGl0cyBzdHVmZihlLmc6IGtlZXAgc3RhdGUgb2YgZWFjaCBleGVjdXRpb24sIHRpbWVycy4uLikiCiAgICB9CiAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXNzd29yZChjb25maWcuZ2V0UHJvcGVydHkoQUNUSVZFTVFfUEFTU1dPUkQpKQo=</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/&quot;/\\&quot;/g</text>
+        <text encoding="base64">JzwsJz5zLyIvXFwiL2c=</text>
       </register>
     </registers>
     <search>
@@ -827,7 +859,6 @@ SFN now handles scheduling and ondemand</text>
     </search>
     <history>
       <history-search>
-        <entry>i32</entry>
         <entry>Number</entry>
         <entry>sNULL</entry>
         <entry>NULL</entry>
@@ -846,12 +877,10 @@ SFN now handles scheduling and ondemand</text>
         <entry encoding="base64">XDxjb21wdXRlcklkXD4=</entry>
         <entry encoding="base64">XDxjb3Ntb3NQcm9maWxlRmFjYWRlXD4=</entry>
         <entry>1</entry>
+        <entry>,</entry>
         <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>nonumbers</entry>
-        <entry>hidenu</entry>
-        <entry>nonu</entry>
         <entry>set nonu</entry>
         <entry>set nonumber</entry>
         <entry>set relative</entry>
@@ -869,6 +898,9 @@ SFN now handles scheduling and ondemand</text>
         <entry>s/1/2</entry>
         <entry>s/1/2/g</entry>
         <entry>s/&quot;/\\&quot;/g</entry>
+        <entry>s/,/\\n/g</entry>
+        <entry encoding="base64">JzwsJz5zLyIvIlxcL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
