@@ -63,6 +63,7 @@
         <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb2/environment-nuibe.json" timestamp="1500466420628" />
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/micro-service/Gruntfile.js" timestamp="1500974487910" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/README.md" timestamp="1496824165463">
         <mark key="[" line="85" column="49" />
         <mark key="]" line="85" column="49" />
@@ -93,7 +94,7 @@
         <mark key="^" line="48" column="20" />
         <mark key="." line="48" column="20" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/definitions/report-generation.js" timestamp="1500972230220">
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/definitions/report-generation.js" timestamp="1500974441507">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -336,6 +337,7 @@
         <mark key="^" line="94" column="70" />
         <mark key="." line="92" column="60" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/reporting_db/Gruntfile.js" timestamp="1500974337436" />
       <file name="$USER_HOME$/dev-sources/jenkins-jobs/psb-predefined-cosmos-profiles-publish/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496835829328">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -378,7 +380,7 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/tasks/cloudformation.js" timestamp="1500973458064" />
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/tasks/cloudformation.js" timestamp="1500974462735" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesAction.java" timestamp="1497427376029">
         <mark key="[" line="36" column="101" />
         <mark key="]" line="62" column="4" />
@@ -403,7 +405,7 @@
         <mark key="." line="51" column="54" />
         <mark key="^" line="51" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1500972576265">
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1500974430357">
         <mark key="'" line="62" column="14" />
         <mark key="[" line="82" column="53" />
         <mark key="]" line="82" column="54" />
@@ -534,7 +536,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500634921674">
+      <file name="/Dummy.txt" timestamp="1500974312588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
