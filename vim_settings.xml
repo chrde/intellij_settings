@@ -94,6 +94,7 @@
         <mark key="^" line="48" column="20" />
         <mark key="." line="48" column="20" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/tasks/step_function.js" timestamp="1500977426982" />
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/definitions/report-generation.js" timestamp="1500974441507">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -482,6 +483,11 @@
         <mark key="[" line="556" column="0" />
         <mark key="]" line="556" column="44" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/Gruntfile.js" timestamp="1500977586962">
+        <mark key="[" line="59" column="74" />
+        <mark key="]" line="59" column="74" />
+        <mark key="." line="59" column="74" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496661904827">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -517,6 +523,9 @@
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1500977589345">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/config.schema.json" timestamp="1496818382217">
         <mark key="[" line="57" column="3" />
@@ -725,7 +734,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text encoding="base64">J2Nsb3VkZm9ybWF0aW9uLWdldC1zeXN0ZW0tc3RhY2tzJywg</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -744,7 +753,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">J2Nsb3VkZm9ybWF0aW9uLWdldC1zeXN0ZW0tc3RhY2tzJywg</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
