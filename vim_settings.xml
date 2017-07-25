@@ -82,6 +82,12 @@
         <mark key="." line="88" column="87" />
         <mark key="^" line="88" column="54" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1500981728342">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="16" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1498732054630">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -406,12 +412,12 @@
         <mark key="." line="51" column="54" />
         <mark key="^" line="51" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1500974430357">
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1500980858107">
         <mark key="'" line="62" column="14" />
-        <mark key="[" line="82" column="53" />
-        <mark key="]" line="82" column="54" />
-        <mark key="^" line="82" column="54" />
-        <mark key="." line="82" column="54" />
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="55" column="63" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/cosmos/create_child_node.js" timestamp="1497424616047">
         <mark key="[" line="23" column="59" />
@@ -488,6 +494,7 @@
         <mark key="]" line="59" column="74" />
         <mark key="." line="59" column="74" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-config/ci/latest/environment-report-generation-sfn.json" timestamp="1500981339159" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496661904827">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -733,8 +740,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">J2Nsb3VkZm9ybWF0aW9uLWdldC1zeXN0ZW0tc3RhY2tzJywg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -753,16 +760,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J2Nsb3VkZm9ybWF0aW9uLWdldC1zeXN0ZW0tc3RhY2tzJywg</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiTmFtZSI6IHsKICAgICAgICAgICJSZWYiOiAiU2NoZWR1bGVkQWN0aXZpdHlOYW1lIgogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>&quot;\&quot;Resource\&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -781,9 +788,49 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJGbjo6U3ViIjogIlwiUmVzb3VyY2VcIiA6IFwiJHtTY2hlZHVsZWRBY3Rpdml0eX1cIiIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CmFybjphd3M6aWFtOjo1Mjg1MDYyMTg0MjE6cm9sZS9wc2IvZXcxLXBzYi1jaS1sYXRlc3QtaWFtLVJlcG9ydGluZ1NlcnZpY2VFYzJSb2xlLUFNOTZGVk1PTzAwWQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAiICAgICAgICAgICAgXCJSZXNvdXJjZVwiIDogXCJhcm46YXdzOmxhbWJkYTp1cy1lYXN0LTE6MTExMTIyMjIzMzMzOmZ1bmN0aW9uOkhlbGxvRnVuY3Rpb25cIiwiLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZwo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAiTWV0YWRhdGEiOiAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>{
     &quot;AWS::CloudFormation::Designer&quot;: {
       &quot;86b391c4-b0af-4bb2-be18-b125434a18ca&quot;: {
@@ -815,46 +862,6 @@
       }
     }
   }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAiTWV0YWRhdGEiOiB7CiAgICAiQVdTOjpDbG91ZEZvcm1hdGlvbjo6RGVzaWduZXIiOiB7CiAgICAgICI4NmIzOTFjNC1iMGFmLTRiYjItYmUxOC1iMTI1NDM0YTE4Y2EiOiB7CiAgICAgICAgInNpemUiOiB7CiAgICAgICAgICAid2lkdGgiOiA2MCwKICAgICAgICAgICJoZWlnaHQiOiA2MAogICAgICAgIH0sCiAgICAgICAgInBvc2l0aW9uIjogewogICAgICAgICAgIngiOiA5MCwKICAgICAgICAgICJ5IjogMTQwCiAgICAgICAgfSwKICAgICAgICAieiI6IDEsCiAgICAgICAgImVtYmVkcyI6IFtdLAogICAgICAgICJpc3JlbGF0ZWR0byI6IFsKICAgICAgICAgICI4NmIzOTFjNC1iMGFmLTRiYjItYmUxOC1iMTI1NDM0YTE4Y2EiCiAgICAgICAgXQogICAgICB9LAogICAgICAiYzY3OTZkN2MtMGRiNC00ODBiLTg5MWItMjZhNGY1N2NlYjM1IjogewogICAgICAgICJzaXplIjogewogICAgICAgICAgIndpZHRoIjogNjAsCiAgICAgICAgICAiaGVpZ2h0IjogNjAKICAgICAgICB9LAogICAgICAgICJwb3NpdGlvbiI6IHsKICAgICAgICAgICJ4IjogMjQwLAogICAgICAgICAgInkiOiAxNDAKICAgICAgICB9LAogICAgICAgICJ6IjogMSwKICAgICAgICAiZW1iZWRzIjogW10KICAgICAgfQogICAgfQogIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIk1ldGFkYXRhIjogewogICAgICAgICJBV1M6OkNsb3VkRm9ybWF0aW9uOjpEZXNpZ25lciI6IHsKICAgICAgICAgICJpZCI6ICI4NmIzOTFjNC1iMGFmLTRiYjItYmUxOC1iMTI1NDM0YTE4Y2EiCiAgICAgICAgfQogICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIk1ldGFkYXRhIjogewogICAgICAgICJBV1M6OkNsb3VkRm9ybWF0aW9uOjpEZXNpZ25lciI6IHsKICAgICAgICAgICJpZCI6ICJjNjc5NmQ3Yy0wZGI0LTQ4MGItODkxYi0yNmE0ZjU3Y2ViMzUiCiAgICAgICAgfQogICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiTmFtZSI6ICJteUFjdGl2aXR5Igo=</text>
-      </register>
-      <register name="w" type="4">
-        <keys>
-          <key char="100" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="79" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="67" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAiUGFyYW1ldGVycyI6IHsKICAgICJTY2hlZHVsZWRBY3Rpdml0eSI6IHsKICAgICAgIlR5cGUiOiAiU3RyaW5nIiwKICAgICAgIkRlZmF1bHQiOiAiIiwKICAgICAgIkRlc2NyaXB0aW9uIjogIk5hbWUgb2YgdGhlIGFjdGl2aXR5IHJlc3BvbnNpYmxlIG9mIHNjaGVkdWxlZCByZXBvcnRzIgogICAgfSwKICAgICJPbkRlbWFuZEFjdGl2aXR5IjogewogICAgICAiVHlwZSI6ICJTdHJpbmciLAogICAgICAiRGVmYXVsdCI6ICIiLAogICAgICAiRGVzY3JpcHRpb24iOiAiTmFtZSBvZiB0aGUgYWN0aXZpdHkgcmVzcG9uc2libGUgb2Ygb24tZGVtYW5kIHJlcG9ydHMiCiAgICB9LAogICAgIlN0YXRlTWFjaGluZU5hbWUiOiB7CiAgICAgICJUeXBlIjogIlN0cmluZyIsCiAgICAgICJEZWZhdWx0IjogIiIsCiAgICAgICJEZXNjcmlwdGlvbiI6ICJOYW1lIG9mIHRoZSBzdGF0ZSBtYWNoaW5lIgogICAgfSwKICAgICJSb2xlVG9Bc3N1bWVCeVNGTiI6IHsKICAgICAgIlR5cGUiOiAiU3RyaW5nIiwKICAgICAgIkRlZmF1bHQiOiAiIiwKICAgICAgIkRlc2NyaXB0aW9uIjogIlJvbGUgYXNzdW1lZCBieSBBV1MgU0ZOIHRvIGRvIGl0cyBzdHVmZihlLmc6IGtlZXAgc3RhdGUgb2YgZWFjaCBleGVjdXRpb24sIHRpbWVycy4uLikiCiAgICB9CiAgfSwK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvXFwiL2c=</text>
