@@ -76,9 +76,12 @@
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/reporting_db/Gruntfile.js" timestamp="1500974337436" />
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/tasks/cloudformation.js" timestamp="1500974462735" />
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1501054400564">
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1501055676527">
         <mark key="'" line="49" column="14" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="63" />
         <mark key="^" line="54" column="37" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/micro-service/templates/f-secure.psb.reporting-service.vpc.template" timestamp="1500459076466">
         <mark key="[" line="49" column="22" />
