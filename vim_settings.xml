@@ -28,14 +28,14 @@
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb2/environment-nuibe.json" timestamp="1500466420628" />
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/micro-service/Gruntfile.js" timestamp="1500974487910" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1500985678873">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="46" column="15" />
-        <mark key="^" line="43" column="16" />
-        <mark key="." line="44" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1501059267044">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="49" column="17" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/tasks/step_function.js" timestamp="1500977426982" />
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/definitions/report-generation.js" timestamp="1500974441507">
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/definitions/report-generation.js" timestamp="1501057984694">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -76,12 +76,12 @@
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/reporting_db/Gruntfile.js" timestamp="1500974337436" />
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/tasks/cloudformation.js" timestamp="1500974462735" />
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1501055676527">
-        <mark key="'" line="49" column="14" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="63" />
-        <mark key="^" line="54" column="37" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1501060045726">
+        <mark key="'" line="41" column="14" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/micro-service/templates/f-secure.psb.reporting-service.vpc.template" timestamp="1500459076466">
         <mark key="[" line="49" column="22" />
@@ -102,7 +102,7 @@
       <file name="/JavaScript Console" timestamp="1500977589345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500975168574">
+      <file name="/Dummy.txt" timestamp="1501060202794">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/karma.conf.js" timestamp="1500368098333">
@@ -111,10 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="30" filename="$USER_HOME$/github/rust101/src/part05.rs" />
-      <jump line="111" column="9" filename="$USER_HOME$/github/rust101/src/part05.rs" />
-      <jump line="936" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" />
-      <jump line="1" column="19" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="3" column="9" filename="$USER_HOME$/github/rust101/src/main.rs" />
       <jump line="267" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="78" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
@@ -211,6 +207,10 @@
       <jump line="140" column="235" filename="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" />
       <jump line="83" column="15" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
       <jump line="62" column="14" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
+      <jump line="73" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
+      <jump line="49" column="14" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -237,7 +237,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7IkZuOjpTdWIiIDogIlwiTmV4dFwiOlwiJHtPbkRlbWFuZFJlcG9ydH1cIn0sIn0sCg==</text>
+        <text encoding="base64">ICAgICAgIkRlZmF1bHQiOiAiIiwK</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -256,78 +256,66 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7IkZuOjpTdWIiIDogIlwiTmV4dFwiOlwiJHtPbkRlbWFuZFJlcG9ydH1cIn0sIn0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiRm46OlN1YiI6ICIgICAgICAgICAgICBcIlJlc291cmNlXCI6IFwiJHtPbkRlbWFuZEFjdGl2aXR5fVwiLCIKICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAieyIsCiAgICAgICAgICAgICAgIiAgICBcIlN0YXJ0QXRcIjogXCJIZWxsb1dvcmxkXCIsIiwKICAgICAgICAgICAgICAiICAgIFwiU3RhdGVzXCIgOiB7IiwKICAgICAgICAgICAgICAiICAgICAgICBcIkhlbGxvV29ybGRcIiA6IHsiLAogICAgICAgICAgICAgICIgICAgICAgICAgICBcIlR5cGVcIiA6IFwiVGFza1wiLCAiLAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJGbjo6U3ViIjogIlwiUmVzb3VyY2VcIiA6IFwiJHtTY2hlZHVsZWRBY3Rpdml0eX1cIiIKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICIgICAgICAgICAgICBcIkVuZFwiIDogdHJ1ZSIsCiAgICAgICAgICAgICAgIiAgICAgICAgfSIsCgogICAgICAgICAgICAgICIgICAgfQogICAgICAgICAgICAgICJ9Igo=</text>
+        <text encoding="base64">ICAgICAgIkRlZmF1bHQiOiAiIiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="48" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="36" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgIkRlZmF1bHQiOiAiIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJGbjo6U3ViIjogIlwiUmVzb3VyY2VcIiA6IFwiJHtTY2hlZHVsZWRBY3Rpdml0eX1cIiIK</text>
+        <text encoding="base64">ICAgICAgIkRlZmF1bHQiOiAiYXJuOmF3czppYW06OjUyODUwNjIxODQyMTpyb2xlL3BzYi9ldzEtcHNiLWNpLWxhdGVzdC1pYW0tUmVwb3J0aW5nU2VydmljZUVjMlJvbGUtQU05NkZWTU9PMDBZIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICJTdGF0ZU1hY2hpbmVOYW1lIjogewogICAgICAiVHlwZSI6ICJTdHJpbmciLAogICAgICAiRGVmYXVsdCI6ICIiLAogICAgICAiRGVzY3JpcHRpb24iOiAiTmFtZSBvZiB0aGUgc3RhdGUgbWFjaGluZSIKICAgIH0sCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmFybjphd3M6aWFtOjo1Mjg1MDYyMTg0MjE6cm9sZS9wc2IvZXcxLXBzYi1jaS1sYXRlc3QtaWFtLVJlcG9ydGluZ1NlcnZpY2VFYzJSb2xlLUFNOTZGVk1PTzAwWQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiICAgICAgICAgICAgXCJSZXNvdXJjZVwiOiBcIiR7T25EZW1hbmRBY3Rpdml0eX1cIiwiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiICAgICAgICAgICAgXCJSZXNvdXJjZVwiIDogXCJhcm46YXdzOmxhbWJkYTp1cy1lYXN0LTE6MTExMTIyMjIzMzMzOmZ1bmN0aW9uOkhlbGxvRnVuY3Rpb25cIiwiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwoKCiAgICAgICAgICAgICAgInsKICAgICAgICAgICAgICAiQ29tbWVudCI6ICJHZW5lcmF0ZSBzdW1tYXJ5IHJlcG9ydHMiLAogICAgICAgICAgICAgICJTdGFydEF0IjogIlR5cGVPZlJlcG9ydCIsCiAgICAgICAgICAgICAgIlZlcnNpb24iOiAiMS4wIiwKICAgICAgICAgICAgICAiU3RhdGVzIjogewogICAgICAgICAgICAgICJUeXBlT2ZSZXBvcnQiOiB7CiAgICAgICAgICAgICAgICAiVHlwZSI6ICJDaG9pY2UiLAogICAgICAgICAgICAgICAgIkNob2ljZXMiOiBbCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiVmFyaWFibGUiOiAiJC5yZXBvcnRUeXBlIiwKICAgICAgICAgICAgICAgICAgICAiU3RyaW5nRXF1YWxzIjogIm9uZGVtYW5kIiwKICAgICAgICAgICAgICAgICAgICAiTmV4dCI6ICJPbkRlbWFuZFJlcG9ydCIKICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJWYXJpYWJsZSI6ICIkLnJlcG9ydFR5cGUiLAogICAgICAgICAgICAgICAgICAgICJTdHJpbmdFcXVhbHMiOiAic2NoZWR1bGVkIiwKICAgICAgICAgICAgICAgICAgICAiTmV4dCI6ICJXYWl0VGlsbFNjaGVkdWxlZCIKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgIldhaXRUaWxsU2NoZWR1bGVkIjogewogICAgICAgICAgICAgICAgIlR5cGUiOiAiV2FpdCIsCiAgICAgICAgICAgICAgICAiVGltZXN0YW1wUGF0aCI6ICIkLmV4cGVjdGVkR2VuZXJhdGlvbiIsCiAgICAgICAgICAgICAgICAiTmV4dCI6ICJTY2hlZHVsZWRSZXBvcnQiCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAiT25EZW1hbmRSZXBvcnQiOiB7CiAgICAgICAgICAgICAgICAiVHlwZSI6ICJUYXNrIiwKICAgICAgICAgICAgICAgICJSZXNvdXJjZSI6ICIke09uRGVtYW5kQWN0aXZpdHl9IiwKICAgICAgICAgICAgICAgICJFbmQiOiB0cnVlCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAiU2NoZWR1bGVkUmVwb3J0IjogewogICAgICAgICAgICAgICAgIlR5cGUiOiAiVGFzayIsCiAgICAgICAgICAgICAgICAiUmVzb3VyY2UiOiAiJHtTY2hlZHVsZWRBY3Rpdml0eX0iLAogICAgICAgICAgICAgICAgIk91dHB1dFBhdGgiOiAiJCIsCiAgICAgICAgICAgICAgICAiUmVzdWx0UGF0aCI6ICIkLmV4cGVjdGVkR2VuZXJhdGlvbiIsCiAgICAgICAgICAgICAgICAiTmV4dCI6ICJXYWl0VGlsbFNjaGVkdWxlZCIKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9IgoKICAgICAgICAgICAgICAieyIsCiAgICAgICAgICAgICAgIiAgICBcIkNvbW1lbnRcIjpcIkdlbmVyYXRlIHN1bW1hcnkgcmVwb3J0c1wiLCIsCiAgICAgICAgICAgICAgIiAgICBcIlN0YXJ0QXRcIjpcIlR5cGVPZlJlcG9ydFwiLCIsCiAgICAgICAgICAgICAgIiAgICBcIlZlcnNpb25cIjpcIjEuMFwiLCIsCiAgICAgICAgICAgICAgIiAgICBcIlN0YXRlc1wiOnsiLAogICAgICAgICAgICAgICIgICAgICAgIFwiVHlwZU9mUmVwb3J0XCI6eyIsCiAgICAgICAgICAgICAgIiAgICAgICAgICAgIFwiVHlwZVwiOlwiQ2hvaWNlXCIsIiwKICAgICAgICAgICAgICAiICAgICAgICAgICAgXCJDaG9pY2VzXCI6W3siLAogICAgICAgICAgICAgICIgICAgICAgICAgICAgICAgXCJWYXJpYWJsZVwiOlwiJC5yZXBvcnRUeXBlXCIsIiwKICAgICAgICAgICAgICAiICAgICAgICAgICAgICAgIFwiU3RyaW5nRXF1YWxzXCI6XCJvbmRlbWFuZFwiLCIsCiAgICAgICAgICAgICAgIiAgICAgICAgICAgICAgICBcIk5leHRcIjpcIk9uRGVtYW5kUmVwb3J0XCJ9LCIsCiAgICAgICAgICAgICAgIiAgICAgICAgICAgICAgICB7XCJWYXJpYWJsZVwiOlwiJC5yZXBvcnRUeXBlXCIsIiwKICAgICAgICAgICAgICAiICAgICAgICAgICAgICAgIFwiU3RyaW5nRXF1YWxzXCI6XCJzY2hlZHVsZWRcIiwiLAogICAgICAgICAgICAgICIgICAgICAgICAgICAgICAgXCJOZXh0XCI6XCJXYWl0VGlsbFNjaGVkdWxlZFwiIiwKICAgICAgICAgICAgICAifSIsCiAgICAgICAgICAgICAgIl0iLAogICAgICAgICAgICAgIH0sIiwKICAgICAgICAgICAgICAiICAgIFwiV2FpdFRpbGxTY2hlZHVsZWRcIjp7XCJUeXBlXCI6XCJXYWl0XCIsIiwKICAgICAgICAgICAgICAiICAgICAgICBcIlRpbWVzdGFtcFBhdGhcIjpcIiQuZXhwZWN0ZWRHZW5lcmF0aW9uXCIsIiwKICAgICAgICAgICAgICAiICAgICAgICBcIk5leHRcIjpcIlNjaGVkdWxlZFJlcG9ydFwifSwiLAogICAgICAgICAgICAgICIgICAgICAgIFwiT25EZW1hbmRSZXBvcnRcIjp7XCJUeXBlXCI6XCJUYXNrXCIsIiwKICAgICAgICAgICAgICB7IkZuOjpTdWIiIDogIlwiUmVzb3VyY2VcIjpcIiR7T25EZW1hbmRBY3Rpdml0eX1cIn0sIn0sCiAgICAgICAgICAgICAgIiAgICAgICAgXCJFbmRcIjp0cnVlfSwiLAogICAgICAgICAgICAgICIgICAgICAgIFwiU2NoZWR1bGVkUmVwb3J0XCI6e1wiVHlwZVwiOlwiVGFza1wiLCIsCiAgICAgICAgICAgICAgeyJGbjo6U3ViIiA6ICJcIlJlc291cmNlXCI6XCIke1NjaGVkdWxlZEFjdGl2aXR5fVwifSwifSwKICAgICAgICAgICAgICAiICAgICAgICBcIk91dHB1dFBhdGhcIjpcIiRcIiwiLAogICAgICAgICAgICAgICIgICAgICAgIFwiUmVzdWx0UGF0aFwiOlwiJC5leHBlY3RlZEdlbmVyYXRpb25cIiwiLAogICAgICAgICAgICAgICIgICAgICAgIFwiTmV4dFwiOlwiV2FpdFRpbGxTY2hlZHVsZWRcIiIsCiAgICAgICAgICAgICAgIiAgICAgICAgfSIsCiAgICAgICAgICAgICAgIiAgICB9IiwKICAgICAgICAgICAgICAifSIKICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
-          <key char="100" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="79" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="67" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="127" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiTWV0YWRhdGEiOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvXFwiL2c=</text>
