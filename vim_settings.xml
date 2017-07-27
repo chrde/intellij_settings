@@ -220,6 +220,12 @@
         <mark key="." line="81" column="31" />
         <mark key="^" line="81" column="31" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/test.template.yaml" timestamp="1501164502951">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/su/SoftwareUpdateServiceImpl.java" timestamp="1496311202963">
         <mark key="[" line="165" column="106" />
         <mark key="]" line="165" column="106" />
@@ -705,9 +711,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>653 Spyware infection alert mappings not suitable for Mac client
-
-test fix</text>
+        <text>a</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -726,7 +730,7 @@ test fix</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>

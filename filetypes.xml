@@ -6,6 +6,7 @@
       <mapping ext="cf" type="PLAIN_TEXT" />
       <mapping ext="t" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="template" type="YAML" />
       <mapping ext="template" type="AWSCloudFormation" />
     </extensionMap>
   </component>
