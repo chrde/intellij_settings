@@ -3,28 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1498733214739">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb2/environment-reporting-service.json" timestamp="1500466247451">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/alert/AlertParser.java" timestamp="1500448447451">
-        <mark key="[" line="384" column="197" />
-        <mark key="]" line="384" column="197" />
-        <mark key="." line="384" column="197" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/micro-service/templates/f-secure.psb.spi.vpc.template" timestamp="1500466149953">
         <mark key="[" line="44" column="22" />
         <mark key="]" line="44" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb2/environment-spi.json" timestamp="1500466243534">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="40" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb2/environment-nuibe.json" timestamp="1500466420628" />
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/micro-service/Gruntfile.js" timestamp="1500974487910" />
@@ -40,42 +26,16 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/redshift/RedshiftSaver.java" timestamp="1500369840428">
-        <mark key="[" line="87" column="73" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb3/environment-spi.json" timestamp="1500466232559">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="40" />
-      </file>
+      <file name="$USER_HOME$/dev-sources/spi/lib/service/psb/connector.js" timestamp="1501152436234" />
       <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/ServiceType.java" timestamp="1501143829556" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/premium" timestamp="1499252452349">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/infections/AlertingConfigurationControllerTest.java" timestamp="1500537441392">
         <mark key="[" line="135" column="57" />
         <mark key="]" line="135" column="58" />
         <mark key="." line="135" column="58" />
         <mark key="^" line="135" column="58" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-config/ci/stable/upstream-forwarder.conf" timestamp="1500027356727">
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="1" column="55" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb3/environment-reporting-service.json" timestamp="1500466237706">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1499422944508">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/reporting_db/Gruntfile.js" timestamp="1500974337436" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputersController.java" timestamp="1501152148436" />
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/tasks/cloudformation.js" timestamp="1500974462735" />
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1501060045726">
         <mark key="'" line="41" column="14" />
@@ -100,11 +60,11 @@
         <mark key="." line="59" column="74" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-config/ci/latest/environment-report-generation-sfn.json" timestamp="1500981339159" />
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1501146783104">
-        <mark key="[" line="49" column="55" />
-        <mark key="]" line="50" column="57" />
-        <mark key="^" line="50" column="57" />
-        <mark key="." line="50" column="57" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1501151886107">
+        <mark key="[" line="104" column="32" />
+        <mark key="]" line="104" column="29" />
+        <mark key="^" line="104" column="29" />
+        <mark key="." line="104" column="29" />
       </file>
       <file name="/JavaScript Console" timestamp="1500977589345">
         <mark key="[" line="0" column="0" />
@@ -115,10 +75,6 @@
       <file name="$USER_HOME$/dev-sources/psb/rebuild-psb-no-clean-no-tests.bat" timestamp="1501139551351">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="65" />
-      </file>
-      <file name="/karma.conf.js" timestamp="1500368098333">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="59" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -248,7 +204,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>mvn install -pl psb\assembly,psb\systest -am -DskipTests=true</text>
+        <text>byBwinstalledBw</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -267,7 +223,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>byBwinstalledBw</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
