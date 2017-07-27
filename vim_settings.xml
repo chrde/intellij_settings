@@ -105,6 +105,10 @@
       <file name="/Dummy.txt" timestamp="1501060202794">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/rebuild-psb-no-clean-no-tests.bat" timestamp="1501139551351">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="65" />
+      </file>
       <file name="/karma.conf.js" timestamp="1500368098333">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="59" column="5" />
@@ -236,8 +240,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIkRlZmF1bHQiOiAiIiwK</text>
+      <register name="&quot;" type="4">
+        <text>mvn install -pl psb\assembly,psb\systest -am -DskipTests=true</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -261,8 +265,8 @@
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiRm46OlN1YiI6ICIgICAgICAgICAgICBcIlJlc291cmNlXCI6IFwiJHtPbkRlbWFuZEFjdGl2aXR5fVwiLCIKICAgICAgICAgICAgICB9LAo=</text>
+      <register name="0" type="4">
+        <text>mvn install -pl psb\assembly,psb\systest -am -DskipTests=true</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIkRlZmF1bHQiOiAiIiwK</text>
