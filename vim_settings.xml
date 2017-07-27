@@ -100,6 +100,12 @@
         <mark key="." line="59" column="74" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-config/ci/latest/environment-report-generation-sfn.json" timestamp="1500981339159" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1501146783104">
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="50" column="57" />
+        <mark key="^" line="50" column="57" />
+        <mark key="." line="50" column="57" />
+      </file>
       <file name="/JavaScript Console" timestamp="1500977589345">
         <mark key="[" line="0" column="0" />
       </file>
