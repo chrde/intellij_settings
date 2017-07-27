@@ -60,7 +60,7 @@
         <mark key="." line="59" column="74" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-config/ci/latest/environment-report-generation-sfn.json" timestamp="1500981339159" />
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1501151886107">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1501155667471">
         <mark key="[" line="104" column="32" />
         <mark key="]" line="104" column="29" />
         <mark key="^" line="104" column="29" />
