@@ -71,11 +71,12 @@
         <mark key="." line="88" column="87" />
         <mark key="^" line="88" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1501059267044">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="49" column="17" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="12" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1501236550693">
+        <mark key="'" line="0" column="4181" />
+        <mark key="[" line="0" column="66586" />
+        <mark key="]" line="0" column="66586" />
+        <mark key="." line="0" column="66586" />
+        <mark key="^" line="0" column="66587" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1498732054630">
         <mark key="[" line="21" column="0" />
@@ -552,6 +553,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1501236628764">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="8" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/rebuild-psb-no-clean-no-tests.bat" timestamp="1501139551351">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="65" />
@@ -588,7 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="9" filename="$USER_HOME$/github/rust101/src/main.rs" />
       <jump line="267" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="78" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="128" column="34" filename="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/subscriptionsPUTSpec.js" />
@@ -688,6 +694,7 @@
       <jump line="73" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
       <jump line="0" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
       <jump line="49" column="14" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
+      <jump line="0" column="4181" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -714,7 +721,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ScheduledActivity</text>
+        <text>5</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -733,7 +740,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ScheduledActivity</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
