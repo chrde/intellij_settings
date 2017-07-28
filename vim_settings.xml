@@ -551,11 +551,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Solutions Architect for AWS.json" timestamp="1501239455181">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1501239223884">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1501241180977">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
         <mark key="[" line="39" column="0" />
@@ -714,8 +714,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBKU09OLnN0cmluZ2lmeShvLnF1ZXN0aW9uKCkpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -742,10 +742,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAiU2NoZWR1bGVkQWN0aXZpdHkiOiB7CiAgICAgICAgICAgICAgICAiUmVmIjogIlNjaGVkdWxlZEFjdGl2aXR5IgogICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>653 Spyware infection alert mappings not suitable for Mac client
-
-test fix</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBKU09OLnN0cmluZ2lmeShvLnF1ZXN0aW9uKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -761,22 +759,24 @@ test fix</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhpc3RpbmdCdy5nZXRCd0lkKCkpLmlzRXF1YWxUbyhCV19JRCk7Cg==</text>
+      <register name="3" type="4">
+        <text>653 Spyware infection alert mappings not suitable for Mac client
+
+test fix</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhwZWN0ZWQpLmlzRXF1YWxUbyhjb21wdXRlcklkKGV4aXN0aW5nQncuZ2V0SWQoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgaG9zdEluZm9EYW9JbnRlcmZhY2Uuc2F2ZU9yVXBkYXRlKGhvc3RJbmZvKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhpc3RpbmdCdy5nZXRCd0lkKCkpLmlzRXF1YWxUbyhCV19JRCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgaG9zdEluZm8uc2V0TmV3Q2xpZW50KHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhwZWN0ZWQpLmlzRXF1YWxUbyhjb21wdXRlcklkKGV4aXN0aW5nQncuZ2V0SWQoKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgSG9zdEluZm8gaG9zdEluZm8gPSBob3N0SW5mb0Rhb0ludGVyZmFjZS5maW5kQnlCd2luc3RhbGxlZEJ3SWQoYncuZ2V0QndJZCgpKTsK</text>
+        <text encoding="base64">Ly8gICAgaG9zdEluZm9EYW9JbnRlcmZhY2Uuc2F2ZU9yVXBkYXRlKGhvc3RJbmZvKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -792,10 +792,10 @@ test fix</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEhvc3RJbmZvRGFvSW50ZXJmYWNlIGhvc3RJbmZvRGFvSW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">Ly8gICAgaG9zdEluZm8uc2V0TmV3Q2xpZW50KHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIkRlZmF1bHQiOiAiIiwK</text>
+        <text encoding="base64">Ly8gICAgSG9zdEluZm8gaG9zdEluZm8gPSBob3N0SW5mb0Rhb0ludGVyZmFjZS5maW5kQnlCd2luc3RhbGxlZEJ3SWQoYncuZ2V0QndJZCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvXFwiL2c=</text>
