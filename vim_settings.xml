@@ -35,10 +35,6 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/micro-service/templates/f-secure.psb.spi.vpc.template" timestamp="1500466149953">
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="29" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/staging/tp/config.json" timestamp="1496818172832">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="30" />
@@ -71,9 +67,9 @@
         <mark key="." line="88" column="87" />
         <mark key="^" line="88" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1501236550693">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1501238829486">
         <mark key="'" line="0" column="4181" />
-        <mark key="[" line="0" column="66586" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66586" />
         <mark key="." line="0" column="66586" />
         <mark key="^" line="0" column="66587" />
@@ -103,6 +99,9 @@
         <mark key="." line="36" column="1" />
       </file>
       <file name="$USER_HOME$/dev-sources/spi/lib/service/psb/connector.js" timestamp="1501153063260" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Data Security.json" timestamp="1501239057932">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/CosmosProfileServiceTest.java" timestamp="1496135990707">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -457,10 +456,6 @@
         <mark key="^" line="88" column="30" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" timestamp="1501159134379" />
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/micro-service/templates/f-secure.psb.micro-cosmos.vpc.template" timestamp="1500971333477">
-        <mark key="[" line="556" column="0" />
-        <mark key="]" line="556" column="44" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/Gruntfile.js" timestamp="1500977586962">
         <mark key="[" line="59" column="74" />
         <mark key="]" line="59" column="74" />
@@ -553,15 +548,14 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1501236628764">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="5" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Solutions Architect for AWS.json" timestamp="1501239455181">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/rebuild-psb-no-clean-no-tests.bat" timestamp="1501139551351">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="65" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1501239223884">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
         <mark key="[" line="39" column="0" />
@@ -721,7 +715,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>1</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -740,7 +734,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
