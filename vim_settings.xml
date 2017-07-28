@@ -217,6 +217,7 @@
         <mark key="." line="30" column="39" />
         <mark key="^" line="29" column="31" />
       </file>
+      <file name="/report-generation.js" timestamp="1501230755351" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/infections/InfectionsControllerTest.java" timestamp="1500447778681">
         <mark key="[" line="96" column="35" />
         <mark key="]" line="81" column="31" />
@@ -523,7 +524,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501224526264">
+      <file name="/Dummy.txt" timestamp="1501230813532">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
