@@ -9,6 +9,9 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="/a.dummy" timestamp="1501224477630">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/reporting-service/.ebextensions/autoscaling.config" timestamp="1499777168806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="32" />
@@ -481,7 +484,7 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1501159945401">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationService.java" timestamp="1501224460617">
         <mark key="[" line="99" column="34" />
         <mark key="]" line="99" column="38" />
         <mark key="." line="99" column="38" />
@@ -520,7 +523,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501160058573">
+      <file name="/Dummy.txt" timestamp="1501224526264">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
