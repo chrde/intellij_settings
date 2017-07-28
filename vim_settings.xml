@@ -383,12 +383,11 @@
         <mark key="." line="51" column="54" />
         <mark key="^" line="51" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1501060045726">
-        <mark key="'" line="41" column="14" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="11" column="5" />
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1501232015442">
+        <mark key="[" line="90" column="24" />
+        <mark key="]" line="90" column="24" />
+        <mark key="." line="90" column="24" />
+        <mark key="^" line="89" column="30" />
       </file>
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/cosmos/create_child_node.js" timestamp="1497424616047">
         <mark key="[" line="23" column="59" />
@@ -524,7 +523,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501230813532">
+      <file name="/Dummy.txt" timestamp="1501231711417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -715,7 +714,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>ScheduledActivity</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -734,13 +733,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>ScheduledActivity</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>mvn install -pl psb\assembly,psb\systest -am -DskipTests=true</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAiU2NoZWR1bGVkQWN0aXZpdHkiOiB7CiAgICAgICAgICAgICAgICAiUmVmIjogIlNjaGVkdWxlZEFjdGl2aXR5IgogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
         <text>653 Spyware infection alert mappings not suitable for Mac client
