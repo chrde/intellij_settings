@@ -486,10 +486,11 @@
         <mark key="^" line="88" column="30" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" timestamp="1501159134379" />
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/Gruntfile.js" timestamp="1501486376246">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/Gruntfile.js" timestamp="1501487233596">
+        <mark key="[" line="58" column="91" />
+        <mark key="]" line="58" column="96" />
+        <mark key="." line="58" column="96" />
+        <mark key="^" line="58" column="96" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-config/ci/latest/environment-report-generation-sfn.json" timestamp="1500981339159" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496661904827">
@@ -745,7 +746,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Update</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -764,13 +765,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Update</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiU2NoZWR1bGVkQWN0aXZpdHkiOiB7CiAgICAgICAgICAgICAgICAiUmVmIjogIlNjaGVkdWxlZEFjdGl2aXR5IgogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICBncnVudC5yZWdpc3RlclRhc2soJ3N0ZXBmdW5jdGlvbi1kZWxldGUnLCAnRGVsZXRlIFN0ZXBGdW5jdGlvbiBzdGFjaycsIFsnY2xvdWRGb3JtYXRpb25VcGRhdGVTdGFjazpwYXJhbXMnXSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgby5nZXRTZWxlY3RlZEFuc3dlcnNJZHMgPSAoKSA9PiBbMV07Cg==</text>
