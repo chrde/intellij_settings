@@ -29,7 +29,7 @@
         <mark key="." line="81" column="54" />
         <mark key="^" line="81" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1501535382796">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1501536509813">
         <mark key="[" line="45" column="7" />
         <mark key="]" line="45" column="12" />
         <mark key="." line="45" column="12" />
@@ -470,6 +470,9 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/architect associate/2ndbest.json" timestamp="1501536156254">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdSupplierTest.java" timestamp="1496150680014">
         <mark key="[" line="79" column="0" />
