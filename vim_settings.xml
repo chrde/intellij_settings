@@ -413,12 +413,7 @@
         <mark key="." line="51" column="54" />
         <mark key="^" line="51" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1501232015442">
-        <mark key="[" line="90" column="24" />
-        <mark key="]" line="90" column="24" />
-        <mark key="." line="90" column="24" />
-        <mark key="^" line="89" column="30" />
-      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" timestamp="1501232015442" />
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/cosmos/create_child_node.js" timestamp="1497424616047">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="67" />
