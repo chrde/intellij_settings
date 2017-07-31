@@ -486,6 +486,13 @@
         <mark key="^" line="88" column="30" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" timestamp="1501159134379" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" timestamp="1500283132868">
+        <mark key="'" line="140" column="235" />
+        <mark key="[" line="151" column="31" />
+        <mark key="]" line="185" column="15" />
+        <mark key="^" line="185" column="15" />
+        <mark key="." line="185" column="15" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/Gruntfile.js" timestamp="1501489162295">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="58" column="91" />
@@ -574,6 +581,13 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.json" timestamp="1501496282788">
+        <mark key="'" line="29" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="6" />
+        <mark key="^" line="29" column="6" />
+        <mark key="." line="29" column="6" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/get-version-json-mock.js" timestamp="1500385230948">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -583,11 +597,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Solutions Architect for AWS.json" timestamp="1501239455181">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1501496124306">
-        <mark key="[" line="4" column="66" />
-        <mark key="]" line="4" column="67" />
-        <mark key="." line="4" column="67" />
-        <mark key="^" line="12" column="65" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1501499864364">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="17" column="38" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
         <mark key="[" line="39" column="0" />
@@ -621,7 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/github/rust101/src/part05.rs" />
       <jump line="128" column="34" filename="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/subscriptionsPUTSpec.js" />
       <jump line="67" column="34" filename="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/subscriptionsPUTSpec.js" />
       <jump line="14" column="98" filename="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/subscriptionsPUTSpec.js" />
@@ -721,6 +734,7 @@
       <jump line="49" column="14" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
       <jump line="0" column="4181" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="54" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/Gruntfile.js" />
+      <jump line="29" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/test.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -746,8 +760,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Update</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgby5zZXRDb21wbGV0ZVF1ZXN0aW9uKHF1ZXN0aW9uKTsK</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -766,7 +780,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Update</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -775,7 +789,7 @@
         <text encoding="base64">ICBncnVudC5yZWdpc3RlclRhc2soJ3N0ZXBmdW5jdGlvbi1kZWxldGUnLCAnRGVsZXRlIFN0ZXBGdW5jdGlvbiBzdGFjaycsIFsnY2xvdWRGb3JtYXRpb25VcGRhdGVTdGFjazpwYXJhbXMnXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgby5nZXRTZWxlY3RlZEFuc3dlcnNJZHMgPSAoKSA9PiBbMV07Cg==</text>
+        <text encoding="base64">ICAgICAgby5zZXRDb21wbGV0ZVF1ZXN0aW9uKHF1ZXN0aW9uKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -791,24 +805,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgby5nZXRTZWxlY3RlCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBKU09OLnN0cmluZ2lmeShvLnF1ZXN0aW9uKCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>653 Spyware infection alert mappings not suitable for Mac client
-
-test fix</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gbmV4dCgpewo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhpc3RpbmdCdy5nZXRCd0lkKCkpLmlzRXF1YWxUbyhCV19JRCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -824,10 +836,10 @@ test fix</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhwZWN0ZWQpLmlzRXF1YWxUbyhjb21wdXRlcklkKGV4aXN0aW5nQncuZ2V0SWQoKSkpOwo=</text>
+        <text encoding="base64">ICAgIC8vIH0sIDEzMDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgaG9zdEluZm9EYW9JbnRlcmZhY2Uuc2F2ZU9yVXBkYXRlKGhvc3RJbmZvKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHEgPSAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvXFwiL2c=</text>
