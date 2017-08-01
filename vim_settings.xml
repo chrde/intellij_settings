@@ -19,13 +19,11 @@
         <mark key="." line="0" column="18591" />
       </file>
       <file name="/Search.js" timestamp="1501598236731" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1501584702535">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Desktop/demo-app/src/server/serverMock.js" timestamp="1501606149387">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/demo-app/src/server/serverMock.js" timestamp="1501598801154" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/alert/AlertParser.java" timestamp="1500448447451">
         <mark key="[" line="384" column="197" />
         <mark key="]" line="384" column="197" />
@@ -35,6 +33,11 @@
         <mark key="[" line="0" column="30127" />
         <mark key="]" line="0" column="30127" />
         <mark key="." line="0" column="30127" />
+      </file>
+      <file name="$USER_HOME$/Desktop/demo-app/src/functions.js" timestamp="1501605672519">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/devops-pro/Amazon Web Services - CloudTrail.json" timestamp="1501584511547">
         <mark key="[" line="0" column="24134" />
@@ -46,8 +49,10 @@
         <mark key="]" line="0" column="20700" />
         <mark key="." line="0" column="20700" />
       </file>
-      <file name="$USER_HOME$/Desktop/demo-app/src/api.js" timestamp="1501599340446">
-        <mark key="[" line="10" column="30" />
+      <file name="$USER_HOME$/Desktop/demo-app/src/api.js" timestamp="1501601677699">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Amazon Web Services - CloudFormation.json" timestamp="1501583852668">
         <mark key="[" line="0" column="23707" />
@@ -90,10 +95,21 @@
         <mark key="." line="0" column="24054" />
       </file>
       <file name="/OurAutoComplete.js" timestamp="1501598184066" />
+      <file name="$USER_HOME$/Desktop/demo-app/src/features/addNewFood/AddNewProductContainer.js" timestamp="1501602083880" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - VPC.json" timestamp="1501585027754">
         <mark key="[" line="0" column="28292" />
         <mark key="]" line="0" column="28292" />
         <mark key="." line="0" column="28292" />
+      </file>
+      <file name="$USER_HOME$/Desktop/demo-app/src/Reducer.js" timestamp="1501606177599">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/demo-app/src/Actions.js" timestamp="1501606168969">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb3/environment-reporting-service.json" timestamp="1500466237706">
         <mark key="[" line="90" column="0" />
@@ -150,6 +166,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/demo-app/src/server/products.js" timestamp="1501607023805">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Certified Developer Associate (practice).json" timestamp="1501583810488">
         <mark key="[" line="0" column="34540" />
         <mark key="]" line="0" column="34540" />
@@ -160,11 +181,13 @@
         <mark key="]" line="0" column="23215" />
         <mark key="." line="0" column="23215" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/test.json" timestamp="1501529963081">
-        <mark key="'" line="9633" column="20" />
-        <mark key="[" line="0" column="378342" />
-        <mark key="]" line="0" column="378342" />
-        <mark key="." line="0" column="378342" />
+      <file name="$USER_HOME$/Desktop/demo-app/src/index.js" timestamp="1501607738675">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501607979039">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/demo-app/src/common/OurAutoComplete.js" timestamp="1501598570916">
         <mark key="[" line="3" column="6" />
@@ -300,7 +323,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -319,59 +342,76 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Our</text>
+        <text>anotherInitialState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zb2xlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvLnF1ZXN0aW9ucygpLmZvckVhY2goKHgsIGkpID0+IHsKICAgIHguc29sdXRpb24gPSB4LmNvcnJlY3RfYW5zd2Vyc19pZHMoKTsKICAgIGlmICh4LnNvbHV0aW9uLmxlbmd0aCA8IDEpIHsKICAgICAgY29uc29sZS5sb2coYHF1ZXN0aW9uICR7aX0gZmFpbGVkYCkKICAgIH0KCiAgfSk7CiAgcmV0dXJuIEpTT04uc3RyaW5naWZ5KG8ucXVlc3Rpb25zKCkpOwo=</text>
+        <text encoding="base64">c3RvcmUuZGlzcGF0Y2goewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
-        <text>0x$x</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHNob3dJdGVtCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGl0ZW1zCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPlRPRE8uLi48L3A+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNob3dJdGVtID0gKGl0ZW0sIHZhbHVlKSA9PiBpdGVtLm5hbWUudG9Mb3dlckNhc2UoKS5pbmRleE9mKHZhbHVlLnRvTG93ZXJDYXNlKCkpICE9PSAtMQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNob3dJdGVtID0gKGl0ZW0sIHZhbHVlKSA9PiBpdGVtLm5hbWUudG9Mb3dlckNhc2UoKS5pbmRleE9mKHZhbHVlLnRvTG93ZXJDYXNlKCkpICE9PSAtMQo=</text>
-      </register>
-      <register name="w" type="4">
         <keys>
           <key char="48" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="65535" code="127" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gbG9jYWxTdG9yYWdlLnNldEl0ZW0oInN0YXRlIiwgSlNPTi5zdHJpbmdpZnkoc3RhdGUpKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3Qgc3RhdGUgPSBzdG9yZS5nZXRTdGF0ZSgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgYW5vdGhlckluaXRpYWxTdGF0ZSA9IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oInN0YXRlIikpIDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpZDogdXVpZHY0KCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+      </register>
+      <register name="w" type="4">
+        <text>ww</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIG9sZCgpIHsKICAgIC8vICAgICBsZXQgcGljdHVyZSA9IChpdGVtKSA9PiB7CiAgICAvLyAgICAgICAgIGlmIChpdGVtLnByb3BlcnRpZXMgJiYgaXRlbS5wcm9wZXJ0aWVzLnVybCkgewogICAgLy8gICAgICAgICAgICAgcmV0dXJuIDxpbWcgYWx0PXtpdGVtLm5hbWV9IHNyYz17aXRlbS5wcm9wZXJ0aWVzLnVybH0gd2lkdGg9IjIwMCIgaGVpZ2h0PSIxMDAiIC8+CiAgICAvLyAgICAgICAgIH0KICAgIC8vICAgICB9CiAgICAvLyAgICAgcmV0dXJuICg8ZGl2PgogICAgLy8gICAgICAgICA8QXV0b2NvbXBsZXRlCiAgICAvLyAgICAgICAgICAgICBnZXRJdGVtVmFsdWU9eyhpdGVtKSA9PiBpdGVtLm5hbWV9CiAgICAvLyAgICAgICAgICAgICBpdGVtcz17dGhpcy5wcm9wcy5mb29kc30KICAgIC8vICAgICAgICAgICAgIHJlbmRlckl0ZW09eyhpdGVtLCBpc0hpZ2hsaWdodGVkKSA9PgogICAgLy8gICAgICAgICAgICAgICAgIDxkaXY+CiAgICAvLyAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZDogaXNIaWdobGlnaHRlZCA/ICdsaWdodGdyYXknIDogJ3doaXRlJyB9fT4KICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgIHtpdGVtLm5hbWV9CiAgICAvLyAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgLy8gICAgICAgICAgICAgICAgICAgICB7cGljdHVyZShpdGVtKX0KICAgIC8vICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgIC8vICAgICAgICAgICAgIH0KICAgIC8vICAgICAgICAgICAgIHZhbHVlPXt0aGlzLnN0YXRlLmlucHV0fQogICAgLy8gICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiB7CiAgICAvLyAgICAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAvLyAgICAgICAgICAgICAgICAgICAgIGlucHV0OiBlLnRhcmdldC52YWx1ZQogICAgLy8gICAgICAgICAgICAgICAgIH0pOwogICAgLy8gICAgICAgICAgICAgfX0KICAgIC8vICAgICAgICAgICAgIG9uU2VsZWN0PXsodmFsLCBmb29kKSA9PiB7CiAgICAvLyAgICAgICAgICAgICAgICAgdGhpcy5wcm9wcy5vblNlbGVjdChmb29kKTsKICAgIC8vICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgIC8vICAgICAgICAgICAgICAgICAgICAgaW5wdXQ6ICIiCiAgICAvLyAgICAgICAgICAgICAgICAgfSkKICAgIC8vICAgICAgICAgICAgIH19CiAgICAvLyAgICAgICAgICAgICBzaG91bGRJdGVtUmVuZGVyPXt0aGlzLnNob3dJdGVtfQogICAgLy8gICAgICAgICAvPgogICAgLy8gICAgIDwvZGl2PikKICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGZldGNoT3B0aW9ucyA9IHsgbW9kZTogJ2NvcnMnLCBtZXRob2Q6ICdHRVQnIH07CiAgICAvLyAgIGZldGNoKCdodHRwOi8vbG9jYWxob3N0OjMwMDEnLCBmZXRjaE9wdGlvbnMpCiAgICAvLyAudGhlbihkYXRhID0+IGRhdGEuanNvbigpKQoK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvXFwiL2c=</text>
+        <text>72</text>
       </register>
     </registers>
     <search>
@@ -407,7 +447,6 @@
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>set nonu</entry>
         <entry>set nonumber</entry>
         <entry>set relative</entry>
         <entry>marks</entry>
@@ -427,6 +466,7 @@
         <entry>s/,/\\n/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvIlxcL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
+        <entry>72</entry>
       </history-cmd>
       <history-expr />
       <history-input />
