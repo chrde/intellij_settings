@@ -29,10 +29,11 @@
         <mark key="." line="81" column="54" />
         <mark key="^" line="81" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1501537970802">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1501582278654">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="36" column="1" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/profile_navigator.js" timestamp="1494401221705">
         <mark key="[" line="5" column="0" />
@@ -82,7 +83,7 @@
         <mark key="." line="88" column="87" />
         <mark key="^" line="88" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1501530007767">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1501582098663">
         <mark key="'" line="0" column="4181" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66586" />
@@ -217,6 +218,9 @@
         <mark key="]" line="56" column="6" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="4" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/architect associate/a.json" timestamp="1501582207680">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1498721658614">
         <mark key="[" line="61" column="9" />
@@ -637,7 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="36" filename="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/subscriptionsPUTSpec.js" />
       <jump line="5" column="19" filename="$USER_HOME$/github/rust101/src/part11.rs" />
       <jump line="23" column="25" filename="$USER_HOME$/github/rust101/src/part11.rs" />
       <jump line="31" column="21" filename="$USER_HOME$/github/rust101/src/part11.rs" />
@@ -737,6 +740,7 @@
       <jump line="9633" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/test.json" />
       <jump line="25" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
       <jump line="0" column="221227" filename="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/2ndbest.json" />
+      <jump line="16" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -762,8 +766,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgby5xdWVzdGlvbnMoKQo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -788,10 +792,10 @@
         <text encoding="base64">XDxjb25zb2xlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgby5nZXRTZWxlY3RlZEFuc3dlcnNJZHMgPSAoKSA9PiBbTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogMykgKyAxXTsK</text>
+        <text encoding="base64">ICBvLnF1ZXN0aW9ucygpLmZvckVhY2goKHgsIGkpID0+IHsKICAgIHguc29sdXRpb24gPSB4LmNvcnJlY3RfYW5zd2Vyc19pZHMoKTsKICAgIGlmICh4LnNvbHV0aW9uLmxlbmd0aCA8IDEpIHsKICAgICAgY29uc29sZS5sb2coYHF1ZXN0aW9uICR7aX0gZmFpbGVkYCkKICAgIH0KCiAgfSk7CiAgcmV0dXJuIEpTT04uc3RyaW5naWZ5KG8ucXVlc3Rpb25zKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc29sdXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgby5xdWVzdGlvbnMoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -807,22 +811,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc29sdXRpb24gPSB4LmFuc3dlcnMuZmlsdGVyKGEgPT4gYS5pZCA9PT0geC5zb2x1dGlvblswXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gcHJvY2VzcyhvKSB7CiAgaWYgKCFvLmlzTGFzdFF1ZXN0aW9uKCkpIHsKICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAvLyBvLmdldFNlbGVjdGVkQW5zd2Vyc0lkcyA9ICgpID0+IFtNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAzKSArIDFdOwogICAgICBjb25zdCBhY3RpdmVRdWVzdGlvbiA9IG8uYWN0aXZlUXVlc3Rpb24oKTsKICAgICAgby5nZXRTZWxlY3RlZEFuc3dlcnNJZHMgPSAoKSA9PiBbYWN0aXZlUXVlc3Rpb24uYW5zd2Vyc1swXS5pZF07CiAgICAgIG8uc2V0Q29tcGxldGVRdWVzdGlvbihhY3RpdmVRdWVzdGlvbik7CiAgICAgIGNvbnN0IGluZGV4ID0gby5hY3RpdmVRdWVzdGlvbkluZGV4KCk7CiAgICAgIGlmIChvLnF1ZXN0aW9ucygpW2luZGV4XS5jb3JyZWN0X2Fuc3dlcnNfaWRzKCkgPT09IDApIHsKICAgICAgICBjb25zb2xlLmxvZyhgcXVlc3Rpb24gJHtpbmRleH0gZmFpbGVkYCk7CiAgICAgIH0KICAgICAgby5sb2FkTmV4dFF1ZXN0aW9uKCk7CiAgICAgIHByb2Nlc3Mobyk7CgogICAgfSwgMjAwMCk7CiAgfQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFzb2x1dGlvbi5sZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc29sdXRpb24pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2xpY2sobyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc29sdXRpb24gPSB4LmFuc3dlcnMuZmlsdGVyKGEgPT4gYS5pZCA9PT0geC5zb2x1dGlvblswXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBuZXh0ID0gby5sb2FkTmV4dFF1ZXN0aW9uOwo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCFzb2x1dGlvbi5sZW5ndGgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -838,10 +842,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2xpY2sobyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBuZXh0ID0gby5sb2FkTmV4dFF1ZXN0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvXFwiL2c=</text>
