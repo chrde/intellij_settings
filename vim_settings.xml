@@ -198,8 +198,8 @@
         <mark key="]" line="0" column="20214" />
         <mark key="." line="0" column="20214" />
       </file>
-      <file name="$USER_HOME$/github/demo-app/src/DemoForm.js" timestamp="1502108514770">
-        <mark key="[" line="22" column="0" />
+      <file name="$USER_HOME$/github/demo-app/src/DemoForm.js" timestamp="1502110927401">
+        <mark key="[" line="21" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="59" column="82" />
         <mark key="." line="3" column="0" />
@@ -277,9 +277,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/github/demo-app/src/features/addMeal/Meal.js" timestamp="1502107672851">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="53" />
+      <file name="$USER_HOME$/github/demo-app/src/features/addMeal/Meal.js" timestamp="1502111091964">
+        <mark key="[" line="91" column="62" />
+        <mark key="]" line="96" column="32" />
+        <mark key="^" line="96" column="32" />
+        <mark key="." line="96" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - VPC.json" timestamp="1501585027754">
         <mark key="[" line="0" column="28292" />
@@ -672,7 +674,7 @@
         <mark key="." line="141" column="106" />
         <mark key="^" line="141" column="106" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502107929714">
+      <file name="/Dummy.txt" timestamp="1502110981393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/reassignment/BlockedComputerReassignmentAction.java" timestamp="1497956284468">
@@ -686,6 +688,10 @@
         <mark key="]" line="9" column="6" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/github/demo-app/src/DemoFormArray.js" timestamp="1502110845067">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="94" column="17" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/get-version-json-mock.js" timestamp="1500385230948">
         <mark key="[" line="14" column="0" />
@@ -862,8 +868,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgcmVuZGVyQXV0b0NvbXBsZXRlID0gZmllbGQgPT4gewogIHJldHVybiAoCiAgICA8ZGl2PgogICAgICA8bGFiZWw+CiAgICAgICAge2ZpZWxkLmxhYmVsfQogICAgICA8L2xhYmVsPgogICAgICA8QXV0b0NvbXBsZXRlCiAgICAgICAgaXRlbXM9e2ZpZWxkLml0ZW1zfQogICAgICAgIG9uU2VsZWN0PXsobmFtZSwgaXRlbSkgPT4gY29uc29sZS5sb2cobmFtZSwgaXRlbSl9CiAgICAgIC8+CgogICAgPC9kaXY+CiAgKQp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>renderField</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -882,13 +888,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>renderField</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zb2xlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcmVuZGVyQXV0b0NvbXBsZXRlID0gZmllbGQgPT4gewogIHJldHVybiAoCiAgICA8ZGl2PgogICAgICA8bGFiZWw+CiAgICAgICAge2ZpZWxkLmxhYmVsfQogICAgICA8L2xhYmVsPgogICAgICA8QXV0b0NvbXBsZXRlCiAgICAgICAgaXRlbXM9e2ZpZWxkLml0ZW1zfQogICAgICAgIG9uU2VsZWN0PXsobmFtZSwgaXRlbSkgPT4gY29uc29sZS5sb2cobmFtZSwgaXRlbSl9CiAgICAgIC8+CgogICAgPC9kaXY+CiAgKQp9Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgcmVkdXhGb3JtKHsKICAgIGZvcm06ICdhZGROZXdNZWFsJywKICAgIHZhbGlkYXRlCn0pKEFkZE5ld01lYWxGb3JtKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -924,31 +930,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvb2RzIDogc3RhdGUuZm9vZHMuZm9vZHMK</text>
+        <text encoding="base64">ICB2YWxpZGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNoYW5nZT17dGhpcy5vbkNoYW5nZX0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTWVhbDsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gbG9jYWxTdG9yYWdlLnNldEl0ZW0oInN0YXRlIiwgSlNPTi5zdHJpbmdpZnkoc3RhdGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBwcmlzdGluZSwgcmVzZXQsIGludmFsaWQsIGhhbmRsZVN1Ym1pdCB9ID0gcHJvcHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc3RhdGUgPSBzdG9yZS5nZXRTdGF0ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYW5vdGhlckluaXRpYWxTdGF0ZSA9IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oInN0YXRlIikpIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmb3JtCg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZDogdXVpZHY0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgIGZvb2RzIDogc3RhdGUuZm9vZHMuZm9vZHMK</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
