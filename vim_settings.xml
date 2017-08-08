@@ -336,6 +336,7 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-config/ci/latest/environment-spi.json" timestamp="1502198474064" />
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb3/environment-reporting-service.json" timestamp="1500466237706">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
