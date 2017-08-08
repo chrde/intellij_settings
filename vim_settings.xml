@@ -81,6 +81,7 @@
         <mark key="]" line="0" column="30127" />
         <mark key="." line="0" column="30127" />
       </file>
+      <file name="$USER_HOME$/dev-sources/system-psb/configuration-ci-latest.json" timestamp="1502193770897" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/README.md" timestamp="1496824165463">
         <mark key="[" line="85" column="49" />
         <mark key="]" line="85" column="49" />
@@ -232,6 +233,7 @@
         <mark key="^" line="62" column="109" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/system-psb/configuration-stg-global.json" timestamp="1502193756615" />
       <file name="$USER_HOME$/Desktop/demo-app/src/common/AutoComplete.js" timestamp="1501598605342">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
