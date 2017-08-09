@@ -151,7 +151,7 @@
         <mark key="^" line="59" column="82" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/clients/cosmos_client.js" timestamp="1502272765426" />
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/clients/cosmos_client.js" timestamp="1502276088674" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/common/RegistrationData.java" timestamp="1496210472460">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="31" column="0" />
@@ -481,7 +481,9 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/services/profiles_service.js" timestamp="1502262860505" />
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/services/profiles_service.js" timestamp="1502275692585">
+        <mark key="'" line="222" column="2" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1502262703386">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="50" />
@@ -596,7 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="21" filename="$USER_HOME$/github/rust101/src/part11.rs" />
       <jump line="8" column="31" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/admin/api/change/OverrideValidationBehavior.java" />
       <jump line="9" column="20" filename="$USER_HOME$/github/rust101/src/part13.rs" />
       <jump line="29" column="43" filename="$USER_HOME$/github/rust101/src/part13.rs" />
@@ -696,6 +697,7 @@
       <jump line="138" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/architect associate/scratch.json" />
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
       <jump line="3" column="21" filename="$USER_HOME$/github/demo-app/src/server/serverMock.js" />
+      <jump line="222" column="2" filename="$USER_HOME$/dev-sources/micro-cosmos/lib/services/profiles_service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -744,7 +746,7 @@
         <text>stable.micro-cosmos.internal.psb-ci.fsapi.com</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zb2xlXD4=</text>
+        <text encoding="base64">XDx1cGRhdGVQcm9maWxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJtaWNyb0Nvc21vc0FwaUJhc2VVcmwiOiAiaHR0cHM6Ly9zdGFibGUubWljcm8tY29zbW9zLmludGVybmFsLnBzYi1jaS5mc2FwaS5jb20vYXBpL3YxIiwK</text>
@@ -814,17 +816,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVQcm9maWxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVQcm9maWxlXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sNULL</entry>
         <entry>NULL</entry>
         <entry encoding="base64">XDxzZXJ2aWNlXD4=</entry>
         <entry>system_tab</entry>
@@ -844,6 +845,7 @@
         <entry>,</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVQcm9maWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set nonumber</entry>
