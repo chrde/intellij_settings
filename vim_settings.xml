@@ -295,6 +295,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/dto/status/Status.java" timestamp="1502439442711">
+        <mark key="[" line="99" column="17" />
+        <mark key="]" line="99" column="24" />
+        <mark key="^" line="99" column="24" />
+        <mark key="." line="99" column="24" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1498721658614">
         <mark key="[" line="61" column="9" />
         <mark key="]" line="61" column="8" />
@@ -899,7 +905,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>protected</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -918,16 +924,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVQcm9maWxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIndpbmRvd3MucmVhbHRpbWVfc2Nhbm5pbmcuZGVlcGd1YXJkLnJhbnNvbXdhcmVfcHJvdGVjdGlvbi5hZGRfcGF0aHMiLAo=</text>
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBwcm90ZWN0ZWRQYXRoczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJtaWNyb0Nvc21vc0FwaUJhc2VVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDozMDAwL2FwaS92MSIsCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjdXJyZW50UHJvZmlsZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -959,35 +965,35 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBwcm90ZWN0ZWRQYXRoczsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoImNvbW1vbi5wcm9maWxlX21hbmFnZW1lbnQuY3VycmVudF9wcm9maWxlIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJtaWNyb0Nvc21vc0FwaUJhc2VVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDozMDAwL2FwaS92MSIsCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>9900 mcosmos obtains the default profile from psb
 
 PR fixes 
 Use the right errorHandler</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIndpbmRvd3MucmVhbHRpbWVfc2Nhbm5pbmcuZGVlcGd1YXJkLnJhbnNvbXdhcmVfcHJvdGVjdGlvbi5leGNsdWRlX3BhdGhzIiwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIndpbmRvd3MucmVhbHRpbWVfc2Nhbm5pbmcuZGVlcGd1YXJkLnJhbnNvbXdhcmVfcHJvdGVjdGlvbi5hZGRfcGF0aHMiLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByb3VuZGVkVG9Ud29EZWNpbWFscyA9IE1hdGgucm91bmQocGVyY2VudGFnZSAqIDEwMCkgLyAxMDA7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHF1YQo=</text>
+        <text encoding="base64">ICAgICAgIndpbmRvd3MucmVhbHRpbWVfc2Nhbm5pbmcuZGVlcGd1YXJkLnJhbnNvbXdhcmVfcHJvdGVjdGlvbi5hZGRfcGF0aHMiLAo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByb3VuZGVkVG9Ud29EZWNpbWFscyA9IE1hdGgucm91bmQocGVyY2VudGFnZSAqIDEwMCkgLyAxMDA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ge2lkOiBmb29kLnByb3BlcnRpZXMuaWQsIHVuaXQ6ICJncmFtcyIsIHF1YW50aXR5OiAxMDAgLyBwZXJjZW50YWdlfTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
