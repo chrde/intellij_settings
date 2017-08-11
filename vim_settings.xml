@@ -657,11 +657,10 @@
       <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/services/profiles_service.js" timestamp="1502275692585">
         <mark key="'" line="222" column="2" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1502262703386">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="50" />
-        <mark key="." line="12" column="50" />
-        <mark key="^" line="12" column="50" />
+      <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1502436696343">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
       </file>
       <file name="$USER_HOME$/dev-sources/reporting-service/package.json" timestamp="1500370082561">
         <mark key="[" line="12" column="50" />
@@ -900,10 +899,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>9900 mcosmos obtains the default profile from psb
-
-PR fixes 
-Use the right errorHandler</text>
+        <text>1</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -922,7 +918,7 @@ Use the right errorHandler</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d_paths</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVQcm9maWxlXD4=</text>
@@ -930,11 +926,8 @@ Use the right errorHandler</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIndpbmRvd3MucmVhbHRpbWVfc2Nhbm5pbmcuZGVlcGd1YXJkLnJhbnNvbXdhcmVfcHJvdGVjdGlvbi5hZGRfcGF0aHMiLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>9900 mcosmos obtains the default profile from psb
-
-PR fixes 
-Use the right errorHandler</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJtaWNyb0Nvc21vc0FwaUJhc2VVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDozMDAwL2FwaS92MSIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -966,32 +959,35 @@ Use the right errorHandler</text>
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIndpbmRvd3MucmVhbHRpbWVfc2Nhbm5pbmcuZGVlcGd1YXJkLnJhbnNvbXdhcmVfcHJvdGVjdGlvbi5leGNsdWRlX3BhdGhzIiwK</text>
+      <register name="2" type="4">
+        <text>9900 mcosmos obtains the default profile from psb
+
+PR fixes 
+Use the right errorHandler</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIndpbmRvd3MucmVhbHRpbWVfc2Nhbm5pbmcuZGVlcGd1YXJkLnJhbnNvbXdhcmVfcHJvdGVjdGlvbi5hZGRfcGF0aHMiLAo=</text>
+        <text encoding="base64">ICAgICAgIndpbmRvd3MucmVhbHRpbWVfc2Nhbm5pbmcuZGVlcGd1YXJkLnJhbnNvbXdhcmVfcHJvdGVjdGlvbi5leGNsdWRlX3BhdGhzIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByb3VuZGVkVG9Ud29EZWNpbWFscyA9IE1hdGgucm91bmQocGVyY2VudGFnZSAqIDEwMCkgLyAxMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgIndpbmRvd3MucmVhbHRpbWVfc2Nhbm5pbmcuZGVlcGd1YXJkLnJhbnNvbXdhcmVfcHJvdGVjdGlvbi5hZGRfcGF0aHMiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByb3VuZGVkVG9Ud29EZWNpbWFscyA9IE1hdGgucm91bmQocGVyY2VudGFnZSAqIDEwMCkgLyAxMDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHF1YQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHF1YQo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ge2lkOiBmb29kLnByb3BlcnRpZXMuaWQsIHVuaXQ6ICJncmFtcyIsIHF1YW50aXR5OiAxMDAgLyBwZXJjZW50YWdlfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxdWFudGl0eU9mRm9vZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ge2lkOiBmb29kLnByb3BlcnRpZXMuaWQsIHVuaXQ6ICJncmFtcyIsIHF1YW50aXR5OiAxMDAgLyBwZXJjZW50YWdlfTsK</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
