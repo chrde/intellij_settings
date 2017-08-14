@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationDto1.java" timestamp="1497953910243">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="9" column="7" />
+      </file>
       <file name="/File Header.txt.ft" timestamp="1502200987606">
         <mark key="[" line="0" column="0" />
       </file>
@@ -11,10 +17,22 @@
         <mark key="]" line="0" column="23330" />
         <mark key="." line="0" column="23330" />
       </file>
+      <file name="$USER_HOME$/dev-sources/reporting-service/.ebextensions/autoscaling.config" timestamp="1499777168806">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller_test.js" timestamp="1498733214739">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/sp/logic/computer/ComputersPageDelegateSearchTest.java" timestamp="1497956493491">
+        <mark key="[" line="81" column="42" />
+        <mark key="]" line="81" column="54" />
+        <mark key="." line="81" column="54" />
+        <mark key="^" line="81" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Amazon Web Services - VPC.json" timestamp="1501583832317">
         <mark key="[" line="0" column="18591" />
@@ -26,31 +44,79 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/github/demo-app/src/DemoFormContainer.js" timestamp="1502108382276">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="2" column="36" />
+      </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1502710163232">
         <mark key="[" line="236" column="0" />
         <mark key="]" line="236" column="0" />
         <mark key="." line="236" column="0" />
         <mark key="^" line="172" column="106" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/profile_navigator.js" timestamp="1494401221705">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/alert/AlertParser.java" timestamp="1500448447451">
         <mark key="[" line="384" column="197" />
         <mark key="]" line="384" column="197" />
         <mark key="." line="384" column="197" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/staging/tp/config.json" timestamp="1496818172832">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountDto.java" timestamp="1497428496930">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="22" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Amazon Web Services - EC2.json" timestamp="1501583844228">
+        <mark key="[" line="0" column="19634" />
+        <mark key="]" line="0" column="19634" />
+        <mark key="^" line="0" column="19635" />
+        <mark key="." line="0" column="19634" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/devops-pro/Amazon Web Services - Security.json" timestamp="1501584530540">
         <mark key="[" line="0" column="30127" />
         <mark key="]" line="0" column="30127" />
         <mark key="." line="0" column="30127" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/README.md" timestamp="1496824165463">
+        <mark key="[" line="85" column="49" />
+        <mark key="]" line="85" column="49" />
+        <mark key="^" line="85" column="74" />
+        <mark key="." line="85" column="49" />
+      </file>
       <file name="$USER_HOME$/Desktop/demo-app/src/functions.js" timestamp="1501605672519">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-build/psb-predefined-cosmos-profiles-publish-aws/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496824513390">
+        <mark key="[" line="28" column="168" />
+        <mark key="]" line="28" column="199" />
+        <mark key="." line="104" column="72" />
+        <mark key="^" line="30" column="40" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/devops-pro/Amazon Web Services - CloudTrail.json" timestamp="1501584511547">
         <mark key="[" line="0" column="24134" />
         <mark key="]" line="0" column="24134" />
         <mark key="." line="0" column="24134" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/reassignment/BlockedComputerReassignmentActionTest.java" timestamp="1497956425106">
+        <mark key="[" line="88" column="87" />
+        <mark key="]" line="88" column="87" />
+        <mark key="." line="88" column="87" />
+        <mark key="^" line="88" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1502264080185">
         <mark key="[" line="0" column="0" />
@@ -65,12 +131,30 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1498732054630">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="23" column="42" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Amazon Web Services - CloudFormation.json" timestamp="1501583852668">
         <mark key="[" line="0" column="23707" />
         <mark key="]" line="0" column="23707" />
         <mark key="." line="0" column="23707" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/model/alert/InfectionAlert.java" timestamp="1500447692483">
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/status/ClientStateStatusParser.java" timestamp="1502455494254" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/profile/mobile/SetDefaultMobileProfileController.java" timestamp="1496041508367">
+        <mark key="[" line="36" column="3" />
+        <mark key="]" line="36" column="1" />
+        <mark key="^" line="36" column="1" />
+        <mark key="." line="36" column="1" />
+      </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/redshift/RedshiftSaver.java" timestamp="1500369840428">
         <mark key="[" line="87" column="73" />
         <mark key="]" line="89" column="0" />
@@ -80,11 +164,77 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="17" column="79" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/CosmosProfileServiceTest.java" timestamp="1496135990707">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="73" column="61" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/devops-pro/2ndbest.json" timestamp="1501538460451">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="158110" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdSupplier.java" timestamp="1496149039262">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="57" column="15" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1498653004245">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/production/psb-smi-eu/config.json" timestamp="1496823672350">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/MessageProcessor.java" timestamp="1502455478575" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/dev/2ndbest.json" timestamp="1501537436488">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/demo-app/src/features/search/Search.js" timestamp="1502204194113">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/NewComputerData.java" timestamp="1497958345354">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Amazon Web Services - EBS.json" timestamp="1501583847177">
         <mark key="[" line="0" column="20214" />
         <mark key="]" line="0" column="20214" />
         <mark key="." line="0" column="20214" />
+      </file>
+      <file name="$USER_HOME$/github/demo-app/src/DemoForm.js" timestamp="1502110927401">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="59" column="82" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/common/RegistrationData.java" timestamp="1496210472460">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="53" column="103" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/tokenSignupSpec.js" timestamp="1496157032691">
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="54" column="2" />
+        <mark key="^" line="54" column="2" />
+        <mark key="." line="54" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/premium" timestamp="1499252452349">
         <mark key="[" line="17" column="0" />
@@ -96,6 +246,12 @@
         <mark key="]" line="0" column="23425" />
         <mark key="." line="0" column="23425" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/spi/ComputersControllerTest.java" timestamp="1496211033740">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="62" column="109" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/demo-app/src/common/AutoComplete.js" timestamp="1501598605342">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -106,13 +262,43 @@
         <mark key="]" line="0" column="23637" />
         <mark key="." line="0" column="23637" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" timestamp="1496992748705">
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="45" column="42" />
+        <mark key="^" line="45" column="42" />
+        <mark key="." line="45" column="42" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - EC2.json" timestamp="1501584923557">
         <mark key="[" line="0" column="24054" />
         <mark key="]" line="0" column="24054" />
         <mark key="." line="0" column="24054" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileDto.java" timestamp="1494502774962">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="142" column="65" />
+        <mark key="." line="144" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/BackendManager.java" timestamp="1502708224709" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/infections/TakenActionResource.java" timestamp="1500447706505">
+        <mark key="[" line="27" column="47" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="27" column="48" />
+        <mark key="^" line="28" column="55" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/DataloaderConsumer.java" timestamp="1502701719616" />
+      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1498722098335">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="38" column="39" />
+        <mark key="^" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/config/karma.conf.js" timestamp="1500368084045">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="56" column="6" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - VPC.json" timestamp="1501585027754">
         <mark key="[" line="0" column="28292" />
         <mark key="]" line="0" column="28292" />
@@ -128,13 +314,55 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1498721658614">
+        <mark key="[" line="61" column="9" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="61" column="8" />
+        <mark key="^" line="61" column="8" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1502200939396">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1497601071902">
+        <mark key="[" line="64" column="60" />
+        <mark key="]" line="64" column="60" />
+        <mark key="." line="64" column="60" />
+        <mark key="^" line="58" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputerRegistrationResource.java" timestamp="1497428591598">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="23" column="66" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/demo-app/src/Actions.js" timestamp="1501606168969">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/BlockedComputersRepositoryImplTest.java" timestamp="1497956402619">
+        <mark key="[" line="137" column="67" />
+        <mark key="]" line="137" column="79" />
+        <mark key="." line="137" column="79" />
+        <mark key="^" line="137" column="79" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/reporting-service/lib/utils/transform.js" timestamp="1500449075276">
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="39" />
+        <mark key="." line="30" column="39" />
+        <mark key="^" line="29" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/infections/InfectionsControllerTest.java" timestamp="1500447778681">
+        <mark key="[" line="96" column="35" />
+        <mark key="]" line="81" column="31" />
+        <mark key="." line="81" column="31" />
+        <mark key="^" line="81" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/test.template.yaml" timestamp="1501164502951">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="33" />
       </file>
       <file name="$USER_HOME$/github/demo-app/src/server/serverMock.js" timestamp="1502205379539">
         <mark key="'" line="3" column="21" />
@@ -152,6 +380,24 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/github/demo-app/src/features/addFood/AddFood.test.js" timestamp="1502713588993">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="18" column="43" />
+        <mark key="." line="18" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/su/SoftwareUpdateServiceImpl.java" timestamp="1496311202963">
+        <mark key="[" line="165" column="106" />
+        <mark key="]" line="165" column="106" />
+        <mark key="^" line="164" column="81" />
+        <mark key="." line="165" column="122" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/services/profile_service_test.js" timestamp="1494589468150">
+        <mark key="[" line="62" column="2" />
+        <mark key="]" line="62" column="2" />
+        <mark key="." line="62" column="2" />
+        <mark key="^" line="63" column="75" />
+      </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/common/config/config.schema.json" timestamp="1502278829761">
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="0" />
@@ -162,10 +408,28 @@
         <mark key="]" line="0" column="19998" />
         <mark key="." line="0" column="19998" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_profiles_tab/computer_profiles_tab_content_controller.js" timestamp="1494401744676">
+        <mark key="[" line="414" column="0" />
+        <mark key="]" line="416" column="5" />
+        <mark key="^" line="3" column="141" />
+        <mark key="." line="3" column="141" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/system-psb/configs/production/global-psb-prd-ue1.json" timestamp="1494417536238">
+        <mark key="[" line="23" column="64" />
+        <mark key="]" line="23" column="64" />
+        <mark key="." line="23" column="64" />
+        <mark key="^" line="23" column="64" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - Storage" timestamp="1501585061124">
         <mark key="[" line="0" column="25131" />
         <mark key="]" line="0" column="25131" />
         <mark key="." line="0" column="25131" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" timestamp="1494510549188">
+        <mark key="[" line="96" column="11" />
+        <mark key="]" line="96" column="14" />
+        <mark key="." line="96" column="14" />
+        <mark key="^" line="96" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - CloudWatch.json" timestamp="1501585171009">
         <mark key="[" line="0" column="24113" />
@@ -175,15 +439,81 @@
       <file name="/fragment.js" timestamp="1502277923491">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/subscriptionChangeSpec.js" timestamp="1499240246753">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="93" column="6" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRepositoryImplTest.java" timestamp="1497956470576">
+        <mark key="[" line="571" column="42" />
+        <mark key="]" line="571" column="54" />
+        <mark key="." line="571" column="54" />
+        <mark key="^" line="571" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/endpoints/profiles_spec.js" timestamp="1494578410119">
+        <mark key="[" line="56" column="11" />
+        <mark key="]" line="49" column="80" />
+        <mark key="." line="49" column="80" />
+        <mark key="^" line="49" column="80" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationDto.java" timestamp="1497954462542">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1502702120086">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/config/dev-local.config.json" timestamp="1496731635621">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/messages/string.properties" timestamp="1500448195569">
+        <mark key="[" line="3086" column="25" />
+        <mark key="]" line="3086" column="40" />
+        <mark key="." line="3086" column="40" />
+        <mark key="^" line="3086" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/internal/AccountsControllerTest.java" timestamp="1496658563862">
+        <mark key="[" line="47" column="84" />
+        <mark key="]" line="47" column="83" />
+        <mark key="^" line="47" column="83" />
+        <mark key="." line="47" column="83" />
+      </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/ActiveMQForwarder.java" timestamp="1502359958747" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfileResource.java" timestamp="1494490670444">
+        <mark key="[" line="92" column="60" />
+        <mark key="]" line="92" column="60" />
+        <mark key="^" line="94" column="70" />
+        <mark key="." line="92" column="60" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/LegacyAndNewUpstreamProcessor.java" timestamp="1502710772880" />
       <file name="/Catch Statement Body.txt.ft" timestamp="1502200945632">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/jenkins-jobs/psb-predefined-cosmos-profiles-publish/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496835829328">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="16" column="201" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1500446978553">
+        <mark key="[" line="1504" column="56" />
+        <mark key="]" line="1504" column="52" />
+        <mark key="." line="1504" column="0" />
+        <mark key="^" line="2303" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/LocalProfileRepository.java" timestamp="1496145255255">
+        <mark key="[" line="91" column="82" />
+        <mark key="]" line="91" column="82" />
+        <mark key="." line="91" column="82" />
+        <mark key="^" line="196" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Amazon Web Services - DynamoDB.json" timestamp="1501583849905">
         <mark key="[" line="0" column="18689" />
@@ -195,6 +525,36 @@
         <mark key="]" line="0" column="25131" />
         <mark key="." line="0" column="25131" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileFacade.java" timestamp="1496398947041">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="64" column="93" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/internal/CosmosProfilesControllerTest.java" timestamp="1494510617306">
+        <mark key="[" line="55" column="92" />
+        <mark key="]" line="55" column="54" />
+        <mark key="." line="55" column="54" />
+        <mark key="^" line="55" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/spi/spec/business/token_sign_up/token_sign_up_endpoint_spec.js" timestamp="1498025468373">
+        <mark key="[" line="100" column="50" />
+        <mark key="]" line="100" column="50" />
+        <mark key="." line="100" column="50" />
+        <mark key="^" line="100" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1498721168870">
+        <mark key="[" line="61" column="38" />
+        <mark key="]" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+        <mark key="^" line="40" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesAction.java" timestamp="1497427376029">
+        <mark key="[" line="36" column="101" />
+        <mark key="]" line="62" column="4" />
+        <mark key="." line="62" column="4" />
+        <mark key="^" line="62" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - DynamoDB" timestamp="1501585045669">
         <mark key="[" line="0" column="21528" />
         <mark key="]" line="0" column="21528" />
@@ -205,12 +565,60 @@
         <mark key="]" line="0" column="30950" />
         <mark key="." line="0" column="30950" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/spec/lib/operations/set_default_profile_in_psb_spec.js" timestamp="1496823539731">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/sp/messaging/pushnotificator/PushNotificationSenderImplTest.java" timestamp="1497956485874">
+        <mark key="[" line="162" column="66" />
+        <mark key="]" line="162" column="78" />
+        <mark key="." line="162" column="78" />
+        <mark key="^" line="162" column="78" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/ta/ComputerController.java" timestamp="1497956303974">
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="51" column="54" />
+        <mark key="." line="51" column="54" />
+        <mark key="^" line="51" column="54" />
+      </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test.json" timestamp="1502453710651">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="423" column="5" />
         <mark key="]" line="423" column="5" />
         <mark key="^" line="423" column="5" />
         <mark key="." line="423" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/cosmos/create_child_node.js" timestamp="1497424616047">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="67" />
+        <mark key="^" line="23" column="67" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DownloadSeriesRepositoryImplTest.java" timestamp="1497956371287">
+        <mark key="[" line="50" column="51" />
+        <mark key="]" line="50" column="63" />
+        <mark key="." line="50" column="63" />
+        <mark key="^" line="50" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/clients/psb_client.js" timestamp="1494578856552">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="115" column="31" />
+        <mark key="." line="111" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/staging/live/config.json" timestamp="1496818181423">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/production/psb4/config.json" timestamp="1496823680101">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/build.gradle" timestamp="1502445486469">
         <mark key="[" line="25" column="55" />
@@ -222,12 +630,42 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/production/psb1/config.json" timestamp="1496823654951">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/package.json" timestamp="1494501624064">
+        <mark key="[" line="10" column="49" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/demo-app/src/server/products.js" timestamp="1501607023805">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdSupplierTest.java" timestamp="1496150680014">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="110" column="13" />
+        <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/AlertToUpstreamConverter.java" timestamp="1500276197852">
+        <mark key="[" line="40" column="51" />
+        <mark key="]" line="40" column="51" />
+        <mark key="." line="40" column="51" />
+        <mark key="^" line="40" column="38" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/status/StatusParser.java" timestamp="1502710720023" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesActionTest.java" timestamp="1497427621958">
+        <mark key="[" line="88" column="32" />
+        <mark key="]" line="88" column="30" />
+        <mark key="." line="88" column="30" />
+        <mark key="^" line="88" column="30" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Certified Developer Associate (practice).json" timestamp="1501583810488">
         <mark key="[" line="0" column="34540" />
         <mark key="]" line="0" column="34540" />
@@ -239,16 +677,40 @@
         <mark key="." line="163" column="31" />
         <mark key="^" line="154" column="35" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/BackendStatusManager.java" timestamp="1502711157680" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/BackendStatusManager.java" timestamp="1502713053425" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496661904827">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="74" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/config/latest.config.json" timestamp="1496155437534">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - AS.json" timestamp="1501584894567">
         <mark key="[" line="0" column="23215" />
         <mark key="]" line="0" column="23215" />
         <mark key="." line="0" column="23215" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/LocalProfileRepositoryTest.java" timestamp="1494332206370">
+        <mark key="[" line="163" column="70" />
+        <mark key="]" line="163" column="70" />
+        <mark key="." line="163" column="87" />
+        <mark key="^" line="152" column="53" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-backend/config/dev-skyblue.config.json" timestamp="1502436696343">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/reporting-service/package.json" timestamp="1500370082561">
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="12" />
       </file>
       <file name="/JavaScript Console" timestamp="1502278832437">
         <mark key="[" line="0" column="0" />
@@ -260,18 +722,102 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/config.schema.json" timestamp="1496818382217">
+        <mark key="[" line="57" column="3" />
+        <mark key="]" line="57" column="3" />
+        <mark key="^" line="57" column="3" />
+        <mark key="." line="57" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/accounts/AccountResource.java" timestamp="1497428584817">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="26" column="12" />
+      </file>
       <file name="$USER_HOME$/Desktop/demo-app/src/index.js" timestamp="1501607738675">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/utils/operation_constants.js" timestamp="1496132837277">
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+        <mark key="^" line="14" column="95" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/2ndbest.json" timestamp="1501537345896">
+        <mark key="[" line="0" column="231094" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
+        <mark key="[" line="141" column="106" />
+        <mark key="]" line="141" column="106" />
+        <mark key="." line="141" column="106" />
+        <mark key="^" line="141" column="106" />
       </file>
       <file name="/Dummy.txt" timestamp="1502711590606">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/reassignment/BlockedComputerReassignmentAction.java" timestamp="1497956284468">
+        <mark key="[" line="53" column="85" />
+        <mark key="]" line="53" column="85" />
+        <mark key="." line="53" column="85" />
+        <mark key="^" line="53" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-utils/src/main/java/com/fsecure/common/util/uuid/UUIDSource.java" timestamp="1499843462970">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/get-version-json-mock.js" timestamp="1500385230948">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/demo-app/src/common/OurAutoComplete.js" timestamp="1501598570916">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="19" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/ci/latest/config.json" timestamp="1496823807154">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="58" />
+        <mark key="." line="1" column="58" />
+        <mark key="^" line="1" column="58" />
+      </file>
+      <file name="$USER_HOME$/Desktop/demo-app/.gitignore" timestamp="1501608861995">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+      </file>
       <file name="/fragment.java" timestamp="1502711203764">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/set_default_profile_in_psb.js" timestamp="1496823391613">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/dto/alert/Action.java" timestamp="1500370515169">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -400,8 +946,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyB2b2lkIGJsYWJsYShTdGF0dXMgc3RhdHVzLCBIYXNoTWFwPFN0cmluZywgUG9saWN5VmFsdWU+IGRlc3RpbmF0aW9uVG9BZGQpewogICAgICAgIGlmIChzdGF0dXMuZ2V0RXhjbHVkZWRQYXRocygpID09IG51bGwgfHwgc3RhdHVzLmdldEV4Y2x1ZGVkUGF0aHMoKS5sZW5ndGggPCAxKXsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgUG9saWN5VmFsdWUgdGFibGUgPSBuZXcgUG9saWN5VGFibGVWYWx1ZSgpCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>clubsck</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -420,7 +966,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getProtectedPaths</text>
+        <text>clubsck</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVQcm9maWxlXD4=</text>
