@@ -26,7 +26,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1502708491041" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1502710163232">
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="." line="236" column="0" />
+        <mark key="^" line="172" column="106" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/alert/AlertParser.java" timestamp="1500448447451">
         <mark key="[" line="384" column="197" />
         <mark key="]" line="384" column="197" />
@@ -176,7 +181,7 @@
         <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/ActiveMQForwarder.java" timestamp="1502359958747" />
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/LegacyAndNewUpstreamProcessor.java" timestamp="1502701759975" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/LegacyAndNewUpstreamProcessor.java" timestamp="1502710772880" />
       <file name="/Catch Statement Body.txt.ft" timestamp="1502200945632">
         <mark key="[" line="0" column="0" />
       </file>
@@ -222,7 +227,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/status/StatusParser.java" timestamp="1502701659884" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/status/StatusParser.java" timestamp="1502710720023" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Certified Developer Associate (practice).json" timestamp="1501583810488">
         <mark key="[" line="0" column="34540" />
         <mark key="]" line="0" column="34540" />
@@ -234,6 +239,7 @@
         <mark key="." line="163" column="31" />
         <mark key="^" line="154" column="35" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/BackendStatusManager.java" timestamp="1502711157680" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - AS.json" timestamp="1501584894567">
         <mark key="[" line="0" column="23215" />
         <mark key="]" line="0" column="23215" />
@@ -264,7 +270,7 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1502708408683">
+      <file name="/fragment.java" timestamp="1502711203764">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -394,8 +400,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>alerts1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyB2b2lkIGJsYWJsYShTdGF0dXMgc3RhdHVzLCBIYXNoTWFwPFN0cmluZywgUG9saWN5VmFsdWU+IGRlc3RpbmF0aW9uVG9BZGQpewogICAgICAgIGlmIChzdGF0dXMuZ2V0RXhjbHVkZWRQYXRocygpID09IG51bGwgfHwgc3RhdHVzLmdldEV4Y2x1ZGVkUGF0aHMoKS5sZW5ndGggPCAxKXsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgUG9saWN5VmFsdWUgdGFibGUgPSBuZXcgUG9saWN5VGFibGVWYWx1ZSgpCiAgICB9Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -414,16 +420,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>alerts1</text>
+        <text>getProtectedPaths</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVQcm9maWxlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKc29uU2V0dGVyKG51bGxzID0gTnVsbHMuQVNfRU1QVFkpCg==</text>
+      <register name="0" type="4">
+        <text>Arrays.toString(status.getProtectedPaths())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVcHN0cmVhbVBheWxvYWRbXSBhbGVydHMgPSBmcm9tSlNPTihqc29uTm9kZS5maW5kVmFsdWUoInBheWxvYWQiKS50b1N0cmluZygpLCBTdGF0dXNbXS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyB2b2lkIGJsYWJsYShTdGF0dXMgc3RhdHVzLCBIYXNoTWFwPFN0cmluZywgUG9saWN5VmFsdWU+IGRlc3RpbmF0aW9uVG9BZGQpewogICAgICAgIGlmIChzdGF0dXMuZ2V0RXhjbHVkZWRQYXRocygpID09IG51bGwgfHwgc3RhdHVzLmdldEV4Y2x1ZGVkUGF0aHMoKS5sZW5ndGggPCAxKXsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgUG9saWN5VmFsdWUgdGFibGUgPSBuZXcgUG9saWN5VGFibGVWYWx1ZSgpCiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -456,31 +462,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKc29uU2V0dGVyKG51bGxzID0gTnVsbHMuQVNfRU1QVFkpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEZTQVZfUkVBTFRJTUVfUkFOU09NV0FSRV9QUk9URUNURURfUEFUSFNfT0lEID0gIjEuMy42LjEuNC4xLjIyMTMuMTIuMS4xMTEuMi4xMCI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGU0FWX1JFQUxUSU1FX1JBTlNPTVdBUkVfRVhDTFVERURfUEFUSFNfT0lEID0gIjEuMy42LjEuNC4xLjIyMTMuMTIuMS4xMTEuMi4xMCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKc29uU2V0dGVyKG51bGxzID0gTnVsbHMuQVNfRU1QVFkpCg==</text>
+        <text encoding="base64">ICAgICAgICBVcHN0cmVhbVBheWxvYWRbXSBhbGVydHMgPSBmcm9tSlNPTihqc29uTm9kZS5maW5kVmFsdWUoInBheWxvYWQiKS50b1N0cmluZygpLCBTdGF0dXNbXS5jbGFzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFByb3RlY3RlZFBhdGhzKFN0cmluZ1tdIHByb3RlY3RlZFBhdGhzKSB7CiAgICAgICAgaWYocHJvdGVjdGVkUGF0aHMgPT0gbnVsbCl7CiAgICAgICAgICAgIHRoaXMucHJvdGVjdGVkUGF0aHMgPSBFTVBUWV9BUlJBWTsKICAgICAgICB9CiAgICAgICAgdGhpcy5wcm90ZWN0ZWRQYXRocyA9IHByb3RlY3RlZFBhdGhzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEV4Y2x1ZGVkUGF0aHMoU3RyaW5nW10gZXhjbHVkZWRQYXRocykgewogICAgICAgIGlmKGV4Y2x1ZGVkUGF0aHMgPT0gbnVsbCl7CiAgICAgICAgICAgIHRoaXMuZXhjbHVkZWRQYXRocyA9IEVNUFRZX0FSUkFZOwogICAgICAgIH0KICAgICAgICB0aGlzLmV4Y2x1ZGVkUGF0aHMgPSBleGNsdWRlZFBhdGhzOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIEBKc29uU2V0dGVyKG51bGxzID0gTnVsbHMuQVNfRU1QVFkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBKc29uU2V0dGVyKG51bGxzID0gTnVsbHMuQVNfRU1QVFkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEpzb25TZXR0ZXIoKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFByb3RlY3RlZFBhdGhzKFN0cmluZ1tdIHByb3RlY3RlZFBhdGhzKSB7CiAgICAgICAgaWYocHJvdGVjdGVkUGF0aHMgPT0gbnVsbCl7CiAgICAgICAgICAgIHRoaXMucHJvdGVjdGVkUGF0aHMgPSBFTVBUWV9BUlJBWTsKICAgICAgICB9CiAgICAgICAgdGhpcy5wcm90ZWN0ZWRQYXRocyA9IHByb3RlY3RlZFBhdGhzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEV4Y2x1ZGVkUGF0aHMoU3RyaW5nW10gZXhjbHVkZWRQYXRocykgewogICAgICAgIGlmKGV4Y2x1ZGVkUGF0aHMgPT0gbnVsbCl7CiAgICAgICAgICAgIHRoaXMuZXhjbHVkZWRQYXRocyA9IEVNUFRZX0FSUkFZOwogICAgICAgIH0KICAgICAgICB0aGlzLmV4Y2x1ZGVkUGF0aHMgPSBleGNsdWRlZFBhdGhzOwogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVcHN0cmVhbVBheWxvYWRbXSBhbGVydHMgPSBmcm9tSlNPTigsIFN0YXR1c1tdLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25TZXR0ZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0dXMgc3RhdHVzID0gb2JqZWN0TWFwcGVyLnJlYWRWYWx1ZShqc29uLCBTdGF0dXMuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBVcHN0cmVhbVBheWxvYWRbXSBhbGVydHMgPSBmcm9tSlNPTigsIFN0YXR1c1tdLmNsYXNzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>730</text>
