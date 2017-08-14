@@ -105,6 +105,7 @@
         <mark key="]" line="0" column="24054" />
         <mark key="." line="0" column="24054" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/DataloaderConsumer.java" timestamp="1502701719616" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - VPC.json" timestamp="1501585027754">
         <mark key="[" line="0" column="28292" />
         <mark key="]" line="0" column="28292" />
@@ -167,12 +168,13 @@
       <file name="/fragment.js" timestamp="1502277923491">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1499422944508">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1502702120086">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/ActiveMQForwarder.java" timestamp="1502359958747" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/LegacyAndNewUpstreamProcessor.java" timestamp="1502701759975" />
       <file name="/Catch Statement Body.txt.ft" timestamp="1502200945632">
         <mark key="[" line="0" column="0" />
       </file>
@@ -218,7 +220,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/status/StatusParser.java" timestamp="1502455485498" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/status/StatusParser.java" timestamp="1502701659884" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Certified Developer Associate (practice).json" timestamp="1501583810488">
         <mark key="[" line="0" column="34540" />
         <mark key="]" line="0" column="34540" />
@@ -255,12 +257,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502443662192">
+      <file name="/Dummy.txt" timestamp="1502701900431">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1502455250202">
+      <file name="/fragment.java" timestamp="1502701488014">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
