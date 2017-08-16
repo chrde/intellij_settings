@@ -3,10 +3,15 @@
     <property name="created">2017-08-08T15:41:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-08-16T09:41:54</property>
+    <property name="modified">2017-08-16T10:28:37</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="553333" />
+      </value>
+    </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="a37eb6" />
@@ -17,12 +22,22 @@
         <option name="FOREGROUND" value="7fa36c" />
       </value>
     </option>
+    <option name="EXECUTIONPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3470b2" />
+      </value>
+    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b5d20b" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="a1bb0a" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="264d7d" />
       </value>
     </option>
     <option name="TEXT">

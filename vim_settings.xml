@@ -6,6 +6,7 @@
       <file name="/File Header.txt.ft" timestamp="1502200987606">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/StatusQueueAppenderImpl.java" timestamp="1502872289993" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - Networking &amp; CDN.json" timestamp="1501584974969">
         <mark key="[" line="0" column="23330" />
         <mark key="]" line="0" column="23330" />
@@ -26,11 +27,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1502871074476">
-        <mark key="[" line="184" column="52" />
-        <mark key="]" line="185" column="41" />
-        <mark key="^" line="185" column="41" />
-        <mark key="." line="185" column="41" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1502871829807">
+        <mark key="[" line="240" column="21" />
+        <mark key="]" line="240" column="20" />
+        <mark key="." line="240" column="20" />
+        <mark key="^" line="240" column="20" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/alert/AlertParser.java" timestamp="1500448447451">
         <mark key="[" line="384" column="197" />
@@ -78,7 +79,7 @@
         <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-status/src/main/java/com/fsecure/common/status/StatusOids.java" timestamp="1502867635238" />
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/MessageProcessor.java" timestamp="1502455478575" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/MessageProcessor.java" timestamp="1502872543368" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Amazon Web Services - EBS.json" timestamp="1501583847177">
         <mark key="[" line="0" column="20214" />
         <mark key="]" line="0" column="20214" />
@@ -176,7 +177,7 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="60" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1502702120086">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1502872204911">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
@@ -267,7 +268,7 @@
         <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/missingupdates/MissingUpdatesTableUpdater.java" timestamp="1502867540706" />
-      <file name="/fragment.java" timestamp="1502868545778">
+      <file name="/fragment.java" timestamp="1502872502864">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -397,8 +398,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Collections.singletonList(result);</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -417,7 +418,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>Collections.singletonList(result);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVQcm9maWxlXD4=</text>
