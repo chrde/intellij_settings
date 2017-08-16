@@ -9,9 +9,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="/File Header.txt.ft" timestamp="1502200987606">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/StatusQueueAppenderImpl.java" timestamp="1502872289993" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - Networking &amp; CDN.json" timestamp="1501584974969">
         <mark key="[" line="0" column="23330" />
@@ -119,9 +116,6 @@
         <mark key="]" line="88" column="87" />
         <mark key="." line="88" column="87" />
         <mark key="^" line="88" column="54" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1502264080185">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Amazon Web Services - ELB.json" timestamp="1501583840816">
         <mark key="[" line="0" column="20700" />
@@ -331,9 +325,6 @@
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="8" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1502200939396">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1497601071902">
         <mark key="[" line="64" column="60" />
         <mark key="]" line="64" column="60" />
@@ -374,9 +365,6 @@
         <mark key="]" line="19" column="33" />
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
-      </file>
-      <file name="/JavaScript File.txt.ft" timestamp="1502200988150">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/status/CommandStatusParser.java" timestamp="1502455497510" />
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb3/environment-reporting-service.json" timestamp="1500466237706">
@@ -440,9 +428,6 @@
         <mark key="]" line="0" column="24113" />
         <mark key="." line="0" column="24113" />
       </file>
-      <file name="/fragment.js" timestamp="1502277923491">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/subscriptionChangeSpec.js" timestamp="1499240246753">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -461,17 +446,13 @@
         <mark key="." line="49" column="80" />
         <mark key="^" line="49" column="80" />
       </file>
-      <file name="$USER_HOME$/github/demo-app/src/features/addFood/AddFood.js" timestamp="1502715261018">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="60" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationDto.java" timestamp="1497954462542">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="16" column="5" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1502872204911">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1502883787173">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
@@ -502,9 +483,6 @@
         <mark key="." line="92" column="60" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/LegacyAndNewUpstreamProcessor.java" timestamp="1502710772880" />
-      <file name="/Catch Statement Body.txt.ft" timestamp="1502200945632">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/jenkins-jobs/psb-predefined-cosmos-profiles-publish/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496835829328">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -669,7 +647,7 @@
         <mark key="^" line="40" column="38" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/status/StatusParser.java" timestamp="1502873733283" />
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1502874963896">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1502883287029">
         <mark key="[" line="245" column="83" />
         <mark key="]" line="245" column="137" />
         <mark key="^" line="245" column="137" />
@@ -694,6 +672,7 @@
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/BackendStatusManager.java" timestamp="1502875440483" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/preprocess/HostNamePreprocessor.java" timestamp="1502867699846" />
+      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-status/src/main/java/com/fsecure/common/status/MulticastingStatusUpdater.java" timestamp="1502883111018" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/status/AvSerial.java" timestamp="1502876320722">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="20" />
@@ -732,9 +711,6 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1502278832437">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/config.schema.json" timestamp="1496818382217">
         <mark key="[" line="57" column="3" />
         <mark key="]" line="57" column="3" />
@@ -752,6 +728,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-su/src/main/java/com/fsecure/psp/backend/missingupdates/AbstractMissingUpdatesTableUpdater.java" timestamp="1502883409377" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/utils/operation_constants.js" timestamp="1496132837277">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="50" />
@@ -770,7 +747,7 @@
         <mark key="." line="141" column="106" />
         <mark key="^" line="141" column="106" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502877334908">
+      <file name="/Dummy.txt" timestamp="1502883649052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -800,7 +777,7 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/missingupdates/MissingUpdatesTableUpdater.java" timestamp="1502867540706" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/missingupdates/MissingUpdatesTableUpdater.java" timestamp="1502882885628" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -819,8 +796,11 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1502875240734">
+      <file name="/fragment.java" timestamp="1502883765822">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/set_default_profile_in_psb.js" timestamp="1496823391613">
         <mark key="[" line="8" column="0" />
