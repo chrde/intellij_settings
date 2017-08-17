@@ -269,6 +269,7 @@
         <mark key="^" line="62" column="109" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwarePath.java" timestamp="1502967382746" />
       <file name="$USER_HOME$/Desktop/demo-app/src/common/AutoComplete.js" timestamp="1501598605342">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -794,11 +795,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1502965409728">
-        <mark key="[" line="40" column="22" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1502967451538">
+        <mark key="[" line="41" column="74" />
+        <mark key="]" line="41" column="73" />
+        <mark key="^" line="41" column="73" />
+        <mark key="." line="41" column="73" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
         <mark key="[" line="39" column="0" />
@@ -818,11 +819,10 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1502885271053">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/fragment.java" timestamp="1502966757151">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/set_default_profile_in_psb.js" timestamp="1496823391613">
         <mark key="[" line="8" column="0" />
@@ -963,8 +963,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -983,13 +983,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVQcm9maWxlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>RANSOMWARE_PROTECTED_PATHS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFJhbnNvbXdhcmVQYXRoIGV4Y2x1ZGVkUGF0aChTdHJpbmcgcGF0aCl7CiAgICByZXR1cm4gbmV3IFJhbnNvbXdhcmVQYXRoKHBhdGgsIHRydWUpOwogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1025,22 +1025,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUFJPVEVDVEVEX1BBVEhTID0gInJhbnNvbXdhcmVfZXhjbHVkZWRfcGF0aHMiOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZXhjbHVkZWQgPSBleGNsdWRlZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRVhDTFVERURfUEFUSFMgPSAicmFuc29td2FyZV9leGNsdWRlZF9wYXRocyI7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucGF0aCA9IHBhdGg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxvbmcgc2VyaWFsVmVyc2lvblVJRDsK</text>
+        <text encoding="base64">ICBwcml2YXRlIFJhbnNvbXdhcmVQYXRoKFN0cmluZyBwYXRoLCBib29sZWFuIGV4Y2x1ZGVkKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNlcmlhbGl6YWJsZQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucGF0aCA9IG51bGw7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
@@ -1049,7 +1049,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlVG9PdXRwdXQoRlNBVl9SRUFMVElNRV9SQU5TT01XQVJFX0VYQ0xVREVEX1BBVEhTX09JRCwgQXJyYXlzLnRvU3RyaW5nKHN0YXR1cy5nZXRFeGNsdWRlZFBhdGhzKCkpLCB2YWx1ZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>730</text>
