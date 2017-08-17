@@ -781,11 +781,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1502887151531">
-        <mark key="[" line="39" column="21" />
-        <mark key="]" line="39" column="21" />
-        <mark key="^" line="39" column="113" />
-        <mark key="." line="39" column="21" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1502958914029">
+        <mark key="[" line="40" column="7" />
+        <mark key="]" line="39" column="24" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="39" column="24" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/missingupdates/MissingUpdatesTableUpdater.java" timestamp="1502882885628" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
@@ -952,7 +952,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>OrDefault</text>
+        <text>strings</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -971,7 +971,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OrDefault</text>
+        <text>strings</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVQcm9maWxlXD4=</text>
