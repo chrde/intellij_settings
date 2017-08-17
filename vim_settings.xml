@@ -12,7 +12,6 @@
       <file name="/File Header.txt.ft" timestamp="1502200987606">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/StatusQueueAppenderImpl.java" timestamp="1502872289993" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/architect-pro/Amazon Web Services - Networking &amp; CDN.json" timestamp="1501584974969">
         <mark key="[" line="0" column="23330" />
         <mark key="]" line="0" column="23330" />
@@ -113,7 +112,6 @@
         <mark key="]" line="0" column="24134" />
         <mark key="." line="0" column="24134" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/oid/UpstreamMessageParameter.java" timestamp="1502715587615" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/reassignment/BlockedComputerReassignmentActionTest.java" timestamp="1497956425106">
         <mark key="[" line="88" column="87" />
         <mark key="]" line="88" column="87" />
@@ -150,7 +148,6 @@
         <mark key="^" line="48" column="20" />
         <mark key="." line="48" column="20" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/status/ClientStateStatusParser.java" timestamp="1502455494254" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/profile/mobile/SetDefaultMobileProfileController.java" timestamp="1496041508367">
         <mark key="[" line="36" column="3" />
         <mark key="]" line="36" column="1" />
@@ -210,7 +207,6 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/MessageProcessor.java" timestamp="1502872543368" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates.java" timestamp="1502885241947">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="30" />
@@ -300,14 +296,12 @@
         <mark key="^" line="142" column="65" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/BackendManager.java" timestamp="1502708224709" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/infections/TakenActionResource.java" timestamp="1500447706505">
         <mark key="[" line="27" column="47" />
         <mark key="]" line="27" column="48" />
         <mark key="." line="27" column="48" />
         <mark key="^" line="28" column="55" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/DataloaderConsumer.java" timestamp="1502701719616" />
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1498722098335">
         <mark key="[" line="43" column="26" />
         <mark key="]" line="38" column="39" />
@@ -388,7 +382,6 @@
       <file name="/JavaScript File.txt.ft" timestamp="1502200988150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/status/CommandStatusParser.java" timestamp="1502455497510" />
       <file name="$USER_HOME$/dev-sources/management-platform-config/production/psb3/environment-reporting-service.json" timestamp="1500466237706">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -506,14 +499,12 @@
         <mark key="^" line="47" column="83" />
         <mark key="." line="47" column="83" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/ActiveMQForwarder.java" timestamp="1502359958747" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfileResource.java" timestamp="1494490670444">
         <mark key="[" line="92" column="60" />
         <mark key="]" line="92" column="60" />
         <mark key="^" line="94" column="70" />
         <mark key="." line="92" column="60" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/dataloader/LegacyAndNewUpstreamProcessor.java" timestamp="1502710772880" />
       <file name="/Catch Statement Body.txt.ft" timestamp="1502200945632">
         <mark key="[" line="0" column="0" />
       </file>
@@ -606,7 +597,6 @@
         <mark key="." line="51" column="54" />
         <mark key="^" line="51" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/AbstractBackendManager.java" timestamp="1502867891744" />
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/cosmos/create_child_node.js" timestamp="1497424616047">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="67" />
@@ -676,7 +666,6 @@
         <mark key="." line="40" column="51" />
         <mark key="^" line="40" column="38" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/parsers/status/StatusParser.java" timestamp="1502873733283" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1502885542954">
         <mark key="[" line="206" column="3" />
         <mark key="]" line="256" column="137" />
@@ -700,9 +689,6 @@
         <mark key="." line="163" column="31" />
         <mark key="^" line="154" column="35" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/BackendStatusManager.java" timestamp="1502875440483" />
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/preprocess/HostNamePreprocessor.java" timestamp="1502867699846" />
-      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-status/src/main/java/com/fsecure/common/status/MulticastingStatusUpdater.java" timestamp="1502883111018" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/status/AvSerial.java" timestamp="1502876320722">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="20" />
@@ -761,7 +747,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-su/src/main/java/com/fsecure/psp/backend/missingupdates/AbstractMissingUpdatesTableUpdater.java" timestamp="1502885013224" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/utils/operation_constants.js" timestamp="1496132837277">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="50" />
@@ -797,7 +782,6 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/db/StatusToDatabaseMapper.java" timestamp="1502875592176" />
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/get-version-json-mock.js" timestamp="1500385230948">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -810,13 +794,12 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1502961336127">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1502965409728">
         <mark key="[" line="40" column="22" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="36" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/missingupdates/MissingUpdatesTableUpdater.java" timestamp="1502882885628" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -1042,31 +1025,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUFJPVEVDVEVEX1BBVEhTID0gInJhbnNvbXdhcmVfZXhjbHVkZWRfcGF0aHMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRVhDTFVERURfUEFUSFMgPSAicmFuc29td2FyZV9leGNsdWRlZF9wYXRocyI7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUFJPVEVDVEVEX1BBVEhTID0gInJhbnNvbXdhcmVfZXhjbHVkZWRfcGF0aHMiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxvbmcgc2VyaWFsVmVyc2lvblVJRDsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRVhDTFVERURfUEFUSFMgPSAicmFuc29td2FyZV9leGNsdWRlZF9wYXRocyI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcml2YXRlIGxvbmcgc2VyaWFsVmVyc2lvblVJRDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFNlcmlhbGl6YWJsZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcmlhbGl6YWJsZQo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlVG9PdXRwdXQoRlNBVl9SRUFMVElNRV9SQU5TT01XQVJFX0VYQ0xVREVEX1BBVEhTX09JRCwgQXJyYXlzLnRvU3RyaW5nKHN0YXR1cy5nZXRFeGNsdWRlZFBhdGhzKCkpLCB2YWx1ZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlVG9PdXRwdXQoRlNBVl9SRUFMVElNRV9SQU5TT01XQVJFX1BST1RFQ1RFRF9QQVRIU19PSUQsIEFycmF5cy50b1N0cmluZyhzdGF0dXMuZ2V0UHJvdGVjdGVkUGF0aHMoKSksIHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYXZlVG9PdXRwdXQoRlNBVl9SRUFMVElNRV9SQU5TT01XQVJFX0VYQ0xVREVEX1BBVEhTX09JRCwgQXJyYXlzLnRvU3RyaW5nKHN0YXR1cy5nZXRFeGNsdWRlZFBhdGhzKCkpLCB2YWx1ZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>730</text>
