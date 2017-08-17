@@ -810,11 +810,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1502960177542">
-        <mark key="[" line="41" column="6" />
-        <mark key="]" line="36" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1502961336127">
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="42" column="0" />
         <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/missingupdates/MissingUpdatesTableUpdater.java" timestamp="1502882885628" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
@@ -980,8 +980,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1009,7 +1009,7 @@
         <text>RANSOMWARE_PROTECTED_PATHS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUFJPVEVDVEVEX1BBVEhTID0gInJhbnNvbXdhcmVfZXhjbHVkZWRfcGF0aHMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1042,31 +1042,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRVhDTFVERURfUEFUSFMgPSAicmFuc29td2FyZV9leGNsdWRlZF9wYXRocyI7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUFJPVEVDVEVEX1BBVEhTID0gInJhbnNvbXdhcmVfZXhjbHVkZWRfcGF0aHMiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxvbmcgc2VyaWFsVmVyc2lvblVJRDsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRVhDTFVERURfUEFUSFMgPSAicmFuc29td2FyZV9leGNsdWRlZF9wYXRocyI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcml2YXRlIGxvbmcgc2VyaWFsVmVyc2lvblVJRDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFNlcmlhbGl6YWJsZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcmlhbGl6YWJsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlVG9PdXRwdXQoRlNBVl9SRUFMVElNRV9SQU5TT01XQVJFX0VYQ0xVREVEX1BBVEhTX09JRCwgQXJyYXlzLnRvU3RyaW5nKHN0YXR1cy5nZXRFeGNsdWRlZFBhdGhzKCkpLCB2YWx1ZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlVG9PdXRwdXQoRlNBVl9SRUFMVElNRV9SQU5TT01XQVJFX1BST1RFQ1RFRF9QQVRIU19PSUQsIEFycmF5cy50b1N0cmluZyhzdGF0dXMuZ2V0UHJvdGVjdGVkUGF0aHMoKSksIHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYXZlVG9PdXRwdXQoRlNBVl9SRUFMVElNRV9SQU5TT01XQVJFX0VYQ0xVREVEX1BBVEhTX09JRCwgQXJyYXlzLnRvU3RyaW5nKHN0YXR1cy5nZXRFeGNsdWRlZFBhdGhzKCkpLCB2YWx1ZXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYXZlVG9PdXRwdXQoRlNBVl9SRUFMVElNRV9SQU5TT01XQVJFX1BST1RFQ1RFRF9QQVRIU19PSUQsIEFycmF5cy50b1N0cmluZyhzdGF0dXMuZ2V0UHJvdGVjdGVkUGF0aHMoKSksIHZhbHVlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>730</text>
