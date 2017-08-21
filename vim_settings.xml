@@ -23,6 +23,7 @@
         <mark key="^" line="262" column="4" />
         <mark key="." line="262" column="4" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-db/src/main/java/com/fsecure/common/db/migration/SystemConfigDbSchemaVersionState.java" timestamp="1503317995175" />
       <file name="$USER_HOME$/dev-sources/reporting-service/.ebextensions/autoscaling.config" timestamp="1499777168806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="32" />
@@ -288,12 +289,6 @@
         <mark key="]" line="76" column="0" />
         <mark key="^" line="62" column="109" />
         <mark key="." line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwarePath.java" timestamp="1502971824887">
-        <mark key="'" line="17" column="32" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/demo-app/src/common/AutoComplete.js" timestamp="1501598605342">
         <mark key="[" line="8" column="0" />
@@ -665,10 +660,10 @@
         <mark key="." line="50" column="63" />
         <mark key="^" line="50" column="63" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-db-tests/src/main/java/com/fsecure/common/test/db/DbDevTool.java" timestamp="1503316656399">
+      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-db-tests/src/main/java/com/fsecure/common/test/db/DbDevTool.java" timestamp="1503318349574">
         <mark key="[" line="22" column="18" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
         <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/clients/psb_client.js" timestamp="1494578856552">
@@ -829,7 +824,7 @@
         <mark key="." line="141" column="106" />
         <mark key="^" line="141" column="106" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503316087760">
+      <file name="/Dummy.txt" timestamp="1503318212719">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -886,10 +881,11 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1503316576534">
+      <file name="/fragment.java" timestamp="1503318875916">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/set_default_profile_in_psb.js" timestamp="1496823391613">
         <mark key="[" line="8" column="0" />
@@ -1031,7 +1027,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgT04gREVMRVRFIENBU0NBREUs</text>
+        <text>mySqlInstance.getUserPassword()</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1050,7 +1046,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgT04gREVMRVRFIENBU0NBREUs</text>
+        <text>mySqlInstance.getUserPassword()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKZGJjQmF0Y2hVcGRhdGVyXD4=</text>
