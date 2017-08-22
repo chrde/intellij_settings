@@ -280,11 +280,11 @@
         <mark key="." line="4" column="48" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRepositoryImplTest.java" timestamp="1503406937603">
-        <mark key="'" line="159" column="24" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="146" column="116" />
+        <mark key="'" line="155" column="24" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+        <mark key="^" line="142" column="116" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/controls/fs_profile_help/fs_profile_help_test.js" timestamp="1502976952035">
         <mark key="[" line="133" column="28" />
@@ -441,7 +441,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503407915245">
+      <file name="/Dummy.txt" timestamp="1503408862602">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -613,10 +613,10 @@
         <mark key="." line="0" column="23425" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/restore/RestoreComputerDataBasedOnHistoryActionTest.java" timestamp="1503405953359">
-        <mark key="[" line="84" column="147" />
-        <mark key="]" line="84" column="147" />
-        <mark key="^" line="84" column="147" />
-        <mark key="." line="84" column="147" />
+        <mark key="[" line="83" column="147" />
+        <mark key="]" line="83" column="147" />
+        <mark key="^" line="83" column="147" />
+        <mark key="." line="83" column="147" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/spi/ComputersControllerTest.java" timestamp="1496211033740">
         <mark key="[" line="76" column="0" />
