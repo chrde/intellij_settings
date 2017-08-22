@@ -291,6 +291,12 @@
         <mark key="^" line="62" column="109" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwarePath.java" timestamp="1502971824887">
+        <mark key="'" line="17" column="32" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/demo-app/src/common/AutoComplete.js" timestamp="1501598605342">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -608,6 +614,12 @@
         <mark key="." line="100" column="50" />
         <mark key="^" line="100" column="50" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1503391157963">
+        <mark key="'" line="1384" column="0" />
+        <mark key="[" line="1391" column="114" />
+        <mark key="]" line="1391" column="114" />
+        <mark key="." line="1391" column="114" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/cp_ransomware_conversion_service.js" timestamp="1502972018839">
         <mark key="[" line="58" column="6" />
         <mark key="]" line="58" column="6" />
@@ -824,7 +836,7 @@
         <mark key="." line="141" column="106" />
         <mark key="^" line="141" column="106" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503390212779">
+      <file name="/Dummy.txt" timestamp="1503390227868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -901,7 +913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="3" filename="$USER_HOME$/dev-sources/fsc-reporting-models-js/lib/models/report_email_schedules.js" />
       <jump line="6" column="0" filename="$USER_HOME$/dev-sources/reporting-db/localhost.json" />
       <jump line="20" column="108" filename="$USER_HOME$/dev-sources/reporting-db/sql/schema/reporting_db_schema.sql" />
       <jump line="61" column="1" filename="$USER_HOME$/dev-sources/reporting-service/lib/service/reporting/scheduled_report_service.js" />
@@ -1001,6 +1012,7 @@
       <jump line="1347" column="34" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="1373" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
+      <jump line="1384" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1026,8 +1038,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CkNSRUFURSBUQUJMRSByYW5zb213YXJlX3BhdGhzX3R5cGUKKAoJaWQJCQkJCQlJTlRFR0VSICAgICAgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCgl0eXBlIFZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCglQUklNQVJZIEtFWSAoaWQpCikKCUVOR0lORT1Jbm5vREIKCUNIQVJTRVQgPXV0Zjg7CgpDUkVBVEUgVEFCTEUgcmFuc29td2FyZV9wYXRocwooCglpZAkJCQkJCUlOVEVHRVIgICAgICBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKCXBhdGggVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKCWNvbXB1dGVyX2lkIElOVCBOT1QgTlVMTCwKCXR5cGUgSU5UIE5PVCBOVUxMLAoJUFJJTUFSWSBLRVkgKGlkKSwKCUNPTlNUUkFJTlQgcmFuc29td2FyZV9wYXRoc19jb21wdXRlcl9pZF9mb3JlaWduX2tleSBGT1JFSUdOIEtFWSAoY29tcHV0ZXJfaWQpICAgICAgICBSRUZFUkVOQ0VTIGJ3aW5zdGFsbGVkIChpZCksCglVTklRVUUoYndfaWQsIHN1YnNjcmlwdGlvbl9rZXkpCikKCUVOR0lORT1Jbm5vREIKCUNIQVJTRVQgPXV0Zjg7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1052,10 +1064,10 @@
         <text encoding="base64">XDxKZGJjQmF0Y2hVcGRhdGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0gZGIgdmVyc2lvbiAxMDA5MTQK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIHJhbnNvbXdhcmVfcGF0aHMKKAoJaWQJCQkJCQlJTlRFR0VSICAgICAgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCglwYXRoIFZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCgljb21wdXRlcl9pZCBJTlQgTk9UIE5VTEwsCgl0eXBlIElOVCBOT1QgTlVMTCwKCVBSSU1BUlkgS0VZIChpZCksCglDT05TVFJBSU5UIHJhbnNvbXdhcmVfcGF0aHNfY29tcHV0ZXJfaWRfZm9yZWlnbl9rZXkgRk9SRUlHTiBLRVkgKGNvbXB1dGVyX2lkKSAgICAgICAgUkVGRVJFTkNFUyBid2luc3RhbGxlZCAoaWQpLAoJVU5JUVVFKGJ3X2lkLCBzdWJzY3JpcHRpb25fa2V5KQopCglFTkdJTkU9SW5ub0RCCglDSEFSU0VUID11dGY4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CkNSRUFURSBUQUJMRSByYW5zb213YXJlX3BhdGhzX3R5cGUKKAoJaWQJCQkJCQlJTlRFR0VSICAgICAgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCgl0eXBlIFZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCglQUklNQVJZIEtFWSAoaWQpCikKCUVOR0lORT1Jbm5vREIKCUNIQVJTRVQgPXV0Zjg7CgpDUkVBVEUgVEFCTEUgcmFuc29td2FyZV9wYXRocwooCglpZAkJCQkJCUlOVEVHRVIgICAgICBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKCXBhdGggVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKCWNvbXB1dGVyX2lkIElOVCBOT1QgTlVMTCwKCXR5cGUgSU5UIE5PVCBOVUxMLAoJUFJJTUFSWSBLRVkgKGlkKSwKCUNPTlNUUkFJTlQgcmFuc29td2FyZV9wYXRoc19jb21wdXRlcl9pZF9mb3JlaWduX2tleSBGT1JFSUdOIEtFWSAoY29tcHV0ZXJfaWQpICAgICAgICBSRUZFUkVOQ0VTIGJ3aW5zdGFsbGVkIChpZCksCglVTklRVUUoYndfaWQsIHN1YnNjcmlwdGlvbl9rZXkpCikKCUVOR0lORT1Jbm5vREIKCUNIQVJTRVQgPXV0Zjg7Cg==</text>
+        <text encoding="base64">CVVOSVFVRShid19pZCwgc3Vic2NyaXB0aW9uX2tleSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1088,31 +1100,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CkNSRUFURSBUQUJMRSByYW5zb213YXJlX3BhdGhzX3R5cGUKKAoJaWQJCQkJCQlJTlRFR0VSICAgICAgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCgl0eXBlIFZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCglQUklNQVJZIEtFWSAoaWQpCikKCUVOR0lORT1Jbm5vREIKCUNIQVJTRVQgPXV0Zjg7CgpDUkVBVEUgVEFCTEUgcmFuc29td2FyZV9wYXRocwooCglpZAkJCQkJCUlOVEVHRVIgICAgICBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKCXBhdGggVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKCWNvbXB1dGVyX2lkIElOVCBOT1QgTlVMTCwKCXR5cGUgSU5UIE5PVCBOVUxMLAoJUFJJTUFSWSBLRVkgKGlkKSwKCUNPTlNUUkFJTlQgcmFuc29td2FyZV9wYXRoc19jb21wdXRlcl9pZF9mb3JlaWduX2tleSBGT1JFSUdOIEtFWSAoY29tcHV0ZXJfaWQpICAgICAgICBSRUZFUkVOQ0VTIGJ3aW5zdGFsbGVkIChpZCksCglVTklRVUUoYndfaWQsIHN1YnNjcmlwdGlvbl9rZXkpCikKCUVOR0lORT1Jbm5vREIKCUNIQVJTRVQgPXV0Zjg7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CkNSRUFURSBUQUJMRSByYW5zb213YXJlX3BhdGhzX3R5cGUKKAoJaWQJCQkJCQlJTlRFR0VSICAgICAgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCgl0eXBlIFZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCglQUklNQVJZIEtFWSAoaWQpCikKCUVOR0lORT1Jbm5vREIKCUNIQVJTRVQgPXV0Zjg7CgpDUkVBVEUgVEFCTEUgcmFuc29td2FyZV9wYXRocwooCglpZAkJCQkJCUlOVEVHRVIgICAgICBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKCXBhdGggVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKCWNvbXB1dGVyX2lkIElOVCBOT1QgTlVMTCwKCXR5cGUgSU5UIE5PVCBOVUxMLAoJUFJJTUFSWSBLRVkgKGlkKSwKCUNPTlNUUkFJTlQgcmFuc29td2FyZV9wYXRoc19jb21wdXRlcl9pZF9mb3JlaWduX2tleSBGT1JFSUdOIEtFWSAoY29tcHV0ZXJfaWQpICAgICAgICBSRUZFUkVOQ0VTIGJ3aW5zdGFsbGVkIChpZCksCglVTklRVUUoYndfaWQsIHN1YnNjcmlwdGlvbl9rZXkpCikKCUVOR0lORT1Jbm5vREIKCUNIQVJTRVQgPXV0Zjg7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CklOU0VSVCBJTlRPIHJhbnNvbXdhcmVfcGF0aF90eXBlcwooaWQsIHR5cGUpClZBTFVFUwogICgxLCAnUFJPVEVDVEVEJyksCiAgKDIsICdFWENMVURFRCcpOwoKQ1JFQVRFIFRBQkxFIHJhbnNvbXdhcmVfcGF0aHNfdHlwZQooCiAgaWQJCQkJCQlJTlRFR0VSICAgICAgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCiAgdHlwZSBWQVJDSEFSICgyNTUpIE5PVCBOVUxMLAogIFBSSU1BUlkgS0VZIChpZCkKKQogIEVOR0lORT1Jbm5vREIKICBDSEFSU0VUID11dGY4OwoKQ1JFQVRFIFRBQkxFIHJhbnNvbXdhcmVfcGF0aHMKKAogIGlkCQkJCQkJSU5URUdFUiAgICAgIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5ULAogIHBhdGggVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICBjb21wdXRlcl9pZCBJTlQgTk9UIE5VTEwsCiAgdHlwZSBJTlQgTk9UIE5VTEwsCiAgUFJJTUFSWSBLRVkgKGlkKSwKICBDT05TVFJBSU5UIHJhbnNvbXdhcmVfcGF0aHNfY29tcHV0ZXJfaWRfZm9yZWlnbl9rZXkgRk9SRUlHTiBLRVkgKGNvbXB1dGVyX2lkKSAgICAgICAgUkVGRVJFTkNFUyBid2luc3RhbGxlZCAoaWQpLAogIFVOSVFVRShid19pZCwgc3Vic2NyaXB0aW9uX2tleSkKKQogIEVOR0lORT1Jbm5vREIKICBDSEFSU0VUID11dGY4OwoKLS0gZGIgdmVyc2lvbiAxMDA5MTUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CVVOSVFVRShid19pZCwgc3Vic2NyaXB0aW9uX2tleSkK</text>
+        <text encoding="base64">CklOU0VSVCBJTlRPIHJhbnNvbXdhcmVfcGF0aF90eXBlcwooaWQsIHR5cGUpClZBTFVFUwogICgxLCAnUFJPVEVDVEVEJyksCiAgKDIsICdFWENMVURFRCcpOwoKQ1JFQVRFIFRBQkxFIHJhbnNvbXdhcmVfcGF0aHNfdHlwZQooCiAgaWQJCQkJCQlJTlRFR0VSICAgICAgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCiAgdHlwZSBWQVJDSEFSICgyNTUpIE5PVCBOVUxMLAogIFBSSU1BUlkgS0VZIChpZCkKKQogIEVOR0lORT1Jbm5vREIKICBDSEFSU0VUID11dGY4OwoKQ1JFQVRFIFRBQkxFIHJhbnNvbXdhcmVfcGF0aHMKKAogIGlkCQkJCQkJSU5URUdFUiAgICAgIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5ULAogIHBhdGggVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICBjb21wdXRlcl9pZCBJTlQgTk9UIE5VTEwsCiAgdHlwZSBJTlQgTk9UIE5VTEwsCiAgUFJJTUFSWSBLRVkgKGlkKSwKICBDT05TVFJBSU5UIHJhbnNvbXdhcmVfcGF0aHNfY29tcHV0ZXJfaWRfZm9yZWlnbl9rZXkgRk9SRUlHTiBLRVkgKGNvbXB1dGVyX2lkKSAgICAgICAgUkVGRVJFTkNFUyBid2luc3RhbGxlZCAoaWQpLAogIFVOSVFVRShid19pZCwgc3Vic2NyaXB0aW9uX2tleSkKKQogIEVOR0lORT1Jbm5vREIKICBDSEFSU0VUID11dGY4OwoKLS0gZGIgdmVyc2lvbiAxMDA5MTUK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CVVOSVFVRShid19pZCwgc3Vic2NyaXB0aW9uX2tleSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gdXBkYXRlIHRlc3Qgd2l0aCBtb2Nrcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>53</text>
