@@ -139,11 +139,11 @@
         <mark key="." line="88" column="87" />
         <mark key="^" line="88" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerFacade.java" timestamp="1503478189452">
-        <mark key="[" line="228" column="39" />
-        <mark key="]" line="229" column="83" />
-        <mark key="^" line="229" column="83" />
-        <mark key="." line="229" column="83" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerFacade.java" timestamp="1503479521229">
+        <mark key="[" line="229" column="39" />
+        <mark key="]" line="230" column="83" />
+        <mark key="^" line="230" column="83" />
+        <mark key="." line="230" column="83" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/Amazon Web Services - ELB.json" timestamp="1501583840816">
         <mark key="[" line="0" column="20700" />
@@ -428,7 +428,7 @@
         <mark key="." line="30" column="39" />
         <mark key="^" line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/restore/RestoreComputerDataBasedOnHistoryAction.java" timestamp="1503405365711">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/restore/RestoreComputerDataBasedOnHistoryAction.java" timestamp="1503479710520">
         <mark key="[" line="75" column="105" />
         <mark key="]" line="75" column="130" />
         <mark key="^" line="75" column="130" />
@@ -598,6 +598,7 @@
         <mark key="^" line="94" column="70" />
         <mark key="." line="92" column="60" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/license/ComputerManagement.java" timestamp="1503479494944" />
       <file name="$USER_HOME$/dev-sources/jenkins-jobs/psb-predefined-cosmos-profiles-publish/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496835829328">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -865,7 +866,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503477980611">
+      <file name="/Dummy.txt" timestamp="1503479755729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
