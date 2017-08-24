@@ -920,9 +920,9 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1503575648428">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1503576873275">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="77" column="29" />
+        <mark key="[" line="83" column="83" />
         <mark key="]" line="77" column="38" />
         <mark key="." line="77" column="38" />
         <mark key="^" line="77" column="38" />
