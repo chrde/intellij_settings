@@ -653,11 +653,11 @@
         <mark key="." line="163" column="87" />
         <mark key="^" line="152" column="53" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/subscriptionsListingSpec.js" timestamp="1503565327955">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/subscriptionsListingSpec.js" timestamp="1503566404462">
+        <mark key="[" line="140" column="4" />
+        <mark key="]" line="140" column="4" />
+        <mark key="^" line="140" column="4" />
+        <mark key="." line="140" column="4" />
       </file>
       <file name="$USER_HOME$/dev-sources/reporting-service/package.json" timestamp="1500370082561">
         <mark key="[" line="12" column="50" />
@@ -696,7 +696,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503565282964">
+      <file name="/Dummy.txt" timestamp="1503566466543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -902,7 +902,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>f</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -921,7 +921,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKZGJjQmF0Y2hVcGRhdGVyXD4=</text>
