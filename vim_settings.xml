@@ -9,7 +9,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/micro-cosmos-rest-api/spec/accountsComputerProfilesPOSTSpec.js" timestamp="1503304199823">
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/micro-cosmos-rest-api/spec/accountsComputerProfilesPOSTSpec.js" timestamp="1503562005363">
         <mark key="[" line="262" column="4" />
         <mark key="]" line="262" column="4" />
         <mark key="^" line="262" column="4" />
@@ -353,6 +353,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/companiesComputersDELETESpec.js" timestamp="1503562161294">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/github/demo-app/src/features/addFood/AddFood.test.js" timestamp="1502715389901">
         <mark key="[" line="21" column="49" />
@@ -890,7 +896,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>store hostgroup name instead of id</text>
+        <text>f</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -909,7 +915,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>store hostgroup name instead of id</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKZGJjQmF0Y2hVcGRhdGVyXD4=</text>
