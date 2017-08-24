@@ -1193,7 +1193,7 @@
         <text encoding="base64">ICAgIHdoZW4oY29tcHV0ZXJSZXBvc2l0b3J5LmFkZChjb21wdXRlcklkZW50aXR5KSkK</text>
       </register>
       <register name=":" type="4">
-        <text>53</text>
+        <text>230</text>
       </register>
     </registers>
     <search>
@@ -1229,7 +1229,6 @@
         <entry encoding="base64">XDxKZGJjQmF0Y2hVcGRhdGVyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>set number</entry>
         <entry>173</entry>
         <entry>713</entry>
         <entry>29</entry>
@@ -1249,6 +1248,7 @@
         <entry>730</entry>
         <entry>27</entry>
         <entry>53</entry>
+        <entry>230</entry>
       </history-cmd>
       <history-expr />
       <history-input />
