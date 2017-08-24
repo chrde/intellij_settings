@@ -420,6 +420,7 @@
         <mark key="." line="30" column="39" />
         <mark key="^" line="29" column="31" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/model/AbstractDataloaderData.java" timestamp="1503575759566" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/restore/RestoreComputerDataBasedOnHistoryAction.java" timestamp="1503479710520">
         <mark key="[" line="75" column="105" />
         <mark key="]" line="75" column="130" />
@@ -559,8 +560,8 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1503574131734">
-        <mark key="[" line="134" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1503576120145">
+        <mark key="[" line="144" column="84" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
@@ -689,7 +690,7 @@
         <mark key="." line="51" column="54" />
         <mark key="^" line="51" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/AbstractBackendManager.java" timestamp="1503574284899">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/messaging/backend/AbstractBackendManager.java" timestamp="1503576091386">
         <mark key="[" line="30" column="57" />
         <mark key="]" line="31" column="78" />
         <mark key="^" line="31" column="78" />
@@ -919,7 +920,7 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1503572156367">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1503575648428">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="77" column="29" />
         <mark key="]" line="77" column="38" />
@@ -940,7 +941,7 @@
         <mark key="^" line="39" column="19" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ComputerStatus.java" timestamp="1503574211732" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ComputerStatus.java" timestamp="1503575305108" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/ci/latest/config.json" timestamp="1496823807154">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="58" />
@@ -953,7 +954,7 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1503574245053">
+      <file name="/fragment.java" timestamp="1503575876551">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
