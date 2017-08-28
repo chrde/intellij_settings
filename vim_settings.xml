@@ -454,12 +454,12 @@
         <mark key="." line="3111" column="142" />
         <mark key="^" line="3111" column="142" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1503662448781">
-        <mark key="'" line="37" column="20" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="84" column="83" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1503906012105">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="119" column="54" />
+        <mark key="]" line="119" column="73" />
+        <mark key="^" line="119" column="73" />
+        <mark key="." line="119" column="73" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/LocalProfileRepository.java" timestamp="1496145255255">
         <mark key="[" line="91" column="82" />
@@ -766,12 +766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="32" filename="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" />
-      <jump line="30" column="13" filename="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" />
-      <jump line="41" column="52" filename="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" />
-      <jump line="45" column="14" filename="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" />
-      <jump line="57" column="19" filename="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/mobile_profiles_tab/mobile_profiles_tab_content_controller.js" />
-      <jump line="500" column="41" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/profile/ProfilesControllerTest.java" />
       <jump line="402" column="43" filename="$USER_HOME$/dev-sources/system-psb/stacks/storage.json" />
       <jump line="113" column="103" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" />
       <jump line="58" column="0" filename="$USER_HOME$/dev-sources/micro-cosmos/spec/clients/psb_client_spec.js" />
@@ -864,8 +858,14 @@
       <jump line="1303" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
       <jump line="18" column="43" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
       <jump line="535" column="33" filename="/init-psb-db.sql" />
-      <jump line="43" column="46" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
       <jump line="37" column="20" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
+      <jump line="40" column="40" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
+      <jump line="43" column="84" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
+      <jump line="48" column="126" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
+      <jump line="59" column="4" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -891,8 +891,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJhbnNvbXdhcmVVcGRhdGVyLmFwcGx5Q2hhbmdlcygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>TABLE_OF_PROTECTED</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -911,16 +911,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>TABLE_OF_PROTECTED</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKZGJjQmF0Y2hVcGRhdGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBPYmplY3Q+IE1BUF9ERUxFVEVfUFJPVEVDVEVEID0gSW1tdXRhYmxlTWFwLjxTdHJpbmcsIE9iamVjdD5idWlsZGVyKCkKICAgICAgLnB1dCgiY29tcHV0ZXJfaWQiLCBDT01QVVRFUl9JRF8xKQogICAgICAucHV0KCJ0eXBlIiwgUFJPVEVDVEVELm9yZGluYWwoKSkKICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeShteVNxbEJhdGNoVXBkYXRlciwgdGltZXMocHJvdGVjdGVkUGF0aHMuc2l6ZSgpKSkuYWRkQXJncyhlcShDT01QVVRFUl9JRCksIGFueVN0cmluZygpLCBlcShQUk9URUNURUQub3JkaW5hbCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhbnNvbXdhcmVVcGRhdGVyLmFwcGx5Q2hhbmdlcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -953,7 +953,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHZlcmlmeShteVNxbEJhdGNoVXBkYXRlcikucmVzZXQoKTsK</text>
@@ -965,19 +965,19 @@
         <text encoding="base64">ICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMobmFtZWRQYXJhbWV0ZXJKZGJjVGVtcGxhdGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJhbnNvbXdhcmVVcGRhdGVyLnJlc2V0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcGFyYW1zID0gSW1tdXRhYmxlTWFwLjxTdHJpbmcsIE9iamVjdD5idWlsZGVyKCkucHV0KCJjb21wdXRlcl9pZCIsIENPTVBVVEVSX0lEKS5wdXQoInR5cGUiLCBQUk9URUNURUQub3JkaW5hbCgpKQogICAgICAgIC5idWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgIHJhbnNvbXdhcmVVcGRhdGVyLmFwcGx5Q2hhbmdlcygpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShteVNxbEJhdGNoVXBkYXRlcikuYmF0Y2hVcGRhdGUoKTsK</text>
+        <text encoding="base64">ICAgIHJhbnNvbXdhcmVVcGRhdGVyLnJlc2V0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShteVNxbEJhdGNoVXBkYXRlciwgdGltZXMocHJvdGVjdGVkUGF0aHMxLnNpemUoKSkpLmFkZEFyZ3MoZXEoQ09NUFVURVJfSUQpLCBhbnlTdHJpbmcoKSwgZXEoUFJPVEVDVEVELm9yZGluYWwoKSkpOwo=</text>
+        <text encoding="base64">ICAgIHJhbnNvbXdhcmVVcGRhdGVyLnN0YXR1cyhDT01QVVRFUl9JRCwgZW1wdHlNYXAoKSwgVEFCTEVfT0ZfRVhDTFVERUQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>230</text>
