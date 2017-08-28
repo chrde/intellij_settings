@@ -34,7 +34,7 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1503580343321">
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1503921212209">
         <mark key="[" line="53" column="78" />
         <mark key="]" line="53" column="104" />
         <mark key="." line="52" column="86" />
@@ -520,7 +520,7 @@
         <mark key="^" line="31" column="78" />
         <mark key="." line="31" column="78" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test.json" timestamp="1503581814152">
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test.json" timestamp="1503921031271">
         <mark key="[" line="34" column="78" />
         <mark key="]" line="34" column="79" />
         <mark key="^" line="28" column="78" />
