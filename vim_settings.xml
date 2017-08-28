@@ -15,6 +15,7 @@
         <mark key="^" line="262" column="4" />
         <mark key="." line="262" column="4" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/DeviceService.java" timestamp="1503906901647" />
       <file name="$USER_HOME$/dev-sources/reporting-service/.ebextensions/autoscaling.config" timestamp="1499777168806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="32" />
@@ -454,12 +455,12 @@
         <mark key="." line="3111" column="142" />
         <mark key="^" line="3111" column="142" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1503906012105">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="119" column="54" />
-        <mark key="]" line="119" column="73" />
-        <mark key="^" line="119" column="73" />
-        <mark key="." line="119" column="73" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1503907767659">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="121" column="64" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/LocalProfileRepository.java" timestamp="1496145255255">
         <mark key="[" line="91" column="82" />
@@ -485,12 +486,12 @@
         <mark key="." line="100" column="50" />
         <mark key="^" line="100" column="50" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1503570870356">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1418" column="9" />
-        <mark key="]" line="1418" column="9" />
-        <mark key="." line="1418" column="9" />
-        <mark key="^" line="1415" column="98" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1503909584928">
+        <mark key="'" line="338" column="68" />
+        <mark key="[" line="1391" column="106" />
+        <mark key="]" line="338" column="68" />
+        <mark key="." line="338" column="68" />
+        <mark key="^" line="338" column="68" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/cp_ransomware_conversion_service.js" timestamp="1502972018839">
         <mark key="[" line="58" column="6" />
@@ -680,10 +681,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503660580546">
+      <file name="/Dummy.txt" timestamp="1503909586758">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -715,12 +716,12 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1503661702057">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1503908692417">
         <mark key="'" line="63" column="0" />
-        <mark key="[" line="72" column="16" />
-        <mark key="]" line="72" column="22" />
-        <mark key="." line="72" column="22" />
-        <mark key="^" line="72" column="22" />
+        <mark key="[" line="88" column="90" />
+        <mark key="]" line="88" column="90" />
+        <mark key="." line="88" column="90" />
+        <mark key="^" line="88" column="50" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal-service-interface/src/main/java/com/fsecure/psp/service/computer/dto/HostGroupId.java" timestamp="1503404069222">
         <mark key="[" line="18" column="39" />
@@ -766,8 +767,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="402" column="43" filename="$USER_HOME$/dev-sources/system-psb/stacks/storage.json" />
-      <jump line="113" column="103" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" />
       <jump line="58" column="0" filename="$USER_HOME$/dev-sources/micro-cosmos/spec/clients/psb_client_spec.js" />
       <jump line="446" column="11" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/profile/ProfileData.java" />
       <jump line="106" column="18" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/profile/ProfileData.java" />
@@ -866,6 +865,8 @@
       <jump line="48" column="126" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
       <jump line="59" column="4" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
       <jump line="90" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
+      <jump line="15" column="39" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
+      <jump line="338" column="68" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -892,7 +893,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>TABLE_OF_PROTECTED</text>
+        <text>sql files / store paths in psb</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -911,16 +912,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TABLE_OF_PROTECTED</text>
+        <text>sql files / store paths in psb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKZGJjQmF0Y2hVcGRhdGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShteVNxbEJhdGNoVXBkYXRlciwgdGltZXMocHJvdGVjdGVkUGF0aHMuc2l6ZSgpKSkuYWRkQXJncyhlcShDT01QVVRFUl9JRCksIGFueVN0cmluZygpLCBlcShQUk9URUNURUQub3JkaW5hbCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKCJSYW5zb213YXJlIHBhdGhzIC0gZXhjbHVkZWRbUmVjZWl2ZWQ9e30sQWRkZWQ9e30sQ29tcHV0ZXJJZD17fV0iLCB0YWJsZS5zaXplKCksIHBhdGhzLnNpemUoKSAtIGRlYnVnUHJldmlvdXNTaXplLCBjb21wdXRlcklkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiUmFuc29td2FyZSBwYXRocyAtIEFkZGVkIHt9IHByb3RlY3RlZCBwYXRocyIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -953,31 +954,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaW50IGRlYnVnUHJldmlvdXNTaXplID0gcGF0aHMuc2l6ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShteVNxbEJhdGNoVXBkYXRlcikucmVzZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgaW50IGRlYnVnUHJldmlvdXNTaXplID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShteVNxbEJhdGNoVXBkYXRlciwgbmV2ZXIoKSkuYmF0Y2hVcGRhdGUoKTsK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiUmFuc29td2FyZSBwYXRocyAtIHByb3RlY3RlZFtSZWNlaXZlZD17fSxBZGRlZD17fSxDb21wdXRlcklkPXt9XSIsIHRhYmxlLik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMobmFtZWRQYXJhbWV0ZXJKZGJjVGVtcGxhdGUpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gZ2V0TG9nZ2VyKHRoaXNDbGFzcygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5wdXQoImNvbXB1dGVyX2lkIiwgY29tcHV0ZXJJZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJhbnNvbXdhcmVVcGRhdGVyLmFwcGx5Q2hhbmdlcygpOwo=</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcGFyYW1zID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJhbnNvbXdhcmVVcGRhdGVyLnJlc2V0KCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBPYmplY3Q+IE1BUF9ERUxFVEVfQUxMID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJhbnNvbXdhcmVVcGRhdGVyLnN0YXR1cyhDT01QVVRFUl9JRCwgZW1wdHlNYXAoKSwgVEFCTEVfT0ZfRVhDTFVERUQpOwo=</text>
+        <text encoding="base64">ICAgIE1BUF9ERUxFVEVfQUxMLnB1dEFsbChNQVBfREVMRVRFX0VYQ0xVREVEKTsK</text>
       </register>
       <register name=":" type="4">
         <text>230</text>
