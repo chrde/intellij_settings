@@ -126,6 +126,10 @@
         <mark key="^" line="36" column="1" />
         <mark key="." line="36" column="1" />
       </file>
+      <file name="$USER_HOME$/github/demo-app/src/features/editFood/EditFoodContainer.js" timestamp="1503911262299">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="43" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/CosmosProfileServiceTest.java" timestamp="1496135990707">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -681,7 +685,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503909586758">
+      <file name="/Dummy.txt" timestamp="1503911153949">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -892,8 +896,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>sql files / store paths in psb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCBzZWxlY3RvciA9IGZvcm1WYWx1ZVNlbGVjdG9yKCdFZGl0Rm9vZENoYW5nZXMnKTsKICByZXR1cm4gewogICAgaXNTZWxlY3RlZDogc2VsZWN0b3Ioc3RhdGUsICdzZWxlY3RlZCcpLAo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -918,7 +922,7 @@
         <text encoding="base64">XDxKZGJjQmF0Y2hVcGRhdGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKCJSYW5zb213YXJlIHBhdGhzIC0gZXhjbHVkZWRbUmVjZWl2ZWQ9e30sQWRkZWQ9e30sQ29tcHV0ZXJJZD17fV0iLCB0YWJsZS5zaXplKCksIHBhdGhzLnNpemUoKSAtIGRlYnVnUHJldmlvdXNTaXplLCBjb21wdXRlcklkKTsK</text>
+        <text encoding="base64">ICBjb25zdCBzZWxlY3RvciA9IGZvcm1WYWx1ZVNlbGVjdG9yKCdFZGl0Rm9vZENoYW5nZXMnKTsKICByZXR1cm4gewogICAgaXNTZWxlY3RlZDogc2VsZWN0b3Ioc3RhdGUsICdzZWxlY3RlZCcpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiUmFuc29td2FyZSBwYXRocyAtIEFkZGVkIHt9IHByb3RlY3RlZCBwYXRocyIpOwo=</text>
