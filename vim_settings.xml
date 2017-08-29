@@ -628,11 +628,11 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/status/HostInfo.java" timestamp="1504005633613">
-        <mark key="[" line="275" column="45" />
-        <mark key="]" line="275" column="45" />
-        <mark key="." line="275" column="49" />
-        <mark key="^" line="275" column="37" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/status/HostInfo.java" timestamp="1504018253522">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="." line="246" column="0" />
+        <mark key="^" line="274" column="37" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/production/psb1/config.json" timestamp="1496823654951">
         <mark key="[" line="14" column="0" />
@@ -762,10 +762,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504017033926">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
+      <file name="/Dummy.txt" timestamp="1504018299364">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -980,7 +980,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>MANAGED</text>
+        <text>ql files / store paths in psb</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1002,7 +1002,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MANAGED</text>
+        <text>ql files / store paths in psb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxid2luc3RhbGxlZENvbW1hbmRzXD4=</text>
@@ -1011,37 +1011,37 @@
         <text encoding="base64">ICAgIE1BTkFHRUQoT3ZlcmFsbENhdGVnb3J5U3RhdGUuTUFOQUdFRCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEVOQUJMRUQoSW50ZXJuZXRTaGllbGRTdGF0ZS5FTkFCTEVELCBSYW5zb213YXJlUHJvdGVjdGlvblN0YXRlLkVOQUJMRUQpLAo=</text>
+        <text encoding="base64">ICBATG9hZEZvclByZVByb2Nlc3Nvcgo=</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNldDxSYW5zb213YXJlUGF0aD4gcmFuc29td2FyZVBhdGhzID0gYndJbnN0YWxsZWQuZ2V0UmFuc29td2FyZVBhdGhzKCk7Cg==</text>
+        <text encoding="base64">ICAgIEVOQUJMRUQoSW50ZXJuZXRTaGllbGRTdGF0ZS5FTkFCTEVELCBSYW5zb213YXJlUHJvdGVjdGlvblN0YXRlLkVOQUJMRUQpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNldDxSYW5zb213YXJlUGF0aD4gcmFuc29td2FyZVBhdGhzID0gYndJbnN0YWxsZWQuZ2V0UmFuc29td2FyZVBhdGhzKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0b1Byb3BlcnR5KFJhbnNvbXdhcmVQYXRoIHBhdGgsIGludCBpbmRleCl7CiAgICBpZihwYXRoLmdldFR5cGUoKS5lcXVhbHMoRVhDTFVERUQpKXsKICAgICAgcmV0dXJuIGZvcm1hdCgiZXhjbHVkZWRQYXRoWyVkXSIsIGluZGV4KTsKICAgIH0gZWxzZXsKICAgICAgcmV0dXJuIGZvcm1hdCgicHJvdGVjdGVkUGF0aFslZF0iLCBpbmRleCk7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0b1Byb3BlcnR5KFJhbnNvbXdhcmVQYXRoIHBhdGgsIGludCBpbmRleCl7CiAgICBpZihwYXRoLmdldFR5cGUoKS5lcXVhbHMoRVhDTFVERUQpKXsKICAgICAgcmV0dXJuIGZvcm1hdCgiZXhjbHVkZWRQYXRoWyVkXSIsIGluZGV4KTsKICAgIH0gZWxzZXsKICAgICAgcmV0dXJuIGZvcm1hdCgicHJvdGVjdGVkUGF0aFslZF0iLCBpbmRleCk7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleEV4Y2x1ZGVkKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuYnVpbGQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgicHJvdGVjdGVkUGF0aFslZF0iLCBpbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmRleEV4Y2x1ZGVkKys7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYocmFuc29td2FyZVBhdGguZ2V0VHlwZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgicHJvdGVjdGVkUGF0aFslZF0iLCBpbmRleCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW5kZXgrKzsK</text>
+        <text encoding="base64">ICAgICAgaWYocmFuc29td2FyZVBhdGguZ2V0VHlwZSgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>230</text>
