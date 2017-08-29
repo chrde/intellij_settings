@@ -15,7 +15,7 @@
         <mark key="^" line="262" column="4" />
         <mark key="." line="262" column="4" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/DeviceService.java" timestamp="1503913284140" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/DeviceService.java" timestamp="1503994075658" />
       <file name="$USER_HOME$/dev-sources/reporting-service/.ebextensions/autoscaling.config" timestamp="1499777168806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="32" />
@@ -209,6 +209,11 @@
         <mark key="^" line="53" column="103" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/NewDeviceRemoteActionFactory.java" timestamp="1503484302760">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/spi/ComputersControllerTest.java" timestamp="1496211033740">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -282,6 +287,11 @@
         <mark key="^" line="23" column="66" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/RemoteActionsPayloadSender.java" timestamp="1503585636734">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/BlockedComputersRepositoryImplTest.java" timestamp="1497956402619">
         <mark key="[" line="137" column="67" />
         <mark key="]" line="137" column="79" />
@@ -303,6 +313,11 @@
         <mark key="]" line="75" column="130" />
         <mark key="^" line="75" column="130" />
         <mark key="." line="75" column="130" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/bwinstalledToRansomwareCategoryDtoConverter.java" timestamp="1503994570461">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerFacadeTest.java" timestamp="1503559447651">
         <mark key="[" line="478" column="139" />
@@ -327,6 +342,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal-service-interface/src/main/java/com/fsecure/psp/service/computer/dto/HostGroupName.java" timestamp="1503558662156">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/companiesComputersDELETESpec.js" timestamp="1503565060222">
         <mark key="[" line="122" column="2" />
@@ -409,6 +429,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="^" line="16" column="5" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1503576120145">
+        <mark key="[" line="144" column="84" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/config/dev-local.config.json" timestamp="1496731635621">
         <mark key="[" line="8" column="29" />
@@ -579,6 +604,11 @@
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/operations/RemoteOperationsConfig.java" timestamp="1503485138520">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/package.json" timestamp="1494501624064">
         <mark key="[" line="10" column="49" />
@@ -752,7 +782,13 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1503924756635">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/BwinstalledToProtectionStatusConverter.java" timestamp="1503994448470">
+        <mark key="[" line="46" column="56" />
+        <mark key="]" line="47" column="50" />
+        <mark key="^" line="47" column="50" />
+        <mark key="." line="47" column="50" />
+      </file>
+      <file name="/fragment.java" timestamp="1503994517708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -898,7 +934,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc05vdFdpbmRvd3MoYndpbnN0YWxsZWQpKSB7CiAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfQogICAgVXBkYXRlc1N0YXRlIHN0YXRlID0gZGV0ZXJtaW5lU3RhdGUoYndpbnN0YWxsZWQuZ2V0U3VTdGF0dXMoKSk7CiAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHN1U3RhdHVzUHJvcGVydGllcyA9IGNvbnZlcnRTdVN0YXR1c1Byb3BlcnRpZXMoYndpbnN0YWxsZWQuZ2V0U3VTdGF0dXMoKSk7CiAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IG1pc3NpbmdVcGRhdGVzQ291bnRQcm9wZXJ0aWVzID0gbWlzc2luZ1VwZGF0ZXNDb3VudFByb3BlcnRpZXMoYndpbnN0YWxsZWQuZ2V0SWQoKSk7CiAgICByZXR1cm4gT3B0aW9uYWwub2YoUHJvdGVjdGlvbkNhdGVnb3J5RHRvLm5ld0NhdGVnb3J5KFNPRlRXQVJFX1VQREFURVMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zdGF0ZShzdGF0ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgLmFkZFByb3BlcnRpZXMoc3VTdGF0dXNQcm9wZXJ0aWVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkUHJvcGVydGllcyhtaXNzaW5nVXBkYXRlc0NvdW50UHJvcGVydGllcykKICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -917,16 +953,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>bwinstalledToSoftwareUpdatesCategoryDtoConverter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKZGJjQmF0Y2hVcGRhdGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIERJU0FCTEVEKFJhbnNvbXdhcmVQcm90ZWN0aW9uU3RhdGUuRElTQUJMRUQpOwo=</text>
+        <text encoding="base64">ICAgICAgQE5hbWVkKCJid2luc3RhbGxlZFRvU29mdHdhcmVVcGRhdGVzQ2F0ZWdvcnlEdG9Db252ZXJ0ZXIiKQogICAgICBCd2luc3RhbGxlZFRvQ2F0ZWdvcnlDb252ZXJ0ZXIgYndpbnN0YWxsZWRUb1NvZnR3YXJlVXBkYXRlc0NhdGVnb3J5RHRvQ29udmVydGVyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc05vdFdpbmRvd3MoYndpbnN0YWxsZWQpKSB7CiAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfQogICAgVXBkYXRlc1N0YXRlIHN0YXRlID0gZGV0ZXJtaW5lU3RhdGUoYndpbnN0YWxsZWQuZ2V0U3VTdGF0dXMoKSk7CiAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHN1U3RhdHVzUHJvcGVydGllcyA9IGNvbnZlcnRTdVN0YXR1c1Byb3BlcnRpZXMoYndpbnN0YWxsZWQuZ2V0U3VTdGF0dXMoKSk7CiAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IG1pc3NpbmdVcGRhdGVzQ291bnRQcm9wZXJ0aWVzID0gbWlzc2luZ1VwZGF0ZXNDb3VudFByb3BlcnRpZXMoYndpbnN0YWxsZWQuZ2V0SWQoKSk7CiAgICByZXR1cm4gT3B0aW9uYWwub2YoUHJvdGVjdGlvbkNhdGVnb3J5RHRvLm5ld0NhdGVnb3J5KFNPRlRXQVJFX1VQREFURVMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zdGF0ZShzdGF0ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgLmFkZFByb3BlcnRpZXMoc3VTdGF0dXNQcm9wZXJ0aWVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkUHJvcGVydGllcyhtaXNzaW5nVXBkYXRlc0NvdW50UHJvcGVydGllcykKICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -959,31 +995,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEVOQUJMRUQoSW50ZXJuZXRTaGllbGRTdGF0ZS5FTkFCTEVEKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERJU0FCTEVEKFJhbnNvbXdhcmVQcm90ZWN0aW9uU3RhdGUuRElTQUJMRUQpLAo=</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBib29sZWFuIGlzTm90V2luZG93cyhCd2luc3RhbGxlZCBid2luc3RhbGxlZCkgewogICAgT3NBd2FyZUJ3aW5zdGFsbGVkIG9zQXdhcmUgPSBvc0F3YXJlQndpbnN0YWxsZWQoYndpbnN0YWxsZWQpOwogICAgcmV0dXJuICFvc0F3YXJlLmlzV2luZG93cygpOwogIH0KCiAgcHJpdmF0ZSBVcGRhdGVzU3RhdGUgZGV0ZXJtaW5lU3RhdGUoU3VTdGF0dXMgc3VTdGF0dXMpIHsKICAgIGlmIChzdVN0YXR1cyA9PSBudWxsKSB7CiAgICAgIHJldHVybiBVcGRhdGVzU3RhdGUuTk9UX1NDQU5ORURfWUVUOwogICAgfQogICAgcmV0dXJuIFVwZGF0ZXNTdGF0ZS5mb3JDb2RlKHN1U3RhdHVzLmdldE92ZXJhbGxTdVN0YXR1cygpKTsKICB9CgogIHByaXZhdGUgTWFwPFN0cmluZywgU3RyaW5nPiBjb252ZXJ0U3VTdGF0dXNQcm9wZXJ0aWVzKFN1U3RhdHVzIHN1U3RhdHVzKSB7CiAgICBpZiAoc3VTdGF0dXMgPT0gbnVsbCkgewogICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlNYXAoKTsKICAgIH0KICAgIEltbXV0YWJsZU1hcC5CdWlsZGVyPFN0cmluZywgU3RyaW5nPiBidWlsZGVyID0gSW1tdXRhYmxlTWFwLmJ1aWxkZXIoKTsKICAgIGNvbnZlcnRMYXN0U2NhblRpbWVzdGFtcChidWlsZGVyLCBzdVN0YXR1cy5nZXRMYXN0U2NhblRpbWUoKSk7CiAgICBjb252ZXJ0TGFzdFNvZnR3YXJlSW5zdGFsbGF0aW9uVGltZXN0YW1wKGJ1aWxkZXIsIHN1U3RhdHVzLmdldExhc3RJbnN0YWxsYXRpb25UaW1lKCkpOwogICAgcmV0dXJuIGJ1aWxkZXIuYnVpbGQoKTsKICB9CgogIHByaXZhdGUgdm9pZCBjb252ZXJ0TGFzdFNjYW5UaW1lc3RhbXAoSW1tdXRhYmxlTWFwLkJ1aWxkZXI8U3RyaW5nLCBTdHJpbmc+IGJ1aWxkZXIsIExvbmcgbGFzdFNjYW5UaW1lKSB7CiAgICBpZiAobGFzdFNjYW5UaW1lICE9IG51bGwpIHsKICAgICAgYnVpbGRlci5wdXQoVXBkYXRlc1Byb3BlcnR5LkxBU1RfU0NBTl9USU1FU1RBTVAua2V5LCBPYmplY3RzLnRvU3RyaW5nKGxhc3RTY2FuVGltZSkpOwogICAgfQogIH0KCiAgcHJpdmF0ZSB2b2lkIGNvbnZlcnRMYXN0U29mdHdhcmVJbnN0YWxsYXRpb25UaW1lc3RhbXAoSW1tdXRhYmxlTWFwLkJ1aWxkZXI8U3RyaW5nLCBTdHJpbmc+IGJ1aWxkZXIsIExvbmcgbGFzdEluc3RhbGxhdGlvblRpbWUpIHsKICAgIGlmIChsYXN0SW5zdGFsbGF0aW9uVGltZSAhPSBudWxsICYmIGxhc3RJbnN0YWxsYXRpb25UaW1lICE9IDBMKSB7CiAgICAgIGJ1aWxkZXIucHV0KFVwZGF0ZXNQcm9wZXJ0eS5MQVNUX1NPRlRXQVJFX0lOU1RBTExBVElPTl9USU1FU1RBTVAua2V5LCBPYmplY3RzLnRvU3RyaW5nKGxhc3RJbnN0YWxsYXRpb25UaW1lKSk7CiAgICB9CiAgfQoKICBwcml2YXRlIE1hcDxTdHJpbmcsIFN0cmluZz4gbWlzc2luZ1VwZGF0ZXNDb3VudFByb3BlcnRpZXMoSW50ZWdlciBjb21wdXRlcklkKSB7CiAgICBNYXA8Q2F0ZWdvcnksIExpc3Q8TWlzc2luZ1NvZnR3YXJlVXBkYXRlPj4gbWlzc2luZ1VwZGF0ZXMgPSBzb2Z0d2FyZVVwZGF0ZVNlcnZpY2UuZ2V0TWlzc2luZ1VwZGF0ZXNGb3JDb21wdXRlcihjb21wdXRlcklkKTsKCiAgICByZXR1cm4gSW1tdXRhYmxlTWFwLm9mKAogICAgICAgIE1JU1NJTkdfVVBEQVRFU19DT1VOVF9TRUNVUklUWV9VUERBVEVfUFJPUEVSVFksIFN0cmluZy52YWx1ZU9mKHNpemUobWlzc2luZ1VwZGF0ZXMuZ2V0KFNFQ1VSSVRZX1VQREFURSkpKSwKICAgICAgICBNSVNTSU5HX1VQREFURVNfQ09VTlRfTk9OX1NFQ1VSSVRZX1VQREFURV9QUk9QRVJUWSwgU3RyaW5nLnZhbHVlT2Yoc2l6ZShtaXNzaW5nVXBkYXRlcy5nZXQoTk9OX1NFQ1VSSVRZX1VQREFURSkpKSwKICAgICAgICBNSVNTSU5HX1VQREFURVNfQ09VTlRfU0VSVklDRV9QQUNLX1BST1BFUlRZLCBTdHJpbmcudmFsdWVPZihzaXplKG1pc3NpbmdVcGRhdGVzLmdldChTRVJWSUNFX1BBQ0spKSksCiAgICAgICAgTUlTU0lOR19VUERBVEVTX0NPVU5UX1NFQ1VSSVRZX1RPT0wsIFN0cmluZy52YWx1ZU9mKHNpemUobWlzc2luZ1VwZGF0ZXMuZ2V0KFNFQ1VSSVRZX1RPT0wpKSkKICAgICk7CiAgfQoKICBwcml2YXRlIGVudW0gVXBkYXRlc1Byb3BlcnR5IHsKICAgIExBU1RfU0NBTl9USU1FU1RBTVAoImxhc3RTY2FuVGltZXN0YW1wIiksCiAgICBMQVNUX1NPRlRXQVJFX0lOU1RBTExBVElPTl9USU1FU1RBTVAoImxhc3RTb2Z0d2FyZUluc3RhbGxhdGlvblRpbWVzdGFtcCIpOwoKICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIGtleTsKCiAgICBVcGRhdGVzUHJvcGVydHkoU3RyaW5nIGtleSkgewogICAgICB0aGlzLmtleSA9IGtleTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBVTk1BTkFHRUQoU1RBVEVfVU5NQU5BR0VEKSwKICBORVZFUl9DT05ORUNURUQoU1RBVEVfTkVWRVJfQ09OTkVDVEVEKSwKICBXSVBFX1JFUVVFU1RFRChTVEFURV9XSVBFX1JFUVVFU1RFRCksCiAgV0lQRV9ET05FKFNUQVRFX1dJUEVfRE9ORSksCiAgRElTQ09OTkVDVEVEKFNUQVRFX0RJU0NPTk5FQ1RFRCksCiAgSU5BQ1RJVkUoU1RBVEVfSU5BQ1RJVkUpLAogIE1BTkFHRUQoU1RBVEVfTUFOQUdFRCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiUmFuc29td2FyZSBwYXRocyAtIEFkZGVkIHt9IHByb3RlY3RlZCBwYXRocyIpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUlTU0lOR19VUERBVEVTX0NPVU5UX1NFQ1VSSVRZX1RPT0wgPSAibWlzc2luZ1VwZGF0ZXNDb3VudFNlY3VyaXR5VG9vbCI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW50IGRlYnVnUHJldmlvdXNTaXplID0gcGF0aHMuc2l6ZSgpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUlTU0lOR19VUERBVEVTX0NPVU5UX1NFUlZJQ0VfUEFDS19QUk9QRVJUWSA9ICJtaXNzaW5nVXBkYXRlc0NvdW50U2VydmljZVBhY2siOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaW50IGRlYnVnUHJldmlvdXNTaXplID0gCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUlTU0lOR19VUERBVEVTX0NPVU5UX05PTl9TRUNVUklUWV9VUERBVEVfUFJPUEVSVFkgPSAibWlzc2luZ1VwZGF0ZXNDb3VudE5vblNlY3VyaXR5VXBkYXRlIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiUmFuc29td2FyZSBwYXRocyAtIHByb3RlY3RlZFtSZWNlaXZlZD17fSxBZGRlZD17fSxDb21wdXRlcklkPXt9XSIsIHRhYmxlLik7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUlTU0lOR19VUERBVEVTX0NPVU5UX1NFQ1VSSVRZX1VQREFURV9QUk9QRVJUWSA9ICJtaXNzaW5nVXBkYXRlc0NvdW50U2VjdXJpdHlVcGRhdGUiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>230</text>
