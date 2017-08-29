@@ -77,6 +77,13 @@
         <mark key="^" line="85" column="74" />
         <mark key="." line="85" column="49" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/ransomware/RansomwarePathsRepository.java" timestamp="1504008724623">
+        <mark key="'" line="6" column="39" />
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal-service-interface/src/main/java/com/fsecure/psp/service/computer/dto/ComputerHistoryDto.java" timestamp="1503559331265">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="23" />
@@ -221,6 +228,12 @@
         <mark key="^" line="62" column="109" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwarePath.java" timestamp="1504009014866">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="6" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" timestamp="1496992748705">
         <mark key="[" line="45" column="26" />
         <mark key="]" line="45" column="42" />
@@ -305,10 +318,6 @@
         <mark key="." line="30" column="39" />
         <mark key="^" line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/util/stats/StatisticsUtilTest.java" timestamp="1503660590894">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="41" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/restore/RestoreComputerDataBasedOnHistoryAction.java" timestamp="1503479710520">
         <mark key="[" line="75" column="105" />
         <mark key="]" line="75" column="130" />
@@ -378,10 +387,6 @@
         <mark key="]" line="6" column="25" />
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/spi/config/dev-skyblue.config.json" timestamp="1503584184114">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="28" column="5" />
       </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/common/config/config.schema.json" timestamp="1503405097159">
         <mark key="[" line="237" column="0" />
@@ -659,6 +664,12 @@
         <mark key="." line="163" column="31" />
         <mark key="^" line="154" column="35" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/ransomware/RansomwarePathsService.java" timestamp="1504009889227">
+        <mark key="[" line="33" column="84" />
+        <mark key="]" line="33" column="38" />
+        <mark key="^" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496661904827">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -726,7 +737,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504005015956">
+      <file name="/Dummy.txt" timestamp="1504009034958">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
@@ -818,7 +829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="63" filename="$USER_HOME$/dev-sources/system-psb/stacks/network.json" />
       <jump line="327" column="41" filename="$USER_HOME$/dev-sources/system-psb/stacks/network.json" />
       <jump line="240" column="32" filename="$USER_HOME$/dev-sources/system-psb/stacks/network.json" />
       <jump line="223" column="5" filename="$USER_HOME$/dev-sources/system-psb/stacks/network.json" />
@@ -918,6 +928,7 @@
       <jump line="5185" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="36" column="2" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/protectionstatus/CategoryResource.java" />
       <jump line="60" column="78" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/protectionstatus/CategoryResource.java" />
+      <jump line="6" column="39" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/ransomware/RansomwarePathsRepository.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -943,8 +954,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bwId</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -963,7 +974,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isPasswordProtectionSubscription</text>
+        <text>bwId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKZGJjQmF0Y2hVcGRhdGVyXD4=</text>
