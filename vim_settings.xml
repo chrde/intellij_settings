@@ -163,10 +163,10 @@
         <mark key="." line="12" column="29" />
         <mark key="^" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" timestamp="1504014635905">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1309" column="32" />
-        <mark key="]" line="1309" column="32" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" timestamp="1504019277278">
+        <mark key="'" line="1302" column="0" />
+        <mark key="[" line="1302" column="0" />
+        <mark key="]" line="1307" column="17" />
         <mark key="^" line="1309" column="27" />
         <mark key="." line="1309" column="32" />
       </file>
@@ -281,12 +281,12 @@
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1504014994665">
-        <mark key="'" line="4998" column="42" />
-        <mark key="[" line="5212" column="43" />
-        <mark key="]" line="5212" column="44" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1504019286831">
+        <mark key="'" line="5213" column="0" />
+        <mark key="[" line="5222" column="19" />
+        <mark key="]" line="5222" column="20" />
         <mark key="^" line="5212" column="50" />
-        <mark key="." line="5212" column="44" />
+        <mark key="." line="5222" column="20" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1503583710633">
         <mark key="[" line="64" column="60" />
@@ -762,8 +762,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504018299364">
-        <mark key="[" line="2" column="1" />
+      <file name="/Dummy.txt" timestamp="1504019289113">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
@@ -854,8 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="4" filename="$USER_HOME$/dev-sources/micro-cosmos/spec/clients/psb_client_spec.js" />
-      <jump line="19" column="49" filename="$USER_HOME$/dev-sources/micro-cosmos/spec/clients/psb_client_spec.js" />
       <jump line="62" column="6" filename="$USER_HOME$/dev-sources/micro-cosmos/spec/clients/psb_client_spec.js" />
       <jump line="10" column="8" filename="$USER_HOME$/dev-sources/spi/spec/business/token_sign_up/token_sign_up_endpoint_spec.js" />
       <jump line="49" column="110" filename="$USER_HOME$/dev-sources/spi/spec/business/token_sign_up/token_sign_up_endpoint_spec.js" />
@@ -911,7 +909,6 @@
       <jump line="1347" column="34" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="1373" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="1384" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
-      <jump line="1302" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
       <jump line="5181" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="5172" column="45" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="159" column="24" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRepositoryImplTest.java" />
@@ -954,6 +951,9 @@
       <jump line="22" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="4388" column="19" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="4998" column="42" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
+      <jump line="4783" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
+      <jump line="1302" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
+      <jump line="5213" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -979,8 +979,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ql files / store paths in psb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ci0tIGRiIHZlcnNpb24gMTAwOTE3Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1008,7 +1008,7 @@
         <text encoding="base64">XDxid2luc3RhbGxlZENvbW1hbmRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE1BTkFHRUQoT3ZlcmFsbENhdGVnb3J5U3RhdGUuTUFOQUdFRCksCg==</text>
+        <text encoding="base64">Ci0tIGRiIHZlcnNpb24gMTAwOTE3Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBATG9hZEZvclByZVByb2Nlc3Nvcgo=</text>
