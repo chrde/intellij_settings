@@ -161,6 +161,7 @@
         <mark key="^" line="1309" column="27" />
         <mark key="." line="1309" column="32" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/BwinstalledToVirusProtectionCategoryDtoConverter.java" timestamp="1503998519788" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/production/psb-smi-eu/config.json" timestamp="1496823672350">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="27" />
@@ -466,10 +467,10 @@
         <mark key="." line="92" column="60" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/protection/RansomwareProtectionState.java" timestamp="1503924783320">
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="21" column="41" />
-        <mark key="." line="21" column="41" />
-        <mark key="^" line="21" column="9" />
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+        <mark key="^" line="14" column="9" />
       </file>
       <file name="$USER_HOME$/dev-sources/jenkins-jobs/psb-predefined-cosmos-profiles-publish/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496835829328">
         <mark key="[" line="105" column="0" />
@@ -716,8 +717,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503915147035">
-        <mark key="[" line="2" column="12" />
+      <file name="/Dummy.txt" timestamp="1503998522059">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
