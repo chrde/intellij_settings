@@ -323,7 +323,7 @@
         <mark key="^" line="75" column="130" />
         <mark key="." line="75" column="130" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/bwinstalledToRansomwareCategoryDtoConverter.java" timestamp="1504078095045">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/bwinstalledToRansomwareCategoryDtoConverter.java" timestamp="1504085013782">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="49" column="54" />
@@ -769,7 +769,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504079881636">
+      <file name="/Dummy.txt" timestamp="1504084651307">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -835,7 +835,7 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/BwinstalledToProtectionStatusConverter.java" timestamp="1504012918996">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/BwinstalledToProtectionStatusConverter.java" timestamp="1504084042909">
         <mark key="[" line="46" column="56" />
         <mark key="]" line="47" column="50" />
         <mark key="^" line="47" column="50" />
