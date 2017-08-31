@@ -369,11 +369,11 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToProtectionStatusConverterTest.java" timestamp="1504012930585">
-        <mark key="[" line="64" column="107" />
-        <mark key="]" line="65" column="101" />
-        <mark key="." line="65" column="101" />
-        <mark key="^" line="65" column="101" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToProtectionStatusConverterTest.java" timestamp="1504182222967">
+        <mark key="[" line="76" column="8" />
+        <mark key="]" line="76" column="50" />
+        <mark key="." line="76" column="50" />
+        <mark key="^" line="76" column="50" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/services/profile_service_test.js" timestamp="1494589468150">
         <mark key="[" line="62" column="2" />
@@ -781,10 +781,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504180197748">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1504182236032">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -995,7 +995,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>pr fixes</text>
+        <text>bwinstalledToSoftwareUpdatesCategoryDtoConverter</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1017,13 +1017,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pr fixes</text>
+        <text>bwinstalledToSoftwareUpdatesCategoryDtoConverter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxid2luc3RhbGxlZENvbW1hbmRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHRvQ2hlY2suY29udGFpbnMoU3RyaW5nLmZvcm1hdCgiezE6VGFibGUoU3RyaW5nKSA9ICVzIixURVNUX1JBTlNPTVdBUkVfUFJPVEVDVEVEX1BBVEhTKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBid2luc3RhbGxlZFRvU29mdHdhcmVVcGRhdGVzQ2F0ZWdvcnlEdG9Db252ZXJ0ZXIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIFN0cmluZ1tdIHBhdGhzID0gT3B0aW9uYWwub2ZOdWxsYWJsZShhcnJheSkub3JFbHNlKG5ldyBTdHJpbmdbMF0pOwo=</text>
