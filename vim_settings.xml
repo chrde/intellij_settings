@@ -428,6 +428,9 @@
         <mark key="." line="23" column="64" />
         <mark key="^" line="23" column="64" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/test_config/hibernate.cfg.xml" timestamp="1504179934097">
+        <mark key="[" line="32" column="68" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfilesController.java" timestamp="1494510549188">
         <mark key="[" line="96" column="11" />
         <mark key="]" line="96" column="14" />
@@ -778,10 +781,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504178467832">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1504180197748">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -813,12 +816,8 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1504170612298">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="41" column="81" />
-        <mark key="]" line="42" column="26" />
-        <mark key="^" line="42" column="26" />
-        <mark key="." line="42" column="26" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1504180392417">
+        <mark key="'" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal-service-interface/src/main/java/com/fsecure/psp/service/computer/dto/HostGroupId.java" timestamp="1503404069222">
         <mark key="[" line="18" column="39" />
@@ -995,8 +994,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZ1tdIHBhdGhzID0gT3B0aW9uYWwub2ZOdWxsYWJsZShhcnJheSkub3JFbHNlKG5ldyBTdHJpbmdbMF0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>pr fixes</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1018,7 +1017,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>paths</text>
+        <text>pr fixes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxid2luc3RhbGxlZENvbW1hbmRzXD4=</text>
