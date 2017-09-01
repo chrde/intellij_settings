@@ -93,11 +93,11 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" timestamp="1504259295084">
-        <mark key="[" line="131" column="29" />
-        <mark key="]" line="131" column="29" />
-        <mark key="^" line="130" column="46" />
-        <mark key="." line="131" column="29" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" timestamp="1504260660548">
+        <mark key="[" line="137" column="3" />
+        <mark key="]" line="138" column="1" />
+        <mark key="^" line="138" column="1" />
+        <mark key="." line="138" column="1" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/README.md" timestamp="1496824165463">
         <mark key="[" line="85" column="49" />
@@ -423,12 +423,12 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1504258715620">
-        <mark key="'" line="51" column="66" />
-        <mark key="[" line="133" column="43" />
-        <mark key="]" line="51" column="57" />
-        <mark key="." line="51" column="57" />
-        <mark key="^" line="51" column="57" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1504260645902">
+        <mark key="'" line="49" column="66" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="49" column="81" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToRansomwareCategoryDtoConverterTest.java" timestamp="1504086594149">
         <mark key="[" line="115" column="27" />
@@ -815,10 +815,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504182236032">
+      <file name="/Dummy.txt" timestamp="1504260664807">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -1028,8 +1028,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>mockExistingBwWithEncodedId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ29vZ2xlLmNvbW1vbi5jb2xsZWN0LkltbXV0YWJsZVNldC5vZjsK</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1051,7 +1051,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mockExistingBwWithEncodedId</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxid2luc3RhbGxlZENvbW1hbmRzXD4=</text>
@@ -1060,37 +1060,39 @@
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHJlZ2lzdGVyX2V4aXN0aW5nQ29tcHV0ZXJfd2l0aE9sZEJ3SWRfc3VjY2Vzc2Z1bCgpIHRocm93cyBFeGNlcHRpb24gewogICAgQndpbnN0YWxsZWQgZXhpc3RpbmdCdyA9IG1vY2tFeGlzdGluZ0J3V2l0aEVuY29kZWRJZChPTERfQldfSUQsIEVYSVNUSU5HX0NPTVBVVEVSX09MREJXSURfRFRPLCBOT19TRUFUU19SRVFVSVJFRCk7CgogICAgQ29tcHV0ZXJJZCBleHBlY3RlZCA9IHNwaUNvbXB1dGVyUmVnaXN0cmF0aW9uU2VydmljZS5yZWdpc3RlcihFWElTVElOR19DT01QVVRFUl9PTERCV0lEX0RUTyk7CgogICAgYXNzZXJ0VGhhdChleHBlY3RlZCkuaXNFcXVhbFRvKGNvbXB1dGVySWQoZXhpc3RpbmdCdy5nZXRJZCgpKSk7CiAgICBhc3NlcnRUaGF0KGV4aXN0aW5nQncuZ2V0QndJZCgpKS5pc0VxdWFsVG8oQldfSUQpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoZW4oYndpbnN0YWxsZWREYW8uZmluZEJ5QndJZChid0lkKSkudGhlblJldHVybihidyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ29vZ2xlLmNvbW1vbi5jb2xsZWN0LkltbXV0YWJsZVNldC5vZjsK</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ3LmdldFN1YnNjcmlwdGlvbigpLnNldFJlZ0lkKFNVQlNDUklQVElPTl9LRVkpOwo=</text>
+      <register name="2" type="4">
+        <text>1466 Client sends encoded base64 with invalid characters
+
+Use a base64 decoder that allows invalid characters</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ3LnNldEhvc3RJbmZvKG5ldyBIb3N0SW5mbygpKTsK</text>
+        <text encoding="base64">ICAgIHdoZW4oYndpbnN0YWxsZWREYW8uZmluZEJ5QndJZChid0lkKSkudGhlblJldHVybihidyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ3LnNldFN1YnNjcmlwdGlvbihuZXcgU3Vic2NyaXB0aW9uKDEpKTsK</text>
+        <text encoding="base64">ICAgIGJ3LmdldFN1YnNjcmlwdGlvbigpLnNldFJlZ0lkKFNVQlNDUklQVElPTl9LRVkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ3LnNldElkKENPTVBVVEVSX0lEKTsK</text>
+        <text encoding="base64">ICAgIGJ3LnNldEhvc3RJbmZvKG5ldyBIb3N0SW5mbygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEJ3aW5zdGFsbGVkIGJ3ID0gbmV3IEJ3aW5zdGFsbGVkKGJ3SWQpOwo=</text>
+        <text encoding="base64">ICAgIGJ3LnNldFN1YnNjcmlwdGlvbihuZXcgU3Vic2NyaXB0aW9uKDEpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEltbXV0YWJsZVNldC5vZgo=</text>
+        <text encoding="base64">ICAgIGJ3LnNldElkKENPTVBVVEVSX0lEKTsK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb25zLnVubW8K</text>
+        <text encoding="base64">ICAgIEJ3aW5zdGFsbGVkIGJ3ID0gbmV3IEJ3aW5zdGFsbGVkKGJ3SWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZ1tdIHBhdGhzID0gT3B0aW9uYWwub2ZOdWxsYWJsZShhcnJheSkub3JFbHNlKG5ldyBTdHJpbmdbMF0pOwo=</text>
+        <text encoding="base64">ICAgIEltbXV0YWJsZVNldC5vZgo=</text>
       </register>
       <register name=":" type="4">
         <text>211</text>
