@@ -1101,7 +1101,7 @@
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRDb21wdXRlclByb3RlY3Rpb25Db25maWcoU3lzdGVtU2VydmljZSBjb21wdXRlclByb3RlY3Rpb25Db25maWcpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>only</text>
+        <text>close</text>
       </register>
     </registers>
     <search>
@@ -1137,7 +1137,6 @@
         <entry encoding="base64">XDxid2luc3RhbGxlZENvbW1hbmRzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>set relativenumber</entry>
         <entry>59</entry>
         <entry>35</entry>
         <entry>176</entry>
@@ -1157,6 +1156,7 @@
         <entry>vsplit</entry>
         <entry>on</entry>
         <entry>only</entry>
+        <entry>close</entry>
       </history-cmd>
       <history-expr />
       <history-input />
