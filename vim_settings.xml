@@ -54,6 +54,10 @@
         <mark key="^" line="162" column="122" />
         <mark key="." line="162" column="122" />
       </file>
+      <file name="$USER_HOME$/github/demo-app/src/features/editFood/EditFoodContainer.js" timestamp="1503911262299">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="43" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/ServiceType.java" timestamp="1504511966172" />
       <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" timestamp="1504595407304">
         <mark key="'" line="193" column="49" />
@@ -166,12 +170,12 @@
       <file name="$USER_HOME$/dev-sources/upstream-saver/.gitignore" timestamp="1504176109374">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/mvc/model/config/ConfigurationModel.java" timestamp="1504594783200">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/mvc/model/config/ConfigurationModel.java" timestamp="1504596753336">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="82" column="4" />
-        <mark key="]" line="82" column="5" />
-        <mark key="^" line="82" column="5" />
-        <mark key="." line="82" column="5" />
+        <mark key="[" line="85" column="3" />
+        <mark key="]" line="86" column="1" />
+        <mark key="^" line="86" column="1" />
+        <mark key="." line="86" column="1" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/ransomware/RansomwarePathsService.java" timestamp="1504010510339">
         <mark key="[" line="33" column="84" />
@@ -196,13 +200,17 @@
       <file name="/JavaScript Console" timestamp="1503586738108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504594902743">
+      <file name="/Dummy.txt" timestamp="1504596671758">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1504180392417">
         <mark key="'" line="64" column="0" />
+      </file>
+      <file name="/ConfigurationModel.java" timestamp="1504596700241">
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="180" column="3" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/BwinstalledToProtectionStatusConverter.java" timestamp="1504086172020">
         <mark key="[" line="46" column="56" />
@@ -337,8 +345,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Config</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgQ29sbGVjdGlvbjxJbnRlcnF1ZXN0U3VydmV5PiBnZXRJbnRlcnF1ZXN0U3VydmV5UG9zc2libGVWYWx1ZXMoKSB7CiAgICByZXR1cm4gYXNMaXN0KEludGVycXVlc3RTdXJ2ZXkudmFsdWVzKCkpOwogIH0K</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -366,7 +374,7 @@
         <text encoding="base64">XDxBV1NfQ09ORklHXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8JS0tIEtleSBiYWNrZW5kIC0tJT4KICA8anNwOmluY2x1ZGUgcGFnZT0ia2V5QmFja2VuZC5qc3AiLz4K</text>
+        <text encoding="base64">ICBwdWJsaWMgQ29sbGVjdGlvbjxJbnRlcnF1ZXN0U3VydmV5PiBnZXRJbnRlcnF1ZXN0U3VydmV5UG9zc2libGVWYWx1ZXMoKSB7CiAgICByZXR1cm4gYXNMaXN0KEludGVycXVlc3RTdXJ2ZXkudmFsdWVzKCkpOwogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
