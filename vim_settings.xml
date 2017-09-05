@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1504086113484">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/micro-cosmos-rest-api/spec/accountsComputerProfilesPOSTSpec.js" timestamp="1503562005363">
         <mark key="[" line="262" column="4" />
         <mark key="]" line="262" column="4" />
@@ -66,11 +63,12 @@
         <mark key="^" line="0" column="19635" />
         <mark key="." line="0" column="19634" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" timestamp="1504260660548">
-        <mark key="[" line="137" column="3" />
-        <mark key="]" line="138" column="1" />
-        <mark key="^" line="138" column="1" />
-        <mark key="." line="138" column="1" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" timestamp="1504604073260">
+        <mark key="'" line="117" column="50" />
+        <mark key="[" line="117" column="115" />
+        <mark key="]" line="117" column="88" />
+        <mark key="." line="117" column="88" />
+        <mark key="^" line="117" column="88" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-build/psb-predefined-cosmos-profiles-publish-aws/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496824513390">
         <mark key="[" line="28" column="168" />
@@ -241,6 +239,7 @@
         <mark key="." line="615" column="27" />
         <mark key="^" line="615" column="24" />
       </file>
+      <file name="$USER_HOME$/dev-tools/jdk1.8.0_102/src.zip!/java/lang/String.java" timestamp="1504603133393" />
       <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/common/config/config.schema.json" timestamp="1503405097159">
         <mark key="[" line="237" column="0" />
         <mark key="]" line="237" column="0" />
@@ -461,7 +460,7 @@
         <mark key="." line="1" column="58" />
         <mark key="^" line="1" column="58" />
       </file>
-      <file name="/fragment.java" timestamp="1504175465329">
+      <file name="/fragment.java" timestamp="1504602970412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -670,21 +669,18 @@
         <mark key="^" line="164" column="81" />
         <mark key="." line="165" column="122" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1504601637206">
-        <mark key="'" line="52" column="66" />
-        <mark key="[" line="74" column="79" />
-        <mark key="]" line="76" column="24" />
-        <mark key="." line="76" column="24" />
-        <mark key="^" line="76" column="24" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1504604174435">
+        <mark key="'" line="50" column="66" />
+        <mark key="[" line="71" column="13" />
+        <mark key="]" line="71" column="24" />
+        <mark key="." line="71" column="24" />
+        <mark key="^" line="71" column="24" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToRansomwareCategoryDtoConverterTest.java" timestamp="1504086594149">
         <mark key="[" line="115" column="27" />
         <mark key="]" line="115" column="29" />
         <mark key="^" line="115" column="29" />
         <mark key="." line="115" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/test_config/hibernate.cfg.xml" timestamp="1504179934097">
-        <mark key="[" line="32" column="68" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/subscriptionChangeSpec.js" timestamp="1503583772186">
         <mark key="[" line="152" column="6" />
@@ -809,9 +805,6 @@
         <mark key="." line="164" column="0" />
         <mark key="^" line="154" column="35" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/.gitignore" timestamp="1504176109374">
-        <mark key="[" line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/ransomware/RansomwarePathsService.java" timestamp="1504010510339">
         <mark key="[" line="33" column="84" />
         <mark key="]" line="20" column="37" />
@@ -835,9 +828,6 @@
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1503586738108">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/config.schema.json" timestamp="1496818382217">
         <mark key="[" line="57" column="3" />
@@ -887,9 +877,6 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1504180392417">
-        <mark key="'" line="64" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal-service-interface/src/main/java/com/fsecure/psp/service/computer/dto/HostGroupId.java" timestamp="1503404069222">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="39" />
@@ -920,9 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="235" filename="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" />
-      <jump line="83" column="15" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
-      <jump line="62" column="14" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
       <jump line="22" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
       <jump line="73" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
       <jump line="0" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
@@ -1020,6 +1004,9 @@
       <jump line="128" column="29" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/util/ApplicationConstants.java" />
       <jump line="374" column="32" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="193" column="49" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" />
+      <jump line="314" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" />
+      <jump line="117" column="50" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1046,7 +1033,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;computerProtection.registration.allowedSubscriptionServiceTypes&quot;</text>
+        <text>Integer::valueOf</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1068,63 +1055,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;computerProtection.registration.allowedSubscriptionServiceTypes&quot;</text>
+        <text>Integer::valueOf</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBV1NfQ09ORklHXD4=</text>
+        <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuQUxMT1dFRF9TVUJTQ1JJUFRJT05fVFlQRVMgPSBJbW11dGFibGVTZXQub2Yoc3lzdGVtQ29uZmlnLmdldFNldHRpbmcoImNvbXB1dGVyUHJvdGVjdGlvbi5yZWdpc3RyYXRpb24uYWxsb3dlZFN1YnNjcmlwdGlvblNlcnZpY2VUeXBlcyIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwKEludGVnZXI6OnZhbHVlT2YpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAubWFwKCkK</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBhbGxvd2VkVHlwZXMgPSBBcnJheXMuYXNMaXN0KFBTQl9DT01QVVRFUl9QUk9URUNUSU9OX1BSRU1JVU0sIFBTQl9XT1JLU1RBVElPTl9TRUNVUklUWSkuc3RyZWFtKCkubWFwKFNlcnZpY2VUeXBlOjpnZXRJZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMua2V5QmFja2VuZENvbmZpZyA9IGtleUJhY2tlbmRDb25maWc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcHVibGljIENvbGxlY3Rpb248UmVkaXJlY3Rpb25UeXBlPiBnZXRSZWRpcmVjdGlvblR5cGVDb2xsZWN0aW9uKCkgewogICAgcmV0dXJuIHJlZGlyZWN0aW9uVHlwZUNvbGxlY3Rpb247CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRSZWRpcmVjdGlvblR5cGVDb2xsZWN0aW9uKENvbGxlY3Rpb248UmVkaXJlY3Rpb25UeXBlPiByZWRpcmVjdGlvblR5cGVDb2xsZWN0aW9uKSB7CiAgICB0aGlzLnJlZGlyZWN0aW9uVHlwZUNvbGxlY3Rpb24gPSByZWRpcmVjdGlvblR5cGVDb2xsZWN0aW9uOwogIH0KCiAgcHVibGljIHZvaWQgc2V0TmV3VWlCZXRhQ29uZmlnKFN5c3RlbVNlcnZpY2UgbmV3VWlCZXRhQ29uZmlnKSB7CiAgICB0aGlzLm5ld1VpQmV0YUNvbmZpZyA9IG5ld1VpQmV0YUNvbmZpZzsKICB9CgogIHB1YmxpYyBTeXN0ZW1TZXJ2aWNlIGdldENhY2hlQ29uZmlnKCkgewogICAgcmV0dXJuIGNhY2hlQ29uZmlnOwogIH0KCiAgcHVibGljIHZvaWQgc2V0Q2FjaGVDb25maWcoU3lzdGVtU2VydmljZSBjYWNoZUNvbmZpZykgewogICAgdGhpcy5jYWNoZUNvbmZpZyA9IGNhY2hlQ29uZmlnOwogIH0KCiAgcHVibGljIFN5c3RlbVNlcnZpY2UgZ2V0SGVhbHRoQ2hlY2tDb25maWcoKSB7CiAgICByZXR1cm4gaGVhbHRoQ2hlY2tDb25maWc7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRIZWFsdGhDaGVja0NvbmZpZyhTeXN0ZW1TZXJ2aWNlIGhlYWx0aENoZWNrQ29uZmlnKSB7CiAgICB0aGlzLmhlYWx0aENoZWNrQ29uZmlnID0gaGVhbHRoQ2hlY2tDb25maWc7CiAgfQoKICBwdWJsaWMgU3lzdGVtU2VydmljZSBnZXRQaW5nRmVkZXJhdGVDb25maWcoKSB7CiAgICByZXR1cm4gcGluZ0ZlZGVyYXRlQ29uZmlnOwogIH0KCiAgcHVibGljIHZvaWQgc2V0UGluZ0ZlZGVyYXRlQ29uZmlnKFN5c3RlbVNlcnZpY2UgcGluZ0ZlZGVyYXRlQ29uZmlnKSB7CiAgICB0aGlzLnBpbmdGZWRlcmF0ZUNvbmZpZyA9IHBpbmdGZWRlcmF0ZUNvbmZpZzsKICB9CgogIHB1YmxpYyBTeXN0ZW1TZXJ2aWNlIGdldENyb3NzQXBwbGljYXRpb25zQXV0aGVudGljYXRpb25Db25maWcoKSB7CiAgICByZXR1cm4gdGhpcy5jcm9zc0FwcGxpY2F0aW9uc0F1dGhlbnRpY2F0aW9uQ29uZmlnOwogIH0KCiAgcHVibGljIHZvaWQgc2V0Q3Jvc3NBcHBsaWNhdGlvbnNBdXRoZW50aWNhdGlvbkNvbmZpZyhTeXN0ZW1TZXJ2aWNlIGNyb3NzQXBwbGljYXRpb25zQXV0aGVudGljYXRpb25Db25maWcpIHsKICAgIHRoaXMuY3Jvc3NBcHBsaWNhdGlvbnNBdXRoZW50aWNhdGlvbkNvbmZpZyA9IGNyb3NzQXBwbGljYXRpb25zQXV0aGVudGljYXRpb25Db25maWc7CiAgfQoKICBwdWJsaWMgU3lzdGVtU2VydmljZSBnZXRTdWJzY3JpcHRpb25Db25maWcoKSB7CiAgICByZXR1cm4gc3Vic2NyaXB0aW9uQ29uZmlnOwogIH0KCiAgcHVibGljIHZvaWQgc2V0U3Vic2NyaXB0aW9uQ29uZmlnKFN5c3RlbVNlcnZpY2Ugc3Vic2NyaXB0aW9uQ29uZmlnKSB7CiAgICB0aGlzLnN1YnNjcmlwdGlvbkNvbmZpZyA9IHN1YnNjcmlwdGlvbkNvbmZpZzsKICB9CgogIHB1YmxpYyBTeXN0ZW1TZXJ2aWNlIGdldEVtYWlsVGVtcGxhdGVMaW5rc0NvbmZpZygpIHsKICAgIHJldHVybiBlbWFpbFRlbXBsYXRlTGlua3NDb25maWc7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRFbWFpbFRlbXBsYXRlTGlua3NDb25maWcoU3lzdGVtU2VydmljZSBlbWFpbFRlbXBsYXRlTGlua3NDb25maWcpIHsKICAgIHRoaXMuZW1haWxUZW1wbGF0ZUxpbmtzQ29uZmlnID0gZW1haWxUZW1wbGF0ZUxpbmtzQ29uZmlnOwogIH0KCiAgcHVibGljIFN5c3RlbVNlcnZpY2UgZ2V0U3Vic2NyaXB0aW9uUmVtb3ZhbENvbmZpZygpIHsKICAgIHJldHVybiBzdWJzY3JpcHRpb25SZW1vdmFsQ29uZmlnOwogIH0KCiAgcHVibGljIHZvaWQgc2V0U3Vic2NyaXB0aW9uUmVtb3ZhbENvbmZpZyhTeXN0ZW1TZXJ2aWNlIHN1YnNjcmlwdGlvblJlbW92YWxDb25maWcpIHsKICAgIHRoaXMuc3Vic2NyaXB0aW9uUmVtb3ZhbENvbmZpZyA9IHN1YnNjcmlwdGlvblJlbW92YWxDb25maWc7CiAgfQoKICBwdWJsaWMgU3lzdGVtU2VydmljZSBnZXRUaHJvdHRsaW5nQ29uZmlnKCkgewogICAgcmV0dXJuIHRocm90dGxpbmdDb25maWc7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRUaHJvdHRsaW5nQ29uZmlnKFN5c3RlbVNlcnZpY2UgdGhyb3R0bGluZ0NvbmZpZykgewogICAgdGhpcy50aHJvdHRsaW5nQ29uZmlnID0gdGhyb3R0bGluZ0NvbmZpZzsKICB9CgogIHB1YmxpYyBTeXN0ZW1TZXJ2aWNlIGdldEF3c0NvbmZpZygpIHsKICAgIHJldHVybiBhd3NDb25maWc7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRBd3NDb25maWcoU3lzdGVtU2VydmljZSBhd3NDb25maWcpIHsKICAgIHRoaXMuYXdzQ29uZmlnID0gYXdzQ29uZmlnOwogIH0KCiAgcHVibGljIFN5c3RlbVNlcnZpY2UgZ2V0S2V5QmFja2VuZENvbmZpZygpIHsKICAgIHJldHVybiBrZXlCYWNrZW5kQ29uZmlnOwogIH0KCiAgcHVibGljIHZvaWQgc2V0S2V5QmFja2VuZENvbmZpZyhTeXN0ZW1TZXJ2aWNlIGtleUJhY2tlbmRDb25maWcpIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3lzdGVtU2VydmljZSBnZXRDb25zdGFudHMoKSB7CiAgICByZXR1cm4gY29uc3RhbnRzOwogIH0KCiAgcHVibGljIHZvaWQgc2V0Q29uc3RhbnRzKFN5c3RlbVNlcnZpY2UgY29uc3RhbnRzKSB7CiAgICB0aGlzLmNvbnN0YW50cyA9IGNvbnN0YW50czsKICB9CgogIHB1YmxpYyBTeXN0ZW1TZXJ2aWNlIGdldFByb3h5KCkgewogICAgcmV0dXJuIHByb3h5OwogIH0KCiAgcHVibGljIHZvaWQgc2V0UHJveHkoU3lzdGVtU2VydmljZSBwcm94eSkgewogICAgdGhpcy5wcm94eSA9IHByb3h5OwogIH0KCiAgcHVibGljIFN5c3RlbVNlcnZpY2UgZ2V0U3lzdGVtKCkgewogICAgcmV0dXJuIHN5c3RlbTsKICB9CgogIHB1YmxpYyB2b2lkIHNldFN5c3RlbShTeXN0ZW1TZXJ2aWNlIHN5c3RlbSkgewogICAgdGhpcy5zeXN0ZW0gPSBzeXN0ZW07CiAgfQoKICBwdWJsaWMgQ29sbGVjdGlvbjxOb2RlVHlwZT4gZ2V0Tm9kZVR5cGVDb2xsZWN0aW9uKCkgewogICAgcmV0dXJuIG5vZGVUeXBlQ29sbGVjdGlvbjsKICB9CgogIHB1YmxpYyB2b2lkIHNldE5vZGVUeXBlQ29sbGVjdGlvbihDb2xsZWN0aW9uPE5vZGVUeXBlPiBub2RlVHlwZUNvbGxlY3Rpb24pIHsKICAgIHRoaXMubm9kZVR5cGVDb2xsZWN0aW9uID0gbm9kZVR5cGVDb2xsZWN0aW9uOwogIH0KCiAgcHVibGljIFN5c3RlbVNlcnZpY2UgZ2V0U2VjdXJpdHkoKSB7CiAgICByZXR1cm4gc2VjdXJpdHk7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRTZWN1cml0eShTeXN0ZW1TZXJ2aWNlIHNlY3VyaXR5KSB7CiAgICB0aGlzLnNlY3VyaXR5ID0gc2VjdXJpdHk7CiAgfQoKICBwdWJsaWMgU3lzdGVtU2VydmljZSBnZXRTeW5jU2hpZWxkQ29uZmlnKCkgewogICAgcmV0dXJuIHN5bmNTaGllbGRDb25maWc7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRTeW5jU2hpZWxkQ29uZmlnKFN5c3RlbVNlcnZpY2Ugc3luY1NoaWVsZENvbmZpZykgewogICAgdGhpcy5zeW5jU2hpZWxkQ29uZmlnID0gc3luY1NoaWVsZENvbmZpZzsKICB9CgogIHB1YmxpYyBTeXN0ZW1TZXJ2aWNlIGdldEZyZWVkb21lQ29uZmlnKCkgewogICAgcmV0dXJuIGZyZWVkb21lQ29uZmlnOwogIH0KCiAgcHVibGljIHZvaWQgc2V0RnJlZWRvbWVDb25maWcoU3lzdGVtU2VydmljZSBmcmVlZG9tZUNvbmZpZykgewogICAgdGhpcy5mcmVlZG9tZUNvbmZpZyA9IGZyZWVkb21lQ29uZmlnOwogIH0KCiAgcHVibGljIFN5c3RlbVNlcnZpY2UgZ2V0U2llYmVsU3luY0NvbmZpZygpIHsKICAgIHJldHVybiBzaWViZWxTeW5jQ29uZmlnOwogIH0KCiAgcHVibGljIHZvaWQgc2V0U2llYmVsU3luY0NvbmZpZyhTeXN0ZW1TZXJ2aWNlIHNpZWJlbFN5bmNDb25maWcpIHsKICAgIHRoaXMuc2llYmVsU3luY0NvbmZpZyA9IHNpZWJlbFN5bmNDb25maWc7CiAgfQoKICBwdWJsaWMgU3lzdGVtU2VydmljZSBnZXRQb2xpY3lTZXJ2aWNlQ29uZmlnKCkgewogICAgcmV0dXJuIHBvbGljeVNlcnZpY2VDb25maWc7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRQb2xpY3lTZXJ2aWNlQ29uZmlnKFN5c3RlbVNlcnZpY2UgcG9saWN5U2VydmljZUNvbmZpZykgewogICAgdGhpcy5wb2xpY3lTZXJ2aWNlQ29uZmlnID0gcG9saWN5U2VydmljZUNvbmZpZzsKICB9CgogIHB1YmxpYyBTeXN0ZW1TZXJ2aWNlIGdldFBhcnRuZXJQb3J0YWxDb25maWcoKSB7CiAgICByZXR1cm4gcGFydG5lclBvcnRhbENvbmZpZzsKICB9CgogIHB1YmxpYyB2b2lkIHNldFBhcnRuZXJQb3J0YWxDb25maWcoU3lzdGVtU2VydmljZSBwYXJ0bmVyUG9ydGFsQ29uZmlnKSB7CiAgICB0aGlzLnBhcnRuZXJQb3J0YWxDb25maWcgPSBwYXJ0bmVyUG9ydGFsQ29uZmlnOwogIH0KCiAgcHVibGljIFN5c3RlbVNlcnZpY2UgZ2V0UmVwb3J0aW5nQ29uZmlnKCkgewogICAgcmV0dXJuIHJlcG9ydGluZ0NvbmZpZzsKICB9CgogIHB1YmxpYyB2b2lkIHNldFJlcG9ydGluZ0NvbmZpZyhTeXN0ZW1TZXJ2aWNlIHJlcG9ydGluZ0NvbmZpZykgewogICAgdGhpcy5yZXBvcnRpbmdDb25maWcgPSByZXBvcnRpbmdDb25maWc7CiAgfQoKICBwdWJsaWMgU3lzdGVtU2VydmljZSBnZXROZXdVaUJldGFDb25maWcoKSB7CiAgICByZXR1cm4gbmV3VWlCZXRhQ29uZmlnOwogIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3lzdGVtU2VydmljZSBnZXRQYXNzd29yZFByb3RlY3Rpb25Db25maWcoKSB7CiAgICByZXR1cm4gcGFzc3dvcmRQcm90ZWN0aW9uQ29uZmlnOwogIH0KCiAgcHVibGljIHZvaWQgc2V0UGFzc3dvcmRQcm90ZWN0aW9uQ29uZmlnKFN5c3RlbVNlcnZpY2UgcGFzc3dvcmRQcm90ZWN0aW9uQ29uZmlnKSB7CiAgICB0aGlzLnBhc3N3b3JkUHJvdGVjdGlvbkNvbmZpZyA9IHBhc3N3b3JkUHJvdGVjdGlvbkNvbmZpZzsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0VGVzdCgpIHsKICAgIHJldHVybiB0aGlzLnRlc3Q7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRUZXN0KFN0cmluZyB0ZXN0KSB7CiAgICB0aGlzLnRlc3QgPSB0ZXN0OwogIH0KCiAgcHVibGljIFN5c3RlbVNlcnZpY2UgZ2V0VmVsb2NpdHlDb25maWcoKSB7CiAgICByZXR1cm4gdGhpcy52ZWxvY2l0eUNvbmZpZzsKICB9CgogIHB1YmxpYyB2b2lkIHNldFZlbG9jaXR5Q29uZmlnKFN5c3RlbVNlcnZpY2UgdmVsb2NpdHlDb25maWcpIHsKICAgIHRoaXMudmVsb2NpdHlDb25maWcgPSB2ZWxvY2l0eUNvbmZpZzsKICB9CgogIHB1YmxpYyBTeXN0ZW1TZXJ2aWNlIGdldE1lc3NhZ2luZ0NvbmZpZygpIHsKICAgIHJldHVybiB0aGlzLm1lc3NhZ2luZ0NvbmZpZzsKICB9CgogIHB1YmxpYyB2b2lkIHNldE1lc3NhZ2luZ0NvbmZpZyhTeXN0ZW1TZXJ2aWNlIG1lc3NhZ2luZ0NvbmZpZykgewogICAgdGhpcy5tZXNzYWdpbmdDb25maWcgPSBtZXNzYWdpbmdDb25maWc7CiAgfQoKICBwdWJsaWMgU3lzdGVtU2VydmljZSBnZXRWaXJ1c1dvcmxkTWFwKCkgewogICAgcmV0dXJuIHRoaXMudmlydXNXb3JsZE1hcDsKICB9CgogIHB1YmxpYyB2b2lkIHNldFZpcnVzV29ybGRNYXAoU3lzdGVtU2VydmljZSB2aXJ1c1dvcmxkTWFwKSB7CiAgICB0aGlzLnZpcnVzV29ybGRNYXAgPSB2aXJ1c1dvcmxkTWFwOwogIH0KCiAgcHVibGljIFN5c3RlbVNlcnZpY2UgZ2V0V3NDb25maWcoKSB7CiAgICByZXR1cm4gdGhpcy53c0NvbmZpZzsKICB9CgogIHB1YmxpYyB2b2lkIHNldFdzQ29uZmlnKFN5c3RlbVNlcnZpY2Ugd3NDb25maWcpIHsKICAgIHRoaXMud3NDb25maWcgPSB3c0NvbmZpZzsKICB9CgogIHB1YmxpYyBTeXN0ZW1TZXJ2aWNlIGdldFB1c2hOb3RpZmljYXRpb25Db25maWcoKSB7CiAgICAgIHJldHVybiB0aGlzLnB1c2hOb3RpZmljYXRpb25Db25maWc7CiAgICB9CgogIHB1YmxpYyB2b2lkIHNldFB1c2hOb3RpZmljYXRpb25Db25maWcoU3lzdGVtU2VydmljZSBwdXNoTm90aWZpY2F0aW9uQ29uZmlnKSB7CiAgICAgIHRoaXMucHVzaE5vdGlmaWNhdGlvbkNvbmZpZyA9IHB1c2hOb3RpZmljYXRpb25Db25maWc7CiAgICB9CiAgCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZ2V0QWxsb3dlZFN1YnNjcmlwdGlvblR5cGVzKHN5c3RlbUNvbmZpZykpLmNvbnRhaW5zRXhhY3RseShQU0JfRU1BSUxfQU5EX1NFUlZFUl9TRUNVUklUWSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4oc3lzdGVtQ29uZmlnLmdldFNldHRpbmcoQUxMT1dFRF9TRVJWSUNFX1RZUEVTKSkudGhlblJldHVybihhbGxvd2VkVHlwZXMpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBhbGxvd2VkVHlwZXMgPSBTdHJpbmcuZm9ybWF0KCIlZCIsIFBTQl9FTUFJTF9BTkRfU0VSVkVSX1NFQ1VSSVRZLmdldElkKCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29tcHV0ZXJQcm90ZWN0aW9uQ29uZmlnID0gY29tcHV0ZXJQcm90ZWN0aW9uQ29uZmlnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBV1NfQ09ORklHXD4=</last-search>
+      <last-search encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBV1NfQ09ORklHXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNaWNyb0Nvc21vc1JlbW90ZUFjdGlvbkJ1Y2tldE5hbWVcPg==</entry>
         <entry encoding="base64">XDx1dGlsc1w+</entry>
         <entry encoding="base64">XDxpdGVtc1w+</entry>
         <entry encoding="base64">XDxyZW1vdmVEaXNhYmxlZFw+</entry>
@@ -1144,6 +1130,7 @@
         <entry encoding="base64">XDxKZGJjQmF0Y2hVcGRhdGVyXD4=</entry>
         <entry encoding="base64">XDxid2luc3RhbGxlZENvbW1hbmRzXD4=</entry>
         <entry encoding="base64">XDxBV1NfQ09ORklHXD4=</entry>
+        <entry encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
