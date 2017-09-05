@@ -312,6 +312,12 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
       </file>
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/dto/status/Status.java" timestamp="1504617067698">
+        <mark key="[" line="103" column="12" />
+        <mark key="]" line="103" column="12" />
+        <mark key="^" line="101" column="28" />
+        <mark key="." line="103" column="12" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1503585959200">
         <mark key="[" line="61" column="9" />
         <mark key="]" line="61" column="8" />
@@ -823,7 +829,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504614170428">
+      <file name="/Dummy.txt" timestamp="1504617004814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -1037,8 +1043,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5OYW1lZDsK</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1060,7 +1066,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://mobile.f-secure.com/corporate/index_new.html</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
