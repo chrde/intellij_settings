@@ -63,12 +63,12 @@
         <mark key="^" line="0" column="19635" />
         <mark key="." line="0" column="19634" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" timestamp="1504604073260">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" timestamp="1504605911656">
         <mark key="'" line="117" column="50" />
-        <mark key="[" line="117" column="115" />
-        <mark key="]" line="117" column="88" />
-        <mark key="." line="117" column="88" />
-        <mark key="^" line="117" column="88" />
+        <mark key="[" line="117" column="84" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-build/psb-predefined-cosmos-profiles-publish-aws/psb_predefined_cosmos_profiles_publish_job.groovy" timestamp="1496824513390">
         <mark key="[" line="28" column="168" />
@@ -166,11 +166,9 @@
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1504087134122">
-        <mark key="[" line="5225" column="0" />
-        <mark key="]" line="5225" column="0" />
-        <mark key="^" line="5211" column="0" />
-        <mark key="." line="5225" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1504606652734">
+        <mark key="'" line="1983" column="0" />
+        <mark key="^" line="5208" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputerRegistrationResource.java" timestamp="1497428591598">
         <mark key="[" line="7" column="0" />
@@ -443,7 +441,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504601971553">
+      <file name="/Dummy.txt" timestamp="1504606018125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -565,12 +563,12 @@
         <mark key="^" line="0" column="158110" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" timestamp="1504595407304">
-        <mark key="'" line="193" column="49" />
-        <mark key="[" line="1302" column="0" />
-        <mark key="]" line="1307" column="17" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" timestamp="1504605976295">
+        <mark key="'" line="1263" column="33" />
+        <mark key="[" line="1309" column="0" />
+        <mark key="]" line="1311" column="80" />
         <mark key="^" line="1309" column="27" />
-        <mark key="." line="1309" column="32" />
+        <mark key="." line="1309" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/BwinstalledToVirusProtectionCategoryDtoConverter.java" timestamp="1503998519788" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/admin/configuration/configure_services.jsp" timestamp="1504530505207">
@@ -701,9 +699,9 @@
         <mark key="." line="49" column="80" />
         <mark key="^" line="49" column="80" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/messages/string.properties" timestamp="1504594666893">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/messages/string.properties" timestamp="1504606021853">
         <mark key="'" line="3856" column="9" />
-        <mark key="[" line="3876" column="0" />
+        <mark key="[" line="3878" column="72" />
         <mark key="]" line="3877" column="43" />
         <mark key="." line="3877" column="43" />
         <mark key="^" line="3877" column="43" />
@@ -907,8 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
-      <jump line="73" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
       <jump line="0" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
       <jump line="49" column="14" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
       <jump line="0" column="4181" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
@@ -1007,6 +1003,8 @@
       <jump line="45" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" />
       <jump line="314" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" />
       <jump line="117" column="50" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" />
+      <jump line="1263" column="33" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
+      <jump line="1983" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1032,8 +1030,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Integer::valueOf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CklOU0VSVCBJTlRPIHN5c3RlbV9jb25maWcgKG5hbWUsIHZhbHVlKSBWQUxVRVMKICAoJ2NvbXB1dGVyUHJvdGVjdGlvbi5yZWdpc3RyYXRpb24uYWxsb3dlZFN1YnNjcmlwdGlvblNlcnZpY2VUeXBlcycsICczMywgNDknKTsK</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1055,46 +1053,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Integer::valueOf</text>
+        <text>http://mobile.f-secure.com/corporate/index_new.html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKEludGVnZXI6OnZhbHVlT2YpCg==</text>
+        <text encoding="base64">CklOU0VSVCBJTlRPIHN5c3RlbV9jb25maWcgKG5hbWUsIHZhbHVlKSBWQUxVRVMKICAoJ2NvbXB1dGVyUHJvdGVjdGlvbi5yZWdpc3RyYXRpb24uYWxsb3dlZFN1YnNjcmlwdGlvblNlcnZpY2VUeXBlcycsICczMywgNDknKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBhbGxvd2VkVHlwZXMgPSBBcnJheXMuYXNMaXN0KFBTQl9DT01QVVRFUl9QUk9URUNUSU9OX1BSRU1JVU0sIFBTQl9XT1JLU1RBVElPTl9TRUNVUklUWSkuc3RyZWFtKCkubWFwKFNlcnZpY2VUeXBlOjpnZXRJZCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoZ2V0QWxsb3dlZFN1YnNjcmlwdGlvblR5cGVzKHN5c3RlbUNvbmZpZykpLmNvbnRhaW5zRXhhY3RseShQU0JfRU1BSUxfQU5EX1NFUlZFUl9TRUNVUklUWSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHdoZW4oc3lzdGVtQ29uZmlnLmdldFNldHRpbmcoQUxMT1dFRF9TRVJWSUNFX1RZUEVTKSkudGhlblJldHVybihhbGxvd2VkVHlwZXMpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBhbGxvd2VkVHlwZXMgPSBTdHJpbmcuZm9ybWF0KCIlZCIsIFBTQl9FTUFJTF9BTkRfU0VSVkVSX1NFQ1VSSVRZLmdldElkKCkudG9TdHJpbmcoKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBhbGxvd2VkVHlwZXMgPSBTdHJpbmcuZm9ybWF0KCIlZCIsIFBTQl9FTUFJTF9BTkRfU0VSVkVSX1NFQ1VSSVRZLmdldElkKCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBhbGxvd2VkVHlwZXMgPSBTdHJpbmcuZm9ybWF0KCIlZCIsIFBTQl9FTUFJTF9BTkRfU0VSVkVSX1NFQ1VSSVRZLmdldElkKCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZ2V0QWxsb3dlZFN1YnNjcmlwdGlvblR5cGVzKHN5c3RlbUNvbmZpZykpLmNvbnRhaW5zRXhhY3RseShQU0JfRU1BSUxfQU5EX1NFUlZFUl9TRUNVUklUWSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
