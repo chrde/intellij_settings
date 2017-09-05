@@ -150,12 +150,12 @@
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerClientType.java" timestamp="1504622702944">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerClientType.java" timestamp="1504624248703">
         <mark key="'" line="43" column="31" />
         <mark key="[" line="43" column="81" />
-        <mark key="]" line="43" column="31" />
-        <mark key="^" line="43" column="31" />
-        <mark key="." line="43" column="31" />
+        <mark key="]" line="50" column="18" />
+        <mark key="^" line="50" column="18" />
+        <mark key="." line="50" column="18" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1498732054630">
         <mark key="[" line="21" column="0" />
