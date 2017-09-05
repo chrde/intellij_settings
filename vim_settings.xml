@@ -9,18 +9,18 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/test/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverterTest.java" timestamp="1504177071979">
-        <mark key="'" line="43" column="56" />
-        <mark key="[" line="328" column="52" />
-        <mark key="]" line="328" column="53" />
-        <mark key="^" line="328" column="103" />
-        <mark key="." line="328" column="53" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/micro-cosmos-rest-api/spec/accountsComputerProfilesPOSTSpec.js" timestamp="1503562005363">
         <mark key="[" line="262" column="4" />
         <mark key="]" line="262" column="4" />
         <mark key="^" line="262" column="4" />
         <mark key="." line="262" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/sp/logic/configuration/SystemServiceManagerTest.java" timestamp="1504618884554">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="167" column="40" />
+        <mark key="]" line="167" column="69" />
+        <mark key="^" line="167" column="69" />
+        <mark key="." line="167" column="69" />
       </file>
       <file name="$USER_HOME$/dev-sources/reporting-service/.ebextensions/autoscaling.config" timestamp="1499777168806">
         <mark key="[" line="0" column="0" />
@@ -57,11 +57,11 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1504177551137">
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="0" />
-        <mark key="." line="234" column="0" />
-        <mark key="^" line="234" column="62" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1504617972630">
+        <mark key="[" line="193" column="77" />
+        <mark key="]" line="193" column="87" />
+        <mark key="." line="193" column="87" />
+        <mark key="^" line="193" column="87" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/profile_navigator.js" timestamp="1494401221705">
         <mark key="[" line="5" column="0" />
@@ -138,12 +138,11 @@
         <mark key="." line="88" column="87" />
         <mark key="^" line="88" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/configuration/SystemServiceManager.java" timestamp="1504530184310">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/configuration/SystemServiceManager.java" timestamp="1504618422195">
         <mark key="'" line="162" column="96" />
-        <mark key="[" line="162" column="94" />
-        <mark key="]" line="162" column="122" />
-        <mark key="^" line="162" column="122" />
-        <mark key="." line="162" column="122" />
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="0" />
+        <mark key="." line="265" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_content_controller.js" timestamp="1498732054630">
         <mark key="[" line="21" column="0" />
@@ -312,11 +311,11 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/dto/status/Status.java" timestamp="1504617067698">
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/dto/status/Status.java" timestamp="1504617775553">
         <mark key="[" line="103" column="12" />
-        <mark key="]" line="103" column="12" />
-        <mark key="^" line="101" column="28" />
-        <mark key="." line="103" column="12" />
+        <mark key="]" line="101" column="22" />
+        <mark key="^" line="101" column="22" />
+        <mark key="." line="101" column="22" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1503585959200">
         <mark key="[" line="61" column="9" />
@@ -424,7 +423,7 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/util/ApplicationConstants.java" timestamp="1504594611506">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/util/ApplicationConstants.java" timestamp="1504618579175">
         <mark key="'" line="128" column="29" />
         <mark key="[" line="615" column="27" />
         <mark key="]" line="615" column="27" />
@@ -829,7 +828,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504617004814">
+      <file name="/Dummy.txt" timestamp="1504619617203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -898,7 +897,7 @@
         <mark key="^" line="47" column="50" />
         <mark key="." line="47" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1504602970412">
+      <file name="/fragment.java" timestamp="1504618240568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -918,8 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="14" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/templates/f-secure.psb.report-generation.template" />
-      <jump line="0" column="4181" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="54" column="0" filename="$USER_HOME$/dev-sources/management-platform-deploy/step-function/Gruntfile.js" />
       <jump line="29" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/test.json" />
       <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
@@ -1018,6 +1015,8 @@
       <jump line="1263" column="33" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
       <jump line="1983" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="20" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/admin/configuration/email_template_links_config.jsp" />
+      <jump line="164" column="77" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/sp/logic/configuration/SystemServiceManagerTest.java" />
+      <jump line="133" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/sp/logic/configuration/SystemServiceManagerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1043,8 +1042,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHRvQ2hlY2suY29udGFpbnMoU3RyaW5nLmZvcm1hdCgiezI6VGFibGUoU3RyaW5nKSA9ICVzIiwgVEVTVF9SQU5TT01XQVJFX0VYQ0xVREVEX1BBVEhTKSkpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1066,49 +1065,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>, TEST_RANSOMWARE_EXCLUDED_PATHS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5OYW1lZDsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHRvQ2hlY2suY29udGFpbnMoU3RyaW5nLmZvcm1hdCgiezM6U3RyaW5nID0gMTowfSIsIFRFU1RfUkFOU09NV0FSRV9FWENMVURFRF9QQVRIUykpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBDU0JQLTEwOTc5IFJhbnNvbXdhcmUgc2V0dGluZ3MK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHRvQ2hlY2suY29udGFpbnMoU3RyaW5nLmZvcm1hdCgiezI6VGFibGUoU3RyaW5nKSA9ICVzIiwgVEVTVF9SQU5TT01XQVJFX0VYQ0xVREVEX1BBVEhTKSkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yYW5zb213YXJlQWN0aXZhdGVkKHRydWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCA1MGFjN2MxOGY1YzJjMTBhNjFhYTg3N2U0Y2FmZWZkYmZjNzkxMzViCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdlYkFwcGxpY2F0aW9uQ29udGV4dC5wdWJsaXNoRXZlbnQobmV3IENvbmZpZ3VyYXRpb25FdmVudChDT01QVVRFUl9QUk9URUNUSU9OX0NPTkZJRykpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">PCVAIHBhZ2UgY29udGVudFR5cGU9InRleHQvaHRtbDtjaGFyc2V0PVVURi04IiBwYWdlRW5jb2Rpbmc9IlVURi04IiAlPgo8JUAgdGFnbGliIHVyaT0iaHR0cDovL2phdmEuc3VuLmNvbS9qc3AvanN0bC9jb3JlIiBwcmVmaXg9ImMiICU+CjwlQCB0YWdsaWIgdXJpPSJodHRwOi8vZi1zZWN1cmUuY29tL3RhZ2xpYnMvZm9ybXMtMS4wIiBwcmVmaXg9ImZzZm9ybXMiICU+CjwlQCB0YWdsaWIgdXJpPSJodHRwOi8vamF2YS5zdW4uY29tL2pzcC9qc3RsL2ZtdCIgcHJlZml4PSJmbXQiICU+CjwlQCB0YWdsaWIgdXJpPSJodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvdGFncyIgIHByZWZpeD0ic3ByaW5nIiU+Cg==</text>
+        <text encoding="base64">ICAgIHNhdmVTeXN0ZW1TZXJ2aWNlKGNvbmZpZ3VyYXRpb25Nb2RlbC5nZXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCVAIHBhZ2UgY29udGVudFR5cGU9InRleHQvaHRtbDtjaGFyc2V0PVVURi04IiBwYWdlRW5jb2Rpbmc9IlVURi04IiAlPgo8JUAgdGFnbGliIHVyaT0iaHR0cDovL2phdmEuc3VuLmNvbS9qc3AvanN0bC9jb3JlIiBwcmVmaXg9ImMiICU+CjwlQCB0YWdsaWIgdXJpPSJodHRwOi8vZi1zZWN1cmUuY29tL3RhZ2xpYnMvZm9ybXMtMS4wIiBwcmVmaXg9ImZzZm9ybXMiICU+CjwlQCB0YWdsaWIgdXJpPSJodHRwOi8vamF2YS5zdW4uY29tL2pzcC9qc3RsL2ZtdCIgcHJlZml4PSJmbXQiICU+CjwlQCB0YWdsaWIgdXJpPSJodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvdGFncyIgIHByZWZpeD0ic3ByaW5nIiU+Cgo8dGQgY2xhc3M9InRhYmxlX21haW5fcGFkX3RvcGJvdCIgY29sc3Bhbj0iNCI+CiAgPHN0cm9uZz4KICAgIDxmbXQ6bWVzc2FnZSBrZXk9ImVtYWlsVGVtcGxhdGVMaW5rcy50aXRsZSIgLz4K</text>
+        <text encoding="base64">Pj4+Pj4+PiBDU0JQLTEwOTc5IFJhbnNvbXdhcmUgc2V0dGluZ3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtQ29uZmlnIHN5c3RlbUNvbmZpZywK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCA1MGFjN2MxOGY1YzJjMTBhNjFhYTg3N2U0Y2FmZWZkYmZjNzkxMzViCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>338</text>
       </register>
     </registers>
     <search>
@@ -1144,7 +1143,6 @@
         <entry encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>35</entry>
         <entry>176</entry>
         <entry>s/1/2</entry>
         <entry>s/1/2/g</entry>
@@ -1164,6 +1162,7 @@
         <entry>close</entry>
         <entry>703</entry>
         <entry>vsplit</entry>
+        <entry>338</entry>
       </history-cmd>
       <history-expr />
       <history-input />
