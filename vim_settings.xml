@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/properties/ComputerProtectionPremiumClientTypeProperty.java" timestamp="1504685069090">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/properties/ComputerProtectionPremiumClientTypeProperty.java" timestamp="1504688706472">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -45,10 +45,6 @@
         <mark key="]" line="81" column="54" />
         <mark key="." line="81" column="54" />
         <mark key="^" line="81" column="54" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/aws/S3Service.java" timestamp="1504598262017">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="42" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/companyComputerProtectionStatusGETSpec.js" timestamp="1504087370693">
         <mark key="[" line="1" column="21" />
@@ -130,7 +126,7 @@
         <mark key="." line="104" column="72" />
         <mark key="^" line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerFacade.java" timestamp="1503584492918">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerFacade.java" timestamp="1504687918649">
         <mark key="'" line="235" column="22" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -143,6 +139,7 @@
         <mark key="." line="88" column="87" />
         <mark key="^" line="88" column="54" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/computer/ComputerSearchController.java" timestamp="1504687889280" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/configuration/SystemServiceManager.java" timestamp="1504618422195">
         <mark key="'" line="162" column="96" />
         <mark key="[" line="265" column="0" />
@@ -179,10 +176,6 @@
         <mark key="]" line="36" column="1" />
         <mark key="^" line="36" column="1" />
         <mark key="." line="36" column="1" />
-      </file>
-      <file name="$USER_HOME$/github/demo-app/src/features/editFood/EditFoodContainer.js" timestamp="1503911262299">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="43" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/CosmosProfileServiceTest.java" timestamp="1496135990707">
         <mark key="[" line="32" column="0" />
@@ -263,6 +256,7 @@
         <mark key="^" line="59" column="82" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/computer/ComputersPageDelegate.java" timestamp="1504687962991" />
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/tokenSignupSpec.js" timestamp="1496157032691">
         <mark key="[" line="63" column="4" />
         <mark key="]" line="54" column="2" />
@@ -334,10 +328,6 @@
         <mark key="]" line="61" column="8" />
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1504606652734">
-        <mark key="'" line="1983" column="0" />
-        <mark key="^" line="5208" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1503583710633">
         <mark key="[" line="64" column="60" />
@@ -453,11 +443,11 @@
         <mark key="]" line="26" column="26" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/properties/ComputerProtectionClientTypeProperty.java" timestamp="1504685062746">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/properties/ComputerProtectionClientTypeProperty.java" timestamp="1504688709542">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/protection/computer/CalculateComputerClientType.java" timestamp="1504685706804">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/protection/computer/CalculateComputerClientType.java" timestamp="1504687838644">
         <mark key="[" line="83" column="108" />
         <mark key="]" line="82" column="4" />
         <mark key="^" line="82" column="4" />
@@ -536,12 +526,6 @@
         <mark key="]" line="3877" column="43" />
         <mark key="." line="3877" column="43" />
         <mark key="^" line="3877" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/admin/configuration/email_template_links_config.jsp" timestamp="1504614096367">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/internal/AccountsControllerTest.java" timestamp="1496658563862">
         <mark key="[" line="47" column="84" />
@@ -629,10 +613,6 @@
         <mark key="." line="62" column="4" />
         <mark key="^" line="62" column="4" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/administrator/PingFederateAdministratorService.java" timestamp="1504611865692">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="99" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/spec/lib/operations/set_default_profile_in_psb_spec.js" timestamp="1496823539731">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -644,10 +624,6 @@
         <mark key="]" line="162" column="78" />
         <mark key="." line="162" column="78" />
         <mark key="^" line="162" column="78" />
-      </file>
-      <file name="/SpiComputerRegistrationService.java" timestamp="1504614263117">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/ta/ComputerController.java" timestamp="1497956303974">
         <mark key="[" line="51" column="42" />
@@ -764,8 +740,9 @@
         <mark key="." line="88" column="30" />
         <mark key="^" line="88" column="30" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/computer/ClientTypeResource.java" timestamp="1504622255077">
-        <mark key="[" line="16" column="21" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" timestamp="1504688484329" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/computer/ClientTypeResource.java" timestamp="1504688785326">
+        <mark key="[" line="16" column="68" />
         <mark key="]" line="16" column="28" />
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="28" />
@@ -914,10 +891,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="39" column="19" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="/ConfigurationModel.java" timestamp="1504596700241">
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="180" column="3" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/ci/latest/config.json" timestamp="1496823807154">
         <mark key="[" line="1" column="22" />
