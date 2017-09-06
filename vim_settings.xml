@@ -383,11 +383,11 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/protection/computer/CalculateComputerClientTypeTest.java" timestamp="1504684913971">
-        <mark key="[" line="34" column="114" />
-        <mark key="]" line="34" column="114" />
-        <mark key="." line="34" column="114" />
-        <mark key="^" line="34" column="84" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/protection/computer/CalculateComputerClientTypeTest.java" timestamp="1504697812247">
+        <mark key="[" line="48" column="74" />
+        <mark key="]" line="48" column="74" />
+        <mark key="." line="48" column="74" />
+        <mark key="^" line="35" column="92" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/reports/monthly_summary_report/monthly_summary_report_service_test.js" timestamp="1502975004814">
         <mark key="[" line="3" column="0" />
@@ -845,7 +845,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504696605367">
+      <file name="/Dummy.txt" timestamp="1504697819269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -1055,8 +1055,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQ29tcHV0ZXJQcm90ZWN0aW9uQ2xpZW50VHlwZVByb3BlcnR5KCkuZ2V0Q3JpdGVyaW9uKCksCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1078,7 +1078,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>COMPUTER_PROTECTION</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
