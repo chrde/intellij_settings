@@ -4,9 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/properties/ComputerProtectionPremiumClientTypeProperty.java" timestamp="1504688706472">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRegistrationDto1.java" timestamp="1497953910243">
         <mark key="[" line="19" column="0" />
@@ -845,7 +845,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504620975235">
+      <file name="/Dummy.txt" timestamp="1504696605367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
