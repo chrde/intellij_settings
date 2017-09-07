@@ -214,11 +214,11 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/operations/device_operations_controller.js" timestamp="1504778073335">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/operations/device_operations_controller.js" timestamp="1504792599524">
+        <mark key="[" line="118" column="84" />
+        <mark key="]" line="118" column="84" />
+        <mark key="^" line="118" column="83" />
+        <mark key="." line="118" column="84" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/cp_scheduled_scanning_conversion_service.js" timestamp="1502972044361">
         <mark key="[" line="69" column="8" />
@@ -299,11 +299,11 @@
         <mark key="^" line="101" column="22" />
         <mark key="." line="101" column="22" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/devices/devices_list/common/operations/operations_factory_service_test.js" timestamp="1504787576544">
-        <mark key="[" line="62" column="30" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="62" column="63" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/devices/devices_list/common/operations/operations_factory_service_test.js" timestamp="1504792156063">
+        <mark key="[" line="57" column="2" />
+        <mark key="]" line="57" column="2" />
+        <mark key="." line="57" column="2" />
+        <mark key="^" line="129" column="89" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1503585959200">
         <mark key="[" line="61" column="9" />
@@ -311,11 +311,11 @@
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/device_service.js" timestamp="1504786195983">
-        <mark key="[" line="341" column="51" />
-        <mark key="]" line="345" column="5" />
-        <mark key="^" line="491" column="47" />
-        <mark key="." line="340" column="0" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/device_service.js" timestamp="1504792047554">
+        <mark key="[" line="342" column="0" />
+        <mark key="]" line="342" column="0" />
+        <mark key="^" line="330" column="5" />
+        <mark key="." line="342" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1503583710633">
         <mark key="[" line="64" column="60" />
@@ -794,7 +794,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504783918719">
+      <file name="/Dummy.txt" timestamp="1504792605144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -835,10 +835,10 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/operations/operations_factory_service.js" timestamp="1504787624811">
-        <mark key="[" line="137" column="67" />
-        <mark key="]" line="137" column="72" />
-        <mark key="." line="137" column="72" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/operations/operations_factory_service.js" timestamp="1504792022194">
+        <mark key="[" line="112" column="56" />
+        <mark key="]" line="112" column="56" />
+        <mark key="." line="112" column="56" />
         <mark key="^" line="137" column="72" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
@@ -1011,7 +1011,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1033,49 +1033,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgT0xEX0NMSUVOVF9JRF9ERUNPREVEID0gIkI9PDgjRSx+JV4wIjsK</text>
+        <text encoding="base64">ICAgICAgaXQoJ2lmIG5ldyBjbGllbnQgaXMgc2VsZWN0ZWQgbG9hZHMgY29tcHV0ZXIgcHJvdGVjdGlvbiBwcm9maWxlcycsIGZ1bmN0aW9uICgpIHsKICAgICAgICB2YXIgZGV2aWNlcyA9IFt7aWQ6IDIsIGNsaWVudFR5cGU6IGNvbnN0YW50cy5jbGllbnRUeXBlcy5jb21wdXRlclByb3RlY3Rpb259XTsKICAgICAgICB2YXIgb3BlcmF0aW9uID0ge2RldmljZXM6IGRldmljZXN9OwogICAgICAgIGFzc2lnbk9wZXJhdGlvbi5fYWN0aW9uWzBdKG9wZXJhdGlvbik7CiAgICAgICAgZXhwZWN0KG9wZXJhdGlvbi5vbmVDbGllbnRzUHJlc2VudGVkKS50b0VxdWFsKHRydWUpOwogICAgICAgIGV4cGVjdChvcGVyYXRpb24uY29tcHV0ZXJQcm90ZWN0aW9uUHJvZmlsZXMpLnRvRXF1YWwoY29tcHV0ZXJQcm90ZWN0aW9uUHJvZmlsZXMpOwoKICAgICAgICBhc3NpZ25SZXNwb25zZSA9IFt7c3RhdHVzOiAnY3JlYXRlZCcsIGNvbXB1dGVySWQ6IGRldmljZXNbMF0uaWR9XTsKICAgICAgICBvcGVyYXRpb24uY29tcHV0ZXJQcm90ZWN0aW9uUHJvZmlsZSA9IGNvbXB1dGVyUHJvdGVjdGlvblByb2ZpbGVzWzBdOwogICAgICAgIGFzc2lnbk9wZXJhdGlvbi5fYWN0aW9uWzFdKG9wZXJhdGlvbik7CiAgICAgICAgZXhwZWN0KG9wZXJhdGlvbi5kZXZpY2VzWzBdLnByb2ZpbGVOYW1lKS50b0VxdWFsKG9wZXJhdGlvbi5jb21wdXRlclByb3RlY3Rpb25Qcm9maWxlLnZhbHVlLm5hbWUpOwogICAgICAgIGV4cGVjdChvcGVyYXRpb24uZGV2aWNlc1swXS5hc3NpZ25lZFByb2ZpbGVOYW1lKS50b0VxdWFsKG9wZXJhdGlvbi5jb21wdXRlclByb3RlY3Rpb25Qcm9maWxlLnZhbHVlLm5hbWUpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2VTZXJ2aWNlLmlzQ29tcHV0ZXJQcm90ZWN0aW9uKHNlbGVjdGVkRGV2aWNlc1swXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBkZXZpY2VTZXJ2aWNlLmlzQ29tcHV0ZXJQcm90ZWN0aW9uKGQpCg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkZXZpY2VTZXJ2aWNlLmlzQyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGV2aWNlLmNsaWVudFR5cGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gJHByb3ZpZGUudmFsdWUoJ2RldmljZVNlcnZpY2UnLCBkZXZpY2VTZXJ2aWNlKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZERldmljZXMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxlY3RlZERldmljZXMpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChkZXZpY2UuYXNzaWduZWRQcm9maWxlTmFtZSkudG9FcXVhbChvcGVyYXRpb24ucHJvZmlsZS52YWx1ZS5uYW1lKTsK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChkZXZpY2UucHJvZmlsZU5hbWUpLnRvRXF1YWwob3BlcmF0aW9uLnByb2ZpbGUudmFsdWUubmFtZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcGVyYXRpb24uZGV2aWNlcy5mb3JFYWNoKGZ1bmN0aW9uKGRldmljZSl7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>85</text>
+        <text>10, 37d</text>
       </register>
     </registers>
     <search>
@@ -1111,8 +1111,6 @@
         <entry encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>s/1/2</entry>
-        <entry>s/1/2/g</entry>
         <entry>s/&quot;/\\&quot;/g</entry>
         <entry>s/,/\\n/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvIlxcL2c=</entry>
@@ -1131,6 +1129,8 @@
         <entry>vsplit</entry>
         <entry>338</entry>
         <entry>85</entry>
+        <entry>d10,37</entry>
+        <entry>10, 37d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
