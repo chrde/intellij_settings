@@ -409,10 +409,10 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1504785637977">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1505297099267">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/protection/computer/CalculateComputerClientType.java" timestamp="1504687838644">
         <mark key="[" line="83" column="108" />
@@ -483,7 +483,6 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1505213269953" />
       <file name="$USER_HOME$/dev-sources/micro-cosmos/config/dev-local.config.json" timestamp="1504866008144">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="9" column="50" />
@@ -998,8 +997,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IERldmljZSBsaXN0aW5nIGZvciBjb21wdXRlciBwcm90ZWN0aW9uIHByZW1pdW0KCj09IGluc3RlYWQgb2YgZXF1YWxz</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1021,7 +1020,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>decode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
@@ -1029,38 +1028,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHN0b3Jlc1JhbnNvbXdhcmVTdGF0dXNfYXNFbmFibGVkX3doZW5FbmFibGVkQW5kQWN0aXZlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICByYW5zb213YXJlVXBkYXRlci5zdGF0dXMoQ09NUFVURVJfSUQsIFRBQkxFX09GX0VOQUJMRURfQUNUSVZFX1JBTlNPTVdBUkUsIGVtcHR5TWFwKCkpOwogICAgcmFuc29td2FyZVVwZGF0ZXIuYXBwbHlDaGFuZ2VzKCk7CgogICAgdmVyaWZ5KG5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlKS51cGRhdGUoZXEoVVBEQVRFX1NUQVRVUyksIGVxKE1BUF9FTkFCTEVEX1JBTlNPTVdBUkUpKTsKICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IERldmljZSBsaXN0aW5nIGZvciBjb21wdXRlciBwcm90ZWN0aW9uIHByZW1pdW0KCj09IGluc3RlYWQgb2YgZXF1YWxz</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKChVUERBVEVfU1RBVFVTKSwoTUFQX0RJU0FCTEVEX1JBTlNPTVdBUkUpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLmxhbmcuQm9vbGVhbi4qOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKEJhc2U2NC5nZXREZWNvZGVyKCkuZGVjb2RlKCJRbXN4UVQ5R0lXaGZZakEiKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MudXRpbC5CYXNlNjQ7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">IERldmljZSBsaXN0aW5nIGZvciBjb21wdXRlciBwcm90ZWN0aW9uIHByZW1pdW0KCj09IGluc3RlYWQgb2YgZXF1YWxz</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKChVUERBVEVfU1RBVFVTKSwoTUFQX0RJU0FCTEVEX1JBTlNPTVdBUkUpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLmxhbmcuQm9vbGVhbi4qOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
