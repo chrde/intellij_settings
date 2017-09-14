@@ -80,10 +80,11 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/list_view/device_aware_devices_controller.js" timestamp="1505379085780">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/list_view/device_aware_devices_controller.js" timestamp="1505379961079">
+        <mark key="[" line="3" column="182" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/README.md" timestamp="1496824165463">
         <mark key="[" line="85" column="49" />
@@ -308,7 +309,10 @@
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/device_service.js" timestamp="1505376170275" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/device_service.js" timestamp="1505381409422">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="63" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1505301950261">
         <mark key="'" line="402" column="34" />
       </file>
@@ -395,11 +399,12 @@
         <mark key="^" line="122" column="2" />
         <mark key="." line="103" column="3" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/devices/devices_list/company/device_aware_devices_controller_test.js" timestamp="1505379156394">
-        <mark key="[" line="163" column="3" />
-        <mark key="]" line="163" column="3" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="163" column="3" />
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/devices/devices_list/company/device_aware_devices_controller_test.js" timestamp="1505381565599">
+        <mark key="'" line="120" column="25" />
+        <mark key="[" line="182" column="4" />
+        <mark key="]" line="182" column="4" />
+        <mark key="^" line="182" column="4" />
+        <mark key="." line="182" column="4" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToProtectionStatusConverterTest.java" timestamp="1504182222967">
         <mark key="[" line="76" column="8" />
@@ -800,7 +805,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505379161653">
+      <file name="/Dummy.txt" timestamp="1505381622527">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -897,8 +902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test.json" />
-      <jump line="16" column="32" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwarePath.java" />
       <jump line="27" column="12" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/missingupdates/MissingUpdatesTableUpdater.java" />
       <jump line="7" column="35" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/missingupdates/MissingUpdatesTableUpdater.java" />
       <jump line="65" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" />
@@ -997,6 +1000,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="402" column="34" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
+      <jump line="168" column="56" filename="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/devices/devices_list/company/device_aware_devices_controller_test.js" />
+      <jump line="117" column="25" filename="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/devices/devices_list/company/device_aware_devices_controller_test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1022,8 +1027,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1051,40 +1056,40 @@
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSAkc2NvcGUuY2xpZW50VHlwZXMuQ09NUFVURVJfUFJPVEVDVElPTjsK</text>
+        <text encoding="base64">ICBpdCgiU2hvdWxkIG5vdCBzaG93IGNvbXB1dGVyIHByb3RlY3Rpb24gcHJlbWl1bSBmaWx0ZXIgdW5sZXNzIGEgcGFyYW0gZmxhZyBpcyBwcmVzZW50IiwgZnVuY3Rpb24gKCkgewogICAgZGVsZXRlIHN0YXRlUGFyYW1zLnByZW1pdW1FbmFibGVkOwogICAgJGh0dHBCYWNrZW5kLndoZW5HRVQoKS5yZXNwb25kKHt9KTsKICAgIHNjb3BlLiRkaWdlc3QoKTsKICAgIGluaXRDb250cm9sbGVycygkY29udHJvbGxlcik7CgogICAgZXhwZWN0KHNjb3BlLmNsaWVudFR5cGVzLkNPTVBVVEVSX1BST1RFQ1RJT05fUFJFTUlVTSkudG9CZURlZmluZWQoKTsKICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBzdGF0ZVBhcmFtcy5wcmVtaXVtRW5hYmxlZDsK</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJwcmVtaXVtIik7Cg==</text>
+        <text encoding="base64">ICAgIHNjb3BlLiRkaWdlc3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICRodHRwQmFja2VuZC53aGVuR0VUKCkucmVzcG9uZCh7fSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJub24gcHJlbWl1bSIpOwo=</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBzdGF0ZVBhcmFtcy5wcmVtaXVtRW5hYmxlZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gJGluamVjdG9yLmdldCgnJHN0YXRlJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSAkc2NvcGUuY2F0ZWdvcmllcy5DT01QVVRFUl9QUk9URUNUSU9OX1BSRU1JVU07Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJwcmVtaXVtIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
