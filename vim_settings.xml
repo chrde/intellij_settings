@@ -426,11 +426,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1505739615555">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1505804356797">
         <mark key="[" line="146" column="45" />
-        <mark key="]" line="146" column="140" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="142" column="60" />
+        <mark key="]" line="139" column="2" />
+        <mark key="." line="139" column="2" />
+        <mark key="^" line="139" column="2" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/protection/computer/CalculateComputerClientType.java" timestamp="1504687838644">
         <mark key="[" line="83" column="108" />
