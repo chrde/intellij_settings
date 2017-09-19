@@ -286,12 +286,6 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/dev-sources/spi/config/dev-local.config.json" timestamp="1503584189696">
-        <mark key="[" line="29" column="11" />
-        <mark key="]" line="29" column="11" />
-        <mark key="." line="29" column="11" />
-        <mark key="^" line="29" column="11" />
-      </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/dto/status/Status.java" timestamp="1504617775553">
         <mark key="[" line="103" column="12" />
         <mark key="]" line="101" column="22" />
@@ -309,10 +303,6 @@
         <mark key="]" line="61" column="8" />
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/services/device_service.js" timestamp="1505381409422">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="63" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1503583710633">
         <mark key="[" line="64" column="60" />
@@ -770,7 +760,7 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1504866350506">
+      <file name="/JavaScript Console" timestamp="1505813374420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/config.schema.json" timestamp="1496818382217">
