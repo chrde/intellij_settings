@@ -150,6 +150,7 @@
         <mark key="^" line="36" column="1" />
         <mark key="." line="36" column="1" />
       </file>
+      <file name="$USER_HOME$/dev-sources/spi/lib/service/psb/connector.js" timestamp="1505814112753" />
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/CosmosProfileServiceTest.java" timestamp="1496135990707">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -228,11 +229,11 @@
         <mark key="^" line="59" column="82" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/tokenSignupSpec.js" timestamp="1496157032691">
-        <mark key="[" line="63" column="4" />
-        <mark key="]" line="54" column="2" />
-        <mark key="^" line="54" column="2" />
-        <mark key="." line="54" column="2" />
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/tokenSignupSpec.js" timestamp="1505813994335">
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="4" />
+        <mark key="^" line="55" column="4" />
+        <mark key="." line="55" column="4" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/common/RegistrationData.java" timestamp="1496210472460">
         <mark key="[" line="12" column="19" />
@@ -382,13 +383,6 @@
         <mark key="^" line="122" column="2" />
         <mark key="." line="103" column="3" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/devices/devices_list/company/device_aware_devices_controller_test.js" timestamp="1505381565599">
-        <mark key="'" line="120" column="25" />
-        <mark key="[" line="182" column="4" />
-        <mark key="]" line="182" column="4" />
-        <mark key="^" line="182" column="4" />
-        <mark key="." line="182" column="4" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToProtectionStatusConverterTest.java" timestamp="1504182222967">
         <mark key="[" line="76" column="8" />
         <mark key="]" line="76" column="50" />
@@ -419,7 +413,7 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1505808801827">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1505814263716">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -537,6 +531,7 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="16" column="201" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputersController.java" timestamp="1505814775852" />
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1502961185828">
         <mark key="[" line="3111" column="142" />
         <mark key="]" line="3111" column="142" />
@@ -730,7 +725,7 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="74" column="48" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/config/latest.config.json" timestamp="1503582676693">
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/config/latest.config.json" timestamp="1505814048722">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="33" />
         <mark key="." line="7" column="33" />
@@ -793,7 +788,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505809681794">
+      <file name="/Dummy.txt" timestamp="1505815236645">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
