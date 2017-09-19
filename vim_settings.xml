@@ -78,11 +78,11 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" timestamp="1505809212893">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="^" line="247" column="89" />
-        <mark key="." line="253" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" timestamp="1505811079403">
+        <mark key="[" line="245" column="4" />
+        <mark key="]" line="245" column="4" />
+        <mark key="^" line="253" column="76" />
+        <mark key="." line="245" column="4" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/list_view/device_aware_devices_controller.js" timestamp="1505379961079">
         <mark key="[" line="3" column="182" />
@@ -1032,8 +1032,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZXhpc3RpbmdCdy5nZXRTdWJzY3JpcHRpb24oKS5nZXRJZCgpKS5pc0VxdWFsVG8oU1VCU0NSSVBUSU9OX0lEKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1055,7 +1055,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>existingBw.getId()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
