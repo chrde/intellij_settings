@@ -132,6 +132,7 @@
         <mark key="^" line="23" column="42" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/config/taDevices.json" timestamp="1505910586784" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/dataloader/model/alert/InfectionAlert.java" timestamp="1500447692483">
         <mark key="[" line="48" column="20" />
         <mark key="]" line="48" column="20" />
@@ -269,6 +270,11 @@
         <mark key="]" line="27" column="48" />
         <mark key="." line="27" column="48" />
         <mark key="^" line="28" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/tools/dis-load-generator/lib/upstreamStatusGeneratorStats.js" timestamp="1505911073878">
+        <mark key="[" line="86" column="27" />
+        <mark key="]" line="86" column="27" />
+        <mark key="." line="86" column="27" />
       </file>
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1503584010595">
         <mark key="[" line="43" column="26" />
@@ -497,7 +503,12 @@
         <mark key="." line="9" column="50" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/tools/dis-load-generator/dis-load-generator-status.js" timestamp="1505900768399" />
+      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/tools/dis-load-generator/dis-load-generator-status.js" timestamp="1505911879063">
+        <mark key="[" line="117" column="49" />
+        <mark key="]" line="117" column="51" />
+        <mark key="^" line="117" column="51" />
+        <mark key="." line="117" column="51" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/internal/AccountsControllerTest.java" timestamp="1496658563862">
         <mark key="[" line="47" column="84" />
         <mark key="]" line="47" column="83" />
@@ -715,12 +726,6 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="74" column="48" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-test-automation/config/latest.config.json" timestamp="1505814048722">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="^" line="7" column="7" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/LocalProfileRepositoryTest.java" timestamp="1494332206370">
         <mark key="[" line="163" column="70" />
         <mark key="]" line="163" column="70" />
@@ -745,7 +750,7 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1505905816658">
+      <file name="/JavaScript Console" timestamp="1505911907291">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/config.schema.json" timestamp="1496818382217">
@@ -778,7 +783,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505906451485">
+      <file name="/Dummy.txt" timestamp="1505911882383">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -1007,7 +1012,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>agent.authorizationCode</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1029,7 +1034,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>agent.authorizationCode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
