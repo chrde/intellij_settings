@@ -858,7 +858,7 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/BwinstalledToProtectionStatusConverter.java" timestamp="1506414713511">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/BwinstalledToProtectionStatusConverter.java" timestamp="1506417178634">
         <mark key="[" line="46" column="56" />
         <mark key="]" line="47" column="50" />
         <mark key="^" line="47" column="50" />
