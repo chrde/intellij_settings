@@ -388,6 +388,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/security/authorization_spec.js" timestamp="1506610646697">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/nuibe-rest-api/spec/companiesComputersDELETESpec.js" timestamp="1503565060222">
         <mark key="[" line="122" column="2" />
         <mark key="]" line="103" column="3" />
@@ -796,7 +801,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506600191300">
+      <file name="/Dummy.txt" timestamp="1506610761292">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -854,6 +859,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="39" column="19" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/server.js" timestamp="1506610868992">
+        <mark key="[" line="78" column="27" />
+        <mark key="]" line="78" column="27" />
+        <mark key="." line="78" column="27" />
+        <mark key="^" line="40" column="93" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/ci/latest/config.json" timestamp="1496823807154">
         <mark key="[" line="1" column="22" />
@@ -1025,7 +1036,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1047,7 +1058,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
@@ -1089,7 +1100,7 @@
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gZ2V0TG9nZ2VyKHRoaXNDbGFzcygpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>236</text>
+        <text>79</text>
       </register>
     </registers>
     <search>
@@ -1125,8 +1136,6 @@
         <entry encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>730</entry>
-        <entry>27</entry>
         <entry>53</entry>
         <entry>230</entry>
         <entry>211</entry>
@@ -1145,6 +1154,8 @@
         <entry>35</entry>
         <entry>set surround</entry>
         <entry>236</entry>
+        <entry>41</entry>
+        <entry>79</entry>
       </history-cmd>
       <history-expr />
       <history-input />
