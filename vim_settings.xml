@@ -231,6 +231,12 @@
         <mark key="^" line="59" column="82" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/clients/cosmos_client.js" timestamp="1506608135946">
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="^" line="235" column="0" />
+        <mark key="." line="235" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/tokenSignupSpec.js" timestamp="1505813994335">
         <mark key="[" line="55" column="4" />
         <mark key="]" line="55" column="4" />
@@ -1083,7 +1089,7 @@
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gZ2V0TG9nZ2VyKHRoaXNDbGFzcygpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text>236</text>
       </register>
     </registers>
     <search>
@@ -1119,7 +1125,6 @@
         <entry encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>72</entry>
         <entry>730</entry>
         <entry>27</entry>
         <entry>53</entry>
@@ -1139,6 +1144,7 @@
         <entry>119</entry>
         <entry>35</entry>
         <entry>set surround</entry>
+        <entry>236</entry>
       </history-cmd>
       <history-expr />
       <history-input />
