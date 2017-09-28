@@ -670,10 +670,10 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/package.json" timestamp="1494501624064">
-        <mark key="[" line="10" column="49" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/package.json" timestamp="1506599625148">
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="21" />
         <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdSupplierTest.java" timestamp="1496150680014">
@@ -723,6 +723,7 @@
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
       </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/package-lock.json" timestamp="1506599538631" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496661904827">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -752,6 +753,9 @@
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/.nsprc" timestamp="1506600174880">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1505983918458">
         <mark key="[" line="0" column="0" />
@@ -786,7 +790,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506598001086">
+      <file name="/Dummy.txt" timestamp="1506600191300">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
