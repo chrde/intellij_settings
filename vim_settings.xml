@@ -9,9 +9,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="/a.dummy" timestamp="1505809896821">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/micro-cosmos-rest-api/spec/accountsComputerProfilesPOSTSpec.js" timestamp="1503562005363">
         <mark key="[" line="262" column="4" />
         <mark key="]" line="262" column="4" />
@@ -499,9 +496,6 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="/fragment.js" timestamp="1505983120078">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/subscriptionChangeSpec.js" timestamp="1503583772186">
         <mark key="[" line="152" column="6" />
         <mark key="]" line="152" column="6" />
@@ -785,11 +779,11 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/.nsprc" timestamp="1506600174880">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1505983918458">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/.nsprc" timestamp="1506673444285">
+        <mark key="[" line="1" column="59" />
+        <mark key="]" line="1" column="59" />
+        <mark key="." line="1" column="59" />
+        <mark key="^" line="1" column="46" />
       </file>
       <file name="$USER_HOME$/dev-sources/fsc-redis-client-js/package-lock.json" timestamp="1506670653418">
         <mark key="[" line="500" column="22" />
@@ -826,7 +820,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506670286082">
+      <file name="/Dummy.txt" timestamp="1506673450511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -1061,7 +1055,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>^2.5.0</text>
+        <text>[</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1083,13 +1077,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>^2.5.0</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoIndpbmRvd3MuYWNjZXNzX2NvbnRyb2wuYWN0aXZhdGVkIikK</text>
+        <text encoding="base64">ICAiZXhjZXB0aW9ucyI6IFsiaHR0cHM6Ly9ub2Rlc2VjdXJpdHkuaW8vYWR2aXNvcmllcy81MzUiXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoIndpbmRvd3MuYWNjZXNzX2NvbnRyb2wuZGVlcGd1YXJkLnJhbnNvbXdhcmVfcHJvdGVjdGlvbi5lbmFibGVkIikK</text>
