@@ -819,7 +819,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507018712210">
+      <file name="/Dummy.txt" timestamp="1507021772162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -842,7 +842,11 @@
         <mark key="." line="53" column="85" />
         <mark key="^" line="53" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRepositoryImpl.java" timestamp="1506949056734" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRepositoryImpl.java" timestamp="1507021861397">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="92" column="37" />
+        <mark key="." line="91" column="106" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/get-version-json-mock.js" timestamp="1500385230948">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -1055,7 +1059,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
+        <text encoding="base64">ICAgIGpkYmNPcGVyYXRpb25zLnVwZGF0ZSgiVVBEQVRFIGhvc3RfaW5mbyBTRVQgbGFzdF9jb25uZWN0aW9uX3RpbWUgPSA/IFdIRVJFIGJ3aW5zdGFsbGVkX2ZfaWQgPSA/Iiwgbm93LAogICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXB1dGVySWQpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1077,13 +1081,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Base64</text>
+        <text encoding="base64">IG5vdyw=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Qj08OCNFLH4lXjA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGpkYmNPcGVyYXRpb25zLnVwZGF0ZSgiVVBEQVRFIGhvc3RfaW5mbyBTRVQgbGFzdF9jb25uZWN0aW9uX3RpbWUgPSA/IFdIRVJFIGJ3aW5zdGFsbGVkX2ZfaWQgPSA/Iiwgbm93LAogICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXB1dGVySWQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
