@@ -877,7 +877,12 @@
         <mark key="." line="112" column="56" />
         <mark key="^" line="137" column="72" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/ajax/license_list.jsp" timestamp="1507030155215" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/ajax/license_list.jsp" timestamp="1507031751900">
+        <mark key="[" line="98" column="20" />
+        <mark key="]" line="98" column="26" />
+        <mark key="." line="98" column="26" />
+        <mark key="^" line="98" column="26" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -1059,8 +1064,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGpkYmNPcGVyYXRpb25zLnVwZGF0ZSgiVVBEQVRFIGhvc3RfaW5mbyBTRVQgbGFzdF9jb25uZWN0aW9uX3RpbWUgPSA/IFdIRVJFIGJ3aW5zdGFsbGVkX2ZfaWQgPSA/Iiwgbm93LAogICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXB1dGVySWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>${(subscriptionModel.customerIdentifier)}</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1082,30 +1087,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5vdyw=</text>
+        <text>${(subscriptionModel.customerIdentifier)}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGpkYmNPcGVyYXRpb25zLnVwZGF0ZSgiVVBEQVRFIGhvc3RfaW5mbyBTRVQgbGFzdF9jb25uZWN0aW9uX3RpbWUgPSA/IFdIRVJFIGJ3aW5zdGFsbGVkX2ZfaWQgPSA/Iiwgbm93LAogICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXB1dGVySWQpOwo=</text>
+        <text encoding="base64">ICAgIDxjOm91dCB2YWx1ZT0iJHsoc3Vic2NyaXB0aW9uTW9kZWwuY3VzdG9tZXJJZGVudGlmaWVyKX0iLz4mIzE2MDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXNwbGF5OmNvbHVtbj4K</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InN1YnNjcmlwdGlvbiIgdmFsdWU9IjxjOm91dCB2YWx1ZT0iJHtyZXN1bHQuaWR9Ii8+IiBjbGFzcz0ic3Vic2NyaXB0aW9ucmFkaW8iLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuU3RhbmRhcmRDaGFyc2V0czsK</text>
+        <text encoding="base64">ICAgICAgPGRpc3BsYXk6Y29sdW1uIGNsYXNzPSJjaGVja2JveGVzIiBzb3J0YWJsZT0iZmFsc2UiPgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuU3RhbmRhcmRDaGFyc2V0czsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
+      </register>
+      <register name="w" type="4">
+        <text>ww</text>
+      </register>
+      <register name="8" type="4">
         <text>656 migration with a different subscription is not a migration
 
 in the scenario
@@ -1115,20 +1132,8 @@ in the scenario
 -tokenSignUp is called with oldBwId=X or clientUid=X and subscription Z
 --perform new client registration</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgoKICBAVGVzdAogIHB1YmxpYyB2b2lkIG5hbWUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIGFzc2VydFRoYXQobmV3IFN0cmluZyhCYXNlNjQuZ2V0VXJsRGVjb2RlcigpLmRlY29kZSgiUWowOE9DTkZMSDRsWGpBPSIpKSkuaXNFcXVhbFRvKCJCPTw4I0UsfiVeMCIpOwogICAgU3RyaW5nIHggPSBCYXNlNjQuZ2V0VXJsRW5jb2RlcigpLndpdGhvdXRQYWRkaW5nKCkuZW5jb2RlVG9TdHJpbmcoIkJmdGozPnU2LWQwIi5nZXRCeXRlcygpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKEJhc2U2NC5nZXRVcmxEZWNvZGVyKCkuZGVjb2RlKHgpKSk7CiAgICBhc3NlcnRUaGF0KG5ldyBTdHJpbmcoQmFzZTY0LmdldFVybERlY29kZXIoKS5kZWNvZGUoIlFpc25MQ1YtUFVVX0pTOCIpKSkuaXNFcXVhbFRvKCJCKycsJU9RQlIiKTsKICAgIGFzc2VydFRoYXQobmV3IFN0cmluZyhCYXNlNjQuZ2V0VXJsRGVjb2RlcigpLmRlY29kZSgiUW1aMGFqTS1kVFl0WkRBIikpKS5pc0VxdWFsVG8oIkJmdGozPnU2LWQwIik7CiAgfQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY3J5cHRvLmNvZGVjLkJhc2U2NC4K</text>
-      </register>
-      <register name="w" type="4">
-        <text>ww</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY3J5cHRvLmNvZGVjLkJhc2U2NC4K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgT0xEX0NMSUVOVF9JRCA9ICJRajA4T0NORkxINGxYakE9IjsK</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
