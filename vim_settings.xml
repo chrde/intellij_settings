@@ -51,7 +51,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/WEB-INF/tags/subscriptionProductName.tag" timestamp="1507033883658">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/WEB-INF/tags/subscriptionProductName.tag" timestamp="1507037720999">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="20" />
         <mark key="." line="19" column="20" />
@@ -169,6 +169,7 @@
         <mark key="^" line="0" column="158110" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/ServiceType.java" timestamp="1507037057539" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdSupplier.java" timestamp="1496149039262">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -741,11 +742,11 @@
         <mark key="]" line="11" column="181" />
         <mark key="." line="11" column="181" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/mvc/model/license/SubscriptionModel.java" timestamp="1507033794401">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="14" />
-        <mark key="^" line="31" column="14" />
-        <mark key="." line="31" column="14" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/mvc/model/license/SubscriptionModel.java" timestamp="1507037557761">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="62" />
+        <mark key="^" line="32" column="62" />
+        <mark key="." line="32" column="62" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/ransomware/RansomwarePathsService.java" timestamp="1504010510339">
         <mark key="[" line="33" column="84" />
@@ -829,7 +830,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507030492591">
+      <file name="/Dummy.txt" timestamp="1507037723764">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -1075,7 +1076,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>${result}</text>
+        <text>getPexServiceType</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1097,7 +1098,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${result}</text>
+        <text>getPexServiceType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
@@ -1106,44 +1107,37 @@
         <text encoding="base64">ICAgICAgPGM6b3V0IHZhbHVlPSIke3Jlc3VsdH0iLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKDxmc3RhZzp5b3VuaXRlZFF1b3RhIHF1b3RhSW5NQj0iJHtzdWJzY3JpcHRpb25Nb2RlbC5zdWJzY3JpcHRpb24ucXVvdGFTaXplfSIvPikK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZnNlY3VyZS5wc3Auc2VydmljZS5wcm9kdWN0LlByb2R1Y3QuUFNCX1dPUktTVEFUSU9OX1NFQ1VSSVRZOwo=</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXNwbGF5OmNvbHVtbj4K</text>
+        <text encoding="base64">ICAgICAgKDxmc3RhZzp5b3VuaXRlZFF1b3RhIHF1b3RhSW5NQj0iJHtzdWJzY3JpcHRpb25Nb2RlbC5zdWJzY3JpcHRpb24ucXVvdGFTaXplfSIvPikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InN1YnNjcmlwdGlvbiIgdmFsdWU9IjxjOm91dCB2YWx1ZT0iJHtyZXN1bHQuaWR9Ii8+IiBjbGFzcz0ic3Vic2NyaXB0aW9ucmFkaW8iLz4K</text>
+        <text encoding="base64">ICAgICAgPC9kaXNwbGF5OmNvbHVtbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpc3BsYXk6Y29sdW1uIGNsYXNzPSJjaGVja2JveGVzIiBzb3J0YWJsZT0iZmFsc2UiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InN1YnNjcmlwdGlvbiIgdmFsdWU9IjxjOm91dCB2YWx1ZT0iJHtyZXN1bHQuaWR9Ii8+IiBjbGFzcz0ic3Vic2NyaXB0aW9ucmFkaW8iLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
+        <text encoding="base64">ICAgICAgPGRpc3BsYXk6Y29sdW1uIGNsYXNzPSJjaGVja2JveGVzIiBzb3J0YWJsZT0iZmFsc2UiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuU3RhbmRhcmRDaGFyc2V0czsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuU3RhbmRhcmRDaGFyc2V0czsK</text>
       </register>
-      <register name="9" type="4">
-        <text>656 migration with a different subscription is not a migration
-
-in the scenario
--device (bwId = X) with subscription Y exists
--tokenSignUp is called with oldBwId=X or clientUid=X and subscription Y
---perform migration
--tokenSignUp is called with oldBwId=X or clientUid=X and subscription Z
---perform new client registration</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
