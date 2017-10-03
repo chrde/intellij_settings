@@ -51,6 +51,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/WEB-INF/tags/subscriptionProductName.tag" timestamp="1507033883658">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="18" column="46" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/staging/tp/config.json" timestamp="1496818172832">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="30" />
@@ -146,7 +152,6 @@
         <mark key="^" line="36" column="1" />
         <mark key="." line="36" column="1" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/ajax/software_updates_computers.jsp" timestamp="1507031060293" />
       <file name="$USER_HOME$/dev-sources/micro-cosmos/lib/utils/api_utils.js" timestamp="1506668445148">
         <mark key="[" line="201" column="47" />
         <mark key="]" line="201" column="47" />
@@ -284,7 +289,6 @@
         <mark key="." line="106" column="35" />
         <mark key="^" line="74" column="11" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/mvcConfiguration.xml" timestamp="1507030036358" />
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/token_sign_up_endpoint.js" timestamp="1503584010595">
         <mark key="[" line="43" column="26" />
         <mark key="]" line="38" column="39" />
@@ -737,6 +741,12 @@
         <mark key="]" line="11" column="181" />
         <mark key="." line="11" column="181" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/mvc/model/license/SubscriptionModel.java" timestamp="1507033794401">
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="31" column="14" />
+        <mark key="^" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/ransomware/RansomwarePathsService.java" timestamp="1504010510339">
         <mark key="[" line="33" column="84" />
         <mark key="]" line="20" column="37" />
@@ -1065,7 +1075,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>${(subscriptionModel.customerIdentifier)}</text>
+        <text>${result}</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1087,42 +1097,45 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${(subscriptionModel.customerIdentifier)}</text>
+        <text>${result}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjOm91dCB2YWx1ZT0iJHsoc3Vic2NyaXB0aW9uTW9kZWwuY3VzdG9tZXJJZGVudGlmaWVyKX0iLz4mIzE2MDsK</text>
+        <text encoding="base64">ICAgICAgPGM6b3V0IHZhbHVlPSIke3Jlc3VsdH0iLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXNwbGF5OmNvbHVtbj4K</text>
+        <text encoding="base64">ICAgICAgKDxmc3RhZzp5b3VuaXRlZFF1b3RhIHF1b3RhSW5NQj0iJHtzdWJzY3JpcHRpb25Nb2RlbC5zdWJzY3JpcHRpb24ucXVvdGFTaXplfSIvPikK</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InN1YnNjcmlwdGlvbiIgdmFsdWU9IjxjOm91dCB2YWx1ZT0iJHtyZXN1bHQuaWR9Ii8+IiBjbGFzcz0ic3Vic2NyaXB0aW9ucmFkaW8iLz4K</text>
+        <text encoding="base64">ICAgICAgPC9kaXNwbGF5OmNvbHVtbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGRpc3BsYXk6Y29sdW1uIGNsYXNzPSJjaGVja2JveGVzIiBzb3J0YWJsZT0iZmFsc2UiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InN1YnNjcmlwdGlvbiIgdmFsdWU9IjxjOm91dCB2YWx1ZT0iJHtyZXN1bHQuaWR9Ii8+IiBjbGFzcz0ic3Vic2NyaXB0aW9ucmFkaW8iLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
+        <text encoding="base64">ICAgICAgPGRpc3BsYXk6Y29sdW1uIGNsYXNzPSJjaGVja2JveGVzIiBzb3J0YWJsZT0iZmFsc2UiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuU3RhbmRhcmRDaGFyc2V0czsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuU3RhbmRhcmRDaGFyc2V0czsK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
+      </register>
+      <register name="9" type="4">
         <text>656 migration with a different subscription is not a migration
 
 in the scenario
@@ -1131,9 +1144,6 @@ in the scenario
 --perform migration
 -tokenSignUp is called with oldBwId=X or clientUid=X and subscription Z
 --perform new client registration</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgoKICBAVGVzdAogIHB1YmxpYyB2b2lkIG5hbWUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIGFzc2VydFRoYXQobmV3IFN0cmluZyhCYXNlNjQuZ2V0VXJsRGVjb2RlcigpLmRlY29kZSgiUWowOE9DTkZMSDRsWGpBPSIpKSkuaXNFcXVhbFRvKCJCPTw4I0UsfiVeMCIpOwogICAgU3RyaW5nIHggPSBCYXNlNjQuZ2V0VXJsRW5jb2RlcigpLndpdGhvdXRQYWRkaW5nKCkuZW5jb2RlVG9TdHJpbmcoIkJmdGozPnU2LWQwIi5nZXRCeXRlcygpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKEJhc2U2NC5nZXRVcmxEZWNvZGVyKCkuZGVjb2RlKHgpKSk7CiAgICBhc3NlcnRUaGF0KG5ldyBTdHJpbmcoQmFzZTY0LmdldFVybERlY29kZXIoKS5kZWNvZGUoIlFpc25MQ1YtUFVVX0pTOCIpKSkuaXNFcXVhbFRvKCJCKycsJU9RQlIiKTsKICAgIGFzc2VydFRoYXQobmV3IFN0cmluZyhCYXNlNjQuZ2V0VXJsRGVjb2RlcigpLmRlY29kZSgiUW1aMGFqTS1kVFl0WkRBIikpKS5pc0VxdWFsVG8oIkJmdGozPnU2LWQwIik7CiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
