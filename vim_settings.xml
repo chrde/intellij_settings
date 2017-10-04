@@ -51,10 +51,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/WEB-INF/tags/subscriptionProductName.tag" timestamp="1507037720999">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/WEB-INF/tags/subscriptionProductName.tag" timestamp="1507101410588">
+        <mark key="[" line="19" column="182" />
+        <mark key="]" line="19" column="182" />
+        <mark key="." line="19" column="182" />
         <mark key="^" line="18" column="46" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/staging/tp/config.json" timestamp="1496818172832">
@@ -169,7 +169,6 @@
         <mark key="^" line="0" column="158110" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/ServiceType.java" timestamp="1507037057539" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdSupplier.java" timestamp="1496149039262">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -742,7 +741,7 @@
         <mark key="]" line="11" column="181" />
         <mark key="." line="11" column="181" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/mvc/model/license/SubscriptionModel.java" timestamp="1507037557761">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/mvc/model/license/SubscriptionModel.java" timestamp="1507101394891">
         <mark key="[" line="32" column="35" />
         <mark key="]" line="32" column="62" />
         <mark key="^" line="32" column="62" />
@@ -830,7 +829,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507037723764">
+      <file name="/Dummy.txt" timestamp="1507102237491">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -888,11 +887,10 @@
         <mark key="." line="112" column="56" />
         <mark key="^" line="137" column="72" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/ajax/license_list.jsp" timestamp="1507031751900">
-        <mark key="[" line="98" column="20" />
-        <mark key="]" line="98" column="26" />
-        <mark key="." line="98" column="26" />
-        <mark key="^" line="98" column="26" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/ajax/license_list.jsp" timestamp="1507101248031">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="89" column="7" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/clients/nuibe_client.js" timestamp="1496739327749">
         <mark key="[" line="39" column="0" />
@@ -1076,7 +1074,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getPexServiceType</text>
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1098,43 +1096,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getPexServiceType</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGM6b3V0IHZhbHVlPSIke3Jlc3VsdH0iLz4K</text>
+        <text encoding="base64">ICAgIDxhIGhyZWY9IjxjOnVybCB2YWx1ZT0iL3Byb3RlY3RlZC9zaGFyZWQvc3Vic2NyaWJlci9hY2NvdW50LnZpZXciLz4/c2NvcGU9YWNjb3VudCY8JT1BcHBsaWNhdGlvbkNvbnN0YW50cy5BQ0NPVU5UX0lEX1BBUkFNX0tFWSU+PTxjOm91dCB2YWx1ZT0iJHtzdWJzY3JpcHRpb25Nb2RlbC5zdWJzY3JpcHRpb24uYWNjb3VudC5pZH0iLz4iCiAgICAgICB0aXRsZT0iPGZtdDptZXNzYWdlIGtleT0iY29tbW9uLmxhYmVsLm5hdmlnYXRpb24uYWNjb3VudC50b29sdGlwIi8+Ij4KICAgICAgPGM6b3V0IHZhbHVlPSIkeyhzdWJzY3JpcHRpb25Nb2RlbC5zdWJzY3JpcHRpb24uYWNjb3VudC5uYW1lKX0iLz4KICAgIDwvYT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZnNlY3VyZS5wc3Auc2VydmljZS5wcm9kdWN0LlByb2R1Y3QuUFNCX1dPUktTVEFUSU9OX1NFQ1VSSVRZOwo=</text>
+        <text encoding="base64">ICAgIDwvYzppZj4K</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKDxmc3RhZzp5b3VuaXRlZFF1b3RhIHF1b3RhSW5NQj0iJHtzdWJzY3JpcHRpb25Nb2RlbC5zdWJzY3JpcHRpb24ucXVvdGFTaXplfSIvPikK</text>
+        <text encoding="base64">ICAgICAgPGM6b3V0IHZhbHVlPSJVcGdyYWRlIi8+JiMxNjA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXNwbGF5OmNvbHVtbj4K</text>
+        <text encoding="base64">ICAgIDxjOmlmIHRlc3Q9IiR7cHJvZHVjdD09J0NvbXB1dGVyIFByb3RlY3Rpb24nfSI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InN1YnNjcmlwdGlvbiIgdmFsdWU9IjxjOm91dCB2YWx1ZT0iJHtyZXN1bHQuaWR9Ii8+IiBjbGFzcz0ic3Vic2NyaXB0aW9ucmFkaW8iLz4K</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZnNlY3VyZS5wc3Auc2VydmljZS5wcm9kdWN0LlByb2R1Y3QuUFNCX1dPUktTVEFUSU9OX1NFQ1VSSVRZOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpc3BsYXk6Y29sdW1uIGNsYXNzPSJjaGVja2JveGVzIiBzb3J0YWJsZT0iZmFsc2UiPgo=</text>
+        <text encoding="base64">ICAgICAgKDxmc3RhZzp5b3VuaXRlZFF1b3RhIHF1b3RhSW5NQj0iJHtzdWJzY3JpcHRpb25Nb2RlbC5zdWJzY3JpcHRpb24ucXVvdGFTaXplfSIvPikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXNwbGF5OmNvbHVtbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InN1YnNjcmlwdGlvbiIgdmFsdWU9IjxjOm91dCB2YWx1ZT0iJHtyZXN1bHQuaWR9Ii8+IiBjbGFzcz0ic3Vic2NyaXB0aW9ucmFkaW8iLz4K</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuU3RhbmRhcmRDaGFyc2V0czsK</text>
+        <text encoding="base64">ICAgICAgPGRpc3BsYXk6Y29sdW1uIGNsYXNzPSJjaGVja2JveGVzIiBzb3J0YWJsZT0iZmFsc2UiPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLkRhdGF0eXBlQ29udmVydGVyOwo=</text>
