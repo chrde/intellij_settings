@@ -39,11 +39,12 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1504617972630">
-        <mark key="[" line="193" column="77" />
-        <mark key="]" line="193" column="87" />
-        <mark key="." line="193" column="87" />
-        <mark key="^" line="193" column="87" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1507536380026">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="62" column="50" />
+        <mark key="]" line="62" column="50" />
+        <mark key="." line="62" column="50" />
+        <mark key="^" line="62" column="50" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/profile_navigator.js" timestamp="1494401221705">
         <mark key="[" line="5" column="0" />
@@ -301,11 +302,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/dto/status/Status.java" timestamp="1506593848430">
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/dto/status/Status.java" timestamp="1507536131762">
         <mark key="[" line="98" column="19" />
         <mark key="]" line="98" column="19" />
-        <mark key="^" line="98" column="71" />
         <mark key="." line="98" column="19" />
+        <mark key="^" line="98" column="91" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/devices/devices_list/common/operations/operations_factory_service_test.js" timestamp="1504792156063">
         <mark key="[" line="57" column="2" />
@@ -551,6 +552,7 @@
         <mark key="^" line="24" column="33" />
         <mark key="." line="24" column="34" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/subscriptions/fs_expiration_date/fs_expiration_date.js" timestamp="1507535585871" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfileResource.java" timestamp="1494490670444">
         <mark key="[" line="92" column="60" />
         <mark key="]" line="92" column="60" />
@@ -845,8 +847,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507532131301">
-        <mark key="[" line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1507536306978">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
@@ -964,8 +966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="35" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/missingupdates/MissingUpdatesTableUpdater.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" />
       <jump line="37" column="20" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="1358" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="834" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
@@ -1064,6 +1064,8 @@
       <jump line="168" column="56" filename="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/devices/devices_list/company/device_aware_devices_controller_test.js" />
       <jump line="117" column="25" filename="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/devices/devices_list/company/device_aware_devices_controller_test.js" />
       <jump line="233" column="23" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" />
+      <jump line="67" column="70" filename="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" />
+      <jump line="37" column="4" filename="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1090,9 +1092,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>11971 installing cp over workstation
-
-bwId is urlsafe encode</text>
+        <text>ALLOWED</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1114,48 +1114,48 @@ bwId is urlsafe encode</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Change existing subscription</text>
+        <text>ALLOWED</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bGFiZWwuc3Vic2NyaXB0aW9uLmNoYW5nZT1DaGFuZ2UgZXhpc3Rpbmcgc3Vic2NyaXB0aW9uCg==</text>
+      <register name="0" type="4">
+        <text>FSAV_REALTIME_RANSOMWARE_ENABLED</text>
       </register>
-      <register name="1" type="4">
-        <text>11971 installing cp over workstation
-
-bwId is urlsafe encode</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFN0cmluZ1tdIHRydXN0ZWRBcHBsaWNhdGlvbnM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8YzpvdXQgdmFsdWU9IihVcGdyYWRlIHRvIFByZW1pdW0pIi8+Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZ1tdIHByb3RlY3RlZFBhdGhzOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGM6b3V0IHZhbHVlPSIoVXBncmFkZSB0byBQcmVtaXVtKSIvPgo=</text>
+      <register name="3" type="4">
+        <text>11971 installing cp over workstation
+
+bwId is urlsafe encode</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICA8YzpvdXQgdmFsdWU9IihVcGdyYWRlIHRvIFByZW1pdW0pIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YzpvdXQgdmFsdWU9IiR7KHN1YnNjcmlwdGlvbk1vZGVsLnN1YnNjcmlwdGlvbi5hY2NvdW50Lm5hbWUpfSIvPgo=</text>
+        <text encoding="base64">ICAgICAgPGM6b3V0IHZhbHVlPSIoVXBncmFkZSB0byBQcmVtaXVtKSIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgdGl0bGU9IjxmbXQ6bWVzc2FnZSBrZXk9ImNvbW1vbi5sYWJlbC5uYXZpZ2F0aW9uLmFjY291bnQudG9vbHRpcCIvPiI+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPGM6dXJsIHZhbHVlPSIvcHJvdGVjdGVkL3NoYXJlZC9zdWJzY3JpYmVyL2FjY291bnQudmlldyIvPj9zY29wZT1hY2NvdW50JjwlPUFwcGxpY2F0aW9uQ29uc3RhbnRzLkFDQ09VTlRfSURfUEFSQU1fS0VZJT49PGM6b3V0IHZhbHVlPSIke3N1YnNjcmlwdGlvbk1vZGVsLnN1YnNjcmlwdGlvbi5pZH0iLz4iCg==</text>
+        <text encoding="base64">ICAgICAgICA8YzpvdXQgdmFsdWU9IiR7KHN1YnNjcmlwdGlvbk1vZGVsLnN1YnNjcmlwdGlvbi5hY2NvdW50Lm5hbWUpfSIvPgo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgdGl0bGU9IjxmbXQ6bWVzc2FnZSBrZXk9ImNvbW1vbi5sYWJlbC5uYXZpZ2F0aW9uLmFjY291bnQudG9vbHRpcCIvPiI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8YzpvdXQgdmFsdWU9IiR7KHN1YnNjcmlwdGlvbk1vZGVsLnN1YnNjcmlwdGlvbi5hY2NvdW50Lm5hbWUpfSIvPgo=</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPGM6dXJsIHZhbHVlPSIvcHJvdGVjdGVkL3NoYXJlZC9zdWJzY3JpYmVyL2FjY291bnQudmlldyIvPj9zY29wZT1hY2NvdW50JjwlPUFwcGxpY2F0aW9uQ29uc3RhbnRzLkFDQ09VTlRfSURfUEFSQU1fS0VZJT49PGM6b3V0IHZhbHVlPSIke3N1YnNjcmlwdGlvbk1vZGVsLnN1YnNjcmlwdGlvbi5pZH0iLz4iCg==</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
