@@ -835,10 +835,10 @@
         <mark key="^" line="154" column="4" />
         <mark key="." line="154" column="4" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/src/debug.js" timestamp="1507551986385">
-        <mark key="[" line="3" column="70" />
-        <mark key="]" line="3" column="70" />
-        <mark key="." line="3" column="70" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/debug.js" timestamp="1507553460133">
+        <mark key="[" line="3" column="92" />
+        <mark key="]" line="3" column="92" />
+        <mark key="." line="3" column="92" />
         <mark key="^" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/admin/configuration/computerProtection.jsp" timestamp="1504594823432">
@@ -865,8 +865,8 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" timestamp="1507552348362">
-        <mark key="[" line="22" column="55" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" timestamp="1507553296030">
+        <mark key="[" line="31" column="1" />
         <mark key="]" line="22" column="63" />
         <mark key="." line="22" column="63" />
         <mark key="^" line="22" column="63" />
@@ -1157,7 +1157,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>attributeEmail, a</text>
+        <text>abc@de.com</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1179,7 +1179,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>attributeEmail, a</text>
+        <text>abc@de.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
