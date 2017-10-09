@@ -823,6 +823,12 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="46" />
       </file>
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" timestamp="1507540871082">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="7" />
+      </file>
       <file name="$USER_HOME$/dev-sources/fsc-redis-client-js/package-lock.json" timestamp="1506670653418">
         <mark key="[" line="500" column="22" />
         <mark key="]" line="500" column="23" />
@@ -1109,7 +1115,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>state</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1131,7 +1137,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
