@@ -123,11 +123,17 @@
         <mark key="." line="88" column="87" />
         <mark key="^" line="88" column="54" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/src/index.js" timestamp="1507539523011">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="46" />
-        <mark key="^" line="5" column="46" />
-        <mark key="." line="5" column="46" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/test.html" timestamp="1507550869041">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+      </file>
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/index.js" timestamp="1507551793761">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="22" column="21" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/constants.js" timestamp="1504855071812">
         <mark key="[" line="176" column="0" />
@@ -218,6 +224,12 @@
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
       </file>
+      <file name="$USER_HOME$/github/cognito-redux-middleware/webpack.config.js" timestamp="1507551810658">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/NewComputerData.java" timestamp="1506005304649">
         <mark key="[" line="27" column="35" />
         <mark key="]" line="27" column="38" />
@@ -265,6 +277,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="^" line="62" column="109" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/cognito-redux-middleware/index_browser.js" timestamp="1507549866391">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/computer_protection_profiles_tab/computer_protection_profiles_tab_list.html" timestamp="1496992748705">
         <mark key="[" line="45" column="26" />
@@ -516,10 +534,11 @@
         <mark key="." line="62" column="21" />
         <mark key="^" line="70" column="25" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/test.js" timestamp="1507539409734">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/test.js" timestamp="1507551929036">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/endpoints/profiles_spec.js" timestamp="1494578410119">
         <mark key="[" line="56" column="11" />
@@ -591,6 +610,12 @@
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/shared/partner/account_table.jsp" timestamp="1507108872174">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="121" column="132" />
+      </file>
+      <file name="$USER_HOME$/github/cognito-redux-middleware/.babelrc" timestamp="1507550653472">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/LocalProfileRepository.java" timestamp="1496145255255">
         <mark key="[" line="91" column="82" />
@@ -730,6 +755,12 @@
         <mark key="." line="40" column="51" />
         <mark key="^" line="40" column="38" />
       </file>
+      <file name="$USER_HOME$/github/cognito-redux-middleware/package.json" timestamp="1507550696301">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="37" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1504170724561">
         <mark key="[" line="213" column="47" />
         <mark key="]" line="213" column="47" />
@@ -747,6 +778,11 @@
         <mark key="]" line="16" column="28" />
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="28" />
+      </file>
+      <file name="$USER_HOME$/github/cognito-redux-middleware/index.js" timestamp="1507549807135">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" timestamp="1504175948633">
         <mark key="[" line="164" column="0" />
@@ -799,6 +835,12 @@
         <mark key="^" line="154" column="4" />
         <mark key="." line="154" column="4" />
       </file>
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/debug.js" timestamp="1507551986385">
+        <mark key="[" line="3" column="70" />
+        <mark key="]" line="3" column="70" />
+        <mark key="." line="3" column="70" />
+        <mark key="^" line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/admin/configuration/computerProtection.jsp" timestamp="1504594823432">
         <mark key="[" line="11" column="40" />
         <mark key="]" line="11" column="40" />
@@ -823,11 +865,11 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" timestamp="1507548112650">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="^" line="9" column="11" />
-        <mark key="." line="5" column="17" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" timestamp="1507552348362">
+        <mark key="[" line="22" column="55" />
+        <mark key="]" line="22" column="63" />
+        <mark key="." line="22" column="63" />
+        <mark key="^" line="22" column="63" />
       </file>
       <file name="$USER_HOME$/dev-sources/fsc-redis-client-js/package-lock.json" timestamp="1506670653418">
         <mark key="[" line="500" column="22" />
@@ -1115,7 +1157,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>registerUser</text>
+        <text>attributeEmail, a</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1137,48 +1179,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>registerUser</text>
+        <text>attributeEmail, a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>FSAV_REALTIME_RANSOMWARE_ENABLED</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCBhdHRyaWJ1dGVFbWFpbCA9IG5ldyBDb2duaXRvVXNlckF0dHJpYnV0ZShlbWFpbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1c2VyUG9vbC5zaWduVXAodXNlckRhdGEubmFtZSwgdXNlckRhdGEucGFzc3dvcmQsIFthdHRyaWJ1dGVFbWFpbF0pCg==</text>
+        <text encoding="base64">ICBhdAo=</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjb2duaXRvID0gcmVxdWlyZSgnLi9kaXN0L2luZGV4Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09HTklUT19TRVRVUCA9IHVuZGVmaW5lZDsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnSSBnZXQgY2FsbGVkIGZyb20gcHJpbnQuanMhJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ1tdIHRydXN0ZWRBcHBsaWNhdGlvbnM7Cg==</text>
+        <text encoding="base64">Y29uc3QgY29nbml0byA9IHJlcXVpcmUoJy4vZGlzdC9pbmRleCcpOwpjb25zdCBjb25maWcgPSB7VXNlclBvb2xJZDogInVzLWVhc3QtMV9lU01hTmhJUGIiLCBDbGllbnRJZDogIjR2MTZxZm42c3NqYnVuNDhwZnEza250Zm83In0KY29uc29sZS5sb2coY29nbml0by5zZXR1cChjb25maWcpLnNpZ25VcCh7bmFtZTogImNocmRlIiwgcGFzc3dvcmQ6ICJjaHJkZSIsIGVtYWlsOiAiYWJjQGRlLmNvbSJ9KSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ1tdIHByb3RlY3RlZFBhdGhzOwo=</text>
+        <text encoding="base64">Y29uc3QgY29nbml0byA9IHJlcXVpcmUoJy4vZGlzdC9pbmRleCcpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>11971 installing cp over workstation
-
-bwId is urlsafe encode</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8YzpvdXQgdmFsdWU9IihVcGdyYWRlIHRvIFByZW1pdW0pIi8+Cg==</text>
+        <text encoding="base64">ICAgIHByaW50OiAnLi9zcmMvcHJpbnQuanMnCg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGM6b3V0IHZhbHVlPSIoVXBncmFkZSB0byBQcmVtaXVtKSIvPgo=</text>
+        <text encoding="base64">ICAgIDogJy4vc3JjL2luZGV4LmpzJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9hPgo=</text>
+        <text encoding="base64">ICBlbnRyeTogewo=</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
