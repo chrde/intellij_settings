@@ -123,6 +123,12 @@
         <mark key="." line="88" column="87" />
         <mark key="^" line="88" column="54" />
       </file>
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/index.js" timestamp="1507539523011">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="46" />
+        <mark key="^" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/constants.js" timestamp="1504855071812">
         <mark key="[" line="176" column="0" />
         <mark key="]" line="181" column="4" />
@@ -510,6 +516,11 @@
         <mark key="." line="62" column="21" />
         <mark key="^" line="70" column="25" />
       </file>
+      <file name="$USER_HOME$/github/cognito-redux-middleware/test.js" timestamp="1507539409734">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+      </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/spec/endpoints/profiles_spec.js" timestamp="1494578410119">
         <mark key="[" line="56" column="11" />
         <mark key="]" line="49" column="80" />
@@ -841,6 +852,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="14" column="95" />
       </file>
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/actions.js" timestamp="1507539967630">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="4" column="58" />
+        <mark key="." line="4" column="58" />
+        <mark key="^" line="4" column="58" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/sysop/2ndbest.json" timestamp="1501537345896">
         <mark key="[" line="0" column="231094" />
         <mark key="]" line="0" column="0" />
@@ -1092,7 +1109,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ALLOWED</text>
+        <text>state</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1114,7 +1131,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ALLOWED</text>
+        <text>state</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
@@ -1123,39 +1140,39 @@
         <text>FSAV_REALTIME_RANSOMWARE_ENABLED</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ1tdIHRydXN0ZWRBcHBsaWNhdGlvbnM7Cg==</text>
+        <text encoding="base64">Q09HTklUT19TRVRVUCA9IHVuZGVmaW5lZDsK</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIFN0cmluZ1tdIHRydXN0ZWRBcHBsaWNhdGlvbnM7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIFN0cmluZ1tdIHByb3RlY3RlZFBhdGhzOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>11971 installing cp over workstation
 
 bwId is urlsafe encode</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8YzpvdXQgdmFsdWU9IihVcGdyYWRlIHRvIFByZW1pdW0pIi8+Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPGM6b3V0IHZhbHVlPSIoVXBncmFkZSB0byBQcmVtaXVtKSIvPgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9hPgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8YzpvdXQgdmFsdWU9IiR7KHN1YnNjcmlwdGlvbk1vZGVsLnN1YnNjcmlwdGlvbi5hY2NvdW50Lm5hbWUpfSIvPgo=</text>
+        <text encoding="base64">ICAgICAgPC9hPgo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgdGl0bGU9IjxmbXQ6bWVzc2FnZSBrZXk9ImNvbW1vbi5sYWJlbC5uYXZpZ2F0aW9uLmFjY291bnQudG9vbHRpcCIvPiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YzpvdXQgdmFsdWU9IiR7KHN1YnNjcmlwdGlvbk1vZGVsLnN1YnNjcmlwdGlvbi5hY2NvdW50Lm5hbWUpfSIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPGM6dXJsIHZhbHVlPSIvcHJvdGVjdGVkL3NoYXJlZC9zdWJzY3JpYmVyL2FjY291bnQudmlldyIvPj9zY29wZT1hY2NvdW50JjwlPUFwcGxpY2F0aW9uQ29uc3RhbnRzLkFDQ09VTlRfSURfUEFSQU1fS0VZJT49PGM6b3V0IHZhbHVlPSIke3N1YnNjcmlwdGlvbk1vZGVsLnN1YnNjcmlwdGlvbi5pZH0iLz4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgdGl0bGU9IjxmbXQ6bWVzc2FnZSBrZXk9ImNvbW1vbi5sYWJlbC5uYXZpZ2F0aW9uLmFjY291bnQudG9vbHRpcCIvPiI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
