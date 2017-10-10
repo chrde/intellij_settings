@@ -9,6 +9,13 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/test/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverterTest.java" timestamp="1507625928662">
+        <mark key="'" line="49" column="32" />
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="113" />
+        <mark key="^" line="330" column="59" />
+        <mark key="." line="341" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/micro-cosmos-rest-api/spec/accountsComputerProfilesPOSTSpec.js" timestamp="1503562005363">
         <mark key="[" line="262" column="4" />
         <mark key="]" line="262" column="4" />
@@ -39,12 +46,12 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1507624887295">
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" timestamp="1507625798634">
         <mark key="'" line="37" column="4" />
         <mark key="[" line="268" column="33" />
-        <mark key="]" line="268" column="33" />
-        <mark key="." line="268" column="33" />
-        <mark key="^" line="267" column="146" />
+        <mark key="]" line="268" column="40" />
+        <mark key="." line="268" column="40" />
+        <mark key="^" line="268" column="40" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/profiles/profile_navigator.js" timestamp="1494401221705">
         <mark key="[" line="5" column="0" />
@@ -607,10 +614,6 @@
         <mark key="." line="3111" column="142" />
         <mark key="^" line="3111" column="142" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/shared/partner/account_table.jsp" timestamp="1507108872174">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="121" column="132" />
-      </file>
       <file name="$USER_HOME$/github/cognito-redux-middleware/.babelrc" timestamp="1507550653472">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -912,7 +915,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507624362776">
+      <file name="/Dummy.txt" timestamp="1507625821562">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1031,9 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="20" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
-      <jump line="1358" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
-      <jump line="834" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="406" column="19" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
       <jump line="1041" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
       <jump line="11" column="43" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
@@ -1131,6 +1131,9 @@
       <jump line="233" column="23" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/SpiComputerRegistrationServiceTest.java" />
       <jump line="67" column="70" filename="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" />
       <jump line="37" column="4" filename="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverter.java" />
+      <jump line="50" column="71" filename="$USER_HOME$/dev-sources/upstream-saver/src/test/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverterTest.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/dev-sources/upstream-saver/src/test/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverterTest.java" />
+      <jump line="49" column="32" filename="$USER_HOME$/dev-sources/upstream-saver/src/test/java/com/fsecure/psb/upstream/activemq/StatusToUpstreamConverterTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1156,8 +1159,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>FSAV_ACCESS_CONTROL_RANSOMWARE_PROTECTED_PATHS_OID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHRvQ2hlY2suY29udGFpbnMoU3RyaW5nLmZvcm1hdCgiezU6VGFibGUoU3RyaW5nKSA9ICVzIiwgVEVTVF9BQ0NFU1NfQ09OVFJPTF9FWENMVURFRF9QQVRIUykpKTsK</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1179,63 +1182,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FSAV_ACCESS_CONTROL_RANSOMWARE_PROTECTED_PATHS_OID</text>
+        <text>EXCLUDED_PATHS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
+        <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RhdHVzLmdldFByb3RlY3RlZFBhdGhzKCkgIT0gbnVsbCkgewogICAgICAgICAgICBQb2xpY3lWYWx1ZSBwcm90ZWN0ZWRQYXRoc1RhYmxlID0gbmV3IFBvbGljeVRhYmxlVmFsdWUocmFuc29td2FyZVRhYmxlRGVmaW5pdGlvbiwgYXJyYXlUb1BvbGljeVRhYmxlKHN0YXR1cy5nZXRQcm90ZWN0ZWRQYXRocygpKSk7CiAgICAgICAgICAgIGRlc3RpbmF0aW9uVG9BZGQucHV0KEZTQVZfQUNDRVNTX0NPTlRST0xfUkFOU09NV0FSRV9QUk9URUNURURfUEFUSFNfT0lELCBwcm90ZWN0ZWRQYXRoc1RhYmxlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHRvQ2hlY2suY29udGFpbnMoU3RyaW5nLmZvcm1hdCgiezI6VGFibGUoU3RyaW5nKSA9ICVzIiwgVEVTVF9BQ0NFU1NfQ09OVFJPTF9FWENMVURFRF9QQVRIUykpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHRvQ2hlY2suY29udGFpbnMoU3RyaW5nLmZvcm1hdCgiezU6VGFibGUoU3RyaW5nKSA9ICVzIiwgVEVTVF9BQ0NFU1NfQ09OVFJPTF9FWENMVURFRF9QQVRIUykpKTsK</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBjb2duaXRvID0gcmVxdWlyZSgnLi9kaXN0L2luZGV4Jyk7Cg==</text>
+        <text encoding="base64">ICBhdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnSSBnZXQgY2FsbGVkIGZyb20gcHJpbnQuanMhJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjb2duaXRvID0gcmVxdWlyZSgnLi9kaXN0L2luZGV4Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgY29nbml0byA9IHJlcXVpcmUoJy4vZGlzdC9pbmRleCcpOwpjb25zdCBjb25maWcgPSB7VXNlclBvb2xJZDogInVzLWVhc3QtMV9lU01hTmhJUGIiLCBDbGllbnRJZDogIjR2MTZxZm42c3NqYnVuNDhwZnEza250Zm83In0KY29uc29sZS5sb2coY29nbml0by5zZXR1cChjb25maWcpLnNpZ25VcCh7bmFtZTogImNocmRlIiwgcGFzc3dvcmQ6ICJjaHJkZSIsIGVtYWlsOiAiYWJjQGRlLmNvbSJ9KSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnSSBnZXQgY2FsbGVkIGZyb20gcHJpbnQuanMhJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgY29nbml0byA9IHJlcXVpcmUoJy4vZGlzdC9pbmRleCcpOwo=</text>
+        <text encoding="base64">Y29uc3QgY29nbml0byA9IHJlcXVpcmUoJy4vZGlzdC9pbmRleCcpOwpjb25zdCBjb25maWcgPSB7VXNlclBvb2xJZDogInVzLWVhc3QtMV9lU01hTmhJUGIiLCBDbGllbnRJZDogIjR2MTZxZm42c3NqYnVuNDhwZnEza250Zm83In0KY29uc29sZS5sb2coY29nbml0by5zZXR1cChjb25maWcpLnNpZ25VcCh7bmFtZTogImNocmRlIiwgcGFzc3dvcmQ6ICJjaHJkZSIsIGVtYWlsOiAiYWJjQGRlLmNvbSJ9KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Y29uc3QgY29nbml0byA9IHJlcXVpcmUoJy4vZGlzdC9pbmRleCcpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50OiAnLi9zcmMvcHJpbnQuanMnCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDogJy4vc3JjL2luZGV4LmpzJywK</text>
+        <text encoding="base64">ICAgIHByaW50OiAnLi9zcmMvcHJpbnQuanMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</last-search>
+      <last-search encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1dGlsc1w+</entry>
         <entry encoding="base64">XDxpdGVtc1w+</entry>
         <entry encoding="base64">XDxyZW1vdmVEaXNhYmxlZFw+</entry>
         <entry encoding="base64">XDxQU0JQcm94eVB1YmxpY0lwXD4=</entry>
@@ -1255,6 +1257,7 @@
         <entry encoding="base64">XDxid2luc3RhbGxlZENvbW1hbmRzXD4=</entry>
         <entry encoding="base64">XDxBV1NfQ09ORklHXD4=</entry>
         <entry encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</entry>
+        <entry encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
