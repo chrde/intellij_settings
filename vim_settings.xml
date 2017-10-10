@@ -342,11 +342,11 @@
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdaterTest.java" timestamp="1507632276194">
-        <mark key="[" line="46" column="81" />
-        <mark key="]" line="46" column="105" />
-        <mark key="." line="46" column="105" />
-        <mark key="^" line="46" column="105" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdaterTest.java" timestamp="1507633867398">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="104" column="66" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1507628913856">
         <mark key="'" line="32" column="42" />
@@ -648,12 +648,12 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="45" column="8" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1507628868003">
-        <mark key="'" line="1410" column="0" />
-        <mark key="[" line="1417" column="13" />
-        <mark key="]" line="1417" column="37" />
-        <mark key="^" line="1417" column="37" />
-        <mark key="." line="1417" column="37" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1507633525499">
+        <mark key="'" line="1411" column="36" />
+        <mark key="[" line="1411" column="13" />
+        <mark key="]" line="1411" column="36" />
+        <mark key="^" line="1411" column="36" />
+        <mark key="." line="1411" column="36" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesAction.java" timestamp="1497427376029">
         <mark key="[" line="36" column="101" />
@@ -1004,7 +1004,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1347" column="34" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="1373" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="1384" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="5181" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
@@ -1104,6 +1103,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" />
       <jump line="14" column="86" filename="$USER_HOME$/dev-sources/psb/commons-java/commons-java-status/src/main/java/com/fsecure/common/status/StatusOids.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev-sources/psb/commons-java/commons-java-status/src/main/java/com/fsecure/common/status/StatusOids.java" />
+      <jump line="1411" column="36" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1129,8 +1129,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>RANSOMWARE_PROTECTED_PATHS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1152,7 +1152,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RANSOMWARE_PROTECTED_PATHS</text>
+        <text>TABLE_WITH_ALL_PATHS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
@@ -1161,37 +1161,37 @@
         <text>singletonMap(&quot;computer_id&quot;, computerId);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZ1tdPj4gVEFCTEVfT0ZfRVhDTFVERUQxID0gc2luZ2xldG9uTWFwKFJBTlNPTVdBUkVfRVhDTFVERURfUEFUSFMsIGV4Y2x1ZGVkUGF0aHMxKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZ1tdPj4gVEFCTEVfT0ZfRVhDTFVERUQgPSBzaW5nbGV0b25NYXAoUkFOU09NV0FSRV9FWENMVURFRF9QQVRIUywgZXhjbHVkZWRQYXRocyk7Cg==</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHN0b3Jlc1JhbnNvbXdhcmVTdGF0dXNfYXNEaXNhYmxlZCgpIHRocm93cyBFeGNlcHRpb24gewogICAgcmFuc29td2FyZVVwZGF0ZXIuc3RhdHVzKENPTVBVVEVSX0lELCBlbXB0eU1hcCgpLCBlbXB0eU1hcCgpKTsKICAgIHJhbnNvbXdhcmVVcGRhdGVyLmFwcGx5Q2hhbmdlcygpOwoKICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKFVQREFURV9TVEFUVVMsIE1BUF9ESVNBQkxFRF9SQU5TT01XQVJFKTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMaXN0PFN0cmluZ1tdPiBleGNsdWRlZFBhdGhzMSA9IEFycmF5cy5hc0xpc3QobmV3IFN0cmluZ1tdeyJibHVlIn0sIG5ldyBTdHJpbmdbXXsieWVsbG93In0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMaXN0PFN0cmluZ1tdPiBleGNsdWRlZFBhdGhzID0gQXJyYXlzLmFzTGlzdChuZXcgU3RyaW5nW117InJlZCJ9LCBuZXcgU3RyaW5nW117ImdyZWVuIn0pOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJ1c3RlZEFwcFBhdGhVcGRhdGVyID0gdHJ1c3RlZEFwcFBhdGhVcGRhdGVyOwo=</text>
+        <text encoding="base64">ICAgIHZlcmlmeShteVNxbEJhdGNoVXBkYXRlcikuYmF0Y2hVcGRhdGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE15U3FsQmF0Y2hVcGRhdGVyIHRydXN0ZWRBcHBQYXRoVXBkYXRlcjsK</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGNsZWFyc0ludGVybmFsU3RhdGVfb2ZFeGNsdWRlZFBhdGhzX2FmdGVyQ29uc2VjdXRpdmVDYWxscygpIHRocm93cyBFeGNlcHRpb24gewogICAgcmFuc29td2FyZVVwZGF0ZXIuc3RhdHVzKENPTVBVVEVSX0lELCBlbXB0eU1hcCgpLCBUQUJMRV9PRl9FWENMVURFRCk7CiAgICByYW5zb213YXJlVXBkYXRlci5yZXNldCgpOwogICAgcmFuc29td2FyZVVwZGF0ZXIuc3RhdHVzKENPTVBVVEVSX0lEXzEsIGVtcHR5TWFwKCksIFRBQkxFX09GX0VYQ0xVREVEMSk7CiAgICByYW5zb213YXJlVXBkYXRlci5hcHBseUNoYW5nZXMoKTsKCiAgICB2ZXJpZnkobXlTcWxCYXRjaFVwZGF0ZXIsIHRpbWVzKGV4Y2x1ZGVkUGF0aHMxLnNpemUoKSkpLmFkZEFyZ3MoZXEoQ09NUFVURVJfSURfMSksIGFueVN0cmluZygpLCBlcShFWENMVURFRC5vcmRpbmFsKCkpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBUUlVTVEVEX0FQUF9QQVRIX0JBVENIX1VQREFURV9RVUVSWSA9ICJJTlNFUlQgSU5UTyB0cnVzdGVkX2FwcGxpY2F0aW9uX3BhdGggKGNvbXB1dGVyX2lkLCBwYXRoLCB0eXBlKSB2YWx1ZXMgOmFyZ3MiOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZ1tdPj4gVEFCTEVfV0lUSF9BTExfUEFUSFMgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcGFyYW1zID0gc2luZ2xldG9uTWFwKCJjb21wdXRlcl9pZCIsIGNvbXB1dGVySWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5wdXQoImNvbXB1dGVyX2lkIiwgY29tcHV0ZXJJZCk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
