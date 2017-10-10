@@ -131,11 +131,11 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/src/index.js" timestamp="1507551793761">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="21" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="22" column="21" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/index.js" timestamp="1507640466744">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="13" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/constants.js" timestamp="1504855071812">
         <mark key="[" line="176" column="0" />
@@ -227,11 +227,11 @@
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/webpack.config.js" timestamp="1507551810658">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/webpack.config.js" timestamp="1507640414990">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="8" />
+        <mark key="^" line="21" column="8" />
+        <mark key="." line="21" column="8" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/NewComputerData.java" timestamp="1506005304649">
         <mark key="[" line="27" column="35" />
@@ -829,11 +829,11 @@
         <mark key="^" line="154" column="4" />
         <mark key="." line="154" column="4" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/src/debug.js" timestamp="1507554453805">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-        <mark key="^" line="3" column="36" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/debug.js" timestamp="1507641033822">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="30" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/admin/configuration/computerProtection.jsp" timestamp="1504594823432">
         <mark key="[" line="11" column="40" />
@@ -859,11 +859,12 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" timestamp="1507554465424">
-        <mark key="[" line="43" column="3" />
-        <mark key="]" line="37" column="52" />
-        <mark key="." line="37" column="52" />
-        <mark key="^" line="6" column="38" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" timestamp="1507640039143">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="21" />
+        <mark key="." line="64" column="21" />
+        <mark key="^" line="64" column="21" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/config.schema.json" timestamp="1496818382217">
         <mark key="[" line="57" column="3" />
@@ -1010,9 +1011,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="24" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerRepositoryImplTest.java" />
-      <jump line="1363" column="29" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
-      <jump line="63" column="9" filename="$USER_HOME$/dev-sources/psb/psb/portal-service/src/main/java/com/fsecure/psp/persistence/computer/ComputerHistory.java" />
       <jump line="127" column="49" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/restore/RestoreComputerDataBasedOnHistoryActionTest.java" />
       <jump line="144" column="0" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/restore/RestoreComputerDataBasedOnHistoryActionTest.java" />
       <jump line="83" column="131" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/restore/RestoreComputerDataBasedOnHistoryActionTest.java" />
@@ -1110,6 +1108,9 @@
       <jump line="5200" column="4" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="120" column="33" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
+      <jump line="15" column="0" filename="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1136,7 +1137,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>255</text>
+        <text>require</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1158,46 +1159,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>255</text>
+        <text>require</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIHRydXN0ZWRfYXBwbGljYXRpb25fcGF0aAooCiAgaWQgICAgICAgICAgSU5URUdFUiAgICAgIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5ULAogIHBhdGggICAgICAgIFZBUkNIQVIoMjU1KSBOT1QgTlVMTCwKICBjb21wdXRlcl9pZCBJTlQgICAgICAgICAgTk9UIE5VTEwsCiAgUFJJTUFSWSBLRVkgKGlkKSwKICBDT05TVFJBSU5UIHRydXN0ZWRfYXBwbGljYXRpb25fcGF0aF9jb21wdXRlcl9pZF9mb3JlaWduX2tleSBGT1JFSUdOIEtFWSAoY29tcHV0ZXJfaWQpIFJFRkVSRU5DRVMgYndpbnN0YWxsZWQgKGlkKQogICAgT04gREVMRVRFIENBU0NBREUKICAgIE9OIFVQREFURSBDQVNDQURFCikKICBFTkdJTkUgPSBJbm5vREIKICBDSEFSU0VUID0gdXRmODsKCi0tIGRiIHZlcnNpb24gMTAwOTI3Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJsYXk6IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">cHJpbnRNZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBPYmplY3Q+IE1BUF9ERUxFVEVfRVhDTFVERUQgPSBJbW11dGFibGVNYXAuPFN0cmluZywgT2JqZWN0PmJ1aWxkZXIoKQogICAgICAucHV0KCJjb21wdXRlcl9pZCIsIENPTVBVVEVSX0lEKQogICAgICAuYnVpbGQoKTsKICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBPYmplY3Q+IE1BUF9FTkFCTEVEX1JBTlNPTVdBUkUgPSBJbW11dGFibGVNYXAuPFN0cmluZywgT2JqZWN0PmJ1aWxkZXIoKQogICAgICAucHV0KCJjb21wdXRlcl9pZCIsIENPTVBVVEVSX0lEKQogICAgICAucHV0KCJzdGF0dXMiLCB0cnVlKQogICAgICAuYnVpbGQoKTsKICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBPYmplY3Q+IE1BUF9ESVNBQkxFRF9SQU5TT01XQVJFID0gSW1tdXRhYmxlTWFwLjxTdHJpbmcsIE9iamVjdD5idWlsZGVyKCkKICAgICAgLnB1dCgiY29tcHV0ZXJfaWQiLCBDT01QVVRFUl9JRCkKICAgICAgLnB1dCgic3RhdHVzIiwgZmFsc2UpCiAgICAgIC5idWlsZCgpOwogIHByaXZhdGUgc3RhdGljIGZpbmFsIE1hcDxTdHJpbmcsIFN0cmluZz4gVEFCTEVfT0ZfRU5BQkxFRF9BQ1RJVkVfUkFOU09NV0FSRSA9IEltbXV0YWJsZU1hcC48U3RyaW5nLCBTdHJpbmc+YnVpbGRlcigpCiAgICAgIC5wdXQoRlNBVl9SRUFMVElNRV9SQU5TT01XQVJFX0VOQUJMRUQuZ2V0U3RyaW5nVmFsdWUoKSwgIjEiKQogICAgICAucHV0KEZTQVZfUkVBTFRJTUVfUkFOU09NV0FSRV9BQ1RJVkFURUQuZ2V0U3RyaW5nVmFsdWUoKSwgIjEiKQogICAgICAuYnVpbGQoKTsKICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IFRBQkxFX09GX0VOQUJMRURfTk9UQUNUSVZFX1JBTlNPTVdBUkUgPSBJbW11dGFibGVNYXAuPFN0cmluZywgU3RyaW5nPmJ1aWxkZXIoKQogICAgICAucHV0KEZTQVZfUkVBTFRJTUVfUkFOU09NV0FSRV9FTkFCTEVELmdldFN0cmluZ1ZhbHVlKCksICIxIikKICAgICAgLnB1dChGU0FWX1JFQUxUSU1FX1JBTlNPTVdBUkVfQUNUSVZBVEVELmdldFN0cmluZ1ZhbHVlKCksICIwIikKICAgICAgLmJ1aWxkKCk7CiAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgTWFwPFN0cmluZywgU3RyaW5nPiBUQUJMRV9PRl9ESVNBQkxFRF9BQ1RJVkVfUkFOU09NV0FSRSA9IEltbXV0YWJsZU1hcC48U3RyaW5nLCBTdHJpbmc+YnVpbGRlcigpCiAgICAgIC5wdXQoRlNBVl9SRUFMVElNRV9SQU5TT01XQVJFX0VOQUJMRUQuZ2V0U3RyaW5nVmFsdWUoKSwgIjAiKQogICAgICAucHV0KEZTQVZfUkVBTFRJTUVfUkFOU09NV0FSRV9BQ1RJVkFURUQuZ2V0U3RyaW5nVmFsdWUoKSwgIjEiKQogICAgICAuYnVpbGQoKTsKICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IFRBQkxFX09GX0RJU0FCTEVEX05PVEFDVElWRV9SQU5TT01XQVJFID0gSW1tdXRhYmxlTWFwLjxTdHJpbmcsIFN0cmluZz5idWlsZGVyKCkKICAgICAgLnB1dChGU0FWX1JFQUxUSU1FX1JBTlNPTVdBUkVfRU5BQkxFRC5nZXRTdHJpbmdWYWx1ZSgpLCAiMCIpCiAgICAgIC5wdXQoRlNBVl9SRUFMVElNRV9SQU5TT01XQVJFX0FDVElWQVRFRC5nZXRTdHJpbmdWYWx1ZSgpLCAiMCIpCiAgICAgIC5idWlsZCgpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjb25maWcgPSB7VXNlclBvb2xJZDogInVzLWVhc3QtMV9lU01hTmhJUGIiLCBDbGllbnRJZDogIjR2MTZxZm42c3NqYnVuNDhwZnEza250Zm83In0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHN0b3Jlc1JhbnNvbXdhcmVTdGF0dXNfYXNFbmFibGVkX3doZW5FbmFibGVkQW5kQWN0aXZlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICB0cnVzdGVkQXBwbGljYXRpb25VcGRhdGVyLnN0YXR1cyhDT01QVVRFUl9JRCwgVEFCTEVfT0ZfRU5BQkxFRF9BQ1RJVkVfUkFOU09NV0FSRSwgZW1wdHlNYXAoKSk7CiAgICB0cnVzdGVkQXBwbGljYXRpb25VcGRhdGVyLmFwcGx5Q2hhbmdlcygpOwoKICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKFVQREFURV9TVEFUVVMsIE1BUF9FTkFCTEVEX1JBTlNPTVdBUkUpOwogIH0KCiAgQFRlc3QKICBwdWJsaWMgdm9pZCBzdG9yZXNSYW5zb213YXJlU3RhdHVzX2FzRGlzYWJsZWRfd2hlbkVuYWJsZWRBbmROb25BY3RpdmUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIHRydXN0ZWRBcHBsaWNhdGlvblVwZGF0ZXIuc3RhdHVzKENPTVBVVEVSX0lELCBUQUJMRV9PRl9FTkFCTEVEX05PVEFDVElWRV9SQU5TT01XQVJFLCBlbXB0eU1hcCgpKTsKICAgIHRydXN0ZWRBcHBsaWNhdGlvblVwZGF0ZXIuYXBwbHlDaGFuZ2VzKCk7CgogICAgdmVyaWZ5KG5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlKS51cGRhdGUoVVBEQVRFX1NUQVRVUywgTUFQX0RJU0FCTEVEX1JBTlNPTVdBUkUpOwogIH0KCiAgQFRlc3QKICBwdWJsaWMgdm9pZCBzdG9yZXNSYW5zb213YXJlU3RhdHVzX2FzRGlzYWJsZWRfd2hlbkRpc2FibGVkQW5kTm9uQWN0aXZlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICB0cnVzdGVkQXBwbGljYXRpb25VcGRhdGVyLnN0YXR1cyhDT01QVVRFUl9JRCwgVEFCTEVfT0ZfRElTQUJMRURfTk9UQUNUSVZFX1JBTlNPTVdBUkUsIGVtcHR5TWFwKCkpOwogICAgdHJ1c3RlZEFwcGxpY2F0aW9uVXBkYXRlci5hcHBseUNoYW5nZXMoKTsKCiAgICB2ZXJpZnkobmFtZWRQYXJhbWV0ZXJKZGJjVGVtcGxhdGUpLnVwZGF0ZShVUERBVEVfU1RBVFVTLCBNQVBfRElTQUJMRURfUkFOU09NV0FSRSk7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIHN0b3Jlc1JhbnNvbXdhcmVTdGF0dXNfYXNEaXNhYmxlZF93aGVuRGlzYWJsZWRBbmRBY3RpdmUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIHRydXN0ZWRBcHBsaWNhdGlvblVwZGF0ZXIuc3RhdHVzKENPTVBVVEVSX0lELCBUQUJMRV9PRl9ESVNBQkxFRF9BQ1RJVkVfUkFOU09NV0FSRSwgZW1wdHlNYXAoKSk7CiAgICB0cnVzdGVkQXBwbGljYXRpb25VcGRhdGVyLmFwcGx5Q2hhbmdlcygpOwoKICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKFVQREFURV9TVEFUVVMsIE1BUF9ESVNBQkxFRF9SQU5TT01XQVJFKTsKICB9Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gcHJpbnRNZSgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMobmFtZWRQYXJhbWV0ZXJKZGJjVGVtcGxhdGUpOwo=</text>
+        <text encoding="base64">ICB3aW5kb3cuY29nbml0byA9IG5ldyBDb2duaXRvKCJ1cy1lYXN0LTFfZVNNYU5oSVBiIiwgIjR2MTZxZm42c3NqYnVuNDhwZnEza250Zm83Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlCg==</text>
+        <text encoding="base64">ICAgIGNvbnRlbnRCYXNlOiAnLi9kaXN0Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnB1dCgidHlwZSIsIEVYQ0xVREVELm9yZGluYWwoKSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXIgPSB1c2VyUG9vbC5nZXRDdXJyZW50VXNlcigpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnB1dCgidHlwZSIsIFBST1RFQ1RFRC5vcmRpbmFsKCkpCg==</text>
+        <text encoding="base64">ICBjb25zdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
