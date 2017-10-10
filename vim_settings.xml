@@ -835,11 +835,11 @@
         <mark key="^" line="154" column="4" />
         <mark key="." line="154" column="4" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/src/debug.js" timestamp="1507553460133">
-        <mark key="[" line="3" column="92" />
-        <mark key="]" line="3" column="92" />
-        <mark key="." line="3" column="92" />
-        <mark key="^" line="0" column="33" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/debug.js" timestamp="1507554453805">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/admin/configuration/computerProtection.jsp" timestamp="1504594823432">
         <mark key="[" line="11" column="40" />
@@ -865,11 +865,11 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" timestamp="1507553296030">
-        <mark key="[" line="31" column="1" />
-        <mark key="]" line="22" column="63" />
-        <mark key="." line="22" column="63" />
-        <mark key="^" line="22" column="63" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" timestamp="1507554465424">
+        <mark key="[" line="43" column="3" />
+        <mark key="]" line="37" column="52" />
+        <mark key="." line="37" column="52" />
+        <mark key="^" line="6" column="38" />
       </file>
       <file name="$USER_HOME$/dev-sources/fsc-redis-client-js/package-lock.json" timestamp="1506670653418">
         <mark key="[" line="500" column="22" />
@@ -1157,7 +1157,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>abc@de.com</text>
+        <text>)</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1179,13 +1179,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>abc@de.com</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQU0JfQ09NUFVURVJfUFJPVEVDVElPTl9QUkVNSVVNXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBhdHRyaWJ1dGVFbWFpbCA9IG5ldyBDb2duaXRvVXNlckF0dHJpYnV0ZShlbWFpbCk7Cg==</text>
+        <text encoding="base64">ICB3aW5kb3cuY29nbiA9Y29nbml0by5zZXR1cChjb25maWcpLnNpZ25VcCh7bmFtZTogImNocmRlIiwgcGFzc3dvcmQ6ICJDaHJkZTEhfjEyMyIsIGVtYWlsOiAiYXBpZ29sYXNAZ21haWwuY29tIn0pKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBhdAo=</text>
