@@ -853,12 +853,12 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" timestamp="1507642627744">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="54" column="3" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="19" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/src/cognito.js" timestamp="1507646682077">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="8" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="28" column="8" />
       </file>
       <file name="$USER_HOME$/github/cognito-redux-middleware/src/utils.js" timestamp="1507641530972">
         <mark key="[" line="1" column="43" />
@@ -1137,8 +1137,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Pr fixes
-255 chars won't be enough to store folder paths</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1160,47 +1159,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>255</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgIHRoaXMudXNlclBvb2wuc2lnblVwKHVzZXJEYXRhLm5hbWUsIHVzZXJEYXRhLnBhc3N3b3JkLCBhdHRyaWJ1dGVzLCB1bmRlZmluZWQsIChlcnIsIHJlc3VsdCkgPT4gewogICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgIHJlamVjdChlcnIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICByZXNvbHZlKHJlc3VsdCk7CiAgICAgICAgfQogICAgICB9KTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvZ25pdG9Vc2VyID0gbmV3IENvZ25pdG9Vc2VyKHtVc2VybmFtZTogdXNlckRhdGEubmFtZSwgUG9vbDogdGhpcy51c2VyUG9vbH0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Pr fixes
-255 chars won't be enough to store folder paths</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0pLnRoZW4odGhpcy5hZGRVc2VyQXR0cmlidXRlcyhjb2duaXRvVXNlcikpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy51c2VyID0gY29nbml0b1VzZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBNT0RJRlkgcGF0aCBWQVJDSEFSKDI1NSkgTk9UIE5VTEw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgcmFuc29td2FyZV9wYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2Vzc2lvbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmVycm9yKCdFcnJvciB3aGlsZSBnZXR0aW5nIHVzZXJcJ3Mgc2Vzc2lvbicsIGVycik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnRNZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVycikgewo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvZ25pdG9Vc2VyLmdldFNlc3Npb24oKGVyciwgc2Vzc2lvbikgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBjb25maWcgPSB7VXNlclBvb2xJZDogInVzLWVhc3QtMV9lU01hTmhJUGIiLCBDbGllbnRJZDogIjR2MTZxZm42c3NqYnVuNDhwZnEza250Zm83In0K</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHVzZXIgPSB0aGlzLnVzZXJQb29sLmdldEN1cnJlbnRVc2VyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
