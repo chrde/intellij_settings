@@ -474,7 +474,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="102" column="3" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/protection/computer/CalculateComputerClientType.java" timestamp="1504687838644">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/protection/computer/CalculateComputerClientType.java" timestamp="1507898001613">
         <mark key="[" line="83" column="108" />
         <mark key="]" line="82" column="4" />
         <mark key="^" line="82" column="4" />
@@ -902,7 +902,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507799389724">
+      <file name="/Dummy.txt" timestamp="1507897725613">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -1201,7 +1201,7 @@
         <text encoding="base64">ICAgICAgICAgIGNvZ25pdG9Vc2VyLmdldFNlc3Npb24oKGVyciwgc2Vzc2lvbikgPT4gewo=</text>
       </register>
       <register name=":" type="4">
-        <text>12</text>
+        <text>42</text>
       </register>
     </registers>
     <search>
@@ -1237,7 +1237,6 @@
         <entry encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>ws</entry>
         <entry>on</entry>
         <entry>only</entry>
         <entry>close</entry>
@@ -1257,6 +1256,7 @@
         <entry>202</entry>
         <entry>289</entry>
         <entry>12</entry>
+        <entry>42</entry>
       </history-cmd>
       <history-expr />
       <history-input />
