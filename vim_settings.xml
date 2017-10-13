@@ -227,11 +227,11 @@
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/github/cognito-redux-middleware/webpack.config.js" timestamp="1507640414990">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="8" />
+      <file name="$USER_HOME$/github/cognito-redux-middleware/webpack.config.js" timestamp="1507881181703">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="36" />
         <mark key="^" line="21" column="8" />
-        <mark key="." line="21" column="8" />
+        <mark key="." line="25" column="36" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/NewComputerData.java" timestamp="1506005304649">
         <mark key="[" line="27" column="35" />
@@ -1136,8 +1136,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1159,7 +1159,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>addUserAttributes</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
