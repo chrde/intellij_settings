@@ -184,6 +184,7 @@
         <mark key="^" line="0" column="158110" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/ServiceType.java" timestamp="1508152663039" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdSupplier.java" timestamp="1496149039262">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -474,11 +475,10 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="102" column="3" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/protection/computer/CalculateComputerClientType.java" timestamp="1507898001613">
-        <mark key="[" line="83" column="108" />
-        <mark key="]" line="82" column="4" />
-        <mark key="^" line="82" column="4" />
-        <mark key="." line="82" column="4" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/protection/computer/CalculateComputerClientType.java" timestamp="1508152490038">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToRansomwareCategoryDtoConverterTest.java" timestamp="1504086594149">
         <mark key="[" line="115" column="27" />
@@ -582,6 +582,7 @@
         <mark key="^" line="24" column="33" />
         <mark key="." line="24" column="34" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/subscriptions/fs_expiration_date/fs_expiration_date.js" timestamp="1507535585871" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/internal/CosmosProfileResource.java" timestamp="1494490670444">
         <mark key="[" line="92" column="60" />
         <mark key="]" line="92" column="60" />
@@ -1136,8 +1137,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAuZmlsCg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1168,37 +1169,37 @@
         <text encoding="base64">ICAgIGNvbnN0IGNvZ25pdG9Vc2VyID0gbmV3IENvZ25pdG9Vc2VyKHtVc2VybmFtZTogdXNlckRhdGEubmFtZSwgUG9vbDogdGhpcy51c2VyUG9vbH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZmlsCg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pLnRoZW4odGhpcy5hZGRVc2VyQXR0cmlidXRlcyhjb2duaXRvVXNlcikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy51c2VyID0gY29nbml0b1VzZXI7Cg==</text>
+        <text encoding="base64">ICAgIH0pLnRoZW4odGhpcy5hZGRVc2VyQXR0cmlidXRlcyhjb2duaXRvVXNlcikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy51c2VyID0gY29nbml0b1VzZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2Vzc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2Vzc2lvbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmVycm9yKCdFcnJvciB3aGlsZSBnZXR0aW5nIHVzZXJcJ3Mgc2Vzc2lvbicsIGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVycikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmVycm9yKCdFcnJvciB3aGlsZSBnZXR0aW5nIHVzZXJcJ3Mgc2Vzc2lvbicsIGVycik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvZ25pdG9Vc2VyLmdldFNlc3Npb24oKGVyciwgc2Vzc2lvbikgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVycikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
