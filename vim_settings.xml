@@ -276,11 +276,11 @@
         <mark key="^" line="62" column="109" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwarePath.java" timestamp="1508319100223">
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="37" />
-        <mark key="^" line="25" column="37" />
-        <mark key="." line="25" column="37" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwarePath.java" timestamp="1508329309137">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/github/cognito-redux-middleware/index_browser.js" timestamp="1507549866391">
         <mark key="[" line="4" column="12" />
@@ -908,10 +908,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508326802239">
+      <file name="/Dummy.txt" timestamp="1508329416117">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -1143,7 +1143,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Arrays.asList(new String[]{}, new String[]{});</text>
+        <text>private</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1165,7 +1165,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Arrays.asList(new String[]{}, new String[]{});</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
