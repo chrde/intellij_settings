@@ -908,10 +908,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508330513458">
+      <file name="/Dummy.txt" timestamp="1508397329142">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -943,11 +943,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1508327375418">
-        <mark key="[" line="84" column="49" />
-        <mark key="]" line="84" column="49" />
-        <mark key="." line="84" column="49" />
-        <mark key="^" line="127" column="23" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1508397135191">
+        <mark key="[" line="127" column="19" />
+        <mark key="]" line="127" column="35" />
+        <mark key="." line="127" column="35" />
+        <mark key="^" line="127" column="35" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal-service-interface/src/main/java/com/fsecure/psp/service/computer/dto/HostGroupId.java" timestamp="1503404069222">
         <mark key="[" line="18" column="39" />
@@ -1143,7 +1143,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text encoding="base64">KHBhdGggLT4gcGF0aC5pZlByZXNlbnQoYWRkVG9CYXRjaFVwZGF0ZSkp</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1165,46 +1165,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text encoding="base64">KHBhdGggLT4gcGF0aC5pZlByZXNlbnQoYWRkVG9CYXRjaFVwZGF0ZSkp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRBQkxFX1dJVEhfRU1QVFlfUEFUSFMucHV0KFJBTlNPTVdBUkVfRVhDTFVERURfUEFUSFMsIGVtcHR5UGF0aHMpOwo=</text>
+        <text encoding="base64">ICAgICAgdGFibGUuZm9yRWFjaChwIC0+IHByb3RlY3RlZFBhdGgocCkuaWZQcmVzZW50KHBhdGhzOjphZGQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGFibGUuZm9yRWFjaChwIC0+IHBhdGhzLmFkZChleGNsdWRlZFBhdGgocCkpKTsK</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGFibGUuZm9yRWFjaChwIC0+IHBhdGhzLmFkZChwcm90ZWN0ZWRQYXRoKHApKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKHBhdGggPT0gbnVsbCl7CiAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfWVsc2UgewogICAgICByZXR1cm4gT3B0aW9uYWwub2YobmV3IFJhbnNvbXdhcmVQYXRoKHBhdGgsIFBST1RFQ1RFRCkpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKHBhdGggPT0gbnVsbCl7CiAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfWVsc2UgewogICAgICByZXR1cm4gT3B0aW9uYWwub2YobmV3IFJhbnNvbXdhcmVQYXRoKHBhdGgsIEVYQ0xVREVEKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKHBhdGggPT0gbnVsbCl7CiAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfWVsc2UgewogICAgICByZXR1cm4gT3B0aW9uYWwub2YobmV3IFJhbnNvbXdhcmVQYXRoKHBhdGgsIEVYQ0xVREVEKSk7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgIGlmKHBhdGggPT0gbnVsbCl7CiAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfWVsc2UgewogICAgICByZXR1cm4gT3B0aW9uYWwub2YobmV3IFJhbnNvbXdhcmVQYXRoKHBhdGgsIFBST1RFQ1RFRCkpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmKHBhdGggPT0gbnVsbCl7CiAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfWVsc2UgewogICAgICByZXR1cm4gT3B0aW9uYWwub2YobmV3IFJhbnNvbXdhcmVQYXRoKHBhdGgsIEVYQ0xVREVEKSk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUmFuc29td2FyZVBhdGgocGF0aCwgUFJPVEVDVEVEKTsK</text>
+        <text encoding="base64">ICAgIGlmKHBhdGggPT0gbnVsbCl7CiAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfWVsc2UgewogICAgICByZXR1cm4gT3B0aW9uYWwub2YobmV3IFJhbnNvbXdhcmVQYXRoKHBhdGgsIEVYQ0xVREVEKSk7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zdW1lcjxSYW5zb213YXJlUGF0aD4gYWRkVG9CYXRjaFVwZGF0ZSA9IHBhdGggLT4gc3FsQmF0Y2hVcGRhdGVyLmFkZEFyZ3MoY29tcHV0ZXJJZCwgcGF0aC5nZXRQYXRoKCksIHBhdGguZ2V0VHlwZSgpLm9yZGluYWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUmFuc29td2FyZVBhdGgocGF0aCwgUFJPVEVDVEVEKTsK</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
