@@ -162,6 +162,7 @@
         <mark key="." line="36" column="1" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/properties/NotMacClientTypeProperty.java" timestamp="1508403933082" />
+      <file name="$USER_HOME$/dev-sources/spi/lib/service/psb/connector.js" timestamp="1508410893079" />
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/CosmosProfileServiceTest.java" timestamp="1496135990707">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -898,7 +899,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508409549273">
+      <file name="/Dummy.txt" timestamp="1508410908323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
