@@ -456,10 +456,10 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508418201506">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="/Dummy.txt" timestamp="1508419662795">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-utils/src/main/java/com/fsecure/common/util/uuid/UUIDSource.java" timestamp="1499843462970">
         <mark key="[" line="9" column="6" />
@@ -873,11 +873,11 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1507636492607">
-        <mark key="[" line="179" column="36" />
-        <mark key="]" line="109" column="31" />
-        <mark key="^" line="109" column="31" />
-        <mark key="." line="109" column="31" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1508419627861">
+        <mark key="[" line="272" column="138" />
+        <mark key="]" line="272" column="164" />
+        <mark key="^" line="272" column="164" />
+        <mark key="." line="272" column="164" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesActionTest.java" timestamp="1497427621958">
         <mark key="[" line="88" column="32" />
@@ -1161,7 +1161,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>WORKSTATION_SUBSCRIPTION</text>
+        <text>215 - supported products for tokensignup is not updated</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1183,7 +1183,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>WORKSTATION_SUBSCRIPTION</text>
+        <text>215 - supported products for tokensignup is not updated</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
