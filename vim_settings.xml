@@ -597,11 +597,6 @@
         <mark key="." line="78" column="38" />
         <mark key="^" line="78" column="38" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/properties/status/overall/NeedsAttentionProperty.java" timestamp="1508407109154">
-        <mark key="[" line="348" column="17" />
-        <mark key="]" line="348" column="17" />
-        <mark key="." line="348" column="17" />
-      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1502961185828">
         <mark key="[" line="3111" column="142" />
         <mark key="]" line="3111" column="142" />
@@ -909,7 +904,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508407236681">
+      <file name="/Dummy.txt" timestamp="1508408750745">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
