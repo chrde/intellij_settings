@@ -416,11 +416,21 @@
         <mark key="^" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SubscriptionForRegistrationValidator.java" timestamp="1508417596280">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/mvc/model/license/SubscriptionModel.java" timestamp="1507101394891">
         <mark key="[" line="32" column="35" />
         <mark key="]" line="32" column="62" />
         <mark key="^" line="32" column="62" />
         <mark key="." line="32" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/IsCriteriaBuilder.java" timestamp="1508404716409">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdServiceTest.java" timestamp="1496661904827">
         <mark key="[" line="62" column="0" />
@@ -446,7 +456,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508410908323">
+      <file name="/Dummy.txt" timestamp="1508417579433">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -731,6 +741,11 @@
         <mark key="." line="74" column="69" />
         <mark key="^" line="74" column="69" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/protection/computer/CalculateComputerClientType.java" timestamp="1508152490038">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToRansomwareCategoryDtoConverterTest.java" timestamp="1504086594149">
         <mark key="[" line="115" column="27" />
         <mark key="]" line="115" column="29" />
@@ -913,7 +928,7 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1508410111029">
+      <file name="/JavaScript Console" timestamp="1508417486073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/cognito-redux-middleware/src/utils.js" timestamp="1507641530972">
