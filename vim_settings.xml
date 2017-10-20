@@ -308,11 +308,11 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="16" column="201" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdater.java" timestamp="1507636534685">
-        <mark key="[" line="78" column="20" />
-        <mark key="]" line="78" column="38" />
-        <mark key="." line="78" column="38" />
-        <mark key="^" line="78" column="38" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdater.java" timestamp="1508483559752">
+        <mark key="[" line="53" column="20" />
+        <mark key="]" line="54" column="9" />
+        <mark key="^" line="54" column="9" />
+        <mark key="." line="54" column="9" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1502961185828">
         <mark key="[" line="3111" column="142" />
@@ -456,8 +456,8 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508419662795">
-        <mark key="[" line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1508483921090">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
@@ -467,6 +467,7 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/subscription/segmentation/SegmentSubscriptionRepositoryImpl.java" timestamp="1508483945071" />
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/operations/operations_factory_service.js" timestamp="1504792022194">
         <mark key="[" line="112" column="56" />
         <mark key="]" line="112" column="56" />
@@ -693,11 +694,11 @@
         <mark key="." line="57" column="2" />
         <mark key="^" line="129" column="89" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdaterTest.java" timestamp="1507637934407">
-        <mark key="[" line="39" column="106" />
-        <mark key="]" line="39" column="106" />
-        <mark key="^" line="39" column="106" />
-        <mark key="." line="39" column="106" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdaterTest.java" timestamp="1508483738374">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="66" column="80" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1503583710633">
         <mark key="[" line="64" column="60" />
@@ -806,7 +807,7 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1508327564916">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1508483651319">
         <mark key="[" line="45" column="78" />
         <mark key="]" line="45" column="81" />
         <mark key="^" line="45" column="81" />
@@ -998,10 +999,10 @@
         <mark key="^" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1508397135191">
-        <mark key="[" line="127" column="19" />
-        <mark key="]" line="127" column="35" />
-        <mark key="." line="127" column="35" />
-        <mark key="^" line="127" column="35" />
+        <mark key="[" line="129" column="19" />
+        <mark key="]" line="129" column="35" />
+        <mark key="." line="129" column="35" />
+        <mark key="^" line="129" column="35" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal-service-interface/src/main/java/com/fsecure/psp/service/computer/dto/HostGroupId.java" timestamp="1503404069222">
         <mark key="[" line="18" column="39" />
@@ -1160,8 +1161,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>215 - supported products for tokensignup is not updated</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX1BST1RFQ1RFRCkpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1183,46 +1184,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>215 - supported products for tokensignup is not updated</text>
+        <text>TABLE_WITH_EMPTY_PATHS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBhbGxvd2VkVHlwZXMgPSBTdHJpbmcuZm9ybWF0KCIlZCIsIFBTQl9XT1JLU1RBVElPTl9TRUNVUklUWS5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKERFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX1BST1RFQ1RFRCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX1BST1RFQ1RFRCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgQFRlc3QoZXhwZWN0ZWQgPSBJbnZhbGlkU3Vic2NyaXB0aW9uVHlwZUV4Y2VwdGlvbi5jbGFzcykKICBwdWJsaWMgdm9pZCByZWdpc3Rlcl9mYWlsc1doZW5TdWJzY3JpcHRpb25Jc05vdFBTQldLUygpIHsKICAgIFN1YnNjcmlwdGlvbkR0byBzdWJzY3JpcHRpb24gPSBzdWJzY3JpcHRpb25EdG8oKS5pZChTVUJTQ1JJUFRJT05fSUQpLnByb2R1Y3RUeXBlKG9mKFBTQl9FTUFJTF9BTkRfU0VSVkVSX1NFQ1VSSVRZKSkuYnVpbGQoKTsKICAgIHdoZW4oc3Vic2NyaXB0aW9uRm9yQ29tcHV0ZXJSZXRyaWV2ZXIuZ2V0QXNzaWduYWJsZShTVUJTQ1JJUFRJT05fS0VZLCBSRVFVSVJFRF9TVUJTQ1JJUFRJT05fU0VBVFNfQ09VTlQpKS50aGVuUmV0dXJuKHN1YnNjcmlwdGlvbik7CgogICAgc3BpQ29tcHV0ZXJSZWdpc3RyYXRpb25TZXJ2aWNlLnJlZ2lzdGVyKENPTVBVVEVSX1dJVEhfV0lOU05BTUVfUkVHSVNURVJfRFRPKTsK</text>
+        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX0VYQ0xVREVEKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN1YnNjcmlwdGlvbkR0byBzdWJzY3JpcHRpb25EdG8gPSBzdWJzY3JpcHRpb25EdG9Gcm9tKHN1YnNjcmlwdGlvbikuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeSh2YWxpZGF0b3IpLnZhbGlkYXRlKHN1YnNjcmlwdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoZW4odmFsaWRhdG9yLnZhbGlkYXRlKHN1YnNjcmlwdGlvbikpLnRoZW5UaHJvdyhJbnZhbGlkU3Vic2NyaXB0aW9uVHlwZUV4Y2VwdGlvbi5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhdGhzLmFkZChwWzBdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN1YnNjcmlwdGlvbkR0byBzdWJzY3JpcHRpb24gPSBzdWJzY3JpcHRpb25EdG8oKS5pZChTVUJTQ1JJUFRJT05fSUQpLnByb2R1Y3RUeXBlKE9wdGlvbmFsLmVtcHR5KCkpLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLmZvckVhY2gocCAtPiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQodmFsaWRhdG9yLnZhbGlkYXRlKHN1YnNjcmlwdGlvbikpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocCAhPSBudWxsICYmIHBbMF0gIT0gbnVsbCkgewo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFQK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8KLy8gIEBUZXN0Ci8vICBwdWJsaWMgdm9pZCBhbGxvd2VkU3Vic2NyaXB0aW9uc19ub1NlcnZpY2VUeXBlcygpIHRocm93cyBFeGNlcHRpb24gewovLyAgICB3aGVuKHN5c3RlbUNvbmZpZy5nZXRTZXR0aW5nKEFMTE9XRURfU0VSVklDRV9UWVBFUykpLnRoZW5SZXR1cm4oIiIpOwovLyAgICBhc3NlcnRUaGF0KHNwaUNvbXB1dGVyUmVnaXN0cmF0aW9uU2VydmljZS5hbGxvd2VkU3Vic2NyaXB0aW9uVHlwZXMoKSkuaXNFbXB0eSgpOwovLyAgfQovLwovLyAgQFRlc3QKLy8gIHB1YmxpYyB2b2lkIGFsbG93ZWRTdWJzY3JpcHRpb25zX25vU2VydmljZVR5cGVzX3dpdGhUcmFpbGluZ0NvbW1hKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Ci8vICAgIHdoZW4oc3lzdGVtQ29uZmlnLmdldFNldHRpbmcoQUxMT1dFRF9TRVJWSUNFX1RZUEVTKSkudGhlblJldHVybigiLCIpOwovLyAgICBhc3NlcnRUaGF0KHNwaUNvbXB1dGVyUmVnaXN0cmF0aW9uU2VydmljZS5hbGxvd2VkU3Vic2NyaXB0aW9uVHlwZXMoKSkuaXNFbXB0eSgpOwovLyAgfQovLwovLyAgQFRlc3QKLy8gIHB1YmxpYyB2b2lkIGFsbG93ZWRTdWJzY3JpcHRpb25zX29uZVNlcnZpY2VUeXBlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Ci8vICAgIFN0cmluZyBhbGxvd2VkVHlwZXMgPSBTdHJpbmcuZm9ybWF0KCIlZCIsIFBTQl9FTUFJTF9BTkRfU0VSVkVSX1NFQ1VSSVRZLmdldElkKCkpOwovLyAgICB3aGVuKHN5c3RlbUNvbmZpZy5nZXRTZXR0aW5nKEFMTE9XRURfU0VSVklDRV9UWVBFUykpLnRoZW5SZXR1cm4oYWxsb3dlZFR5cGVzKTsKLy8gICAgYXNzZXJ0VGhhdChzcGlDb21wdXRlclJlZ2lzdHJhdGlvblNlcnZpY2UuYWxsb3dlZFN1YnNjcmlwdGlvblR5cGVzKCkpLmNvbnRhaW5zRXhhY3RseShQU0JfRU1BSUxfQU5EX1NFUlZFUl9TRUNVUklUWSk7Ci8vICB9Ci8vCi8vICBAVGVzdAovLyAgcHVibGljIHZvaWQgYWxsb3dlZFN1YnNjcmlwdGlvbnNfb25lU2VydmljZVR5cGVfd2l0aFRyYWlsaW5nQ29tbWEoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgU3RyaW5nIGFsbG93ZWRUeXBlcyA9IFN0cmluZy5mb3JtYXQoIiwlZCwiLCBQU0JfRU1BSUxfQU5EX1NFUlZFUl9TRUNVUklUWS5nZXRJZCgpKTsKLy8gICAgd2hlbihzeXN0ZW1Db25maWcuZ2V0U2V0dGluZyhBTExPV0VEX1NFUlZJQ0VfVFlQRVMpKS50aGVuUmV0dXJuKGFsbG93ZWRUeXBlcyk7Ci8vICAgIGFzc2VydFRoYXQoc3BpQ29tcHV0ZXJSZWdpc3RyYXRpb25TZXJ2aWNlLmFsbG93ZWRTdWJzY3JpcHRpb25UeXBlcygpKS5jb250YWluc0V4YWN0bHkoUFNCX0VNQUlMX0FORF9TRVJWRVJfU0VDVVJJVFkpOwovLyAgfQovLwovLyAgQFRlc3QKLy8gIHB1YmxpYyB2b2lkIGFsbG93ZWRTdWJzY3JpcHRpb25zX21hbnlTZXJ2aWNlVHlwZXMoKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgU3RyaW5nIGFsbG93ZWRUeXBlcyA9IFN0cmluZwovLyAgICAgICAgLmZvcm1hdCgiJWQsICVkLCAlZCIsIFBTQl9GUkVFRE9NRV9FWFRfTURNLmdldElkKCksIFBTQl9DT01QVVRFUl9QUk9URUNUSU9OX1BSRU1JVU0uZ2V0SWQoKSwgUFNCX1dPUktTVEFUSU9OX1NFQ1VSSVRZLmdldElkKCkpOwovLyAgICB3aGVuKHN5c3RlbUNvbmZpZy5nZXRTZXR0aW5nKEFMTE9XRURfU0VSVklDRV9UWVBFUykpLnRoZW5SZXR1cm4oYWxsb3dlZFR5cGVzKTsKLy8gICAgYXNzZXJ0VGhhdChzcGlDb21wdXRlclJlZ2lzdHJhdGlvblNlcnZpY2UuYWxsb3dlZFN1YnNjcmlwdGlvblR5cGVzKCkpCi8vICAgICAgICAuY29udGFpbnNPbmx5KFBTQl9DT01QVVRFUl9QUk9URUNUSU9OX1BSRU1JVU0sIFBTQl9XT1JLU1RBVElPTl9TRUNVUklUWSwgUFNCX0ZSRUVET01FX0VYVF9NRE0pOwovLyAgfQo=</text>
+        <text encoding="base64">CiAgQFRlc3QoZXhwZWN0ZWQgPSBJbnZhbGlkU3Vic2NyaXB0aW9uVHlwZUV4Y2VwdGlvbi5jbGFzcykKICBwdWJsaWMgdm9pZCByZWdpc3Rlcl9mYWlsc1doZW5TdWJzY3JpcHRpb25Jc05vdFBTQldLUygpIHsKICAgIFN1YnNjcmlwdGlvbkR0byBzdWJzY3JpcHRpb24gPSBzdWJzY3JpcHRpb25EdG8oKS5pZChTVUJTQ1JJUFRJT05fSUQpLnByb2R1Y3RUeXBlKG9mKFBTQl9FTUFJTF9BTkRfU0VSVkVSX1NFQ1VSSVRZKSkuYnVpbGQoKTsKICAgIHdoZW4oc3Vic2NyaXB0aW9uRm9yQ29tcHV0ZXJSZXRyaWV2ZXIuZ2V0QXNzaWduYWJsZShTVUJTQ1JJUFRJT05fS0VZLCBSRVFVSVJFRF9TVUJTQ1JJUFRJT05fU0VBVFNfQ09VTlQpKS50aGVuUmV0dXJuKHN1YnNjcmlwdGlvbik7CgogICAgc3BpQ29tcHV0ZXJSZWdpc3RyYXRpb25TZXJ2aWNlLnJlZ2lzdGVyKENPTVBVVEVSX1dJVEhfV0lOU05BTUVfUkVHSVNURVJfRFRPKTsK</text>
       </register>
       <register name=":" type="4">
         <text>130,164d</text>
