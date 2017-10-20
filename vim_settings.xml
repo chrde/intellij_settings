@@ -248,11 +248,11 @@
         <mark key="^" line="3" column="141" />
         <mark key="." line="3" column="141" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/ci/latest/overrides.json" timestamp="1505393978393">
-        <mark key="[" line="163" column="92" />
-        <mark key="]" line="163" column="92" />
-        <mark key="^" line="160" column="63" />
-        <mark key="." line="163" column="92" />
+      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/ci/latest/overrides.json" timestamp="1508504040703">
+        <mark key="[" line="213" column="92" />
+        <mark key="]" line="213" column="92" />
+        <mark key="^" line="210" column="63" />
+        <mark key="." line="213" column="92" />
       </file>
       <file name="$USER_HOME$/dev-sources/system-psb/configs/production/global-psb-prd-ue1.json" timestamp="1494417536238">
         <mark key="[" line="23" column="64" />
@@ -284,11 +284,11 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/micro-cosmos/config/dev-local.config.json" timestamp="1505809485304">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="50" />
-        <mark key="." line="9" column="50" />
-        <mark key="^" line="9" column="50" />
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/config/dev-local.config.json" timestamp="1508503856297">
+        <mark key="[" line="39" column="127" />
+        <mark key="]" line="39" column="127" />
+        <mark key="." line="39" column="127" />
+        <mark key="^" line="39" column="38" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/tools/dis-load-generator/dis-load-generator-status.js" timestamp="1505983847049">
         <mark key="[" line="117" column="49" />
@@ -456,7 +456,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508495253645">
+      <file name="/Dummy.txt" timestamp="1508503669686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -485,12 +485,6 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/config/environment/ci/latest/root.json" timestamp="1505394110388">
-        <mark key="[" line="2313" column="25" />
-        <mark key="]" line="2314" column="16" />
-        <mark key="^" line="2314" column="16" />
-        <mark key="." line="2314" column="16" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/operations/set_default_profile_in_psb.js" timestamp="1496823391613">
         <mark key="[" line="8" column="0" />
@@ -598,6 +592,10 @@
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/logic/properties/PropertyColumn.java" timestamp="1508407227961" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/properties/NotMacClientTypeProperty.java" timestamp="1508403933082" />
       <file name="$USER_HOME$/dev-sources/spi/lib/service/psb/connector.js" timestamp="1508410893079" />
+      <file name="$USER_HOME$/dev-sources/micro-cosmos/README.md" timestamp="1508503844466">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="34" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/test/java/com/fsecure/psp/service/profile/CosmosProfileServiceTest.java" timestamp="1496135990707">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -646,6 +644,7 @@
         <mark key="^" line="53" column="103" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-config/ci/stable/micro-cosmos-config.json" timestamp="1508503648571" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/spi/ComputersControllerTest.java" timestamp="1496211033740">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -1159,7 +1158,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Arrays.asList(null);</text>
+        <text>\</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1181,46 +1180,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Arrays.asList(null);</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>singletonList(new String[]{null});</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IENfT05FSURfQ0xJRU5UX0lEPXBzYl9jb3Ntb3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX1BST1RFQ1RFRCkpOwo=</text>
+        <text encoding="base64">Y3VybCAtWCBQT1NUIC11IHBzYl9jb3Ntb3M6ZTlmUDVqTFpGSU93amxhYzJEZXEzRVI3N2d6dXdTVGZnUWxUZ096dDhaV25GdDFpallnRG9TbXROV3prcXdzbWsgLWQgJ2dyYW50X3R5cGU9Y2xpZW50X2NyZWRlbnRpYWxzJnNjb3BlPWNvc21vcy5yZWFkIGNvc21vcy53cml0ZScgaHR0cHM6Ly9vbmVpZDMuYmx1ZS5ndG4vYXMvdG9rZW4ub2F1dGgyCg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX0VYQ0xVREVEKSk7Cg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX1BST1RFQ1RFRCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX0VYQ0xVREVEKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhdGhzLmFkZChwWzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmZvckVhY2gocCAtPiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhdGhzLmFkZChwWzBdKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocCAhPSBudWxsICYmIHBbMF0gIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgLmZvckVhY2gocCAtPiB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocCAhPSBudWxsICYmIHBbMF0gIT0gbnVsbCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgQFRlc3QoZXhwZWN0ZWQgPSBJbnZhbGlkU3Vic2NyaXB0aW9uVHlwZUV4Y2VwdGlvbi5jbGFzcykKICBwdWJsaWMgdm9pZCByZWdpc3Rlcl9mYWlsc1doZW5TdWJzY3JpcHRpb25Jc05vdFBTQldLUygpIHsKICAgIFN1YnNjcmlwdGlvbkR0byBzdWJzY3JpcHRpb24gPSBzdWJzY3JpcHRpb25EdG8oKS5pZChTVUJTQ1JJUFRJT05fSUQpLnByb2R1Y3RUeXBlKG9mKFBTQl9FTUFJTF9BTkRfU0VSVkVSX1NFQ1VSSVRZKSkuYnVpbGQoKTsKICAgIHdoZW4oc3Vic2NyaXB0aW9uRm9yQ29tcHV0ZXJSZXRyaWV2ZXIuZ2V0QXNzaWduYWJsZShTVUJTQ1JJUFRJT05fS0VZLCBSRVFVSVJFRF9TVUJTQ1JJUFRJT05fU0VBVFNfQ09VTlQpKS50aGVuUmV0dXJuKHN1YnNjcmlwdGlvbik7CgogICAgc3BpQ29tcHV0ZXJSZWdpc3RyYXRpb25TZXJ2aWNlLnJlZ2lzdGVyKENPTVBVVEVSX1dJVEhfV0lOU05BTUVfUkVHSVNURVJfRFRPKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>130,164d</text>
