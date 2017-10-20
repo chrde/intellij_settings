@@ -456,7 +456,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508483921090">
+      <file name="/Dummy.txt" timestamp="1508485205771">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -694,11 +694,8 @@
         <mark key="." line="57" column="2" />
         <mark key="^" line="129" column="89" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdaterTest.java" timestamp="1508483738374">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="66" column="80" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdaterTest.java" timestamp="1508485136198">
+        <mark key="^" line="22" column="80" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1503583710633">
         <mark key="[" line="64" column="60" />
@@ -807,9 +804,9 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1508483651319">
-        <mark key="[" line="45" column="78" />
-        <mark key="]" line="45" column="81" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1508485129972">
+        <mark key="[" line="45" column="51" />
+        <mark key="]" line="45" column="84" />
         <mark key="^" line="45" column="81" />
         <mark key="." line="45" column="81" />
       </file>
@@ -1161,8 +1158,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX1BST1RFQ1RFRCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Arrays.asList(null);</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1184,13 +1181,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TABLE_WITH_EMPTY_PATHS</text>
+        <text>Arrays.asList(null);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKERFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX1BST1RFQ1RFRCkpOwo=</text>
+      <register name="0" type="4">
+        <text>singletonList(new String[]{null});</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX1BST1RFQ1RFRCkpOwo=</text>
