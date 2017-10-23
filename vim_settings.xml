@@ -456,7 +456,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508503669686">
+      <file name="/Dummy.txt" timestamp="1508755919524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -535,6 +535,7 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-config/ci/latest/environment-operation-publisher.json" timestamp="1508755589631" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/README.md" timestamp="1496824165463">
         <mark key="[" line="85" column="49" />
         <mark key="]" line="85" column="49" />
@@ -608,6 +609,7 @@
         <mark key="^" line="0" column="158110" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/lambda/templates/f-secure.psb.operation-publisher.vpc.template" timestamp="1508755909145" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/admin/configuration/configure_services.jsp" timestamp="1504530505207">
         <mark key="[" line="705" column="21" />
         <mark key="]" line="705" column="38" />
@@ -755,6 +757,7 @@
         <mark key="^" line="118" column="6" />
         <mark key="." line="118" column="6" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/tasks/update_remote_action_bucket.js" timestamp="1508755929050" />
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/subscriptionChangeSpec.js" timestamp="1503583772186">
         <mark key="[" line="152" column="6" />
         <mark key="]" line="152" column="6" />
@@ -1012,6 +1015,7 @@
         <mark key="^" line="39" column="19" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/lambda/GruntFile.js" timestamp="1508755917738" />
       <file name="$USER_HOME$/dev-sources/micro-cosmos/server.js" timestamp="1506610868992">
         <mark key="[" line="78" column="27" />
         <mark key="]" line="78" column="27" />
