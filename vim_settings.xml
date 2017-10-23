@@ -85,6 +85,7 @@
         <mark key="^" line="36" column="1" />
         <mark key="." line="36" column="1" />
       </file>
+      <file name="$USER_HOME$/dev-sources/jenkins-jobs/psb-deploy-stack/psb_deploy_stack.groovy" timestamp="1508757532190" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdSupplier.java" timestamp="1496149039262">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -535,7 +536,7 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-config/ci/latest/environment-operation-publisher.json" timestamp="1508755589631" />
+      <file name="$USER_HOME$/dev-sources/management-platform-config/ci/latest/environment-operation-publisher.json" timestamp="1508757527898" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/README.md" timestamp="1496824165463">
         <mark key="[" line="85" column="49" />
         <mark key="]" line="85" column="49" />
@@ -609,7 +610,7 @@
         <mark key="^" line="0" column="158110" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/lambda/templates/f-secure.psb.operation-publisher.vpc.template" timestamp="1508755909145" />
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/lambda/templates/f-secure.psb.operation-publisher.vpc.template" timestamp="1508757356348" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/webapp/jsp/protected/admin/configuration/configure_services.jsp" timestamp="1504530505207">
         <mark key="[" line="705" column="21" />
         <mark key="]" line="705" column="38" />
@@ -757,7 +758,13 @@
         <mark key="^" line="118" column="6" />
         <mark key="." line="118" column="6" />
       </file>
-      <file name="$USER_HOME$/dev-sources/management-platform-deploy/tasks/update_remote_action_bucket.js" timestamp="1508755929050" />
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/tasks/update_remote_action_bucket.js" timestamp="1508757284377" />
+      <file name="$USER_HOME$/dev-sources/management-platform-deploy/lambda/templates/a.template" timestamp="1508758982092">
+        <mark key="[" line="70" column="11" />
+        <mark key="]" line="70" column="11" />
+        <mark key="^" line="82" column="66" />
+        <mark key="." line="70" column="11" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/spi-rest-api/spec/subscriptionChangeSpec.js" timestamp="1503583772186">
         <mark key="[" line="152" column="6" />
         <mark key="]" line="152" column="6" />
@@ -1162,7 +1169,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>{&quot;Ref&quot; : &quot;bucket&quot;}</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1184,7 +1191,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>{&quot;Ref&quot; : &quot;bucket&quot;}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
@@ -1192,38 +1199,38 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IENfT05FSURfQ0xJRU5UX0lEPXBzYl9jb3Ntb3MK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y3VybCAtWCBQT1NUIC11IHBzYl9jb3Ntb3M6ZTlmUDVqTFpGSU93amxhYzJEZXEzRVI3N2d6dXdTVGZnUWxUZ096dDhaV25GdDFpallnRG9TbXROV3prcXdzbWsgLWQgJ2dyYW50X3R5cGU9Y2xpZW50X2NyZWRlbnRpYWxzJnNjb3BlPWNvc21vcy5yZWFkIGNvc21vcy53cml0ZScgaHR0cHM6Ly9vbmVpZDMuYmx1ZS5ndG4vYXMvdG9rZW4ub2F1dGgyCg==</text>
+      <register name="1" type="4">
+        <text>{&quot;Ref&quot; : &quot;bucket&quot;}</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX1BST1RFQ1RFRCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX0VYQ0xVREVEKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJSZWYiOiAibGFtYmRhIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiRnVuY3Rpb24iOiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Y3VybCAtWCBQT1NUIC11IHBzYl9jb3Ntb3M6ZTlmUDVqTFpGSU93amxhYzJEZXEzRVI3N2d6dXdTVGZnUWxUZ096dDhaV25GdDFpallnRG9TbXROV3prcXdzbWsgLWQgJ2dyYW50X3R5cGU9Y2xpZW50X2NyZWRlbnRpYWxzJnNjb3BlPWNvc21vcy5yZWFkIGNvc21vcy53cml0ZScgaHR0cHM6Ly9vbmVpZDMuYmx1ZS5ndG4vYXMvdG9rZW4ub2F1dGgyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhdGhzLmFkZChwWzBdKTsK</text>
+        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX1BST1RFQ1RFRCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmZvckVhY2gocCAtPiB7Cg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKGVxKFJhbnNvbXdhcmVVcGRhdGVyLkRFTEVURV9PTERfUEFUSFMpLCBlcShNQVBfREVMRVRFX0VYQ0xVREVEKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocCAhPSBudWxsICYmIHBbMF0gIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>130,164d</text>
