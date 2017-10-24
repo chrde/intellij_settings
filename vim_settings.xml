@@ -89,6 +89,12 @@
         <mark key="^" line="36" column="1" />
         <mark key="." line="36" column="1" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/BwinstalledToRansomwareCategoryDtoConverter.java" timestamp="1508848538684">
+        <mark key="[" line="96" column="56" />
+        <mark key="]" line="96" column="56" />
+        <mark key="." line="96" column="56" />
+        <mark key="^" line="96" column="56" />
+      </file>
       <file name="$USER_HOME$/dev-sources/jenkins-jobs/psb-deploy-stack/psb_deploy_stack.groovy" timestamp="1508757532190" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdSupplier.java" timestamp="1496149039262">
         <mark key="[" line="64" column="0" />
@@ -406,11 +412,11 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/status/HostInfo.java" timestamp="1504018253522">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="0" />
-        <mark key="." line="246" column="0" />
-        <mark key="^" line="274" column="37" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/status/HostInfo.java" timestamp="1508848617313">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="265" column="37" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdSupplierTest.java" timestamp="1496150680014">
         <mark key="[" line="79" column="0" />
@@ -764,11 +770,11 @@
         <mark key="." line="74" column="69" />
         <mark key="^" line="74" column="69" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToRansomwareCategoryDtoConverterTest.java" timestamp="1504086594149">
-        <mark key="[" line="115" column="27" />
-        <mark key="]" line="115" column="29" />
-        <mark key="^" line="115" column="29" />
-        <mark key="." line="115" column="29" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToRansomwareCategoryDtoConverterTest.java" timestamp="1508848802720">
+        <mark key="[" line="221" column="167" />
+        <mark key="]" line="222" column="67" />
+        <mark key="^" line="222" column="67" />
+        <mark key="." line="222" column="67" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/services/device_service_test.js" timestamp="1504856263504">
         <mark key="[" line="118" column="6" />
@@ -807,11 +813,11 @@
         <mark key="." line="3271" column="52" />
         <mark key="^" line="3271" column="52" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/AdvancedBehaviorBlocking.java" timestamp="1508847025424">
-        <mark key="[" line="55" column="34" />
-        <mark key="]" line="55" column="34" />
-        <mark key="." line="55" column="42" />
-        <mark key="^" line="55" column="25" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/AdvancedBehaviorBlocking.java" timestamp="1508848526309">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="59" column="41" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/fs_multi_input/fs_multi_input_test.js" timestamp="1502976961981">
         <mark key="[" line="24" column="34" />
@@ -1193,8 +1199,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>AvStatus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhvc3RJbmZvLnNldFJhbnNvbXdhcmVFbmFibGVkKGZsYWcpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1216,7 +1222,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AvStatus</text>
+        <text>flag</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
@@ -1225,37 +1231,37 @@
         <text encoding="base64">ICBAT25lVG9PbmUoZmV0Y2ggPSBGZXRjaFR5cGUuTEFaWSwgbWFwcGVkQnkgPSAiYndpbnN0YWxsZWQiKQogIEBMYXp5VG9PbmUoTGF6eVRvT25lT3B0aW9uLk5PX1BST1hZKQogIHB1YmxpYyBBdlN0YXR1cyBnZXRBdlN0YXR1cygpIHsKICAgIGlmIChmaWVsZEhhbmRsZXIgPT0gbnVsbCkgewogICAgICByZXR1cm4gYXZTdGF0dXM7CiAgICB9CiAgICByZXR1cm4gKEF2U3RhdHVzKSBmaWVsZEhhbmRsZXIucmVhZE9iamVjdCh0aGlzLCAiYXZTdGF0dXMiLCBhdlN0YXR1cyk7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRBdlN0YXR1cyhBdlN0YXR1cyBhdlN0YXR1cykgewogICAgaWYgKGZpZWxkSGFuZGxlciA9PSBudWxsKSB7CiAgICAgIHRoaXMuYXZTdGF0dXMgPSBhdlN0YXR1czsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuYXZTdGF0dXMgPSAoQXZTdGF0dXMpIGZpZWxkSGFuZGxlci53cml0ZU9iamVjdCh0aGlzLCAiYXZTdGF0dXMiLCB0aGlzLmF2U3RhdHVzLCBhdlN0YXR1cyk7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZCAgICAgICAgICBpbnRlZ2VyICAgICAgCW5vdCBudWxsIGF1dG9faW5jcmVtZW50LAo=</text>
+        <text encoding="base64">ICAgIGhvc3RJbmZvLnNldFJhbnNvbXdhcmVFbmFibGVkKGZsYWcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlkICAgICAgICAgIElOVEVHRVIgICAgICAJTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCg==</text>
+        <text encoding="base64">ICAgIGhvc3RJbmZvLnNldFJhbnNvbXdhcmVFbmFibGVkKGZsYWcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gcmFuc29td2FyZUVuYWJsZWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUZPUkVJR04gS0VZIChhZHZhbmNlZF9iZWhhdmlvcl9ibG9ja2luZ19pZCkgUkVGRVJFTkNFUyBhZHZhbmNlZF9iZWhhdmlvcl9ibG9ja2luZyAoaWQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAuYXBwZW5kKGdldFJhbnNvbXdhcmVFbmFibGVkKCksIHRoYXQuZ2V0UmFuc29td2FyZUVuYWJsZWQoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWFkdmFuY2VkX2JlaGF2aW9yX2Jsb2NraW5nX2lkCQkJSU5URUdFUiAgICAgICBOVUxMIERFRkFVTFQgTlVMTCwK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlPTiBVUERBVEUgQ0FTQ0FERQo=</text>
+        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAicmFuc29td2FyZV9lbmFibGVkIikKICBwdWJsaWMgYm9vbGVhbiBnZXRSYW5zb213YXJlRW5hYmxlZCgpIHsKICAgIHJldHVybiByYW5zb213YXJlRW5hYmxlZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldFJhbnNvbXdhcmVFbmFibGVkKGJvb2xlYW4gcmFuc29td2FyZUVuYWJsZWQpIHsKICAgIHRoaXMucmFuc29td2FyZUVuYWJsZWQgPSByYW5zb213YXJlRW5hYmxlZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlPTiBERUxFVEUgQ0FTQ0FERQo=</text>
+        <text encoding="base64">ICBAR2V0dGVyCg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUNPTlNUUkFJTlQgdHJ1c3RlZF9hcHBsaWNhdGlvbl9wYXRoX2NvbXB1dGVyX2lkX2ZvcmVpZ25fa2V5IEZPUkVJR04gS0VZIChjb21wdXRlcl9pZCkgUkVGRVJFTkNFUyBid2luc3RhbGxlZCAoaWQpCg==</text>
+        <text encoding="base64">ICBAR2V0dGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbXB1dGVyX2lkIElOVCAgICAgICAgICBOT1QgTlVMTCwK</text>
+        <text encoding="base64">ICBpZCAgICAgICAgICBpbnRlZ2VyICAgICAgCW5vdCBudWxsIGF1dG9faW5jcmVtZW50LAo=</text>
       </register>
       <register name=":" type="4">
         <text>130,164d</text>
