@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev-sources/management-platform-test-automation/micro-cosmos-rest-api/spec/accountsComputerProfilesPOSTSpec.js" timestamp="1503562005363">
@@ -168,7 +168,7 @@
         <mark key="^" line="38" column="39" />
         <mark key="." line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1503585959200">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerFacade.java" timestamp="1508859144626">
         <mark key="[" line="61" column="9" />
         <mark key="]" line="61" column="8" />
         <mark key="." line="61" column="8" />
@@ -246,6 +246,12 @@
         <mark key="]" line="62" column="2" />
         <mark key="." line="62" column="2" />
         <mark key="^" line="63" column="75" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal-service/src/main/resources/hibernate.cfg.xml" timestamp="1508857604206">
+        <mark key="[" line="34" column="51" />
+        <mark key="]" line="34" column="74" />
+        <mark key="." line="34" column="74" />
+        <mark key="^" line="34" column="74" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/Type.java" timestamp="1502971511132">
         <mark key="[" line="6" column="12" />
@@ -412,9 +418,9 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/status/HostInfo.java" timestamp="1508848617313">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/status/HostInfo.java" timestamp="1508856212401">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="91" column="78" />
         <mark key="^" line="265" column="37" />
         <mark key="." line="59" column="0" />
       </file>
@@ -430,11 +436,11 @@
         <mark key="." line="40" column="51" />
         <mark key="^" line="40" column="38" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/Bwinstalled.java" timestamp="1508847213681">
-        <mark key="[" line="194" column="39" />
-        <mark key="]" line="194" column="39" />
-        <mark key="^" line="187" column="35" />
-        <mark key="." line="194" column="41" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/Bwinstalled.java" timestamp="1508856760609">
+        <mark key="[" line="181" column="48" />
+        <mark key="]" line="177" column="94" />
+        <mark key="^" line="177" column="94" />
+        <mark key="." line="177" column="94" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/computer/ClientTypeResource.java" timestamp="1504688785326">
         <mark key="[" line="16" column="68" />
@@ -482,10 +488,10 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508852337878">
+      <file name="/Dummy.txt" timestamp="1508858175771">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-utils/src/main/java/com/fsecure/common/util/uuid/UUIDSource.java" timestamp="1499843462970">
         <mark key="[" line="9" column="6" />
@@ -506,7 +512,7 @@
         <mark key="." line="1" column="58" />
         <mark key="^" line="1" column="58" />
       </file>
-      <file name="/fragment.java" timestamp="1508842181080">
+      <file name="/fragment.java" timestamp="1508858977944">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -770,17 +776,23 @@
         <mark key="." line="74" column="69" />
         <mark key="^" line="74" column="69" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToRansomwareCategoryDtoConverterTest.java" timestamp="1508848802720">
-        <mark key="[" line="221" column="167" />
-        <mark key="]" line="222" column="67" />
-        <mark key="^" line="222" column="67" />
-        <mark key="." line="222" column="67" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/device/converter/BwinstalledToRansomwareCategoryDtoConverterTest.java" timestamp="1508857625003">
+        <mark key="[" line="221" column="152" />
+        <mark key="]" line="221" column="164" />
+        <mark key="^" line="221" column="164" />
+        <mark key="." line="221" column="164" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/services/device_service_test.js" timestamp="1504856263504">
         <mark key="[" line="118" column="6" />
         <mark key="]" line="118" column="6" />
         <mark key="^" line="118" column="6" />
         <mark key="." line="118" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/test_config/hibernate.cfg.xml" timestamp="1508857589864">
+        <mark key="[" line="34" column="51" />
+        <mark key="]" line="34" column="74" />
+        <mark key="." line="34" column="74" />
+        <mark key="^" line="34" column="74" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/tasks/update_remote_action_bucket.js" timestamp="1508757284377" />
       <file name="$USER_HOME$/dev-sources/management-platform-deploy/lambda/templates/a.template" timestamp="1508758982092">
@@ -807,17 +819,23 @@
         <mark key="." line="49" column="80" />
         <mark key="^" line="49" column="80" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1508858650444">
+        <mark key="[" line="145" column="19" />
+        <mark key="]" line="145" column="19" />
+        <mark key="^" line="145" column="21" />
+        <mark key="." line="145" column="19" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/messages/string.properties" timestamp="1507111000149">
         <mark key="[" line="3271" column="35" />
         <mark key="]" line="3271" column="52" />
         <mark key="." line="3271" column="52" />
         <mark key="^" line="3271" column="52" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/AdvancedBehaviorBlocking.java" timestamp="1508848526309">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="59" column="41" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/AdvancedBehaviorBlocking.java" timestamp="1508856839763">
+        <mark key="[" line="51" column="9" />
+        <mark key="]" line="52" column="8" />
+        <mark key="." line="52" column="8" />
+        <mark key="^" line="52" column="8" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/fs_multi_input/fs_multi_input_test.js" timestamp="1502976961981">
         <mark key="[" line="24" column="34" />
@@ -881,11 +899,10 @@
         <mark key="." line="51" column="54" />
         <mark key="^" line="51" column="54" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test.json" timestamp="1508326543037">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="47" />
-        <mark key="^" line="32" column="61" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test.json" timestamp="1508858515179">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/Subscription.java" timestamp="1504006166432">
         <mark key="[" line="203" column="11" />
@@ -911,11 +928,11 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1508419627861">
-        <mark key="[" line="272" column="138" />
-        <mark key="]" line="272" column="164" />
-        <mark key="^" line="272" column="164" />
-        <mark key="." line="272" column="164" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1508855368394">
+        <mark key="[" line="118" column="24" />
+        <mark key="]" line="118" column="32" />
+        <mark key="^" line="118" column="32" />
+        <mark key="." line="118" column="32" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/subscription/ClearProfilesForSubscriptionDevicesActionTest.java" timestamp="1497427621958">
         <mark key="[" line="88" column="32" />
@@ -923,6 +940,7 @@
         <mark key="." line="88" column="30" />
         <mark key="^" line="88" column="30" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dao/hibernate/BwinstalledDao.java" timestamp="1508858957653" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/AuCriteriaBuilder.java" timestamp="1508405151875" />
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" timestamp="1504175948633">
         <mark key="[" line="164" column="0" />
@@ -1036,11 +1054,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1508850557580">
-        <mark key="[" line="113" column="22" />
-        <mark key="]" line="87" column="4" />
-        <mark key="^" line="87" column="4" />
-        <mark key="." line="87" column="4" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1508859200204">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="99" column="57" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal-service-interface/src/main/java/com/fsecure/psp/service/computer/dto/HostGroupId.java" timestamp="1503404069222">
         <mark key="[" line="18" column="39" />
@@ -1200,8 +1218,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>TABLE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVwZGF0ZVN0YXR1cyhlbmFibGVkLCBhY3RpdmF0ZWQpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1223,49 +1241,483 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TABLE</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBPYmplY3Q+IE1BUF9ESVNBQkxFRF9SQU5TT01XQVJFID0gSW1tdXRhYmxlTWFwLjxTdHJpbmcsIE9iamVjdD5idWlsZGVyKCkKICAgICAgLnB1dCgiY29tcHV0ZXJfaWQiLCBDT01QVVRFUl9JRCkKICAgICAgLnB1dCgiZW5hYmxlZCIsIGZhbHNlKQogICAgICAucHV0KCJhY3RpdmF0ZWQiLCBmYWxzZSkKICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgIDxtYXBwaW5nIGNsYXNzPSJjb20uZnNlY3VyZS5zcC5wZXJzaXN0ZW5jZS5kdG8uUmFuc29td2FyZVBhdGgiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnB1dCgiZW5hYmxlZCIsIGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIHVwZGF0ZVN0YXR1cyhlbmFibGVkLCBhY3RpdmF0ZWQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnB1dCgiYWN0aXZhdGVkIiwgZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIHJ1bkluU3lzdGVtU2NvcGUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnB1dChGU0FWX1JFQUxUSU1FX1JBTlNPTVdBUkVfRU5BQkxFRC5nZXRTdHJpbmdWYWx1ZSgpLCAiMCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBydW5JblN5c3RlbVNjb3BlCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnB1dChGU0FWX1JFQUxUSU1FX1JBTlNPTVdBUkVfQUNUSVZBVEVELmdldFN0cmluZ1ZhbHVlKCksICIxIikK</text>
+      <register name="4" type="4">
+        <text>{
+      &quot;common.profile_management.current_profile&quot;: &quot;901567&quot;,
+      &quot;platform.architecture&quot;: 0,
+      &quot;platform.dns_address&quot;: &quot;mainturbpa&quot;,
+      &quot;platform.ip_addresses&quot;: &quot;10.132.2.61&quot;,
+      &quot;platform.platform&quot;: 1,
+      &quot;platform.server_product&quot;: false,
+      &quot;platform.service_pack_version&quot;: &quot;1.0&quot;,
+      &quot;platform.type&quot;: 1,
+      &quot;platform.type_extended&quot;: 4,
+      &quot;platform.version&quot;: &quot;6.1.7601&quot;,
+      &quot;platform.wins_address&quot;: &quot;MAINTURBPA&quot;,
+      &quot;status.windows.aua.days_for_db_to_become_old&quot;: 7,
+      &quot;status.windows.aua.enabled&quot;: true,
+      &quot;status.windows.aua.version&quot;: &quot;2.97.188.0&quot;,
+      &quot;status.windows.av.current_security_level&quot;: &quot;1.3.6.1.4.1.2213.12.1.300.300&quot;,
+      &quot;status.windows.av.virus_protection_status&quot;: 32,
+      &quot;status.windows.firewall.combined.enabled&quot;: true,
+      &quot;status.windows.firewall.current_security_level&quot;: &quot;Normal Workstation&quot;,
+      &quot;status.windows.products.compsec&quot;: &quot;17.197.104&quot;,
+      &quot;status.windows.products.firewall&quot;: &quot;1.1.913&quot;,
+      &quot;status.windows.products.management_agent&quot;: &quot;1.1.913&quot;,
+      &quot;status.windows.products.product_version&quot;: &quot;17.1&quot;,
+      &quot;status.windows.products.swup&quot;: &quot;3.0.2322&quot;,
+      &quot;windows.access_control.protected_paths.exclude_paths&quot;: [
+        &quot;C:\\Users\\Administrator\\Videos\\&quot;,
+        &quot;C:\\Users\\Administrator\\Documents\\&quot;
+      ],
+      &quot;status.windows.access_control.protected_paths.add_paths&quot;: [
+        &quot;C:\\Users\\gtn-admin\\Desktop\\&quot;,
+        &quot;C:\\Users\\gtn-admin\\Favorites\\&quot;,
+        &quot;C:\\Users\\gtn-admin\\Music\\&quot;,
+        &quot;C:\\Users\\gtn-admin\\Pictures\\&quot;,
+        &quot;C:\\Users\\gtn-admin\\Videos\\&quot;,
+        &quot;C:\\Users\\gtn-admin\\Documents\\&quot;,
+        &quot;C:\\Users\\Administrator\\Desktop\\&quot;
+      ],
+      &quot;status.windows.realtime_scanning.deepguard.ransomware_protection.protected_paths&quot;: [
+        &quot;C:\\Users\\gtn-admin\\Desktop\\&quot;,
+        &quot;C:\\Users\\gtn-admin\\Favorites\\&quot;,
+        &quot;C:\\Users\\gtn-admin\\Music\\&quot;,
+        &quot;C:\\Users\\gtn-admin\\Pictures\\&quot;,
+        &quot;C:\\Users\\gtn-admin\\Videos\\&quot;,
+        &quot;C:\\Users\\gtn-admin\\Documents\\&quot;,
+        &quot;C:\\Users\\Administrator\\Desktop\\&quot;,
+        &quot;C:\\Users\\Administrator\\Favorites\\&quot;,
+        &quot;C:\\Users\\Administrator\\Music\\&quot;,
+        &quot;C:\\Users\\Administrator\\Pictures\\&quot;,
+
+        &quot;C:\\Users\\Administrator\\Videos\\&quot;,
+        &quot;C:\\Users\\Administrator\\Documents\\&quot;
+      ],
+      &quot;status.windows.realtime_scanning.file_scanning.enabled&quot;: true,
+      &quot;windows.advanced_behavior_blocking.activated&quot;: true,
+      &quot;windows.realtime_scanning.deepguard.ransomware_protection.enabled&quot;: true,
+      &quot;status.windows.scanning_platform.counters.oas.disinfected_bs&quot;: 0,
+      &quot;status.windows.scanning_platform.counters.oas.infected&quot;: 0,
+      &quot;status.windows.scanning_platform.counters.oas.infected_bs&quot;: 0,
+      &quot;status.windows.scanning_platform.counters.oas.renamed&quot;: 0,
+      &quot;status.windows.scanning_platform.counters.ods.infected&quot;: 0,
+      &quot;status.windows.scanning_platform.counters.ods.infected_bs&quot;: 0,
+      &quot;status.windows.scanning_platform.latest_update.serial&quot;: &quot;2017-08-11_02&quot;,
+      &quot;status.windows.scanning_platform.latest_update.time&quot;: 1502427607,
+      &quot;status.windows.settings_upstream.upstreams_count&quot;: 45,
+      &quot;status.windows.software_updater.enabled&quot;: true,
+      &quot;status.windows.software_updater.scanning.last_scanning&quot;: {
+        &quot;counters&quot;: {
+          &quot;critical_security_updates&quot;: 14,
+          &quot;important_security_updates&quot;: 9,
+          &quot;other_security_updates&quot;: 2
+        },
+        &quot;missing_updates&quot;: [
+          {
+            &quot;bulletin_id&quot;: &quot;RRWU-001&quot;,
+            &quot;product_name&quot;: &quot;.NET Framework 4.6.1&quot;,
+            &quot;service_pack&quot;: &quot;Gold&quot;,
+            &quot;update_id&quot;: &quot;+RID6KOFJPEG6P86MSYYKG==&quot;,
+            &quot;update_name&quot;: &quot;ndp46-kb3179949-x86.exe&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSNS17-05-QPNET-4019288&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;/OQ9XJT0FR4MSJYV7XLNHG==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4014596-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-NET-04&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;37OHRP6EY7UUNESMHGTBYQ==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4014573-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-SO7-04&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;4MMTKVGWN7Q7IBVN+QNAHQ==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4015546-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS16-091&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;5V8JFPZXHAFFDOQFULO48W==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3163245-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSWU-1591&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;61TGRAX6CIAPGQP5IXCW3A==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3079821-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS16-077&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;7KQLN95HQUUOKPTE6JJG2W==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3161949-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSNS17-05-4019990&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;8ELVMM0QVXV/FD3NSU8KEA==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4019990-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-05-SONET-4019108&quot;,
+            &quot;product_name&quot;: &quot;.NET Framework 4.6.1&quot;,
+            &quot;service_pack&quot;: &quot;Gold&quot;,
+            &quot;update_id&quot;: &quot;98Q5AS7X6M/VYVDWFGJYHA==&quot;,
+            &quot;update_name&quot;: &quot;ndp46-kb4014591-x86.exe&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;SB16-001&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;AIBRIFQ6QJR+AT7RHZMGGG==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3192391-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-05-MRNET-4019112&quot;,
+            &quot;product_name&quot;: &quot;.NET Framework 4.6.1&quot;,
+            &quot;service_pack&quot;: &quot;Gold&quot;,
+            &quot;update_id&quot;: &quot;ALMNA+ZEUIB+LSF//OJKKQ==&quot;,
+            &quot;update_name&quot;: &quot;ndp46-kb4014511-x86.exe&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSWU-1391&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;B3KPBDKP5ASB4HWMFJUD0G==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3064209-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;SB16-002&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;BYEHE+EL2AQMMSDKOBR2IG==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb3197867-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS16-072&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;CEJZVNRJL1MMXD0WCRL2XA==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3159398-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSWU-1266&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;DOXPV8NEF5EHK3W2BNQCIG==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3046480-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS16-106&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;ETFUHLXLD0LYFQGX06V4RG==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3185911-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSNS17-07-QPNET-4032113&quot;,
+            &quot;product_name&quot;: &quot;.NET Framework 4.6.1&quot;,
+            &quot;service_pack&quot;: &quot;Gold&quot;,
+            &quot;update_id&quot;: &quot;F+6BR2CZR3TZLOAV5MQ31W==&quot;,
+            &quot;update_name&quot;: &quot;ndp46-kb4024848-x86.exe&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-05-SONET-4019108&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;FDQ4W28+OUW6RLEJ/0827Q==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4014579-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;SSWU-003&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;GBIKJRDUFEBSSUG/YQQOZW==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3177467-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-08-SO7&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;GEQZN8TM8BFFGUJ4WNGA9W==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4034679-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSWU-2152&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;GYIQVDEGRDG9Q/EMB7RNOW==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3184143-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-06-SO7&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;H7ZCHNCWGCI+XRZF2RDISG==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4022722-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-05-MRNET-4019112&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;HSK5GIPCE/JZ0GHL5JWVXG==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4014504-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSWU-2175&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;ITAZSHKVFEBUTYL6YZI+BQ==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3154518-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSNS17-07-4035510&quot;,
+            &quot;product_name&quot;: &quot;.NET Framework 4.6.1&quot;,
+            &quot;service_pack&quot;: &quot;Gold&quot;,
+            &quot;update_id&quot;: &quot;IW/KQVWZCOGHQ2MDLKUUAW==&quot;,
+            &quot;update_name&quot;: &quot;ndp46-kb4035510-x86.exe&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSNS17-05-4020459&quot;,
+            &quot;product_name&quot;: &quot;.NET Framework 4.6.1&quot;,
+            &quot;service_pack&quot;: &quot;Gold&quot;,
+            &quot;update_id&quot;: &quot;JAB3BRORTVB/J66XCKUU8G==&quot;,
+            &quot;update_name&quot;: &quot;ndp46-kb4020503-x86.exe&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS16-091&quot;,
+            &quot;product_name&quot;: &quot;.NET Framework 4.6.1&quot;,
+            &quot;service_pack&quot;: &quot;Gold&quot;,
+            &quot;update_id&quot;: &quot;JVDGWFSYRR2YWRQV/QNPDG==&quot;,
+            &quot;update_name&quot;: &quot;NDP46-KB3164025-x86.exe&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;VMWT-020&quot;,
+            &quot;product_name&quot;: &quot;VMware Tools 10.0&quot;,
+            &quot;service_pack&quot;: &quot;Gold&quot;,
+            &quot;update_id&quot;: &quot;LCVD2MPARNWRCL98JQSZLA==&quot;,
+            &quot;update_name&quot;: &quot;VMware-tools-10.1.10-i386.exe&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-05-SO7&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;LTIPIIZOMI63ESNASZTIAQ==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4019263-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;HVCU-001&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;MBMEXB5UCFI2CQ4PWGE6ZG==&quot;,
+            &quot;update_name&quot;: &quot;windows6.x-hypervintegrationservices-x86.cab&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;CHROME-201&quot;,
+            &quot;product_name&quot;: &quot;Google Chrome 58&quot;,
+            &quot;service_pack&quot;: &quot;Gold&quot;,
+            &quot;update_id&quot;: &quot;MKE/KUPMF8XGPFKIUNNTKQ==&quot;,
+            &quot;update_name&quot;: &quot;GoogleChromeStandaloneEnterprise600311290.msi&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS16-087&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;MPK9+4RSDDGTE64AU3MJNQ==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3170455-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSNS17-05-4020459&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;NQY1PDHITZIKZRVKHFPS3W==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4020513-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSNS17-06-4020322&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;O1QZZEPMJM8XFQUG9KMDMQ==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4020322-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS15-011&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;PBXAGNUS+UDKMO/IKTEFOA==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-Windows7-SP1-KB3000483-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;CRUW-005&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;Q+HTVMXPKB5J3GJEETJQOQ==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3179573-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-05-IE&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;QR1KSB6JLVEDBABYRBRSAW==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4018271-x86-custom.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS16-082&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;R5ZWMLBKV0YNE8TLE4QJSW==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3161958-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSWU-964&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;S+YL2UQBWLZFGAUU6QUTCQ==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-Windows7-SP1-KB2891638-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;CRUW-001&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;SGLS6FWJTWSTYTCFYKDJ5A==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3125574-v4-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-07-SO7&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;SWN9RHKSZMUBOECPN6PRKQ==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4025337-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;SB17-001&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;SZVQI3QAQZIY3XNTD6HXXW==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb3212642-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;SB17-002&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;TTC7KUW0HEZZHRAI0LCUOW==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4012212-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-NET-04&quot;,
+            &quot;product_name&quot;: &quot;.NET Framework 4.6.1&quot;,
+            &quot;service_pack&quot;: &quot;Gold&quot;,
+            &quot;update_id&quot;: &quot;VD6WMEYGBCVA4UPOTDV6ZG==&quot;,
+            &quot;update_name&quot;: &quot;ndp46-kb4014558-x86.exe&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSWU-599&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;VFODZFHWFASGTXNYOMQ/RG==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-Windows7-SP1-KB2637518-v2-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MS17-08-MR7&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;VX3PK678EF4F2OHJKUMFJW==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb4034664-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSWU-998&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;VYDP9Y80EOXYQNGGFCYLAQ==&quot;,
+            &quot;update_name&quot;: &quot;Windows7-Windows7-SP1-KB2959936-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;SB16-005&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;WD4PFNY96LINFFGAWGURAW==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb3205394-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSWU-2089&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;WSH9RONU1Z4DUXJOJBLGYW==&quot;,
+            &quot;update_name&quot;: &quot;Windows6.1-KB3170735-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;CRUW-004&quot;,
+            &quot;product_name&quot;: &quot;Windows 7 Enterprise&quot;,
+            &quot;service_pack&quot;: &quot;SP1&quot;,
+            &quot;update_id&quot;: &quot;XSUOUUTF+DOPC6CRYRXWXA==&quot;,
+            &quot;update_name&quot;: &quot;windows6.1-kb3172605-v3-x86.msu&quot;
+          },
+          {
+            &quot;bulletin_id&quot;: &quot;MSFT-DN13&quot;,
+            &quot;product_name&quot;: &quot;.NET Framework 4.6.1&quot;,
+            &quot;service_pack&quot;: &quot;Gold&quot;,
+            &quot;update_id&quot;: &quot;YTCJHJROGYAB6JY9JAVPAQ==&quot;,
+            &quot;update_name&quot;: &quot;NDP462-KB3151800-x86-x64-AllOS-ENU.exe&quot;
+          }
+        ],
+        &quot;timestamp&quot;: 1502364145
+      },
+      &quot;windows.guts2.last_successful_check_time&quot;: 1502430515,
+      &quot;windows.software_updater.enabled&quot;: true
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+        <text encoding="base64">ICBATWFueVRvT25lKGZldGNoID0gRmV0Y2hUeXBlLkxBWlkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBASm9pbkNvbHVtbihuYW1lID0gImNvbXB1dGVyX2lkIikK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBASWdub3JlCiAgQFRlc3QKICBwdWJsaWMgdm9pZCBzdG9yZXNSYW5zb213YXJlU3RhdHVzX2FzRGlzYWJsZWRfd2hlbkRpc2FibGVkQW5kQWN0aXZlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICByYW5zb213YXJlVXBkYXRlci5zdGF0dXMoQ09NUFVURVJfSUQsIFRBQkxFX09GX0RJU0FCTEVEX0FDVElWRV9SQU5TT01XQVJFLCBlbXB0eU1hcCgpKTsKICAgIHJhbnNvbXdhcmVVcGRhdGVyLmFwcGx5Q2hhbmdlcygpOwoKICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKFVQREFURV9TVEFUVVMsIE1BUF9ESVNBQkxFRF9SQU5TT01XQVJFKTsK</text>
+        <text encoding="base64">ICBAT25lVG9PbmUoZmV0Y2ggPSBMQVpZKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnB1dCgic3RhdHVzIiwgZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcGFyYW1zID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>130,164d</text>
+        <text>361</text>
       </register>
     </registers>
     <search>
@@ -1301,7 +1753,6 @@
         <entry encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>only</entry>
         <entry>close</entry>
         <entry>703</entry>
         <entry>vsplit</entry>
@@ -1321,6 +1772,7 @@
         <entry>12</entry>
         <entry>42</entry>
         <entry>130,164d</entry>
+        <entry>361</entry>
       </history-cmd>
       <history-expr />
       <history-input />
