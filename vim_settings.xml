@@ -799,9 +799,11 @@
         <mark key="." line="3271" column="52" />
         <mark key="^" line="3271" column="52" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/AdvancedBehaviorBlocking.java" timestamp="1508842215870">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="5" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/AdvancedBehaviorBlocking.java" timestamp="1508843517658">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="18" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="41" column="26" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/fs_multi_input/fs_multi_input_test.js" timestamp="1502976961981">
         <mark key="[" line="24" column="34" />
@@ -1184,7 +1186,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>computer_id</text>
+        <text>enabled</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1206,13 +1208,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>computer_id</text>
+        <text>enabled</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlkICAgICAgICAgIElOVEVHRVIgICAgICBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwK</text>
+        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAiZW5hYmxlZCIpCiAgQEdldHRlcgogIHByaXZhdGUgYm9vbGVhbiBlbmFibGVkOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBpZCAgICAgICAgICBpbnRlZ2VyICAgICAgCW5vdCBudWxsIGF1dG9faW5jcmVtZW50LAo=</text>
