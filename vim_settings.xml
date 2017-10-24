@@ -168,11 +168,12 @@
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1508838997758">
-        <mark key="'" line="5305" column="20" />
-        <mark key="[" line="5355" column="0" />
-        <mark key="]" line="5367" column="17" />
-        <mark key="." line="5367" column="17" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" timestamp="1508842283907">
+        <mark key="'" line="1350" column="0" />
+        <mark key="[" line="5379" column="34" />
+        <mark key="]" line="5379" column="34" />
+        <mark key="^" line="5379" column="20" />
+        <mark key="." line="5379" column="34" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/spi/ComputerRegistrationResource.java" timestamp="1497428591598">
         <mark key="[" line="7" column="0" />
@@ -343,12 +344,12 @@
         <mark key="." line="58" column="8" />
         <mark key="^" line="45" column="8" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1508836127823">
-        <mark key="'" line="1441" column="8" />
-        <mark key="[" line="1441" column="0" />
-        <mark key="]" line="1453" column="16" />
-        <mark key="^" line="1449" column="1" />
-        <mark key="." line="1449" column="1" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" timestamp="1508842264791">
+        <mark key="'" line="355" column="0" />
+        <mark key="[" line="1447" column="15" />
+        <mark key="]" line="1447" column="16" />
+        <mark key="^" line="1447" column="16" />
+        <mark key="." line="1447" column="16" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/spec/lib/operations/set_default_profile_in_psb_spec.js" timestamp="1496823539731">
         <mark key="[" line="14" column="0" />
@@ -464,7 +465,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508833796764">
+      <file name="/Dummy.txt" timestamp="1508841730461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -488,7 +489,7 @@
         <mark key="." line="1" column="58" />
         <mark key="^" line="1" column="58" />
       </file>
-      <file name="/fragment.java" timestamp="1508833197355">
+      <file name="/fragment.java" timestamp="1508842181080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -798,6 +799,10 @@
         <mark key="." line="3271" column="52" />
         <mark key="^" line="3271" column="52" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/AdvancedBehaviorBlocking.java" timestamp="1508842215870">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="5" />
+      </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/fs_multi_input/fs_multi_input_test.js" timestamp="1502976961981">
         <mark key="[" line="24" column="34" />
         <mark key="]" line="24" column="59" />
@@ -1053,9 +1058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="22" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerFacade.java" />
-      <jump line="48" column="52" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/service/computer/ComputerServiceTest.java" />
-      <jump line="1303" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
       <jump line="18" column="43" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/populate-psb-db.sql" />
       <jump line="535" column="33" filename="/init-psb-db.sql" />
       <jump line="37" column="20" filename="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" />
@@ -1153,6 +1155,9 @@
       <jump line="366" column="61" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
       <jump line="5305" column="20" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
       <jump line="1441" column="8" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
+      <jump line="355" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/init-psb-db.sql" />
+      <jump line="260" column="40" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
+      <jump line="1350" column="0" filename="$USER_HOME$/dev-sources/psb/psb/db/src/main/java/com/fsecure/psp/db/migrate-psb-db.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1179,7 +1184,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>computer_id</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1201,46 +1206,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>computer_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGFkdmFuY2VkX2JlaGF2aW9yX2Jsb2NraW5nCigKCWlkICAgICAgICAgIElOVEVHRVIgICAgICAJTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCgljb21wdXRlcl9pZCBJTlQJICAgICAgICAgIE5PVCBOVUxMLAogIGVuYWJsZWQJCQlCT09MRUFOCQkJCU5PVCBOVUxMIERFRkFVTFQgRkFMU0UsCglhY3RpdmF0ZWQJCUJPT0xFQU4JCQkJTk9UIE5VTEwgREVGQVVMVCBGQUxTRSwKCVBSSU1BUlkgS0VZIChpZCksCiAgQ09OU1RSQUlOVCBhZHZhbmNlZF9iZWhhdmlvcl9ibG9ja2luZ19jb21wdXRlcl9pZF9mb3JlaWduX2tleSBGT1JFSUdOIEtFWSAoY29tcHV0ZXJfaWQpIFJFRkVSRU5DRVMgYndpbnN0YWxsZWQgKGlkKQoJT04gREVMRVRFIENBU0NBREUKCU9OIFVQREFURSBDQVNDQURFCikKCUVOR0lORSA9IElubm9EQgoJQ0hBUlNFVCA9IHV0Zjg7Cg==</text>
+        <text encoding="base64">CWlkICAgICAgICAgIElOVEVHRVIgICAgICBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZCAgICAgICAgICBpbnRlZ2VyICAgICAgCW5vdCBudWxsIGF1dG9faW5jcmVtZW50LAo=</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUZPUkVJR04gS0VZIChhZHZhbmNlZF9iZWhhdmlvcl9ibG9ja2luZ19pZCkgUkVGRVJFTkNFUyBhZHZhbmNlZF9iZWhhdmlvcl9ibG9ja2luZyAoaWQpLAo=</text>
+        <text encoding="base64">CWlkICAgICAgICAgIElOVEVHRVIgICAgICAJTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWFkdmFuY2VkX2JlaGF2aW9yX2Jsb2NraW5nX2lkCQkJSU5URUdFUiAgICAgICBOVUxMIERFRkFVTFQgTlVMTCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlPTiBVUERBVEUgQ0FTQ0FERQo=</text>
+        <text encoding="base64">CUZPUkVJR04gS0VZIChhZHZhbmNlZF9iZWhhdmlvcl9ibG9ja2luZ19pZCkgUkVGRVJFTkNFUyBhZHZhbmNlZF9iZWhhdmlvcl9ibG9ja2luZyAoaWQpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlPTiBERUxFVEUgQ0FTQ0FERQo=</text>
+        <text encoding="base64">CWFkdmFuY2VkX2JlaGF2aW9yX2Jsb2NraW5nX2lkCQkJSU5URUdFUiAgICAgICBOVUxMIERFRkFVTFQgTlVMTCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUNPTlNUUkFJTlQgdHJ1c3RlZF9hcHBsaWNhdGlvbl9wYXRoX2NvbXB1dGVyX2lkX2ZvcmVpZ25fa2V5IEZPUkVJR04gS0VZIChjb21wdXRlcl9pZCkgUkVGRVJFTkNFUyBid2luc3RhbGxlZCAoaWQpCg==</text>
+        <text encoding="base64">CQlPTiBVUERBVEUgQ0FTQ0FERQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbXB1dGVyX2lkIElOVCAgICAgICAgICBOT1QgTlVMTCwK</text>
+        <text encoding="base64">CQlPTiBERUxFVEUgQ0FTQ0FERQo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXBhdGggICAgICAgIFZBUkNIQVIoMzAwKSBOT1QgTlVMTCwK</text>
+        <text encoding="base64">CUNPTlNUUkFJTlQgdHJ1c3RlZF9hcHBsaWNhdGlvbl9wYXRoX2NvbXB1dGVyX2lkX2ZvcmVpZ25fa2V5IEZPUkVJR04gS0VZIChjb21wdXRlcl9pZCkgUkVGRVJFTkNFUyBid2luc3RhbGxlZCAoaWQpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{&quot;Ref&quot; : &quot;bucket&quot;}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CWNvbXB1dGVyX2lkIElOVCAgICAgICAgICBOT1QgTlVMTCwK</text>
       </register>
       <register name=":" type="4">
         <text>130,164d</text>
