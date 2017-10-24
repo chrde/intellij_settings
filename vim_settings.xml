@@ -375,6 +375,7 @@
         <mark key="^" line="37" column="8" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/jenkins-jobs/psb-deploy-live-stg/psb_deploy_live_stg.groovy" timestamp="1508846470961" />
       <file name="$USER_HOME$/dev-sources/spi/lib/business/token_sign_up/cosmos/create_child_node.js" timestamp="1497424616047">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="67" />
@@ -435,6 +436,10 @@
         <mark key="^" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
+      <file name="$USER_HOME$/dev-sources/jenkins-jobs/system-psb-ci/system_psb.groovy" timestamp="1508846313678">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="71" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/mvc/model/license/SubscriptionModel.java" timestamp="1507101394891">
         <mark key="[" line="32" column="35" />
         <mark key="]" line="32" column="62" />
@@ -465,7 +470,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508841730461">
+      <file name="/Dummy.txt" timestamp="1508846474923">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -710,9 +715,6 @@
         <mark key="]" line="57" column="2" />
         <mark key="." line="57" column="2" />
         <mark key="^" line="129" column="89" />
-      </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdaterTest.java" timestamp="1508485136198">
-        <mark key="^" line="22" column="80" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1503583710633">
         <mark key="[" line="64" column="60" />
@@ -1185,8 +1187,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>enabled</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uKCdodWRzb24ubW9kZWwuSXRlbS5SZWFkJywgJ2F3cy1jaS1yZC10ZWFtLXNwbGl0JykKICAgICAgICBwZXJtaXNzaW9uKCdodWRzb24ubW9kZWwuSXRlbS5EaXNjb3ZlcicsICdhd3MtY2ktcmQtdGVhbS1zcGxpdCcpCg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1214,7 +1216,7 @@
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAiZW5hYmxlZCIpCiAgQEdldHRlcgogIHByaXZhdGUgYm9vbGVhbiBlbmFibGVkOwo=</text>
+        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uKCdodWRzb24ubW9kZWwuSXRlbS5SZWFkJywgJ2F3cy1jaS1yZC10ZWFtLXNwbGl0JykKICAgICAgICBwZXJtaXNzaW9uKCdodWRzb24ubW9kZWwuSXRlbS5EaXNjb3ZlcicsICdhd3MtY2ktcmQtdGVhbS1zcGxpdCcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBpZCAgICAgICAgICBpbnRlZ2VyICAgICAgCW5vdCBudWxsIGF1dG9faW5jcmVtZW50LAo=</text>
