@@ -482,7 +482,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508846474923">
+      <file name="/Dummy.txt" timestamp="1508849781270">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -843,11 +843,11 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1508485129972">
-        <mark key="[" line="45" column="51" />
-        <mark key="]" line="45" column="84" />
-        <mark key="^" line="45" column="81" />
-        <mark key="." line="45" column="81" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1508850953681">
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="72" column="12" />
+        <mark key="^" line="67" column="20" />
+        <mark key="." line="72" column="20" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileFacade.java" timestamp="1496398947041">
         <mark key="[" line="41" column="0" />
@@ -1035,11 +1035,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1508397135191">
-        <mark key="[" line="129" column="19" />
-        <mark key="]" line="129" column="35" />
-        <mark key="." line="129" column="35" />
-        <mark key="^" line="129" column="35" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1508850557580">
+        <mark key="[" line="113" column="22" />
+        <mark key="]" line="87" column="4" />
+        <mark key="^" line="87" column="4" />
+        <mark key="." line="87" column="4" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal-service-interface/src/main/java/com/fsecure/psp/service/computer/dto/HostGroupId.java" timestamp="1503404069222">
         <mark key="[" line="18" column="39" />
@@ -1199,8 +1199,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhvc3RJbmZvLnNldFJhbnNvbXdhcmVFbmFibGVkKGZsYWcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>disabled</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1222,46 +1222,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>flag</text>
+        <text>disabled</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAT25lVG9PbmUoZmV0Y2ggPSBGZXRjaFR5cGUuTEFaWSwgbWFwcGVkQnkgPSAiYndpbnN0YWxsZWQiKQogIEBMYXp5VG9PbmUoTGF6eVRvT25lT3B0aW9uLk5PX1BST1hZKQogIHB1YmxpYyBBdlN0YXR1cyBnZXRBdlN0YXR1cygpIHsKICAgIGlmIChmaWVsZEhhbmRsZXIgPT0gbnVsbCkgewogICAgICByZXR1cm4gYXZTdGF0dXM7CiAgICB9CiAgICByZXR1cm4gKEF2U3RhdHVzKSBmaWVsZEhhbmRsZXIucmVhZE9iamVjdCh0aGlzLCAiYXZTdGF0dXMiLCBhdlN0YXR1cyk7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRBdlN0YXR1cyhBdlN0YXR1cyBhdlN0YXR1cykgewogICAgaWYgKGZpZWxkSGFuZGxlciA9PSBudWxsKSB7CiAgICAgIHRoaXMuYXZTdGF0dXMgPSBhdlN0YXR1czsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuYXZTdGF0dXMgPSAoQXZTdGF0dXMpIGZpZWxkSGFuZGxlci53cml0ZU9iamVjdCh0aGlzLCAiYXZTdGF0dXMiLCB0aGlzLmF2U3RhdHVzLCBhdlN0YXR1cyk7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgLnB1dCgiZW5hYmxlZCIsIHRydWUpCiAgICAgIC5wdXQoImRpc2FibGVkIiwgdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhvc3RJbmZvLnNldFJhbnNvbXdhcmVFbmFibGVkKGZsYWcpOwo=</text>
+        <text encoding="base64">ICAgICAgLnB1dCgic3RhdHVzIiwgZmFsc2UpCg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhvc3RJbmZvLnNldFJhbnNvbXdhcmVFbmFibGVkKGZsYWcpOwo=</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gcmFuc29td2FyZUVuYWJsZWQ7Cg==</text>
+        <text encoding="base64">ICAgIGFjdGl2YXRlZCA9IGFjdGl2YXRlZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuYXBwZW5kKGdldFJhbnNvbXdhcmVFbmFibGVkKCksIHRoYXQuZ2V0UmFuc29td2FyZUVuYWJsZWQoKSkK</text>
+        <text encoding="base64">ICAgIGVuYWJsZWQgPSBlbmFibGVkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAicmFuc29td2FyZV9lbmFibGVkIikKICBwdWJsaWMgYm9vbGVhbiBnZXRSYW5zb213YXJlRW5hYmxlZCgpIHsKICAgIHJldHVybiByYW5zb213YXJlRW5hYmxlZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldFJhbnNvbXdhcmVFbmFibGVkKGJvb2xlYW4gcmFuc29td2FyZUVuYWJsZWQpIHsKICAgIHRoaXMucmFuc29td2FyZUVuYWJsZWQgPSByYW5zb213YXJlRW5hYmxlZDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAR2V0dGVyCg==</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zLnB1dCgiY29tcHV0ZXJfaWQiLCBjb21wdXRlcklkKTsK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAR2V0dGVyCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZCAgICAgICAgICBpbnRlZ2VyICAgICAgCW5vdCBudWxsIGF1dG9faW5jcmVtZW50LAo=</text>
+        <text encoding="base64">ICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBwYXJhbXMgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>130,164d</text>
