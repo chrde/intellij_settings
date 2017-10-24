@@ -424,6 +424,12 @@
         <mark key="." line="40" column="51" />
         <mark key="^" line="40" column="38" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/Bwinstalled.java" timestamp="1508847213681">
+        <mark key="[" line="194" column="39" />
+        <mark key="]" line="194" column="39" />
+        <mark key="^" line="187" column="35" />
+        <mark key="." line="194" column="41" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/web/rest/computer/ClientTypeResource.java" timestamp="1504688785326">
         <mark key="[" line="16" column="68" />
         <mark key="]" line="16" column="28" />
@@ -801,11 +807,11 @@
         <mark key="." line="3271" column="52" />
         <mark key="^" line="3271" column="52" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/AdvancedBehaviorBlocking.java" timestamp="1508843517658">
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="18" />
-        <mark key="." line="43" column="26" />
-        <mark key="^" line="41" column="26" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/AdvancedBehaviorBlocking.java" timestamp="1508847025424">
+        <mark key="[" line="55" column="34" />
+        <mark key="]" line="55" column="34" />
+        <mark key="." line="55" column="42" />
+        <mark key="^" line="55" column="25" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/test/unit/app/profiles/computer_protection_profiles_tab/fs_multi_input/fs_multi_input_test.js" timestamp="1502976961981">
         <mark key="[" line="24" column="34" />
@@ -1187,8 +1193,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uKCdodWRzb24ubW9kZWwuSXRlbS5SZWFkJywgJ2F3cy1jaS1yZC10ZWFtLXNwbGl0JykKICAgICAgICBwZXJtaXNzaW9uKCdodWRzb24ubW9kZWwuSXRlbS5EaXNjb3ZlcicsICdhd3MtY2ktcmQtdGVhbS1zcGxpdCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>AvStatus</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1210,13 +1216,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>enabled</text>
+        <text>AvStatus</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uKCdodWRzb24ubW9kZWwuSXRlbS5SZWFkJywgJ2F3cy1jaS1yZC10ZWFtLXNwbGl0JykKICAgICAgICBwZXJtaXNzaW9uKCdodWRzb24ubW9kZWwuSXRlbS5EaXNjb3ZlcicsICdhd3MtY2ktcmQtdGVhbS1zcGxpdCcpCg==</text>
+        <text encoding="base64">ICBAT25lVG9PbmUoZmV0Y2ggPSBGZXRjaFR5cGUuTEFaWSwgbWFwcGVkQnkgPSAiYndpbnN0YWxsZWQiKQogIEBMYXp5VG9PbmUoTGF6eVRvT25lT3B0aW9uLk5PX1BST1hZKQogIHB1YmxpYyBBdlN0YXR1cyBnZXRBdlN0YXR1cygpIHsKICAgIGlmIChmaWVsZEhhbmRsZXIgPT0gbnVsbCkgewogICAgICByZXR1cm4gYXZTdGF0dXM7CiAgICB9CiAgICByZXR1cm4gKEF2U3RhdHVzKSBmaWVsZEhhbmRsZXIucmVhZE9iamVjdCh0aGlzLCAiYXZTdGF0dXMiLCBhdlN0YXR1cyk7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRBdlN0YXR1cyhBdlN0YXR1cyBhdlN0YXR1cykgewogICAgaWYgKGZpZWxkSGFuZGxlciA9PSBudWxsKSB7CiAgICAgIHRoaXMuYXZTdGF0dXMgPSBhdlN0YXR1czsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuYXZTdGF0dXMgPSAoQXZTdGF0dXMpIGZpZWxkSGFuZGxlci53cml0ZU9iamVjdCh0aGlzLCAiYXZTdGF0dXMiLCB0aGlzLmF2U3RhdHVzLCBhdlN0YXR1cyk7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBpZCAgICAgICAgICBpbnRlZ2VyICAgICAgCW5vdCBudWxsIGF1dG9faW5jcmVtZW50LAo=</text>
