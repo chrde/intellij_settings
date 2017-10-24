@@ -843,11 +843,11 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1508852960544">
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="^" line="226" column="61" />
-        <mark key="." line="233" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1508853520269">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="215" column="54" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/CosmosProfileFacade.java" timestamp="1496398947041">
         <mark key="[" line="41" column="0" />
@@ -1200,7 +1200,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLnB1dChGU0FWX1JFQUxUSU1FX1JBTlNPTVdBUkVfRU5BQkxFRC5nZXRTdHJpbmdWYWx1ZSgpLCAiMCIpCg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1222,7 +1222,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Activated</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
@@ -1231,37 +1231,37 @@
         <text encoding="base64">ICAgICAgLnB1dCgiZW5hYmxlZCIsIHRydWUpCiAgICAgIC5wdXQoImRpc2FibGVkIiwgdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLnB1dChGU0FWX1JFQUxUSU1FX1JBTlNPTVdBUkVfRU5BQkxFRC5nZXRTdHJpbmdWYWx1ZSgpLCAiMCIpCg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBASWdub3JlCiAgQFRlc3QKICBwdWJsaWMgdm9pZCBzdG9yZXNSYW5zb213YXJlU3RhdHVzX2FzRGlzYWJsZWRfd2hlbkRpc2FibGVkQW5kQWN0aXZlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICByYW5zb213YXJlVXBkYXRlci5zdGF0dXMoQ09NUFVURVJfSUQsIFRBQkxFX09GX0RJU0FCTEVEX0FDVElWRV9SQU5TT01XQVJFLCBlbXB0eU1hcCgpKTsKICAgIHJhbnNvbXdhcmVVcGRhdGVyLmFwcGx5Q2hhbmdlcygpOwoKICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKFVQREFURV9TVEFUVVMsIE1BUF9ESVNBQkxFRF9SQU5TT01XQVJFKTsK</text>
+        <text encoding="base64">ICAgICAgLnB1dChGU0FWX1JFQUxUSU1FX1JBTlNPTVdBUkVfQUNUSVZBVEVELmdldFN0cmluZ1ZhbHVlKCksICIxIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnB1dCgic3RhdHVzIiwgZmFsc2UpCg==</text>
+        <text encoding="base64">ICBASWdub3JlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICBASWdub3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFjdGl2YXRlZCA9IGFjdGl2YXRlZDsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZWQgPSBlbmFibGVkOwo=</text>
+        <text encoding="base64">ICBASWdub3JlCiAgQFRlc3QKICBwdWJsaWMgdm9pZCBzdG9yZXNSYW5zb213YXJlU3RhdHVzX2FzRGlzYWJsZWRfd2hlbkRpc2FibGVkQW5kQWN0aXZlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICByYW5zb213YXJlVXBkYXRlci5zdGF0dXMoQ09NUFVURVJfSUQsIFRBQkxFX09GX0RJU0FCTEVEX0FDVElWRV9SQU5TT01XQVJFLCBlbXB0eU1hcCgpKTsKICAgIHJhbnNvbXdhcmVVcGRhdGVyLmFwcGx5Q2hhbmdlcygpOwoKICAgIHZlcmlmeShuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkudXBkYXRlKFVQREFURV9TVEFUVVMsIE1BUF9ESVNBQkxFRF9SQU5TT01XQVJFKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLnB1dCgic3RhdHVzIiwgZmFsc2UpCg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zLnB1dCgiY29tcHV0ZXJfaWQiLCBjb21wdXRlcklkKTsK</text>
+        <text encoding="base64">ICAgIGFjdGl2YXRlZCA9IGFjdGl2YXRlZDsK</text>
       </register>
       <register name=":" type="4">
         <text>130,164d</text>
