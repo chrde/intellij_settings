@@ -475,7 +475,7 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRepositoryImpl.java" timestamp="1508862341137">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/ComputerRepositoryImpl.java" timestamp="1508915057767">
         <mark key="[" line="82" column="67" />
         <mark key="]" line="82" column="77" />
         <mark key="." line="82" column="77" />
@@ -739,7 +739,7 @@
         <mark key="^" line="164" column="81" />
         <mark key="." line="165" column="122" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1508415065327">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/computer/SpiComputerRegistrationService.java" timestamp="1508915053837">
         <mark key="[" line="74" column="48" />
         <mark key="]" line="74" column="69" />
         <mark key="." line="74" column="69" />
@@ -948,6 +948,9 @@
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1508915383223">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/cognito-redux-middleware/src/utils.js" timestamp="1507641530972">
         <mark key="[" line="1" column="43" />
