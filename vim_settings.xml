@@ -574,11 +574,11 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1509035116377">
-        <mark key="[" line="169" column="58" />
-        <mark key="]" line="169" column="58" />
-        <mark key="." line="169" column="61" />
-        <mark key="^" line="162" column="70" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1509041399655">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="159" column="70" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/config/dev-local.config.json" timestamp="1508503856297">
         <mark key="[" line="39" column="127" />
@@ -1187,8 +1187,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>computerId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRocm93IGU7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1219,37 +1219,37 @@
         <text encoding="base64">ICAgICAgZGVidWcoZm9ybWF0KCJwcm9jZXNzU3RhdHVzZXNJblRyYW5zYWN0aW9uIGZhaWxlZCAlcyIsIEFycmF5cy50b1N0cmluZyhlLmdldFN0YWNrVHJhY2UoKSkpLCBjb21wdXRlcklkKTsKICAgICAgdGhyb3cgZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExvbmcgY29tcHV0ZXJJZCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRocm93IGU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnKGZvcm1hdCgicHJvY2Vzc1N0YXR1c2VzIGZhaWxlZCBmb3IgcmVhbCAlcyIsIEFycmF5cy50b1N0cmluZyhlLmdldFN0YWNrVHJhY2UoKSkpLCA5NDA0NzBMKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnKGZvcm1hdCgicHJvY2Vzc1N0YXR1c2VzIHdlbnQgd3JvbmcgJXMiLCBBcnJheXMudG9TdHJpbmcoZS5nZXRTdGFja1RyYWNlKCkpKSwgOTQwNDcwTCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wdXRlcklkID0gOTQwNDcwTDsK</text>
+        <text encoding="base64">ICAgIExvbmcgY29tcHV0ZXJJZCA9IG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIndpbmRvd3MuYWR2YW5jZWRfYmVoYXZpb3JfYmxvY2tpbmcuYWN0aXZhdGVkIjogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnKGZvcm1hdCgicHJvY2Vzc1N0YXR1c2VzIGZhaWxlZCBmb3IgcmVhbCAlcyIsIEFycmF5cy50b1N0cmluZyhlLmdldFN0YWNrVHJhY2UoKSkpLCA5NDA0NzBMKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wdXRlcklkID0gNjE0OTc5TDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">L2dyYWRsZXcK</text>
+        <text encoding="base64">ICAgICAgICBjb21wdXRlcklkID0gOTQwNDcwTDsK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmdyYWRsZS8K</text>
+        <text encoding="base64">ICAgICAgIndpbmRvd3MuYWR2YW5jZWRfYmVoYXZpb3JfYmxvY2tpbmcuYWN0aXZhdGVkIjogdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z3JhZGxldy5iYXQK</text>
+        <text encoding="base64">ICAgICAgICBjb21wdXRlcklkID0gNjE0OTc5TDsK</text>
       </register>
       <register name=":" type="4">
         <text>686</text>
