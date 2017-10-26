@@ -574,11 +574,11 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1509041399655">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="^" line="159" column="70" />
-        <mark key="." line="137" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1509042259600">
+        <mark key="[" line="177" column="5" />
+        <mark key="]" line="177" column="9" />
+        <mark key="^" line="177" column="9" />
+        <mark key="." line="177" column="9" />
       </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/config/dev-local.config.json" timestamp="1508503856297">
         <mark key="[" line="39" column="127" />
@@ -950,7 +950,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509038887338">
+      <file name="/Dummy.txt" timestamp="1509042298014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
