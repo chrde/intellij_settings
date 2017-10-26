@@ -573,11 +573,10 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1509009550267">
-        <mark key="[" line="144" column="84" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="144" column="21" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1509024039656">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/micro-cosmos/config/dev-local.config.json" timestamp="1508503856297">
         <mark key="[" line="39" column="127" />
@@ -717,8 +716,10 @@
         <mark key="^" line="31" column="78" />
         <mark key="." line="31" column="78" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test.json" timestamp="1509010295566">
-        <mark key="[" line="4" column="16" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test.json" timestamp="1509023956711">
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/RansomwarePath.java" timestamp="1504086576907">
         <mark key="[" line="52" column="0" />
@@ -827,6 +828,9 @@
         <mark key="]" line="48" column="11" />
         <mark key="^" line="48" column="11" />
         <mark key="." line="48" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" timestamp="1509023854493">
+        <mark key="[" line="71" column="54" />
       </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/.gitignore" timestamp="1509021822997">
         <mark key="[" line="18" column="0" />
@@ -1036,7 +1040,7 @@
         <mark key="^" line="47" column="50" />
         <mark key="." line="47" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1509020998359">
+      <file name="/fragment.java" timestamp="1509023775279">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1182,7 +1186,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">L2dyYWRsZXcK</text>
+        <text encoding="base64">ICAgICAgICBjb21wdXRlcklkID0gOTQwNDcwTDsK</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1204,7 +1208,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>apply changes failed %s&quot;, Arrays.toString(e.getStackTrace()</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
@@ -1213,41 +1217,39 @@
         <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICBkZWJ1Zyhmb3JtYXQoImFwcGx5IGNoYW5nZXMgZmFpbGVkICVzIiwgQXJyYXlzLnRvU3RyaW5nKGUuZ2V0U3RhY2tUcmFjZSgpKSksIHRoaXMuY29tcHV0ZXJJZC5vckVsc2UoOTk5OTk5TCkpOwogICAgfSBmaW5hbGx5IHsKICAgICAgZGVidWcoZm9ybWF0KCJhcHBseSBjaGFuZ2VzIGZpbmlzaGVkIiksIHRoaXMuY29tcHV0ZXJJZC5vckVsc2UoOTk5OTk5TCkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L2dyYWRsZXcK</text>
+        <text encoding="base64">ICAgICAgICBjb21wdXRlcklkID0gOTQwNDcwTDsK</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmdyYWRsZS8K</text>
+        <text encoding="base64">ICAgICAgIndpbmRvd3MuYWR2YW5jZWRfYmVoYXZpb3JfYmxvY2tpbmcuYWN0aXZhdGVkIjogdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JhZGxldy5iYXQK</text>
+        <text encoding="base64">ICAgICAgICBjb21wdXRlcklkID0gNjE0OTc5TDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z3JhZGxldwo=</text>
+        <text encoding="base64">L2dyYWRsZXcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z3JhZGxlLwo=</text>
+        <text encoding="base64">LmdyYWRsZS8K</text>
       </register>
-      <register name="6" type="4">
-        <text>CSBP-12079 empty-paths-upstream
-
-old bug with empty paths was not fixed in trusted_apps</text>
+      <register name="6" type="2">
+        <text encoding="base64">Z3JhZGxldy5iYXQK</text>
       </register>
-      <register name="7" type="4">
-        <text>am
-
-old bug with empty paths was not fixed in trusted_apps</text>
+      <register name="7" type="2">
+        <text encoding="base64">Z3JhZGxldwo=</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnKGZvcm1hdCgiU3RhdHVzIGNhbGxlZCIpLCBjb21wdXRlcklkKTsKICAgIHRoaXMuY29tcHV0ZXJJZCA9IGNvbXB1dGVySWQ7CiAgICBwcm9jZXNzUGF0aHMob2lkVG9UYWJsZU1hcCk7Cg==</text>
+        <text encoding="base64">Z3JhZGxlLwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICBkZWJ1Zyhmb3JtYXQoIlN0YXR1cyBmYWlsZWQgJXMiLCBBcnJheXMudG9TdHJpbmcoZS5nZXRTdGFja1RyYWNlKCkpKSwgY29tcHV0ZXJJZCk7CiAgICB9ZmluYWxseSB7CiAgICAgIGRlYnVnKGZvcm1hdCgiU3RhdHVzIGZpbmlzaGVkIiksIGNvbXB1dGVySWQpOwogICAgfQo=</text>
+      <register name="9" type="4">
+        <text>CSBP-12079 empty-paths-upstream
+
+old bug with empty paths was not fixed in trusted_apps</text>
       </register>
       <register name=":" type="4">
         <text>686</text>
