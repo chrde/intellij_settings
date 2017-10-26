@@ -828,6 +828,11 @@
         <mark key="^" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
+      <file name="$USER_HOME$/dev-sources/upstream-saver/.gitignore" timestamp="1509021822997">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/mvc/model/license/SubscriptionModel.java" timestamp="1507101394891">
         <mark key="[" line="32" column="35" />
         <mark key="]" line="32" column="62" />
@@ -1176,10 +1181,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>CSBP-12079 empty-paths-upstream
-
-old bug with empty paths was not fixed in trusted_apps</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">L2dyYWRsZXcK</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1209,42 +1212,42 @@ old bug with empty paths was not fixed in trusted_apps</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICBkZWJ1Zyhmb3JtYXQoImFwcGx5IGNoYW5nZXMgZmFpbGVkICVzIiwgQXJyYXlzLnRvU3RyaW5nKGUuZ2V0U3RhY2tUcmFjZSgpKSksIHRoaXMuY29tcHV0ZXJJZC5vckVsc2UoOTk5OTk5TCkpOwogICAgfSBmaW5hbGx5IHsKICAgICAgZGVidWcoZm9ybWF0KCJhcHBseSBjaGFuZ2VzIGZpbmlzaGVkIiksIHRoaXMuY29tcHV0ZXJJZC5vckVsc2UoOTk5OTk5TCkpOwogICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>CSBP-12079 empty-paths-upstream
-
-old bug with empty paths was not fixed in trusted_apps</text>
+      <register name="1" type="2">
+        <text encoding="base64">L2dyYWRsZXcK</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
-      <register name="2" type="4">
-        <text>am
+      <register name="2" type="2">
+        <text encoding="base64">LmdyYWRsZS8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Z3JhZGxldy5iYXQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Z3JhZGxldwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Z3JhZGxlLwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>CSBP-12079 empty-paths-upstream
 
 old bug with empty paths was not fixed in trusted_apps</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnKGZvcm1hdCgiU3RhdHVzIGNhbGxlZCIpLCBjb21wdXRlcklkKTsKICAgIHRoaXMuY29tcHV0ZXJJZCA9IGNvbXB1dGVySWQ7CiAgICBwcm9jZXNzUGF0aHMob2lkVG9UYWJsZU1hcCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICBkZWJ1Zyhmb3JtYXQoIlN0YXR1cyBmYWlsZWQgJXMiLCBBcnJheXMudG9TdHJpbmcoZS5nZXRTdGFja1RyYWNlKCkpKSwgY29tcHV0ZXJJZCk7CiAgICB9ZmluYWxseSB7CiAgICAgIGRlYnVnKGZvcm1hdCgiU3RhdHVzIGZpbmlzaGVkIiksIGNvbXB1dGVySWQpOwogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIndpbmRvd3MuYWR2YW5jZWRfYmVoYXZpb3JfYmxvY2tpbmcuYWN0aXZhdGVkMSI6IHRydWUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cy53aW5kb3dzLmFjY2Vzc19jb250cm9sLnRydXN0ZWRfYXBwbGljYXRpb25zLmFsbG93X3BhdGhzIjogWyBdLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+      <register name="7" type="4">
+        <text>am
+
+old bug with empty paths was not fixed in trusted_apps</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cy53aW5kb3dzLmFjY2Vzc19jb250cm9sLnByb3RlY3RlZF9wYXRocy5hZGRfcGF0aHMiOiBbCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnKGZvcm1hdCgiU3RhdHVzIGNhbGxlZCIpLCBjb21wdXRlcklkKTsKICAgIHRoaXMuY29tcHV0ZXJJZCA9IGNvbXB1dGVySWQ7CiAgICBwcm9jZXNzUGF0aHMob2lkVG9UYWJsZU1hcCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICBkZWJ1Zyhmb3JtYXQoIlN0YXR1cyBmYWlsZWQgJXMiLCBBcnJheXMudG9TdHJpbmcoZS5nZXRTdGFja1RyYWNlKCkpKSwgY29tcHV0ZXJJZCk7CiAgICB9ZmluYWxseSB7CiAgICAgIGRlYnVnKGZvcm1hdCgiU3RhdHVzIGZpbmlzaGVkIiksIGNvbXB1dGVySWQpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>686</text>
