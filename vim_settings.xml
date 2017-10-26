@@ -632,11 +632,11 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="16" column="201" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdater.java" timestamp="1509011323128">
-        <mark key="[" line="85" column="20" />
-        <mark key="]" line="85" column="20" />
-        <mark key="." line="85" column="20" />
-        <mark key="^" line="85" column="48" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdater.java" timestamp="1509015052522">
+        <mark key="[" line="53" column="98" />
+        <mark key="]" line="53" column="98" />
+        <mark key="^" line="84" column="13" />
+        <mark key="." line="53" column="98" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1502961185828">
         <mark key="[" line="3111" column="142" />
@@ -945,10 +945,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508932972965">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="/Dummy.txt" timestamp="1509015271800">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/account/AccountServiceImpl.java" timestamp="1497427126644">
         <mark key="[" line="141" column="106" />
@@ -986,11 +986,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1509011573316">
-        <mark key="[" line="111" column="53" />
-        <mark key="]" line="111" column="53" />
-        <mark key="." line="111" column="61" />
-        <mark key="^" line="111" column="85" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1509015064977">
+        <mark key="[" line="71" column="88" />
+        <mark key="]" line="119" column="13" />
+        <mark key="^" line="119" column="13" />
+        <mark key="." line="72" column="13" />
       </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test1.json" timestamp="1509010304734">
         <mark key="[" line="4" column="16" />
@@ -1183,7 +1183,9 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>disabled</text>
+        <text>am
+
+old bug with empty paths was not fixed in trusted_apps</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1205,37 +1207,39 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>disabled</text>
+        <text>apply changes failed %s&quot;, Arrays.toString(e.getStackTrace()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgc3RhdGljIHZvaWQgZGVidWcoU3RyaW5nIG1lc3NhZ2UsIExvbmcgY29tcHV0ZXJJZCl7CiAgICBpZihjb21wdXRlcklkID09IDk0MDQ3MEwpewogICAgICBsb2dnZXIuZXJyb3IoIkRFTEFDSCAtICIgKyBtZXNzYWdlKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICBkZWJ1Zyhmb3JtYXQoImFwcGx5IGNoYW5nZXMgZmFpbGVkICVzIiwgQXJyYXlzLnRvU3RyaW5nKGUuZ2V0U3RhY2tUcmFjZSgpKSksIHRoaXMuY29tcHV0ZXJJZC5vckVsc2UoOTk5OTk5TCkpOwogICAgfSBmaW5hbGx5IHsKICAgICAgZGVidWcoZm9ybWF0KCJhcHBseSBjaGFuZ2VzIGZpbmlzaGVkIiksIHRoaXMuY29tcHV0ZXJJZC5vckVsc2UoOTk5OTk5TCkpOwogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIndpbmRvd3MuYWR2YW5jZWRfYmVoYXZpb3JfYmxvY2tpbmcuYWN0aXZhdGVkMSI6IHRydWUK</text>
+      <register name="1" type="4">
+        <text>am
+
+old bug with empty paths was not fixed in trusted_apps</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cy53aW5kb3dzLmFjY2Vzc19jb250cm9sLnRydXN0ZWRfYXBwbGljYXRpb25zLmFsbG93X3BhdGhzIjogWyBdLAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnKGZvcm1hdCgiU3RhdHVzIGNhbGxlZCIpLCBjb21wdXRlcklkKTsKICAgIHRoaXMuY29tcHV0ZXJJZCA9IGNvbXB1dGVySWQ7CiAgICBwcm9jZXNzUGF0aHMob2lkVG9UYWJsZU1hcCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICBkZWJ1Zyhmb3JtYXQoIlN0YXR1cyBmYWlsZWQgJXMiLCBBcnJheXMudG9TdHJpbmcoZS5nZXRTdGFja1RyYWNlKCkpKSwgY29tcHV0ZXJJZCk7CiAgICB9ZmluYWxseSB7CiAgICAgIGRlYnVnKGZvcm1hdCgiU3RhdHVzIGZpbmlzaGVkIiksIGNvbXB1dGVySWQpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cy53aW5kb3dzLmFjY2Vzc19jb250cm9sLnByb3RlY3RlZF9wYXRocy5hZGRfcGF0aHMiOiBbCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIndpbmRvd3MuYWR2YW5jZWRfYmVoYXZpb3JfYmxvY2tpbmcuYWN0aXZhdGVkMSI6IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cy53aW5kb3dzLmFjY2Vzc19jb250cm9sLnRydXN0ZWRfYXBwbGljYXRpb25zLmFsbG93X3BhdGhzIjogWyBdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIndpbmRvd3MuYWNjZXNzX2NvbnRyb2wucHJvdGVjdGVkX3BhdGhzLmV4Y2x1ZGVfcGF0aHMiOiBbCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cy53aW5kb3dzLmFjY2Vzc19jb250cm9sLnRydXN0ZWRfYXBwbGljYXRpb25zLmFsbG93X3BhdGhzMSI6IFsgIkM6XFx0cnVzdGVkX3BhdGgyIl0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cy53aW5kb3dzLmFjY2Vzc19jb250cm9sLnByb3RlY3RlZF9wYXRocy5hZGRfcGF0aHMiOiBbCg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
@@ -1244,7 +1248,7 @@
         <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJDOlxccHJvdGVjdGVkX3BhdGg0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIndpbmRvd3MuYWNjZXNzX2NvbnRyb2wucHJvdGVjdGVkX3BhdGhzLmV4Y2x1ZGVfcGF0aHMiOiBbCg==</text>
       </register>
       <register name=":" type="4">
         <text>686</text>
