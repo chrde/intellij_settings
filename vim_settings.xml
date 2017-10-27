@@ -93,7 +93,7 @@
         <mark key="^" line="262" column="45" />
         <mark key="." line="246" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-status/src/main/java/com/fsecure/common/status/TimeMeasuringStatusUpdater.java" timestamp="1509102169767" />
+      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-status/src/main/java/com/fsecure/common/status/TimeMeasuringStatusUpdater.java" timestamp="1509103397194" />
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/list_view/device_aware_devices_controller.js" timestamp="1505379961079">
         <mark key="[" line="3" column="182" />
         <mark key="]" line="13" column="13" />
@@ -581,7 +581,7 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1509098239890">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1509103591397">
         <mark key="[" line="143" column="84" />
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
@@ -609,6 +609,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-status/src/main/java/com/fsecure/common/status/AbstractStatusUpdater.java" timestamp="1509103586024" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/web/rest/internal/AccountsControllerTest.java" timestamp="1496658563862">
         <mark key="[" line="47" column="84" />
         <mark key="]" line="47" column="83" />
