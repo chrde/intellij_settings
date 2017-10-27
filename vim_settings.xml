@@ -93,6 +93,7 @@
         <mark key="^" line="262" column="45" />
         <mark key="." line="246" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-status/src/main/java/com/fsecure/common/status/TimeMeasuringStatusUpdater.java" timestamp="1509094638761" />
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/app/devices/devices_list/common/list_view/device_aware_devices_controller.js" timestamp="1505379961079">
         <mark key="[" line="3" column="182" />
         <mark key="]" line="13" column="13" />
@@ -399,7 +400,7 @@
         <mark key="^" line="75" column="130" />
         <mark key="." line="75" column="130" />
       </file>
-      <file name="/BatchStatusProcessorImpl.java" timestamp="1509034938243" />
+      <file name="/BatchStatusProcessorImpl.java" timestamp="1509094798400" />
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/bwinstalledToRansomwareCategoryDtoConverter.java" timestamp="1504085013782">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -580,7 +581,7 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1509048522957">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/BatchStatusProcessorImpl.java" timestamp="1509094700396">
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
