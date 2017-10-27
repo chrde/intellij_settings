@@ -807,9 +807,9 @@
         <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1509088672291">
-        <mark key="]" line="224" column="0" />
+        <mark key="]" line="214" column="0" />
         <mark key="^" line="32" column="25" />
-        <mark key="." line="224" column="0" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/Bwinstalled.java" timestamp="1508860499943">
         <mark key="[" line="181" column="48" />
