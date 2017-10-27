@@ -183,6 +183,12 @@
         <mark key="^" line="0" column="158110" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/DummyUpdater.java" timestamp="1509088603120">
+        <mark key="[" line="53" column="3" />
+        <mark key="]" line="54" column="1" />
+        <mark key="." line="54" column="1" />
+        <mark key="^" line="54" column="1" />
+      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/device/converter/BwinstalledToRansomwareCategoryDtoConverter.java" timestamp="1508848538684">
         <mark key="[" line="96" column="56" />
         <mark key="]" line="96" column="56" />
@@ -800,11 +806,10 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1509047930173">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="117" column="32" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1509088672291">
+        <mark key="]" line="224" column="0" />
+        <mark key="^" line="32" column="25" />
+        <mark key="." line="224" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/Bwinstalled.java" timestamp="1508860499943">
         <mark key="[" line="181" column="48" />
@@ -949,7 +954,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509056358841">
+      <file name="/Dummy.txt" timestamp="1509088781498">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1041,7 +1046,7 @@
         <mark key="^" line="47" column="50" />
         <mark key="." line="47" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1509023775279">
+      <file name="/fragment.java" timestamp="1509088463445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1187,7 +1192,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVidWcoZm9ybWF0KCJwcm9jZXNzU3RhdHVzZXNJblRyYW5zYWN0aW9uIHJlc2V0IiksIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE15U3FsQmF0Y2hVcGRhdGVyKGpkYmNPcGVyYXRpb25zLCBSQU5TT01XQVJFX1BBVEhfQkFUQ0hfVVBEQVRFX1FVRVJZKSwgYndpbnN0YWxsZWREYW8pCg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1209,46 +1214,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>computerId</text>
+        <text>ransomwareUpdater</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVidWcoZm9ybWF0KCJwcm9jZXNzU3RhdHVzZXNJblRyYW5zYWN0aW9uIGZhaWxlZCAlcyIsIEFycmF5cy50b1N0cmluZyhlLmdldFN0YWNrVHJhY2UoKSkpLCBjb21wdXRlcklkKTsKICAgICAgdGhyb3cgZTsK</text>
+        <text encoding="base64">ICBAQmVhbgogIFRpbWVNZWFzdXJpbmdTdGF0dXNVcGRhdGVyIHJhbnNvbXdhcmVVcGRhdGVyKCkgewogICAgcmV0dXJuIG5ldyBUaW1lTWVhc3VyaW5nU3RhdHVzVXBkYXRlcigKICAgICAgICB0aW1lU291cmNlLAogICAgICAgIG5ldyBSYW5zb213YXJlVXBkYXRlcihuZXcgTmFtZWRQYXJhbWV0ZXJKZGJjVGVtcGxhdGUoamRiY09wZXJhdGlvbnMpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgTXlTcWxCYXRjaFVwZGF0ZXIoamRiY09wZXJhdGlvbnMsIFJBTlNPTVdBUkVfUEFUSF9CQVRDSF9VUERBVEVfUVVFUlkpLCBid2luc3RhbGxlZERhbykKICAgICk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWcoZm9ybWF0KCJwcm9jZXNzU3RhdHVzZXNJblRyYW5zYWN0aW9uIHJlc2V0IiksIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE15U3FsQmF0Y2hVcGRhdGVyKGpkYmNPcGVyYXRpb25zLCBSQU5TT01XQVJFX1BBVEhfQkFUQ0hfVVBEQVRFX1FVRVJZKSwgYndpbnN0YWxsZWREYW8pCg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgZTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUmFuc29td2FyZVVwZGF0ZXIobmV3IE5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlKGpkYmNPcGVyYXRpb25zKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWcoZm9ybWF0KCJwcm9jZXNzU3RhdHVzZXNJblRyYW5zYWN0aW9uIGZhaWxlZCAlcyIsIEFycmF5cy50b1N0cmluZyhlLmdldFN0YWNrVHJhY2UoKSkpLCBudWxsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Zyhmb3JtYXQoInByb2Nlc3NTdGF0dXNlc0luVHJhbnNhY3Rpb24gYXBwbHlDaGFuZ2VzIiksIG51bGwpOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgRHVtbXlVcGRhdGVyKE5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlIG5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlLCBNeVNxbEJhdGNoVXBkYXRlciB0cnVzdGVkQXBwUGF0aFVwZGF0ZXIpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnKGZvcm1hdCgicHJvY2Vzc1N0YXR1c2VzSW5UcmFuc2FjdGlvbiBzdGF0dXMiKSwgY29tcHV0ZXJJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IGU7Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgZmluYWwgU3RyaW5nIERFTEVURV9PTERfUEFUSFMgPSAiREVMRVRFIEZST00gdHJ1c3RlZF9hcHBsaWNhdGlvbl9wYXRoIFdIRVJFIGNvbXB1dGVyX2lkID0gOmNvbXB1dGVyX2lkIjsK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnKGZvcm1hdCgicHJvY2Vzc1N0YXR1c2VzIHdlbnQgd3JvbmcgJXMiLCBBcnJheXMudG9TdHJpbmcoZS5nZXRTdGFja1RyYWNlKCkpKSwgOTQwNDcwTCk7Cg==</text>
+        <text encoding="base64">ICBAVmlzaWJsZUZvclRlc3RpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBUUlVTVEVEX0FQUF9QQVRIX0JBVENIX1VQREFURV9RVUVSWSA9ICJJTlNFUlQgSU5UTyB0cnVzdGVkX2FwcGxpY2F0aW9uX3BhdGggKGNvbXB1dGVyX2lkLCBwYXRoKSB2YWx1ZXMgOmFyZ3MiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>686</text>
