@@ -658,13 +658,6 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdaterTest.java" timestamp="1508914377170">
-        <mark key="'" line="215" column="42" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="236" column="56" />
-      </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/policy-service/src/main/java/com/fsecure/psp/service/profile/LocalProfileRepository.java" timestamp="1496145255255">
         <mark key="[" line="91" column="82" />
         <mark key="]" line="91" column="82" />
@@ -808,7 +801,7 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1509088672291">
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1509112072612">
         <mark key="]" line="214" column="0" />
         <mark key="^" line="32" column="25" />
         <mark key="." line="214" column="0" />
@@ -941,6 +934,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="26" column="12" />
       </file>
+      <file name="$USER_HOME$/dev-sources/psb/commons-java/commons-java-su/src/main/java/com/fsecure/psp/backend/missingupdates/AbstractMissingUpdatesTableUpdater.java" timestamp="1509112130013" />
       <file name="$USER_HOME$/dev-sources/psb-predefined-cosmos-profiles/lib/utils/operation_constants.js" timestamp="1496132837277">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="50" />
