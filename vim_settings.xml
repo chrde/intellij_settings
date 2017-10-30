@@ -999,11 +999,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1509352495401">
-        <mark key="[" line="127" column="107" />
-        <mark key="]" line="127" column="107" />
-        <mark key="." line="127" column="107" />
-        <mark key="^" line="127" column="107" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1509353460391">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="105" column="68" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test1.json" timestamp="1509010304734">
         <mark key="[" line="4" column="16" />
@@ -1195,8 +1195,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>activatedStatusBatchValues</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1218,13 +1218,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>activatedStatusBatchValues</text>
+        <text>pathsToRemoveBatchValues</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHVzLmdldEFjdGl2YXRlZCgpLmlmUHJlc2VudChmbGFnIC0+IHsKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBwYXJhbXMucHV0KCJjb21wdXRlcl9pZCIsIGNvbXB1dGVySWQpOwogICAgICAgIHBhcmFtcy5wdXQoInZhbHVlIiwgZmxhZyk7CiAgICAgICAgYWN0aXZhdGVkU3RhdHVzQmF0Y2hWYWx1ZXMuYWRkKHBhcmFtcyk7CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGlmICghcGF0aHMuaXNFbXB0eSgpKSB7CiAgICAgIHBhdGhzLmZvckVhY2gocGF0aCAtPiBzcWxCYXRjaFVwZGF0ZXIuYWRkQXJncyhjb21wdXRlcklkLCBwYXRoLmdldFBhdGgoKSwgcGF0aC5nZXRUeXBlKCkub3JkaW5hbCgpKSk7CiAgICAgIHNxbEJhdGNoVXBkYXRlci5iYXRjaFVwZGF0ZSgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1233,31 +1233,31 @@
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlLmJhdGNoVXBkYXRlKERFTEVURV9PTERfUEFUSFMsIHBhdGhzVG9BZGRCYXRjaFZhbHVlcy50b0FycmF5KG5ldyBNYXBbcGF0aHNUb0FkZEJhdGNoVmFsdWVzLnNpemUoKV0pKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRoc1RvQWRkQmF0Y2hWYWx1ZXMuYWRkKHBhcmFtcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMucHV0KCJ0eXBlIiwgdHlwZS5vcmRpbmFsKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgdXBkYXRlU3RhdHVzMShMb25nIGFMb25nLCBEYXRhZ3VhcmRTdGF0dXMgZGF0YWd1YXJkU3RhdHVzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMucHV0KCJjb21wdXRlcl9pZCIsIGNvbXB1dGVySWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXR1c2VzLmZvckVhY2godGhpczo6dXBkYXRlU3RhdHVzMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHR5cGVzVG9SZW1vdmUuZm9yRWFjaCh0aGlzOjpkZWxldGVPbGRQYXRocyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdHlwZXMuZm9yRWFjaCh0eXBlIC0+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>686</text>
