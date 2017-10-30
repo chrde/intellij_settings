@@ -646,10 +646,11 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="16" column="201" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdater.java" timestamp="1509349876181">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdater.java" timestamp="1509362309190">
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="28" />
       </file>
       <file name="$USER_HOME$/dev-sources/management-platform-ui/www/languages/en_US.json" timestamp="1502961185828">
         <mark key="[" line="3111" column="142" />
@@ -1001,11 +1002,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1509356905551">
-        <mark key="[" line="42" column="2" />
-        <mark key="]" line="55" column="115" />
-        <mark key="^" line="101" column="40" />
-        <mark key="." line="55" column="115" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1509362054539">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="100" column="40" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test1.json" timestamp="1509357189502">
         <mark key="[" line="12" column="54" />
@@ -1200,8 +1201,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY29tcHV0ZXJJZCA9IGNvbXB1dGVySWQ7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1223,7 +1224,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>pathsToRemoveFrom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
@@ -1232,37 +1233,37 @@
         <text encoding="base64">ICAgIGlmICghcGF0aHMuaXNFbXB0eSgpKSB7CiAgICAgIHBhdGhzLmZvckVhY2gocGF0aCAtPiBzcWxCYXRjaFVwZGF0ZXIuYWRkQXJncyhjb21wdXRlcklkLCBwYXRoLmdldFBhdGgoKSwgcGF0aC5nZXRUeXBlKCkub3JkaW5hbCgpKSk7CiAgICAgIHNxbEJhdGNoVXBkYXRlci5iYXRjaFVwZGF0ZSgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5iYWNrZW5kLnJhbnNvbXdhcmV1cGRhdGVzLkR1bW15VXBkYXRlcjsK</text>
+        <text encoding="base64">ICAgIHRoaXMuY29tcHV0ZXJJZCA9IGNvbXB1dGVySWQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW50IGRlYnVnUHJldmlvdXNTaXplID0gcGF0aHMuc2l6ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gZ2V0TG9nZ2VyKHRoaXNDbGFzcygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gZ2V0TG9nZ2VyKHRoaXNDbGFzcygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRHVtbXlVcGRhdGVyKCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5iYWNrZW5kLnJhbnNvbXdhcmV1cGRhdGVzLkR1bW15VXBkYXRlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lU291cmNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgVGltZU1lYXN1cmluZ1N0YXR1c1VwZGF0ZXIoCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBUaW1lTWVhc3VyaW5nU3RhdHVzVXBkYXRlciBkdW1teVVwZGF0ZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAQmVhbgo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRHVtbXlVcGRhdGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>686</text>
