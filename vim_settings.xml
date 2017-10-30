@@ -723,10 +723,11 @@
         <mark key="^" line="31" column="78" />
         <mark key="." line="31" column="78" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test.json" timestamp="1509098287557">
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="17" column="56" />
-        <mark key="." line="17" column="56" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test.json" timestamp="1509357490897">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="10" column="61" />
+        <mark key="." line="10" column="61" />
+        <mark key="^" line="10" column="61" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/RansomwarePath.java" timestamp="1504086576907">
         <mark key="[" line="52" column="0" />
@@ -806,10 +807,11 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1509112072612">
-        <mark key="]" line="214" column="0" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="214" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/config/UpstreamConfig.java" timestamp="1509356520052">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="221" column="45" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/sp/persistence/dto/Bwinstalled.java" timestamp="1508860499943">
         <mark key="[" line="181" column="48" />
@@ -835,8 +837,8 @@
         <mark key="^" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" timestamp="1509101590025">
-        <mark key="[" line="85" column="32" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/java/com/fsecure/psb/upstream/kinesis/KinesisEventProcessor.java" timestamp="1509357139928">
+        <mark key="[" line="71" column="54" />
         <mark key="]" line="85" column="33" />
         <mark key="." line="85" column="33" />
       </file>
@@ -999,14 +1001,17 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1509353460391">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="105" column="68" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/backend/ransomwareupdates/RansomwareUpdater.java" timestamp="1509356905551">
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="55" column="115" />
+        <mark key="^" line="101" column="40" />
+        <mark key="." line="55" column="115" />
       </file>
-      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test1.json" timestamp="1509010304734">
-        <mark key="[" line="4" column="16" />
+      <file name="$USER_HOME$/dev-sources/upstream-saver/src/main/resources/test1.json" timestamp="1509357189502">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="12" column="57" />
+        <mark key="." line="12" column="57" />
+        <mark key="^" line="12" column="57" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal-service-interface/src/main/java/com/fsecure/psp/service/computer/dto/HostGroupId.java" timestamp="1503404069222">
         <mark key="[" line="18" column="39" />
@@ -1050,7 +1055,7 @@
         <mark key="^" line="47" column="50" />
         <mark key="." line="47" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1509351514006">
+      <file name="/fragment.java" timestamp="1509357089522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1195,8 +1200,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1218,7 +1223,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pathsToRemoveBatchValues</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
@@ -1227,37 +1232,37 @@
         <text encoding="base64">ICAgIGlmICghcGF0aHMuaXNFbXB0eSgpKSB7CiAgICAgIHBhdGhzLmZvckVhY2gocGF0aCAtPiBzcWxCYXRjaFVwZGF0ZXIuYWRkQXJncyhjb21wdXRlcklkLCBwYXRoLmdldFBhdGgoKSwgcGF0aC5nZXRUeXBlKCkub3JkaW5hbCgpKSk7CiAgICAgIHNxbEJhdGNoVXBkYXRlci5iYXRjaFVwZGF0ZSgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mc2VjdXJlLnBzcC5iYWNrZW5kLnJhbnNvbXdhcmV1cGRhdGVzLkR1bW15VXBkYXRlcjsK</text>
       </register>
       <register name="q" type="4">
         <text>j$xj0whp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlLmJhdGNoVXBkYXRlKERFTEVURV9PTERfUEFUSFMsIHBhdGhzVG9BZGRCYXRjaFZhbHVlcy50b0FycmF5KG5ldyBNYXBbcGF0aHNUb0FkZEJhdGNoVmFsdWVzLnNpemUoKV0pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoc1RvQWRkQmF0Y2hWYWx1ZXMuYWRkKHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMucHV0KCJ0eXBlIiwgdHlwZS5vcmRpbmFsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRHVtbXlVcGRhdGVyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMucHV0KCJjb21wdXRlcl9pZCIsIGNvbXB1dGVySWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lU291cmNlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgVGltZU1lYXN1cmluZ1N0YXR1c1VwZGF0ZXIoCg==</text>
       </register>
       <register name="w" type="4">
         <text>ww</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdHlwZXMuZm9yRWFjaCh0eXBlIC0+IHsK</text>
+        <text encoding="base64">ICBUaW1lTWVhc3VyaW5nU3RhdHVzVXBkYXRlciBkdW1teVVwZGF0ZXIoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAQmVhbgo=</text>
       </register>
       <register name=":" type="4">
         <text>686</text>
