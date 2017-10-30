@@ -364,11 +364,11 @@
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdaterTest.java" timestamp="1508913276841">
-        <mark key="[" line="79" column="66" />
-        <mark key="]" line="79" column="78" />
-        <mark key="." line="79" column="78" />
-        <mark key="^" line="79" column="78" />
+      <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/test/java/com/fsecure/psp/backend/ransomwareupdates/TrustedApplicationsUpdaterTest.java" timestamp="1509364389806">
+        <mark key="[" line="42" column="23" />
+        <mark key="]" line="42" column="23" />
+        <mark key="." line="42" column="23" />
+        <mark key="^" line="64" column="95" />
       </file>
       <file name="$USER_HOME$/dev-sources/psb/psb/portal/src/main/java/com/fsecure/psp/service/profile/DefaultCosmosProfileIdService.java" timestamp="1503583710633">
         <mark key="[" line="64" column="60" />
@@ -909,9 +909,6 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1508915383223">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/cognito-redux-middleware/src/utils.js" timestamp="1507641530972">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="0" column="34" />
@@ -1056,7 +1053,7 @@
         <mark key="^" line="47" column="50" />
         <mark key="." line="47" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1509357089522">
+      <file name="/fragment.java" timestamp="1509364225157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1201,8 +1198,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiQzpcXHRydXN0ZWRfcGF0aDEiCg==</text>
+      <register name="&quot;" type="4">
+        <text>Map</text>
       </register>
       <register name="c" type="4">
         <text>m</text>
@@ -1224,7 +1221,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>path.getPath(), path.getType().ordinal())</text>
+        <text>Map</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX0FDQ0VTU19DT05UUk9MX0VYQ0xVREVEX1BBVEhTXD4=</text>
